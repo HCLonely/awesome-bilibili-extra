@@ -4,7 +4,7 @@
 
 ---
 
-- [Awesome Bilibili Extra](#awesome-bilibili-extra)
+- [Awesome Bilibili Extra ![Awesome](https://github.com/HCLonely/awesome-bilibili-extra)](#awesome-bilibili-extra-)
   - [浏览器扩展](#浏览器扩展)
     - [全站扩展](#全站扩展)
     - [主站扩展](#主站扩展)
@@ -85,6 +85,8 @@
 - [BiliBili-UWP](https://github.com/Richasy/BiliBili-UWP) - 第三方BiliBili UWP客户端.
 - [BILIBILI-HELPER](https://github.com/JunzhouLiu/BILIBILI-HELPER) - B站自动签到投币工具，每天轻松获取65经验值，银瓜子兑换硬币，领取大会员福利，大会员月底给自己充电等功能.
 - [bilive_client](https://github.com/bilive/bilive_client) - 基于Node.JS的bilibili账号活跃系统.
+- [DD_Monitor](https://github.com/zhimingshenjun/DD_Monitor) - DD监控室.
+- [DD_Monitor-android-kotlin](https://github.com/congHu/DD_Monitor-android-kotlin) - DD监控室安卓版.
 
 # 贡献
 
