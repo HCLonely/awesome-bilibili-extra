@@ -90,4 +90,4 @@
 
 # 贡献
 
-请查看[贡献指南](https://github.com/HCLonely/awesome-bilibili-rxtra/blob/master/CONTRIBUTING.md).
+请查看[贡献指南](https://github.com/HCLonely/awesome-bilibili-extra/blob/master/CONTRIBUTING.md).
