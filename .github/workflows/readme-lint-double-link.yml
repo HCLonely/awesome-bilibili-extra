@@ -1,8 +1,5 @@
 name: Awesome readme lint double link action
 on:
-  push:
-    branches:
-      - main
   pull_request:
     types: [opened, synchronize]
     branches:
