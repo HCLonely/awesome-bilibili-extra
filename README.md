@@ -4,7 +4,7 @@
 
 ---
 
-- [Awesome Bilibili Extra)](#Awesome-Bilibili-Extra)
+- [Awesome Bilibili Extra](#Awesome-Bilibili-Extra)
   - [浏览器扩展](#浏览器扩展)
     - [全站扩展](#全站扩展)
     - [主站扩展](#主站扩展)
