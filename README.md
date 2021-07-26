@@ -4,7 +4,7 @@
 
 ---
 
-- [Awesome Bilibili Extra ![Awesome](https://github.com/HCLonely/awesome-bilibili-extra)](#awesome-bilibili-extra-)
+- [Awesome Bilibili Extra)](#Awesome-Bilibili-Extra)
   - [浏览器扩展](#浏览器扩展)
     - [全站扩展](#全站扩展)
     - [主站扩展](#主站扩展)
