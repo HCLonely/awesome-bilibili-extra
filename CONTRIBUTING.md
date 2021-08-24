@@ -9,6 +9,14 @@
 - 项目描述不要太长；
 - 项目描述中的`bilibili`文本一律使用`哔哩哔哩`或`B站`代替；
 - 描述句尾用`.`结束；
+- Github项目添加`Stars`徽章，Greasyfork脚本添加`总安装数`徽章，Chrome扩展添加`Users`徽章；
+
+```Markdown
+![GitHub Repo stars](https://img.shields.io/github/stars/user/repo)
+![Greasyfork installs](https://palerock.cn/node-service/images/greasyfork/stats/total-installs/id)
+![Chrome Web Store](https://img.shields.io/chrome-web-store/users/id)
+```
+
 - 在正确的分类下最后新加一行输入你提交的项目。
 
 感谢您的贡献！
