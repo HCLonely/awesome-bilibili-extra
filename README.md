@@ -72,6 +72,7 @@
 - [Bilibili-downloader](https://github.com/stevenjoezhang/bilibili-downloader)![GitHub Repo stars](https://img.shields.io/github/stars/stevenjoezhang/bilibili-downloader) - 基于 Node.js 和 Electron 开发的哔哩哔哩视频、弹幕下载器.
 - [Bilili](https://github.com/SigureMo/bilili)![GitHub Repo stars](https://img.shields.io/github/stars/SigureMo/bilili) - 哔哩哔哩视频、弹幕下载器.
 - [yutto](https://github.com/SigureMo/yutto)![GitHub Repo stars](https://img.shields.io/github/stars/SigureMo/yutto) - 一个可爱且任性的哔哩哔哩视频下载器.
+- [哔哩下载姬](https://github.com/leiurayer/downkyi)![GitHub Repo stars](https://img.shields.io/github/stars/leiurayer/downkyi) - 一个简单易用的哔哩哔哩视频下载工具.
 
 ## 直播相关工具
 
