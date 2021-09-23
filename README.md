@@ -98,9 +98,10 @@
 
 ## 其他
 
-- [Bilibili-UWP](https://github.com/Richasy/BiliBili-UWP)![GitHub Repo stars](https://img.shields.io/github/stars/xmcp/pakku.js) - 第三方哔哩哔哩UWP客户端.
-- [Bilibili-HELPER](https://github.com/JunzhouLiu/BILIBILI-HELPER)![GitHub Repo stars](https://img.shields.io/github/stars/xmcp/pakku.js) - B站自动签到投币工具，每天轻松获取65经验值，银瓜子兑换硬币，领取大会员福利，大会员月底给自己充电等功能.
-- [Bilive_client](https://github.com/bilive/bilive_client)![GitHub Repo stars](https://img.shields.io/github/stars/xmcp/pakku.js) - 基于Node.JS的哔哩哔哩账号活跃系统.
+- [Bilibili-UWP](https://github.com/Richasy/BiliBili-UWP)![GitHub Repo stars](https://img.shields.io/github/stars/Richasy/BiliBili-UWP) - 第三方哔哩哔哩UWP客户端.
+- [Bilibili-HELPER](https://github.com/JunzhouLiu/BILIBILI-HELPER)![GitHub Repo stars](https://img.shields.io/github/stars/JunzhouLiu/BILIBILI-HELPER) - B站自动签到投币工具，每天轻松获取65经验值，银瓜子兑换硬币，领取大会员福利，大会员月底给自己充电等功能.
+- [Bilive_client](https://github.com/bilive/bilive_client)![GitHub Repo stars](https://img.shields.io/github/stars/bilive/bilive_client) - 基于Node.JS的哔哩哔哩账号活跃系统.
+- [BiliHelper-personal](https://github.com/lkeme/BiliHelper-personal)![GitHub Repo stars](https://img.shields.io/github/stars/lkeme/BiliHelper-personal) - 哔哩哔哩助手 - PHP 版.
 
 ## 贡献
 
