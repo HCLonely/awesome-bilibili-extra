@@ -95,6 +95,7 @@
 - [Bilibili-Toolkit](https://github.com/Hsury/Bilibili-Toolkit) ![GitHub Repo stars](https://img.shields.io/github/stars/Hsury/Bilibili-Toolkit) - 哔哩哔哩辅助工具箱，支持Cookie/Token/Password融合持久化登录与多用户操作.
 - [Bilibili-Live-API](https://github.com/lovelyyoshino/Bilibili-Live-API) ![GitHub Repo stars](https://img.shields.io/github/stars/lovelyyoshino/Bilibili-Live-API) - 哔哩哔哩直播/番剧 API.
 - [Bilibili-api](https://github.com/MoyuScript/bilibili-api) ![GitHub Repo stars](https://img.shields.io/github/stars/MoyuScript/bilibili-api) - 哔哩哔哩的API调用模块(Python).
+- [Biliup](https://github.com/ForgQi/biliup) ![GitHub Repo stars](https://img.shields.io/github/stars/ForgQi/biliup) - Stream download and upload, not only for bilibili.
 
 ## 其他
 
