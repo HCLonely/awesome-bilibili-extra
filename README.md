@@ -73,6 +73,7 @@
 - [Bilili](https://github.com/SigureMo/bilili) ![GitHub Repo stars](https://img.shields.io/github/stars/SigureMo/bilili) - 哔哩哔哩视频、弹幕下载器.
 - [yutto](https://github.com/SigureMo/yutto) ![GitHub Repo stars](https://img.shields.io/github/stars/SigureMo/yutto) - 一个可爱且任性的哔哩哔哩视频下载器.
 - [哔哩下载姬](https://github.com/leiurayer/downkyi) ![GitHub Repo stars](https://img.shields.io/github/stars/leiurayer/downkyi) - 一个简单易用的哔哩哔哩视频下载工具.
+- [Bili](https://github.com/lifegpc/bili) ![GitHub Repo stars](https://img.shields.io/github/stars/lifegpc/bili) - 一个Python编写的从Bilibili/Acfun下载弹幕/视频的工具.
 
 ## 直播相关工具
 
