@@ -88,6 +88,7 @@
 - [BilibiliLiveRecordDownLoader](https://github.com/HMBSbige/BilibiliLiveRecordDownLoader) ![GitHub Repo stars](https://img.shields.io/github/stars/HMBSbige/BilibiliLiveRecordDownLoader) - 哔哩哔哩直播录制与回放下载.
 - [Bililive-go](https://github.com/hr3lxphr6j/bililive-go) ![GitHub Repo stars](https://img.shields.io/github/stars/hr3lxphr6j/bililive-go) - 一个直播录制工具.
 - [DDTV2](https://github.com/CHKZL/DDTV2) ![GitHub Repo stars](https://img.shields.io/github/stars/CHKZL/DDTV2) - 可进行哔哩哔哩直播开播提醒、自动录制、在线播放、合并、转码、上传的跨平台部署工具.
+- [StreamerHelper](https://github.com/ZhangMingZhao1/StreamerHelper) ![GitHub Repo stars](https://img.shields.io/github/stars/ZhangMingZhao1/StreamerHelper) - 全平台主播录制工具 & 自动投稿B站.
 
 ## 开发
 
