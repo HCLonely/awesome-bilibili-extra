@@ -62,6 +62,8 @@
 - [B站直播间挂机助手](https://greasyfork.org/zh-CN/scripts/406048) ![Greasyfork installs](https://palerock.cn/node-service/images/greasyfork/stats/total-installs/406048) - 优化直播观看体验.
 - [Bilibili直播净化](https://greasyfork.org/zh-CN/scripts/21416) ![Greasyfork installs](https://palerock.cn/node-service/images/greasyfork/stats/total-installs/21416) - 屏蔽聊天室礼物以及关键字, 净化聊天室环境.
 - [Bilibili勋章常亮](https://greasyfork.org/zh-CN/scripts/429846) ![Greasyfork installs](https://palerock.cn/node-service/images/greasyfork/stats/total-installs/429846) - 保持哔哩哔哩直播粉丝勋章常亮.
+- [B站直播间挂机助手](https://github.com/andywang425/BLTH) ![GitHub Repo stars](https://img.shields.io/github/stars/andywang425/BLTH) - B站直播间挂机助手.
+- [Bliveproxy](https://github.com/xfgryujk/bliveproxy) ![GitHub Repo stars](https://img.shields.io/github/stars/xfgryujk/bliveproxy) - B站直播websocket hook框架.
 
 ## 下载工具
 
