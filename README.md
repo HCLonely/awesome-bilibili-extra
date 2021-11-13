@@ -103,6 +103,8 @@
 
 ## 其他
 
+- [BiliRoaming](https://github.com/yujincheng08/BiliRoaming) ![GitHub Repo stars](https://img.shields.io/github/stars/yujincheng08/BiliRoaming) - 解除B站客户端番剧区域限制的Xposed模块，并且提供其他小功能.
+- [Bilibili-area-limit](https://github.com/kghost/bilibili-area-limit) ![GitHub Repo stars](https://img.shields.io/github/stars/kghost/bilibili-area-limit) - Bilibili 港澳台, 解除区域限制.
 - [Bilibili-UWP](https://github.com/Richasy/BiliBili-UWP) ![GitHub Repo stars](https://img.shields.io/github/stars/Richasy/BiliBili-UWP) - 第三方哔哩哔哩UWP客户端.
 - [Bilibili-HELPER](https://github.com/JunzhouLiu/BILIBILI-HELPER) ![GitHub Repo stars](https://img.shields.io/github/stars/JunzhouLiu/BILIBILI-HELPER) - B站自动签到投币工具，每天轻松获取65经验值，银瓜子兑换硬币，领取大会员福利，大会员月底给自己充电等功能.
 - [Bilive_client](https://github.com/bilive/bilive_client) ![GitHub Repo stars](https://img.shields.io/github/stars/bilive/bilive_client) - 基于Node.JS的哔哩哔哩账号活跃系统.
