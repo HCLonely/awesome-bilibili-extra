@@ -110,7 +110,6 @@
 - [Bilibili-area-limit](https://github.com/kghost/bilibili-area-limit) - Bilibili 港澳台, 解除区域限制.
 - [Bilibili-UWP](https://github.com/Richasy/Bili.Uwp) - 第三方哔哩哔哩UWP客户端.
 - [Bili.Uwp](https://github.com/Richasy/Bili.Uwp) - 适用于新系统UI的第三方哔哩哔哩UWP客户端.
-- [Bilibili-HELPER](https://github.com/JunzhouLiu/BILIBILI-HELPER) - B站自动签到投币工具，每天轻松获取65经验值，银瓜子兑换硬币，领取大会员福利，大会员月底给自己充电等功能.
 - [Bilive_client](https://github.com/bilive/bilive_client) - 基于Node.JS的哔哩哔哩账号活跃系统.
 - [BiliHelper-personal](https://github.com/lkeme/BiliHelper-personal) - 哔哩哔哩助手 - PHP 版.
 - [LotteryAutoScript](https://github.com/shanmiteko/LotteryAutoScript) - Bilibili动态抽奖助手.
