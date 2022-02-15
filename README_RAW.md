@@ -73,7 +73,7 @@
 - [BBDown](https://github.com/nilaoda/BBDown) - 一款命令行式哔哩哔哩下载器.
 - [Bilibili-downloader](https://github.com/stevenjoezhang/bilibili-downloader) - 基于 Node.js 和 Electron 开发的哔哩哔哩视频、弹幕下载器.
 - [Bilili](https://github.com/SigureMo/bilili) - 哔哩哔哩视频、弹幕下载器.
-- [yutto](https://github.com/SigureMo/yutto) - 一个可爱且任性的哔哩哔哩视频下载器.
+- [Yutto](https://github.com/SigureMo/yutto) - 一个可爱且任性的哔哩哔哩视频下载器.
 - [哔哩下载姬](https://github.com/leiurayer/downkyi) - 一个简单易用的哔哩哔哩视频下载工具.
 - [Bili](https://github.com/lifegpc/bili) - 一个Python编写的从Bilibili/Acfun下载弹幕/视频的工具.
 - [B23Downloader](https://github.com/vooidzero/B23Downloader) - 下载哔哩哔哩视频、直播、漫画.
