@@ -1,0 +1,19 @@
+{
+  "name": "awesome-bilibili-extra",
+  "version": "1.0.0",
+  "description": "> 收集一些让我们在浏览B站时更加方便的浏览器扩展/脚本.",
+  "main": "sort.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HCLonely/awesome-bilibili-extra.git"
+  },
+  "author": "HCLonely",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HCLonely/awesome-bilibili-extra/issues"
+  },
+  "homepage": "https://github.com/HCLonely/awesome-bilibili-extra#readme"
+}

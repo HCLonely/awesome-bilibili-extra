@@ -1,0 +1,44 @@
+name: Sort
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - 'README_RAW.md'
+      - 'sort.js'
+  pull_request:
+    types:
+      - synchronize
+    branches:
+      - main
+    paths:
+      - 'README_RAW.md'
+      - 'sort.js'
+jobs:
+  Sort:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v2
+      with:
+        ref: main
+        fetch-depth: 0
+        lfs: true
+    - name: Set git identity
+      run : |
+        git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+        git config --global user.name "github-actions[bot]"
+    - name: Use Node.js
+      uses: actions/setup-node@v1
+      with:
+        node-version: '16.x'
+    - name: Sort
+      run: node sort.js
+    - name: Push Commits
+      env:
+        TZ: Asia/Shanghai
+      run: |
+        git add README.md
+        git commit --file="./message.txt"
+        git push origin main
