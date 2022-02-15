@@ -75,7 +75,7 @@
 - [BilibiliVideoDownload](https://github.com/blogwy/BilibiliVideoDownload) - 跨平台下载哔哩哔哩视频桌面端软件，支持windows、macOS、Linux.
 - [Bilibili_video_download](https://github.com/Henryhaohao/Bilibili_video_download) - 哔哩哔哩视频下载.
 - [Bilili](https://github.com/SigureMo/bilili) - 哔哩哔哩视频、弹幕下载器.
-- [yutto](https://github.com/SigureMo/yutto) - 一个可爱且任性的哔哩哔哩视频下载器.
+- [Yutto](https://github.com/SigureMo/yutto) - 一个可爱且任性的哔哩哔哩视频下载器.
 - [哔哩下载姬](https://github.com/leiurayer/downkyi) - 一个简单易用的哔哩哔哩视频下载工具.
 
 ## 直播相关工具
@@ -118,4 +118,4 @@
 
 请查看[贡献指南](https://github.com/HCLonely/awesome-bilibili-extra/blob/master/CONTRIBUTING.md).
 
-<!-- Sort Time: Tue Feb 15 2022 07:30:48 GMT+0000 (Coordinated Universal Time)
+<!-- Sort Time: Tue Feb 15 2022 07:33:24 GMT+0000 (Coordinated Universal Time)
