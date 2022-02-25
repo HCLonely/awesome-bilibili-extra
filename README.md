@@ -1,6 +1,6 @@
 # Awesome Bilibili Extra [![Awesome](https://awesome.re/badge.svg)](https://github.com/HCLonely/awesome-bilibili-extra)
 
-> 收集一些让我们在浏览B站时更加方便的浏览器扩展/脚本.
+> 收集一些让我们在浏览B站时更加方便的浏览器扩展/脚本/程序.
 
 ---
 
@@ -13,6 +13,8 @@
     - [主站脚本](#主站脚本)
     - [直播脚本](#直播脚本)
   - [下载工具](#下载工具)
+  - [直播相关工具](#直播相关工具)
+  - [投稿工具](#投稿工具)
   - [开发](#开发)
   - [其他](#其他)
   - [贡献](#贡献)
@@ -45,6 +47,7 @@
 - [Bilibili CC字幕工具](https://greasyfork.org/zh-CN/scripts/378513) - 可以在B站加载外挂本地字幕、下载B站的CC字幕，旧版B站播放器可启用CC字幕.
 - [Bilibili Vesiter](https://greasyfork.org/zh-CN/scripts/425696) - 哔哩哔哩移除主站广告、移除播放页广告、自动宽屏、自动全屏、自动播放、逐帧播放.
 - [Bilibili 一键已读](https://greasyfork.org/zh-CN/scripts/429152) - 一键设置所有会话已读.
+- [Bilibili-Old](https://github.com/MotooriKashin/Bilibili-Old) - 通过重写网页框架的方式切换到Bilibili旧版页面.
 - [BilibiliTimer](https://greasyfork.org/zh-CN/scripts/30367) - B站H5播放器全屏下实时显示当前系统时间和播放进度.
 - [B站网页端添加APP首页推荐](https://greasyfork.org/zh-CN/scripts/368446) - 网页端首页添加APP首页推荐、全站排行、可选提交不喜欢的视频.
 - [哔哩哔哩深色模式](https://greasyfork.org/zh-CN/scripts/428222) - 熬夜必备|呵护眼睛|沉浸体验|优化布局|适用于网页端|深色/夜间/黑色/暗色模式.
@@ -73,49 +76,71 @@
 - [Bilibili-downloader](https://github.com/stevenjoezhang/bilibili-downloader) - 基于 Node.js 和 Electron 开发的哔哩哔哩视频、弹幕下载器.
 - [BilibiliDown](https://github.com/nICEnnnnnnnLee/BilibiliDown) - (GUI-多平台支持)哔哩哔哩视频下载器，支持稍后再看、收藏夹、UP主视频批量下载.
 - [BilibiliVideoDownload](https://github.com/blogwy/BilibiliVideoDownload) - 跨平台下载哔哩哔哩视频桌面端软件，支持windows、macOS、Linux.
+- [Bilibili_downloader](https://github.com/haogaulle/bilibili_downloader) - 一个用于下载B站视频的Python脚本.
+- [Bilibili_manga_downloader](https://github.com/MOMOYATW/bilibili_manga_downloader) - 基于现代GUI的哔哩哔哩漫画下载器.
 - [Bilibili_video_download](https://github.com/Henryhaohao/Bilibili_video_download) - 哔哩哔哩视频下载.
-- [Bilili](https://github.com/SigureMo/bilili) - 哔哩哔哩视频、弹幕下载器.
-- [Yutto](https://github.com/SigureMo/yutto) - 一个可爱且任性的哔哩哔哩视频下载器.
+- [Bilili](https://github.com/yutto-dev/bilili) - 哔哩哔哩视频、弹幕下载器.
+- [Yutto](https://github.com/yutto-dev/yutto) - 一个可爱且任性的哔哩哔哩视频下载器.
 - [哔哩下载姬](https://github.com/leiurayer/downkyi) - 一个简单易用的哔哩哔哩视频下载工具.
 
 ## 直播相关工具
 
 - [Bili2.0](https://github.com/yjqiang/bili2.0) - Python3 实现的 Bilibili 直播助手.
 - [Bilibili-MagicalDanmaku](https://github.com/iwxyi/Bilibili-MagicalDanmaku) - 哔哩哔哩直播万能机器人，弹幕姬+答谢姬+回复姬+点歌姬+...
+- [Bilibili-dd-monitor](https://github.com/dd-center/bilibili-dd-monitor) - 专为DD设计的多屏直播观看工具.
 - [Bilibili-live-tools](https://github.com/Dawnnnnnn/bilibili-live-tools)- python实现的哔哩哔哩直播助手.
 - [BilibiliLiveRecordDownLoader](https://github.com/HMBSbige/BilibiliLiveRecordDownLoader) - 哔哩哔哩直播录制与回放下载.
 - [Bilibili_Danmuji](https://github.com/BanqiJane/Bilibili_Danmuji) - Java版哔哩哔哩直播弹幕姬，礼物答谢、关注感谢、自动回复工具、房管工具...
+- [Bililive-go](https://github.com/hr3lxphr6j/bililive-go) - Bililive-go 是一个支持多种直播平台的直播录制工具.
 - [Bililive-go](https://github.com/hr3lxphr6j/bililive-go) - 一个直播录制工具.
 - [BililiveRecorder](https://github.com/Bililive/BililiveRecorder) - 哔哩哔哩直播录制工具.
+- [Bilive-danmaku](https://github.com/Beats0/bilive-danmaku) - 哔哩哔哩直播弹幕姬(非官方)，支持win和mac.
 - [Blivechat](https://github.com/xfgryujk/blivechat) - 用于OBS的仿YouTube风格的哔哩哔哩直播评论栏.
+- [Blrec](https://github.com/acgnhiki/blrec) - 哔哩哔哩直播录制工具.
 - [Comen](https://github.com/3Shain/Comen) - 直播用弹幕栏.
-- [DDTV2](https://github.com/CHKZL/DDTV2) - 可进行哔哩哔哩直播开播提醒、自动录制、在线播放、合并、转码、上传的跨平台部署工具.
+- [DDRecorder](https://github.com/AsaChiri/DDRecorder) - Headless全自动B站直播录播、切片、上传一体工具.
+- [DDTV](https://github.com/CHKZL/DDTV) - 可进行哔哩哔哩直播开播提醒、自动录制、在线播放、合并、转码、上传的跨平台部署工具.
 - [DD_Monitor-android-kotlin](https://github.com/congHu/DD_Monitor-android-kotlin) - DD监控室安卓版.
 - [DD_Monitor](https://github.com/zhimingshenjun/DD_Monitor) - DD监控室.
 - [StreamerHelper](https://github.com/ZhangMingZhao1/StreamerHelper) - 全平台主播录制工具 & 自动投稿B站.
 
+## 投稿工具
+
+- [Bili-trash-bin](https://github.com/googidaddy/bili-trash-bin) - 自动搬运工具.
+- [Bili_upload_tool](https://github.com/googidaddy/bili_upload_tool) - 这是一个用 Python 写的搬运视频并上传到Bilibili(Web)的工具.
+- [Bilibili-toolman](https://github.com/greats3an/bilibili-toolman) - 哔哩哔哩创作中心 Python API / 搬运工具.
+- [Biliup-rs](https://github.com/ForgQi/biliup-rs) - 哔哩哔哩命令行投稿工具，支持多p、线路选择.
+- [Caution](https://github.com/ForgQi/Caution) - 哔哩哔哩投稿客户端，支持多p投稿，支持Windows，Linux，macOS.
+
 ## 开发
 
+- [Bili-api](https://github.com/simon300000/bili-api)- Bilibili Node.js API.
 - [Bilibili-API-collect](https://github.com/SocialSisterYi/bilibili-API-collect) - 哔哩哔哩-API收集整理.
 - [Bilibili-Live-API](https://github.com/lovelyyoshino/Bilibili-Live-API) - 哔哩哔哩直播/番剧 API.
 - [Bilibili-Toolkit](https://github.com/Hsury/Bilibili-Toolkit) - 哔哩哔哩辅助工具箱，支持Cookie/Token/Password融合持久化登录与多用户操作.
 - [Bilibili-api](https://github.com/MoyuScript/bilibili-api) - 哔哩哔哩的API调用模块(Python).
 - [Bilibili-api](https://github.com/Vespa314/bilibili-api) - B站API收集整理及开发，测试【开发中】.
 - [Bilibili-user](https://github.com/airingursb/bilibili-user)- Bilibili 用户爬虫.
-- [Biliup](https://github.com/ForgQi/biliup) - Stream download and upload, not only for bilibili.
+- [Biliup](https://github.com/ForgQi/biliup) - 支持自动录制各大直播平台实时流，上传到哔哩哔哩.
+- [Yabapi](https://github.com/SDLMoe/Yabapi)- Bilibili API for Kotlin.
 
 ## 其他
 
 - [Bili.Uwp](https://github.com/Richasy/Bili.Uwp) - 适用于新系统UI的第三方哔哩哔哩UWP客户端.
+- [BiliBiliToolPro](https://github.com/RayWangQvQ/BiliBiliToolPro) - B 站（bilibili）自动任务工具，支持docker、青龙、腾讯云函数等多种部署方式.
+- [BiliBili_Checkin](https://github.com/ICE99125/BiliBili_Checkin) - 腾讯云函数实现 BiliBili 每日观看视频、自动投币、分享、漫画签到、直播签到.
 - [BiliHelper-personal](https://github.com/lkeme/BiliHelper-personal) - 哔哩哔哩助手 - PHP 版.
 - [BiliRoaming](https://github.com/yujincheng08/BiliRoaming) - 解除B站客户端番剧区域限制的Xposed模块，并且提供其他小功能.
 - [Bilibili-UWP](https://github.com/Richasy/Bili.Uwp) - 第三方哔哩哔哩UWP客户端.
 - [Bilibili-area-limit](https://github.com/kghost/bilibili-area-limit) - Bilibili 港澳台, 解除区域限制.
+- [Bilibili-helper](https://github.com/cssxsh/bilibili-helper) - 基于 Mirai Console 的 哔哩哔哩 订阅插件.
+- [Bilibili_DownVideoToMp4](https://github.com/binghe021/Bilibili_DownVideoToMp4) - Bilibili 手机端下载的 Download 文件批量转换为 MP4 软件.
 - [Bilive_client](https://github.com/bilive/bilive_client) - 基于Node.JS的哔哩哔哩账号活跃系统.
+- [HarukaBot](https://github.com/SK-415/HarukaBot) - 将 B 站的动态和直播信息推送至 QQ，基于 NoneBot2 开发.
 - [LotteryAutoScript](https://github.com/shanmiteko/LotteryAutoScript) - Bilibili动态抽奖助手.
 
 ## 贡献
 
 请查看[贡献指南](https://github.com/HCLonely/awesome-bilibili-extra/blob/master/CONTRIBUTING.md).
 
-<!-- Sort Time: Tue Feb 15 2022 07:33:24 GMT+0000 (Coordinated Universal Time)
+<!-- Sort Time: Fri Feb 25 2022 13:32:52 GMT+0800 (中国标准时间)

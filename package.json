@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/HCLonely/awesome-bilibili-extra/issues"
   },
-  "homepage": "https://github.com/HCLonely/awesome-bilibili-extra#readme"
+  "homepage": "https://github.com/HCLonely/awesome-bilibili-extra#readme",
+  "devDependencies": {
+    "axios": "^0.26.0"
+  }
 }

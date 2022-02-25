@@ -6,7 +6,10 @@ const [header, toc, mainText] = content.split('---');
 const sortedMainText = mainText.split(/(\r?\n){2}/g).map(text => {
   text = text.replace(/\r/g, '');
   if (/^- /.test(text)) {
-    return text.split(/\n/g).sort().join('\n');
+    return text.split(/\n/g).map(e => {
+      const newText = e.replace(/^- \[(\S)/, s => s.toUpperCase()).replace(/[？！。，；?!,;]$/, '.');
+      return /\.$/.test(newText) ? newText : `${newText}.`
+    }).sort().join('\n');
   }
   if (/^\n$/.test(text)) {
     return '';
