@@ -143,4 +143,4 @@
 
 请查看[贡献指南](https://github.com/HCLonely/awesome-bilibili-extra/blob/master/CONTRIBUTING.md).
 
-<!-- Sort Time: Fri Feb 25 2022 13:32:52 GMT+0800 (中国标准时间)
+<!-- Sort Time: Fri Feb 25 2022 06:18:10 GMT+0000 (Coordinated Universal Time)
