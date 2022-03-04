@@ -82,6 +82,7 @@
 - [B23Downloader](https://github.com/vooidzero/B23Downloader) - 下载哔哩哔哩视频、直播、漫画.
 - [Bilibili_manga_downloader](https://github.com/MOMOYATW/bilibili_manga_downloader) - 基于现代GUI的哔哩哔哩漫画下载器.
 - [Bilibili_downloader](https://github.com/haogaulle/bilibili_downloader) - 一个用于下载B站视频的Python脚本.
+- [BiliDuang](https://github.com/kengwang/BiliDuang) - 哔哩哔哩视频下载 C# GUI版.
 
 ## 直播相关工具
 
