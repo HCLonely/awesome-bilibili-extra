@@ -72,6 +72,7 @@
 
 - [B23Downloader](https://github.com/vooidzero/B23Downloader) - 下载哔哩哔哩视频、直播、漫画.
 - [BBDown](https://github.com/nilaoda/BBDown) - 一款命令行式哔哩哔哩下载器.
+- [BiliDuang](https://github.com/kengwang/BiliDuang) - 哔哩哔哩视频下载 C# GUI版.
 - [Bili](https://github.com/lifegpc/bili) - 一个Python编写的从Bilibili/Acfun下载弹幕/视频的工具.
 - [Bilibili-downloader](https://github.com/stevenjoezhang/bilibili-downloader) - 基于 Node.js 和 Electron 开发的哔哩哔哩视频、弹幕下载器.
 - [BilibiliDown](https://github.com/nICEnnnnnnnLee/BilibiliDown) - (GUI-多平台支持)哔哩哔哩视频下载器，支持稍后再看、收藏夹、UP主视频批量下载.
@@ -143,4 +144,4 @@
 
 请查看[贡献指南](https://github.com/HCLonely/awesome-bilibili-extra/blob/master/CONTRIBUTING.md).
 
-<!-- Sort Time: Fri Feb 25 2022 06:18:10 GMT+0000 (Coordinated Universal Time)
+<!-- Sort Time: Fri Mar 04 2022 02:08:35 GMT+0000 (Coordinated Universal Time)
