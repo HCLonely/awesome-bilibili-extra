@@ -65,6 +65,7 @@
 ### 直播脚本
 
 - [B 站直播间挂机助手](https://github.com/andywang425/BLTH) - B 站直播间挂机助手.
+- [B 站直播间挂机助手](https://greasyfork.org/zh-CN/scripts/406048) - 优化直播观看体验.
 - [Bilibili 勋章常亮](https://greasyfork.org/zh-CN/scripts/429846) - 保持哔哩哔哩直播粉丝勋章常亮.
 - [Bilibili 直播净化](https://greasyfork.org/zh-CN/scripts/21416) - 屏蔽聊天室礼物以及关键字，净化聊天室环境.
 - [Bilibili 直播自定义皮肤背景](https://greasyfork.org/zh-CN/scripts/387120) - 自定义哔哩哔哩直播的皮肤和背景，仅自己可见.
@@ -159,4 +160,4 @@
 
 请查看[贡献指南](https://github.com/HCLonely/awesome-bilibili-extra/blob/master/CONTRIBUTING.md).
 
-<!-- Sort Time: Sun Mar 06 2022 10:15:35 GMT+0800 (中国标准时间)
+<!-- Sort Time: Sun Mar 06 2022 05:33:09 GMT+0000 (Coordinated Universal Time)
