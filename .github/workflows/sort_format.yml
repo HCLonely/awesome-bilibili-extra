@@ -34,7 +34,7 @@ jobs:
       with:
         node-version: '16.x'
     - name: Sort
-      run: node sort_format.js
+      run: npm install -D && node sort_format.js
     - name: Push Commits
       env:
         TZ: Asia/Shanghai
