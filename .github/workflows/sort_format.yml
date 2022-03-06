@@ -1,4 +1,4 @@
-name: Sort
+name: Sort & Format
 on:
   workflow_dispatch:
   push:
@@ -6,7 +6,7 @@ on:
       - main
     paths:
       - 'README_RAW.md'
-      - 'sort.js'
+      - 'sort_format.js'
   pull_request:
     types:
       - synchronize
@@ -14,9 +14,9 @@ on:
       - main
     paths:
       - 'README_RAW.md'
-      - 'sort.js'
+      - 'sort_format.js'
 jobs:
-  Sort:
+  Start:
     runs-on: ubuntu-latest
     steps:
     - name: Checkout
@@ -34,7 +34,7 @@ jobs:
       with:
         node-version: '16.x'
     - name: Sort
-      run: node sort.js
+      run: node sort_format.js
     - name: Push Commits
       env:
         TZ: Asia/Shanghai

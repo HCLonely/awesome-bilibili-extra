@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/HCLonely/awesome-bilibili-extra#readme",
   "devDependencies": {
-    "axios": "^0.26.0"
+    "axios": "^0.26.0",
+    "pangu": "^4.0.7"
   }
 }

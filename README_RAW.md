@@ -8,6 +8,7 @@
   - [浏览器扩展](#浏览器扩展)
     - [全站扩展](#全站扩展)
     - [主站扩展](#主站扩展)
+    - [直播扩展](#主站扩展)
   - [脚本](#脚本)
     - [全站脚本](#全站脚本)
     - [主站脚本](#主站脚本)
@@ -32,6 +33,10 @@
 - [Pakku](https://github.com/xmcp/pakku.js) - 哔哩哔哩弹幕过滤器.
 - [Unblock Bilibili](https://unblockbilibili.app/) - 免费不限时加速和解锁哔哩哔哩和主流中国音视频流媒体网站.
 
+### 直播扩展
+
+- [Bilibili-jimaku-filter](https://github.com/eric2788/bilibili-jimaku-filter) - 哔哩哔哩直播同传字幕过滤插件.
+
 ## 脚本
 
 > 脚本一般需要安装[Tampermonkey](https://www.tampermonkey.net/)或类似浏览器扩展才能使用！
@@ -55,6 +60,7 @@
 - [BilibiliTimer](https://greasyfork.org/zh-CN/scripts/30367) - B站H5播放器全屏下实时显示当前系统时间和播放进度.
 - [哔哩哔哩站内链接信息显示](https://greasyfork.org/zh-CN/scripts/398500) - 替换哔哩哔哩页面的视频链接为视频名，专栏链接为专栏文章名,音频链接为音频名.
 - [Bilibili-Old](https://github.com/MotooriKashin/Bilibili-Old) - 通过重写网页框架的方式切换到Bilibili旧版页面.
+- [userscript-enhance-bilibili-player](https://github.com/fython/userscript-enhance-bilibili-player) - 增强哔哩哔哩播放器的使用体验.
 
 ### 直播脚本
 
@@ -83,6 +89,11 @@
 - [Bilibili_manga_downloader](https://github.com/MOMOYATW/bilibili_manga_downloader) - 基于现代GUI的哔哩哔哩漫画下载器.
 - [Bilibili_downloader](https://github.com/haogaulle/bilibili_downloader) - 一个用于下载B站视频的Python脚本.
 - [BiliDuang](https://github.com/kengwang/BiliDuang) - 哔哩哔哩视频下载 C# GUI版.
+- [Bilibili](https://github.com/ggdream/bilibili) - Flutter, Python, Golang, Docker 下载哔哩哔哩视频.
+- [Bili23-Downloader](https://github.com/ScottSloan/Bili23-Downloader) - 下载 Bilibili 视频/番剧/电影/纪录片 等资源.
+- [Bilibili-downloader](https://github.com/ZhelinCheng/bilibili-downloader) - B 站个人动态视频下载助手，支持下载 B 站个人动态更新的 4k 视频.
+- [Bili-cli-rs](https://github.com/niuhuan/bili-cli-rs) - 一个Rust的Bilibili命令行视频下载器.
+- [BiliBangumiDownloader_Kotlin](https://github.com/sgpublic/BiliBangumiDownloader_Kotlin) - 哔哩番剧，一个开源的哔哩下载工具.
 
 ## 直播相关工具
 
@@ -93,7 +104,7 @@
 - [Blivechat](https://github.com/xfgryujk/blivechat) - 用于OBS的仿YouTube风格的哔哩哔哩直播评论栏.
 - [Comen](https://github.com/3Shain/Comen) - 直播用弹幕栏.
 - [Bilibili-MagicalDanmaku](https://github.com/iwxyi/Bilibili-MagicalDanmaku) - 哔哩哔哩直播万能机器人，弹幕姬+答谢姬+回复姬+点歌姬+...
-- [Bilibili_Danmuji](https://github.com/BanqiJane/Bilibili_Danmuji) - Java版哔哩哔哩直播弹幕姬，礼物答谢、关注感谢、自动回复工具、房管工具...
+- [Bilibili_Danmuji](https://github.com/BanqiJane/Bilibili_Danmuji) - B 站直播礼物答谢、定时广告、关注感谢，自动回复工具，房管工具，自动打卡.
 - [BilibiliLiveRecordDownLoader](https://github.com/HMBSbige/BilibiliLiveRecordDownLoader) - 哔哩哔哩直播录制与回放下载.
 - [Bililive-go](https://github.com/hr3lxphr6j/bililive-go) - 一个直播录制工具.
 - [DDTV](https://github.com/CHKZL/DDTV) - 可进行哔哩哔哩直播开播提醒、自动录制、在线播放、合并、转码、上传的跨平台部署工具.
@@ -104,6 +115,7 @@
 - [Bilive-danmaku](https://github.com/Beats0/bilive-danmaku) - 哔哩哔哩直播弹幕姬(非官方)，支持win和mac.
 - [Bililive-go](https://github.com/hr3lxphr6j/bililive-go) - Bililive-go 是一个支持多种直播平台的直播录制工具.
 - [DDRecorder](https://github.com/AsaChiri/DDRecorder) - Headless全自动B站直播录播、切片、上传一体工具.
+- [Bilibili-live-helper](https://github.com/LiangYuxuan/bilibili-live-helper) - Bilibili直播相关自动化脚本.
 
 ## 投稿工具
 
@@ -127,7 +139,7 @@
 
 ## 其他
 
-- [BiliRoaming](https://github.com/yujincheng08/BiliRoaming) - 解除B站客户端番剧区域限制的Xposed模块，并且提供其他小功能.
+- [BiliRoaming](https://github.com/yujincheng08/BiliRoaming) - 解除B站客户端番剧区域限制的 Xposed 模块，并且提供其他小功能.
 - [Bilibili-area-limit](https://github.com/kghost/bilibili-area-limit) - Bilibili 港澳台, 解除区域限制.
 - [Bilibili-UWP](https://github.com/Richasy/Bili.Uwp) - 第三方哔哩哔哩UWP客户端.
 - [Bili.Uwp](https://github.com/Richasy/Bili.Uwp) - 适用于新系统UI的第三方哔哩哔哩UWP客户端.
@@ -139,6 +151,10 @@
 - [BiliBili_Checkin](https://github.com/ICE99125/BiliBili_Checkin) - 腾讯云函数实现 BiliBili 每日观看视频、自动投币、分享、漫画签到、直播签到.
 - [Bilibili_DownVideoToMp4](https://github.com/binghe021/Bilibili_DownVideoToMp4) - Bilibili 手机端下载的 Download 文件批量转换为 MP4 软件.
 - [HarukaBot](https://github.com/SK-415/HarukaBot) - 将 B 站的动态和直播信息推送至 QQ，基于 NoneBot2 开发.
+- [BiliRoaming-PHP-Server](https://github.com/david082321/BiliRoaming-PHP-Server) - 自建哔哩漫游解析服务器(PHP).
+- [Nonebot_plugin_analysis_bilibili](https://github.com/mengshouer/nonebot_plugin_analysis_bilibili) - NoneBot bilibili视频、番剧解析插件.
+- [BiliTools](https://github.com/catlair/BiliTools) - 哔哩哔哩每日任务(基于 Nodejs12.x 及以上).
+- [Bilibili-dynamic-mirai-plugin](https://github.com/Colter23/bilibili-dynamic-mirai-plugin) - 低延迟检测B站动态/直播的mirai-console插件.
 
 ## 贡献
 
