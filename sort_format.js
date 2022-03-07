@@ -9,7 +9,7 @@ const sortedMainText = mainText.split(/(\r?\n){2}/g).map(text => {
   if (/^- /.test(text)) {
     return text.split(/\n/g).map(e => {
       const newText = e.replace(/^- \[(\S)/, s => s.toUpperCase()).replace(/[？！。，；?!,;]$/, '.');
-      return pangu.spacing(/\.$/.test(newText) ? newText : `${newText}.`);
+      return pangu.spacing(/\.$/.test(newText) ? newText : `${newText}.`).replace(')- ', ') - ');
     }).sort().join('\n');
   }
   if (/^\n$/.test(text)) {
