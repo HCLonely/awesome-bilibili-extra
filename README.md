@@ -101,7 +101,7 @@
 - [Bilibili-MagicalDanmaku](https://github.com/iwxyi/Bilibili-MagicalDanmaku) - 哔哩哔哩直播万能机器人，弹幕姬 + 答谢姬 + 回复姬 + 点歌姬 +...
 - [Bilibili-dd-monitor](https://github.com/dd-center/bilibili-dd-monitor) - 专为 DD 设计的多屏直播观看工具.
 - [Bilibili-live-helper](https://github.com/LiangYuxuan/bilibili-live-helper) - Bilibili 直播相关自动化脚本.
-- [Bilibili-live-tools](https://github.com/Dawnnnnnn/bilibili-live-tools)- python 实现的哔哩哔哩直播助手.
+- [Bilibili-live-tools](https://github.com/Dawnnnnnn/bilibili-live-tools) - python 实现的哔哩哔哩直播助手.
 - [BilibiliLiveRecordDownLoader](https://github.com/HMBSbige/BilibiliLiveRecordDownLoader) - 哔哩哔哩直播录制与回放下载.
 - [Bilibili_Danmuji](https://github.com/BanqiJane/Bilibili_Danmuji) - B 站直播礼物答谢、定时广告、关注感谢，自动回复工具，房管工具，自动打卡.
 - [Bililive-go](https://github.com/hr3lxphr6j/bililive-go) - Bililive-go 是一个支持多种直播平台的直播录制工具.
@@ -127,15 +127,15 @@
 
 ## 开发
 
-- [Bili-api](https://github.com/simon300000/bili-api)- Bilibili Node.js API.
+- [Bili-api](https://github.com/simon300000/bili-api) - Bilibili Node.js API.
 - [Bilibili-API-collect](https://github.com/SocialSisterYi/bilibili-API-collect) - 哔哩哔哩 - API 收集整理.
 - [Bilibili-Live-API](https://github.com/lovelyyoshino/Bilibili-Live-API) - 哔哩哔哩直播 / 番剧 API.
 - [Bilibili-Toolkit](https://github.com/Hsury/Bilibili-Toolkit) - 哔哩哔哩辅助工具箱，支持 Cookie/Token/Password 融合持久化登录与多用户操作.
 - [Bilibili-api](https://github.com/MoyuScript/bilibili-api) - 哔哩哔哩的 API 调用模块 (Python).
 - [Bilibili-api](https://github.com/Vespa314/bilibili-api) - B 站 API 收集整理及开发，测试【开发中】.
-- [Bilibili-user](https://github.com/airingursb/bilibili-user)- Bilibili 用户爬虫.
+- [Bilibili-user](https://github.com/airingursb/bilibili-user) - Bilibili 用户爬虫.
 - [Biliup](https://github.com/ForgQi/biliup) - 支持自动录制各大直播平台实时流，上传到哔哩哔哩.
-- [Yabapi](https://github.com/SDLMoe/Yabapi)- Bilibili API for Kotlin.
+- [Yabapi](https://github.com/SDLMoe/Yabapi) - Bilibili API for Kotlin.
 
 ## 其他
 
@@ -160,4 +160,4 @@
 
 请查看[贡献指南](https://github.com/HCLonely/awesome-bilibili-extra/blob/master/CONTRIBUTING.md).
 
-<!-- Sort Time: Sun Mar 06 2022 05:33:09 GMT+0000 (Coordinated Universal Time)
+<!-- Sort Time: Mon Mar 07 2022 10:02:45 GMT+0000 (Coordinated Universal Time)
