@@ -32,6 +32,18 @@ const axios = require('axios');
 
   if (errorLinks.length > 0) {
     console.table(errorLinks);
-    throw `${errorLinks.length} broken links found!`
+    throw `${errorLinks.length} broken links were founded!`
+  }
+
+  const uniquedLinks = new Set(links.map(e => e[2]));
+  if (links.length > uniquedLinks.size) {
+    console.table(links.map(e => {
+      if (uniquedLinks.has(e[2])) {
+        uniquedLinks.delete(e[2])
+        return null;
+      }
+      return {name: e[1], link: e[2]};
+    }).filter(e => e));
+    throw `Double links were founded!`
   }
 })();

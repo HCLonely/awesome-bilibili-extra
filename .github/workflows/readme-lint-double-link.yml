@@ -6,11 +6,6 @@ on:
       - main
     paths:
       - 'README_RAW.md'
-  push:
-    branches:
-      - main
-    paths:
-      - 'README_RAW.md'
 jobs:
   build:
     name: awesome readme lint double link
