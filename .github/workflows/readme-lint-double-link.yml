@@ -3,7 +3,12 @@ on:
   pull_request:
     types: [opened, synchronize]
     branches:
-      - master
+      - main
+    paths:
+      - 'README_RAW.md'
+  push:
+    branches:
+      - main
     paths:
       - 'README_RAW.md'
 jobs:
