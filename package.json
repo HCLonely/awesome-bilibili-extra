@@ -4,7 +4,10 @@
   "description": "> 收集一些让我们在浏览B站时更加方便的浏览器扩展/脚本.",
   "main": "sort.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "link-checker": "node src/link-checker.js",
+    "sort-format": "node src/sort-format.js",
+    "push": "node src/commit.js && git add . && git commit -F message.txt && git push"
   },
   "repository": {
     "type": "git",
@@ -18,6 +21,7 @@
   "homepage": "https://github.com/HCLonely/awesome-bilibili-extra#readme",
   "devDependencies": {
     "axios": "^0.26.0",
+    "dayjs": "^1.10.8",
     "pangu": "^4.0.7"
   }
 }

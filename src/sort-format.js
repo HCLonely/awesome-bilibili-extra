@@ -1,7 +1,9 @@
 const fs = require('fs');
 const pangu = require('pangu');
+const dayjs = require('dayjs');
 
 const content = fs.readFileSync('README_RAW.md').toString();
+const time = dayjs().format('YYYY-MM-DD HH:mm:ss Z');
 
 const [header, toc, mainText] = content.split('---');
 const sortedMainText = mainText.split(/(\r?\n){2}/g).map(text => {
@@ -16,7 +18,7 @@ const sortedMainText = mainText.split(/(\r?\n){2}/g).map(text => {
     return '';
   }
   return text;
-}).join('\n') + '\n<!-- Sort Time: ' + new Date() + '\n';
+}).join('\n') + '\n<!-- Sort Time: ' + time + ' -->\n';
 
 fs.writeFileSync('README.md', [header, toc, sortedMainText].join('---'));
-fs.writeFileSync('message.txt', 'Sort at ' + new Date());
+fs.writeFileSync('message.txt', 'Sort at ' + time);

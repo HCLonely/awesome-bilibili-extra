@@ -13,4 +13,4 @@ jobs:
       with:
         node-version: '16.x'
     - name: Check Link
-      run: npm install -D && node link-checker.js
+      run: npm install -D && npm run link-checker

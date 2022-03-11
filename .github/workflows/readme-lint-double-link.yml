@@ -13,5 +13,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - uses: Scrum/awesome-readme-lint-double-link-action@v0.1.13
+        with:
+          entry: 'README_RAW.md'
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}

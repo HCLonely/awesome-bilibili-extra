@@ -1,6 +1,7 @@
 # Awesome Bilibili Extra [![Awesome](https://awesome.re/badge.svg)](https://github.com/HCLonely/awesome-bilibili-extra)
 
 > 收集一些让我们在浏览B站时更加方便的浏览器扩展/脚本/程序.
+> 各项目之间使用 Javascript `Array.prototype.sort()`方法进行排序，无其他意义.
 
 ---
 
@@ -48,7 +49,7 @@
 
 ### 主站脚本
 
-- [解除B站区域限制](https://greasyfork.org/zh-CN/scripts/25718) - 通过替换获取视频地址接口的方式, 实现解除B站区域限制; 只对HTML5播放器生效.
+- [解除B站区域限制](https://greasyfork.org/zh-CN/scripts/25718) - 通 过替换获取视频地址接口的方式, 实现解除B站区域限制; 只对HTML5播放器生效.
 - [B站网页端添加APP首页推荐](https://greasyfork.org/zh-CN/scripts/368446) - 网页端首页添加APP首页推荐、全站排行、可选提交不喜欢的视频.
 - [Bilibili CC字幕工具](https://greasyfork.org/zh-CN/scripts/378513) - 可以在B站加载外挂本地字幕、下载B站的CC字幕，旧版B站播放器可启用CC字幕.
 - [解锁b站vip视频+弹幕字幕移植](https://greasyfork.org/zh-CN/scripts/428746) - 解除B站大会员观影限制，理论支持番剧和放映厅.
@@ -94,6 +95,8 @@
 - [Bilibili-downloader](https://github.com/ZhelinCheng/bilibili-downloader) - B 站个人动态视频下载助手，支持下载 B 站个人动态更新的 4k 视频.
 - [Bili-cli-rs](https://github.com/niuhuan/bili-cli-rs) - 一个Rust的Bilibili命令行视频下载器.
 - [BiliBangumiDownloader_Kotlin](https://github.com/sgpublic/BiliBangumiDownloader_Kotlin) - 哔哩番剧，一个开源的哔哩下载工具.
+- [biliDownloader_GUI](https://github.com/JimmyLiang-lzm/biliDownloader_GUI) - 基于Python开发的可视化B站视频专用下载器（支持交互视频下载）.
+- [bilibili-pic](https://github.com/ibook86/bilibili-pic) - 下载指定up主的主页相册的全部图片.
 
 ## 直播相关工具
 
@@ -116,6 +119,9 @@
 - [Bililive-go](https://github.com/hr3lxphr6j/bililive-go) - Bililive-go 是一个支持多种直播平台的直播录制工具.
 - [DDRecorder](https://github.com/AsaChiri/DDRecorder) - Headless全自动B站直播录播、切片、上传一体工具.
 - [Bilibili-live-helper](https://github.com/LiangYuxuan/bilibili-live-helper) - Bilibili直播相关自动化脚本.
+- [bilibili-vtuber-danmaku](https://github.com/dd-center/bilibili-vtuber-danmaku) - Vtuber直播间的弹幕哟.
+- [BiliBiliSongHime](https://github.com/SoingSaika/BiliBiliSongHime) - 哔哩哔哩直播点歌姬.
+- [Bilibili-live](https://github.com/filwsx/Bilibili-live) - 哔哩哔哩直播下载与监听.
 
 ## 投稿工具
 
@@ -124,6 +130,7 @@
 - [Bili_upload_tool](https://github.com/googidaddy/bili_upload_tool) - 这是一个用 Python 写的搬运视频并上传到Bilibili(Web)的工具.
 - [Bili-trash-bin](https://github.com/googidaddy/bili-trash-bin) - 自动搬运工具.
 - [Bilibili-toolman](https://github.com/greats3an/bilibili-toolman) - 哔哩哔哩创作中心 Python API / 搬运工具.
+- [bililive-record-uploader](https://github.com/Gliese129/bililive-record-uploader) - 自动将B站录播姬录播上传到B站.
 
 ## 开发
 
@@ -136,12 +143,14 @@
 - [Bilibili-user](https://github.com/airingursb/bilibili-user)- Bilibili 用户爬虫.
 - [Bili-api](https://github.com/simon300000/bili-api)- Bilibili Node.js API.
 - [Yabapi](https://github.com/SDLMoe/Yabapi)- Bilibili API for Kotlin.
+- [BiliBiliRankingScripts](https://github.com/Neutralization/BiliBiliRankingScripts)- 涉及周刊哔哩哔哩排行榜制作相关的脚本.
+- [zuiho_bilibili](https://github.com/zuiho1595440844/zuiho_bilibili)- 简易粉丝数播放量显示器（基于esp8266和Python）.
+- [bili-live-api](https://github.com/BotPlayerNeo/bili-live-api)- B站直播API的Go语言实现（目前仅支持弹幕相关）.
 
 ## 其他
 
 - [BiliRoaming](https://github.com/yujincheng08/BiliRoaming) - 解除B站客户端番剧区域限制的 Xposed 模块，并且提供其他小功能.
 - [Bilibili-area-limit](https://github.com/kghost/bilibili-area-limit) - Bilibili 港澳台, 解除区域限制.
-- [Bilibili-UWP](https://github.com/Richasy/Bili.Uwp) - 第三方哔哩哔哩UWP客户端.
 - [Bili.Uwp](https://github.com/Richasy/Bili.Uwp) - 适用于新系统UI的第三方哔哩哔哩UWP客户端.
 - [Bilive_client](https://github.com/bilive/bilive_client) - 基于Node.JS的哔哩哔哩账号活跃系统.
 - [BiliHelper-personal](https://github.com/lkeme/BiliHelper-personal) - 哔哩哔哩助手 - PHP 版.
@@ -155,6 +164,9 @@
 - [Nonebot_plugin_analysis_bilibili](https://github.com/mengshouer/nonebot_plugin_analysis_bilibili) - NoneBot bilibili视频、番剧解析插件.
 - [BiliTools](https://github.com/catlair/BiliTools) - 哔哩哔哩每日任务(基于 Nodejs12.x 及以上).
 - [Bilibili-dynamic-mirai-plugin](https://github.com/Colter23/bilibili-dynamic-mirai-plugin) - 低延迟检测B站动态/直播的mirai-console插件.
+- [biliuwp-lite](https://github.com/xiaoyaocz/biliuwp-lite) - 第三方哔哩哔哩UWP客户端.
+- [nonebot_plugin_bilibilibot](https://github.com/TDK1969/nonebot_plugin_bilibilibot) - 基于Nonebot2的bilibili通知插件，可将up主，主播以及番剧的更新/直播动态推送到QQ.
+- [bilimiao2](https://github.com/10miaomiao/bilimiao2) - bilimiao，拓展b站客户端没有的功能.
 
 ## 贡献
 
