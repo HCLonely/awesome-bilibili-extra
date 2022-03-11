@@ -1,6 +1,7 @@
 # Awesome Bilibili Extra [![Awesome](https://awesome.re/badge.svg)](https://github.com/HCLonely/awesome-bilibili-extra)
 
 > 收集一些让我们在浏览B站时更加方便的浏览器扩展/脚本/程序.
+>
 > 各项目之间使用 Javascript `Array.prototype.sort()`方法进行排序，无其他意义.
 
 ---
@@ -172,4 +173,4 @@
 
 请查看[贡献指南](https://github.com/HCLonely/awesome-bilibili-extra/blob/master/CONTRIBUTING.md).
 
-<!-- Sort Time: 2022-03-11 08:53:20 +00:00 -->
+<!-- Sort Time: 2022-03-11 08:55:33 +00:00 -->
