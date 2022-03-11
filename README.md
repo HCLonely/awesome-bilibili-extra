@@ -1,6 +1,7 @@
 # Awesome Bilibili Extra [![Awesome](https://awesome.re/badge.svg)](https://github.com/HCLonely/awesome-bilibili-extra)
 
 > 收集一些让我们在浏览B站时更加方便的浏览器扩展/脚本/程序.
+> 各项目之间使用 Javascript `Array.prototype.sort()`方法进行排序，无其他意义.
 
 ---
 
@@ -60,7 +61,7 @@
 - [哔哩哔哩站内链接信息显示](https://greasyfork.org/zh-CN/scripts/398500) - 替换哔哩哔哩页面的视频链接为视频名，专栏链接为专栏文章名，音频链接为音频名.
 - [哔哩哔哩辅助脚本解析大会员](https://greasyfork.org/zh-CN/scripts/428342) - 解析大会员视频，播放页去广告，自动最高画质，自动展开简介，移除顶部的下载 app 选项等.
 - [解锁 b 站 vip 视频 + 弹幕字幕移植](https://greasyfork.org/zh-CN/scripts/428746) - 解除 B 站大会员观影限制，理论支持番剧和放映厅.
-- [解除 B 站区域限制](https://greasyfork.org/zh-CN/scripts/25718) - 通过替换获取视频地址接口的方式，实现解除 B 站区域限制；只对 HTML5 播放器生效.
+- [解除 B 站区域限制](https://greasyfork.org/zh-CN/scripts/25718) - 通 过替换获取视频地址接口的方式，实现解除 B 站区域限制；只对 HTML5 播放器生效.
 
 ### 直播脚本
 
@@ -171,4 +172,4 @@
 
 请查看[贡献指南](https://github.com/HCLonely/awesome-bilibili-extra/blob/master/CONTRIBUTING.md).
 
-<!-- Sort Time: 2022-03-11 15:29:38 +08:00-->
+<!-- Sort Time: 2022-03-11 08:53:20 +00:00 -->
