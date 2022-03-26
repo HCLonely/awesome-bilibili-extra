@@ -34,6 +34,7 @@
 
 - [Pakku](https://github.com/xmcp/pakku.js) - 哔哩哔哩弹幕过滤器.
 - [Unblock Bilibili](https://unblockbilibili.app/) - 免费不限时加速和解锁哔哩哔哩和主流中国音视频流媒体网站.
+- [bilidown_lite](https://github.com/MNTMDEV/bilidown_lite) - b站源视频下载chrome拓展版，已兼容全新BV号标准，支持番剧，配合桌面客户端可以一键下载.
 
 ### 直播扩展
 
@@ -65,6 +66,7 @@
 - [userscript-enhance-bilibili-player](https://github.com/fython/userscript-enhance-bilibili-player) - 增强哔哩哔哩播放器的使用体验.
 - [Bili_Video_Speed_Controller](https://github.com/NicerWang/Bili_Video_Speed_Controller) - 适用于Bilibili新版网页播放器的速度控制插件.
 - [bilibili-simple-home](https://github.com/hakadao/bilibili-simple-home) - 适b站仿搜索引擎样式首页风格.
+- [Bili-Recommended-List-Blocker](https://github.com/kuzen/Bili-Recommended-List-Blocker) - 屏蔽b站首页推荐中的up主.
 
 ### 直播脚本
 
@@ -103,6 +105,8 @@
 - [bilibili-video2mp3](https://github.com/wxsms/bilibili-video2mp3) - 一个下载B站视频并转换为MP3的工具.
 - [bili-downloader](https://github.com/heartalborada-del/bili-downloader) - 这是一个B站视频下载器.
 - [biliDownloader](https://github.com/JimmyLiang-lzm/biliDownloader) - Bilibili弹幕视频下载器，现已支持Bilibili互动视频下载.
+- [tiny-bilibili-downloader](https://github.com/CeriChen/tiny-bilibili-downloader) - 简单bilibilii(B站)视频命令行下载工具.
+- [bilibili-download](https://github.com/imzusheng/bilibili-download) - bilibili视频下载Web平台，免登录，支持下载720p、480p、360p.
 
 ## 直播相关工具
 
@@ -130,6 +134,7 @@
 - [bili-live-heart](https://github.com/XiaoMiku01/bili-live-heart) - 每日获取B站直播间每日小心心及直播间自动打卡脚本.
 - [bilibili-live-chat](https://github.com/Tsuk1ko/bilibili-live-chat) - 无后端的仿 YouTube Live Chat 风格的简易 Bilibili 弹幕姬.
 - [biliroku](https://github.com/zyzsdy/biliroku) - bilibili 生放送（直播）录制.
+- [bilibili-live-helper](https://github.com/pandaGao/bilibili-live-helper) - Bilibili直播弹幕库 for Mac / Windows / Linux.
 
 ## 投稿工具
 
@@ -159,6 +164,7 @@
 - [Bilibili-Bangumi-JS](https://github.com/hans362/Bilibili-Bangumi-JS)- 一个基于前端 + Serverless Function 的 Bilibili 追番进度展示页面.
 - [bilibili-ws-client](https://github.com/varieget/bilibili-ws-client)- 适用于b站直播的 Websocket 客户端.
 - [bili-auth](https://github.com/vapehacker/bili-auth)- 第三方哔哩哔哩 OAuth API，基于私信鉴权.
+- [bilireq](https://github.com/SK-415/bilireq)- 原 HarukaBot 的哔哩哔哩请求库.
 
 ## 其他
 
@@ -182,7 +188,11 @@
 - [bilimiao2](https://github.com/10miaomiao/bilimiao2) - bilimiao，拓展b站客户端没有的功能.
 - [BilibiliDownloadExtract](https://github.com/lycode404/BilibiliDownloadExtract) - 可批量从Bilibili(Android)缓存文件中提取MP4/MKV格式的视频以及弹幕.
 - [BiliEmoji](https://github.com/lrhtony/BiliEmoji) - B站全表情收集，含付费表情.
-- [https://github.com/MUedsa/BilibiliLiveTV](https://github.com/MUedsa/BilibiliLiveTV) - 哔哩哔哩直播 Android TV APP.
+- [BilibiliLiveTV](https://github.com/MUedsa/BilibiliLiveTV) - 哔哩哔哩直播 Android TV APP.
+- [biliup_record](https://github.com/96bearli/biliup_record) - 对bilibili的up动态留档.
+- [BilibiliHD2](https://github.com/duzhaokun123/BilibiliHD2) - 非官方哔哩哔哩客户端.
+- [Bilili](https://github.com/clostou/Bilili) - 哔哩哔哩番剧与影视下载.
+- [bilicoin](https://github.com/r3inbowari/bilicoin) - B站自动投币工具 批量用户处理 Lv6经验补全 手机客户端二维码登录 支持docker.
 
 ## 贡献
 
