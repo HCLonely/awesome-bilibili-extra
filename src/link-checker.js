@@ -22,12 +22,18 @@ const axios = require('axios');
     }))
   )
   */
+  const sleep = (time) => new Promise((resolve) => {
+    setTimeout(() => {
+      resolve(true);
+    }, time * 1000);
+  });
   for (const [, name, link] of links) {
     console.log('Checking link', link)
     await axios.head(link).catch(error => {
       console.log(link, error);
       errorLinks.push({name,link});
     })
+    await sleep(Math.floor(Math.random() * (5 - 3 + 1) + 3));
   }
 
   if (errorLinks.length > 0) {
