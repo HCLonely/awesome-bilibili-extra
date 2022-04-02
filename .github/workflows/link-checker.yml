@@ -7,6 +7,7 @@ on:
       - main
     paths:
       - 'README_RAW.md'
+      - '.github/workflows/link-checker.yml'
 jobs:
   Sort:
     runs-on: ubuntu-latest
