@@ -29,14 +29,15 @@ const axios = require('axios');
   });
   let i = 1;
   for (const [, name, link] of links) {
-    console.log('Checking link', link)
+    console.log('Checking link', link);
     await axios.head(link).catch(error => {
       console.log(link, error);
       errorLinks.push({name,link});
-    })
+    });
     if (i % 30 === 0) {
       await sleep(Math.floor(Math.random() * (10 - 5 + 1) + 5));
     }
+    i++;
   }
 
   if (errorLinks.length > 0) {
