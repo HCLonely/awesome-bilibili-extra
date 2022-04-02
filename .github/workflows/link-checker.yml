@@ -7,6 +7,7 @@ on:
       - main
     paths:
       - 'README_RAW.md'
+      - 'src/link-checker.js'
       - '.github/workflows/link-checker.yml'
 jobs:
   Sort:
