@@ -118,6 +118,7 @@
 - [Bilili](https://github.com/clostou/Bilili) - 哔哩哔哩番剧与影视下载.
 - [Bilibili_DownVideoToMp4](https://github.com/binghe021/Bilibili_DownVideoToMp4) - Bilibili 手机端下载的 Download 文件批量转换为 MP4 软件.
 - [BilibiliDownloadExtract](https://github.com/lycode404/BilibiliDownloadExtract) - 可批量从Bilibili(Android)缓存文件中提取MP4/MKV格式的视频以及弹幕.
+- [bilibili-webhook](https://github.com/LJason77/bilibili-webhook) - 通过 webhook 自动下载 B站 视频.
 
 ## 直播相关工具
 
@@ -149,6 +150,8 @@
 - [bili_danmu](https://github.com/qydysky/bili_danmu) - bili直播弹幕机.
 - [BiliBiliLiveAutoRec](https://github.com/qiaoshouzi/BiliBiliLiveAutoRec) - 自动录播脚本.
 - [biligo-live-ws](https://github.com/eric2788/biligo-live-ws) - B站直播 WebSocket 监控服务器.
+- [bilibili_danmaku](https://github.com/windowsair/bilibili_danmaku) - 直播弹幕渲染工具.
+- [BilibiliLiveTools](https://github.com/withsalt/BilibiliLiveTools) - Bilibili直播工具，自动登录并获取推流地址.
 
 ## 投稿工具
 
@@ -181,6 +184,9 @@
 - [bilireq](https://github.com/SK-415/bilireq)- 原 HarukaBot 的哔哩哔哩请求库.
 - [react-bilibili](https://github.com/dxx/react-bilibili)- 高仿B站web移动端.
 - [biliapi](https://github.com/reveever/biliapi)- 哔哩哔哩 bilibili API SDK written in Go.
+- [bilibili-login-js](https://github.com/MoyuScript/bilibili-login-js)- b 站登录库.
+- [fake_bilibili](https://github.com/Raftern/fake_bilibili)- kotlin仿哔哩哔哩动画app.
+- [BiLiBiLiSys](https://github.com/KakarottoCui/BiLiBiLiSys)- 基于SSM的仿哔哩哔哩视频系统.
 
 ## 每日任务
 
@@ -218,6 +224,13 @@
 - [bilimini](https://github.com/chitosai/bilimini) - 藏起来！哔哩哔哩.
 - [bilibili-skin](https://github.com/asdqp233/bilibili-skin) - 哔哩哔哩个性装扮主题存档.
 - [BiliData](https://github.com/TANGhz17/BiliData) - 一个获取哔哩哔哩 视频&up主&热门排行榜等信息的APP.
+- [BilibiliFork](https://github.com/gitofleonardo/BilibiliFork) - 一款用于将他人的番剧列表导入自己的帐号的小工具.
+- [bilibili_api](https://github.com/xiaokexiang/bilibili_api) - 基于Python对B站UP发布的动态进行推送的小程序.
+- [BiliBili-favorites-list-saver](https://github.com/Moemu/BiliBili-favorites-list-saver) - B站收藏夹列表保存程序.
+- [SagumeAutomata](https://github.com/OhnkytaBlabdey/SagumeAutomata) - OneBot based QQ bot 订阅B站视频，直播，动态.
+- [LotteryAutoScript](https://github.com/shanmiteko/LotteryAutoScript) - Bili动态抽奖助手.
+- [bilibili-dynamic-del](https://github.com/monSteRhhe/bilibili-dynamic-del) - 自动删除B站转发抽奖动态.
+- [crawling-bilibili-personal-collect](https://github.com/cangkongman/crawling-bilibili-personal-collect) - 爬取bilibili的自己账号的收藏夹信息，并转excel储存.
 
 ## 贡献
 
