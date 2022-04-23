@@ -50,26 +50,44 @@
 
 ### 全站脚本
 
+- [B 站共同关注快速查看](https://greasyfork.org/zh-CN/scripts/428453) - 快速查看与特定用户的共同关注.
 - [B 站封面获取](https://greasyfork.org/zh-CN/scripts/395575) - B 站视频播放页、番剧播放页、直播间添加获取封面的按钮.
 - [Bilibili-Evolved](https://github.com/the1812/Bilibili-Evolved) - 强大的哔哩哔哩增强脚本：下载视频，音乐，封面，弹幕 / 简化直播间，评论区，首页 / 自定义顶栏，删除广告，夜间模式 / 触屏设备支持.
 
 ### 主站脚本
 
+- [B 站动态自定义过滤](https://greasyfork.org/zh-CN/scripts/422227) - B 站动态自定义过滤，可过滤转发类型.
+- [B 站动态首页展示所有正在直播列表](https://greasyfork.org/zh-CN/scripts/438461) - 直接在动态首页展示所有的正在直播名单，而不是默认 10 个.
+- [B 站大会员视频自动解析](https://greasyfork.org/zh-CN/scripts/440539) - 浸入式虚拟会员体验，功能智能自动化，兼容移动端.
+- [B 站搜索页面、个人主页已看视频标记](https://greasyfork.org/zh-CN/scripts/374894) - 在 B 站搜索结果页面、个人主页标记哪些视频是已经看过的.
+- [B 站稍后再看功能增强](https://greasyfork.org/zh-CN/scripts/395456) - 完全自定义你的视频标题下方信息栏，排序，增加，删除！.
 - [B 站网页端添加 APP 首页推荐](https://greasyfork.org/zh-CN/scripts/368446) - 网页端首页添加 APP 首页推荐、全站排行、可选提交不喜欢的视频.
+- [B 站防剧透进度条](https://greasyfork.org/zh-CN/scripts/411092) - 看比赛、看番总是被进度条剧透？装上这个脚本再也不用担心这些问题了.
+- [B 站首页黑名单](https://greasyfork.org/zh-CN/scripts/437528) - 屏蔽 b 站首页推荐中的指定 up.
 - [BILIBILI MoeUseHelper](https://greasyfork.org/zh-CN/scripts/408526) - 一键开关弹幕 | 播放暂停 | 调整倍速 | 开关全屏 | 能让你用哔哩哔哩更加愉快的助手.
 - [Bili-Recommended-List-Blocker](https://github.com/kuzen/Bili-Recommended-List-Blocker) - 屏蔽 b 站首页推荐中的 up 主.
 - [Bili_Video_Speed_Controller](https://github.com/NicerWang/Bili_Video_Speed_Controller) - 适用于 Bilibili 新版网页播放器的速度控制插件.
 - [Bilibili CC 字幕工具](https://greasyfork.org/zh-CN/scripts/378513) - 可以在 B 站加载外挂本地字幕、下载 B 站的 CC 字幕，旧版 B 站播放器可启用 CC 字幕.
 - [Bilibili Vesiter](https://greasyfork.org/zh-CN/scripts/425696) - 哔哩哔哩移除主站广告、移除播放页广告、自动宽屏、自动全屏、自动播放、逐帧播放.
 - [Bilibili 一键已读](https://greasyfork.org/zh-CN/scripts/429152) - 一键设置所有会话已读.
+- [Bilibili 时间线筛选](https://greasyfork.org/zh-CN/scripts/396032) - 这个脚本能帮你通过关注分组筛选 b 站时间线上的动态.
+- [Bilibili 自动切 P](https://greasyfork.org/zh-CN/scripts/432283) - 为什么要单独写个脚本呢？因为自动连播就是个 **.
+- [Bilibili 视频下载](https://greasyfork.org/zh-CN/scripts/413228) - 支持 Web、RPC、Blob、Aria 等下载方式；支持 flv、dash、mp4 视频格式.
+- [Bilibili 首页增加 \[关注 \] 列表](https://greasyfork.org/zh-CN/scripts/384723) - 在 bilibili 网页端上方菜单添加 \[关注 \] 的列表，快速进入你关注的 up 主空间.
 - [Bilibili-Old](https://github.com/MotooriKashin/Bilibili-Old) - 通过重写网页框架的方式切换到 Bilibili 旧版页面.
 - [Bilibili-app-recommend](https://github.com/magicdawn/bilibili-app-recommend) - 为 B 站首页添加像 App 一样的推荐.
 - [Bilibili-simple-home](https://github.com/hakadao/bilibili-simple-home) - 适 b 站仿搜索引擎样式首页风格.
 - [Bilibili-timeline-filter](https://github.com/hi94740/bilibili-timeline-filter.user.js) - 帮助你梳理 b 站时间线上的动态的油猴脚本.
 - [BilibiliTimer](https://greasyfork.org/zh-CN/scripts/30367) - B 站 H5 播放器全屏下实时显示当前系统时间和播放进度.
 - [Userscript-enhance-bilibili-player](https://github.com/fython/userscript-enhance-bilibili-player) - 增强哔哩哔哩播放器的使用体验.
+- [关注管理器](https://greasyfork.org/zh-CN/scripts/428895) - 快速排序和筛选你的关注列表，一键取关不再关注的 UP 等.
+- [哔哩哔哩查看原图](https://greasyfork.org/zh-CN/scripts/372289) - 方便在 B 站内查看各种图片的原图，支持动态、专栏.
+- [哔哩哔哩深色模式 + 工具箱](https://greasyfork.org/zh-CN/scripts/428222) - 多种深色模式、随日出日落切换深浅色、关闭新版推广和赛事栏等.
 - [哔哩哔哩深色模式](https://greasyfork.org/zh-CN/scripts/428222) - 熬夜必备 | 呵护眼睛 | 沉浸体验 | 优化布局 | 适用于网页端 | 深色 / 夜间 / 黑色 / 暗色模式.
+- [哔哩哔哩番剧出差助手](https://greasyfork.org/zh-CN/scripts/429205) - 为动态页面增加显示哔哩哔哩番剧出差动态功能.
 - [哔哩哔哩站内链接信息显示](https://greasyfork.org/zh-CN/scripts/398500) - 替换哔哩哔哩页面的视频链接为视频名，专栏链接为专栏文章名，音频链接为音频名.
+- [哔哩哔哩自动增强](https://greasyfork.org/zh-CN/scripts/437941) - 功能快捷键，视频智能解析，每日任务等.
+- [哔哩哔哩视频页面常驻显示 AV/BV 号](https://greasyfork.org/zh-CN/scripts/398655) - 完全自定义你的视频标题下方信息栏，排序，增加，删除.
 - [哔哩哔哩辅助脚本解析大会员](https://greasyfork.org/zh-CN/scripts/428342) - 解析大会员视频，播放页去广告，自动最高画质，自动展开简介，移除顶部的下载 app 选项等.
 - [更好的 Bilibili](https://github.com/jerryshell/better-bilibili) - 更好的 Bilibili.
 - [解锁 b 站 vip 视频 + 弹幕字幕移植](https://greasyfork.org/zh-CN/scripts/428746) - 解除 B 站大会员观影限制，理论支持番剧和放映厅.
@@ -77,8 +95,9 @@
 
 ### 直播脚本
 
-- [B 站直播间挂机助手](https://github.com/andywang425/BLTH) - B 站直播间挂机助手.
+- [B 站直播自动抢红包](https://greasyfork.org/zh-CN/scripts/439169) - 会在进房间以后的下一次发红包时开始生效.
 - [B 站直播间挂机助手](https://greasyfork.org/zh-CN/scripts/406048) - 优化直播观看体验.
+- [B 站直播随看随录](https://greasyfork.org/zh-CN/scripts/435623) - 无需打开弹幕姬，可即时录制 flv 的油猴脚本，快速切片.
 - [Bilibili 勋章常亮](https://greasyfork.org/zh-CN/scripts/429846) - 保持哔哩哔哩直播粉丝勋章常亮.
 - [Bilibili 直播净化](https://greasyfork.org/zh-CN/scripts/21416) - 屏蔽聊天室礼物以及关键字，净化聊天室环境.
 - [Bilibili 直播自定义皮肤背景](https://greasyfork.org/zh-CN/scripts/387120) - 自定义哔哩哔哩直播的皮肤和背景，仅自己可见.
@@ -86,6 +105,7 @@
 - [Bilibili 直播间挂机助手](https://github.com/SeaLoong/BLRHH) - B 站直播间挂机用：签到，领瓜子，移动端心跳，瓜子换硬币等.
 - [Bliveproxy](https://github.com/xfgryujk/bliveproxy) - B 站直播 websocket hook 框架.
 - [斗虫数据直播间可视化](https://greasyfork.org/zh-CN/scripts/416768) - 添加斗虫数据到直播间 (仅支持 VUP).
+- [高亮个别用户的弹幕](https://greasyfork.org/zh-CN/scripts/418195) - 高亮个别用户的弹幕，有时候找一些特殊人物 (其他直播主出现在直播房间) 用.
 
 ## 下载工具
 
@@ -244,6 +264,7 @@
 - [Nonebot_plugin_biliav](https://github.com/knva/nonebot_plugin_biliav) - NoneBot biliav 小程序 查看插件.
 - [Nonebot_plugin_bilibilibot](https://github.com/TDK1969/nonebot_plugin_bilibilibot) - 基于 Nonebot2 的 bilibili 通知插件，可将 up 主，主播以及番剧的更新 / 直播动态推送到 QQ.
 - [SagumeAutomata](https://github.com/OhnkytaBlabdey/SagumeAutomata) - OneBot based QQ bot 订阅 B 站视频，直播，动态.
+- [Vup_monitors](https://github.com/eric2788/vup_monitors) - 高亮个别用户弹幕 + 捕捉进入直播间 QQ 机器人版.
 
 ## 其他
 
@@ -270,4 +291,4 @@
 
 请查看[贡献指南](https://github.com/HCLonely/awesome-bilibili-extra/blob/master/CONTRIBUTING.md).
 
-<!-- Sort Time: 2022-04-23 11:04:42 +08:00 -->
+<!-- Sort Time: 2022-04-23 03:46:09 +00:00 -->
