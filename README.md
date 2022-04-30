@@ -260,7 +260,6 @@
 - [BiliTools](https://github.com/catlair/BiliTools) - 哔哩哔哩每日任务 (基于 Nodejs12.x 及以上).
 - [Bilibili-helper-hub](https://github.com/Cruii/bilibili-helper-hub) - Bilibili 每日任务托管平台.
 - [BilibiliTask_3](https://github.com/chuiba/BilibiliTask_3) - B 站挂机用.
-- [BilibiliTask_3](https://github.com/chuiba/BilibiliTask_3) - B 站挂机用.
 - [Bilicoin](https://github.com/r3inbowari/bilicoin) - B 站自动投币工具 批量用户处理 Lv6 经验补全 手机客户端二维码登录 支持 docker.
 - [Bilive_client](https://github.com/bilive/bilive_client) - 基于 Node.JS 的哔哩哔哩账号活跃系统.
 
@@ -306,4 +305,4 @@
 
 请查看[贡献指南](https://github.com/HCLonely/awesome-bilibili-extra/blob/master/CONTRIBUTING.md).
 
-<!-- Sort Time: 2022-04-30 02:37:13 +00:00 -->
+<!-- Sort Time: 2022-04-30 02:54:16 +00:00 -->
