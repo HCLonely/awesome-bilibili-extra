@@ -34,7 +34,7 @@ const axios = require('axios');
       console.log(link, error);
       errorLinks.push({name,link});
     });
-    if (i % 30 === 0) {
+    if (i % 20 === 0) {
       await sleep(Math.floor(Math.random() * (10 - 5 + 1) + 5));
     }
     i++;
