@@ -262,7 +262,6 @@
 - [BiliTools](https://github.com/catlair/BiliTools) - 哔哩哔哩每日任务(基于 Nodejs12.x 及以上).
 - [BilibiliTask_3](https://github.com/chuiba/BilibiliTask_3) - B站挂机用.
 - [BiliHP-APP](https://github.com/tobycroft/BiliHP-APP) - BiliBili助手全端软件.
-- [BilibiliTask_3](https://github.com/chuiba/BilibiliTask_3) - B站挂机用.
 
 ## 机器人
 
