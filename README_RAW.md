@@ -43,6 +43,7 @@
 ### 直播扩展
 
 - [Bilibili-jimaku-filter](https://github.com/eric2788/bilibili-jimaku-filter) - 哔哩哔哩直播同传字幕过滤插件.
+- [bilibili-live-recorder](https://github.com/zhw2590582/bilibili-live-recorder) - Bilibili 录播姬.
 
 ## 油猴脚本
 
@@ -84,7 +85,6 @@
 - [B站搜索页面、个人主页已看视频标记](https://greasyfork.org/zh-CN/scripts/374894) - 在B站搜索结果页面、个人主页标记哪些视频是已经看过的.
 - [B站防剧透进度条](https://greasyfork.org/zh-CN/scripts/411092) - 看比赛、看番总是被进度条剧透？装上这个脚本再也不用担心这些问题了.
 - [bilibili时间线筛选](https://greasyfork.org/zh-CN/scripts/396032) - 这个脚本能帮你通过关注分组筛选b站时间线上的动态.
-- [哔哩哔哩深色模式+工具箱](https://greasyfork.org/zh-CN/scripts/428222) - 多种深色模式、随日出日落切换深浅色、关闭新版推广和赛事栏等.
 - [关注管理器](https://greasyfork.org/zh-CN/scripts/428895) - 快速排序和筛选你的关注列表，一键取关不再关注的UP等.
 - [B站动态自定义过滤](https://greasyfork.org/zh-CN/scripts/422227) - B站动态自定义过滤，可过滤转发类型.
 - [Bilibili 自动切P](https://greasyfork.org/zh-CN/scripts/432283) - 为什么要单独写个脚本呢？因为自动连播就是个**.
@@ -148,6 +148,8 @@
 - [bilibili-save-nodejs](https://github.com/Youky1/bilibili-save-nodejs) - 下载B站视频/音频，提供命令行工具和Nodejs的API.
 - [bilibili2local](https://github.com/sansui-orz/bilibili2local) - bilibili视频下载命令行工具.
 - [Bilibili_UP_Spider](https://github.com/MarySueTeam/Bilibili_UP_Spider) - 下载UP的全部稿件.
+- [bilibili-bangumi-downloader](https://github.com/yaoxi-std/bilibili-bangumi-downloader) - Bilibili 番剧下载器.
+- [beautify_bilibili_folder](https://github.com/M-Kepler/beautify_bilibili_folder) - 把从app上下载的视频从文件夹中取出并根据视频标题进行重命名.
 
 ## 直播相关工具
 
@@ -181,6 +183,7 @@
 - [biligo-live-ws](https://github.com/eric2788/biligo-live-ws) - B站直播 WebSocket 监控服务器.
 - [bilibili_danmaku](https://github.com/windowsair/bilibili_danmaku) - 直播弹幕渲染工具.
 - [BilibiliLiveTools](https://github.com/withsalt/BilibiliLiveTools) - Bilibili直播工具，自动登录并获取推流地址.
+- [BilibiliDanMu](https://github.com/Kurris/BilibiliDanMu) - bilibili 弹幕工具.
 
 ## UP 工具
 
@@ -194,6 +197,8 @@
 - [bililive-record-uploader](https://github.com/Gliese129/bililive-record-uploader) - 自动将B站录播姬录播上传到B站.
 - [Bilibili 自动打轴助手](https://github.com/AS042971/bili-auto-note) - 通过本工具可以将统一的时间轴自动转换到不同的录播笔记.
 - [biliup-app](https://github.com/yzydlc/bilibili.up-app) - b站全平台投稿客户端，支持多p投稿.
+- [Biliup](https://github.com/biliup/biliup) - 支持自动录制各大直播平台实时流，上传到哔哩哔哩.
+- [YoutubeToBilibili](https://github.com/HarukaKinen/YoutubeToBilibili) - 一个自动搬运视频到 bilibili 的 python 脚本.
 
 ## 开发
 
@@ -204,7 +209,6 @@
 - [Bilibili-Toolkit](https://github.com/Hsury/Bilibili-Toolkit) - 哔哩哔哩辅助工具箱，支持Cookie/Token/Password融合持久化登录与多用户操作.
 - [Bilibili-Live-API](https://github.com/lovelyyoshino/Bilibili-Live-API) - 哔哩哔哩直播/番剧 API.
 - [Bilibili-api](https://github.com/MoyuScript/bilibili-api) - 哔哩哔哩的API调用模块(Python).
-- [Biliup](https://github.com/ForgQi/biliup) - 支持自动录制各大直播平台实时流，上传到哔哩哔哩.
 - [Bilibili-user](https://github.com/airingursb/bilibili-user)- Bilibili 用户爬虫.
 - [Bili-api](https://github.com/simon300000/bili-api)- Bilibili Node.js API.
 - [Yabapi](https://github.com/SDLMoe/Yabapi)- Bilibili API for Kotlin.
@@ -220,6 +224,13 @@
 - [biliapi](https://github.com/reveever/biliapi)- 哔哩哔哩 bilibili API SDK written in Go.
 - [bilibili-login-js](https://github.com/MoyuScript/bilibili-login-js)- b 站登录库.
 - [bilibili_danmaku](https://github.com/MerlynAllen/bilibili_danmaku)- 一个提供Flask-style API的Bilibili直播弹幕协议解析器.
+- [bilibili_api](https://github.com/Nemo2011/bilibili_api)- 这是一个用 Python 写的调用 Bilibili 各种 API 的库.
+- [bilirust](https://github.com/niuhuan/bilirust)- RUST 哔哩哔哩客户端.
+- [BiliCenter](https://github.com/TiyaAnlite/BiliCenter)- 新版番剧数据中心兼分布式数据挖掘框架.
+- [bililive-rs](https://github.com/PhotonQuantum/bililive-rs)- Simple stream-based bilibili live client libraries.
+- [bilibili](https://github.com/CuteReimu/bilibili)- 哔哩哔哩bilibili的API的Go SDK.
+- [bilib](https://github.com/OlafZhang/bilib)- 整合多个B站原生API，并结合爬取技术的Python爬取用lib.
+- [bilibili-bullet](https://github.com/79W/bilibili-bullet)- bilibili 直播弹幕实时WebSocket爬取.
 
 ## 第三方客户端
 
@@ -236,6 +247,7 @@
 - [BilibiliLiveTV](https://github.com/MUedsa/BilibiliLiveTV) - 哔哩哔哩直播 Android TV APP.
 - [bilimiao2](https://github.com/10miaomiao/bilimiao2) - bilimiao，拓展b站客户端没有的功能.
 - [BiliData](https://github.com/TANGhz17/BiliData) - 一个获取哔哩哔哩 视频&up主&热门排行榜等信息的APP.
+- [Bilibili.Manga](https://github.com/dove-team/Bilibili.Manga) - Bilibili漫画第三方客户端.
 
 ## 每日任务
 
@@ -248,6 +260,8 @@
 - [bilicoin](https://github.com/r3inbowari/bilicoin) - B站自动投币工具 批量用户处理 Lv6经验补全 手机客户端二维码登录 支持docker.
 - [bilibili-helper-hub](https://github.com/Cruii/bilibili-helper-hub) - Bilibili每日任务托管平台.
 - [BiliTools](https://github.com/catlair/BiliTools) - 哔哩哔哩每日任务(基于 Nodejs12.x 及以上).
+- [BilibiliTask_3](https://github.com/chuiba/BilibiliTask_3) - B站挂机用.
+- [BiliHP-APP](https://github.com/tobycroft/BiliHP-APP) - BiliBili助手全端软件.
 - [BilibiliTask_3](https://github.com/chuiba/BilibiliTask_3) - B站挂机用.
 
 ## 机器人
@@ -265,6 +279,7 @@
 - [mirai-plugins-bilibili](https://github.com/Nekoer/mirai-plugins-bilibili) - BiliBili推送.
 - [SagumeAutomata](https://github.com/OhnkytaBlabdey/SagumeAutomata) - OneBot based QQ bot 订阅B站视频，直播，动态.
 - [vup_monitors](https://github.com/eric2788/vup_monitors) - 高亮个别用户弹幕+捕捉进入直播间 QQ 机器人版.
+- [nonebot-plugin-bilicover](https://github.com/A-kirami/nonebot-plugin-bilicover) - nonebot2的提取B站视频封面插件.
 
 ## 其他
 

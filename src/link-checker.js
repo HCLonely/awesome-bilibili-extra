@@ -2,7 +2,7 @@ const fs = require('fs');
 const axios = require('axios');
 
 (async () => {
-  const content = fs.readFileSync('README.md').toString();
+  const content = fs.readFileSync('README_RAW.md').toString();
 
   const mainText = content.split('---')[2];
   const links = [];
