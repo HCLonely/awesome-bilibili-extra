@@ -54,6 +54,7 @@
 - [Bilibili-Evolved](https://github.com/the1812/Bilibili-Evolved) - 强大的哔哩哔哩增强脚本: 下载视频, 音乐, 封面, 弹幕/简化直播间, 评论区, 首页/自定义顶栏, 删除广告, 夜间模式/触屏设备支持.
 - [B站封面获取](https://greasyfork.org/zh-CN/scripts/395575) - B站视频播放页、番剧播放页、直播间添加获取封面的按钮.
 - [B站共同关注快速查看](https://greasyfork.org/zh-CN/scripts/428453) - 快速查看与特定用户的共同关注.
+- [Bilibili 解锁杜比全景声...](https://greasyfork.org/zh-CN/scripts/441403) - 为 B站 Windows 平台 解锁杜比全景声 & 8K & 开启 HDR & 直播画质PRO.
 
 ### 主站脚本
 
@@ -136,7 +137,7 @@
 - [bilibili-download](https://github.com/imzusheng/bilibili-download) - bilibili视频下载Web平台，免登录，支持下载720p、480p、360p.
 - [bili-go](https://github.com/mouxiaohui/bili-go) - 一个 bilibili视频命令行下载器.
 - [BiliDownload](https://github.com/Naptie/BiliDownload) - B站视频下载工具.
-- [Lighting-bilibili-download](https://github.com/HFrost0/Lighting-bilibili-download) - 快如闪电的bilibili下载工具.
+- [bilix](https://github.com/HFrost0/bilix) - 快如闪电的bilibili下载工具.
 - [decode_bilibili_uwp_download_video](https://github.com/DuckBurnIncense/decode_bilibili_uwp_download_video) - 解密b站UWP最新版下载的视频.
 - [bili-downloader](https://github.com/feilongproject/bili-downloader) - 纯网页版bilibili视频下载器.
 - [Bilili](https://github.com/clostou/Bilili) - 哔哩哔哩番剧与影视下载.
@@ -150,6 +151,11 @@
 - [Bilibili_UP_Spider](https://github.com/MarySueTeam/Bilibili_UP_Spider) - 下载UP的全部稿件.
 - [bilibili-bangumi-downloader](https://github.com/yaoxi-std/bilibili-bangumi-downloader) - Bilibili 番剧下载器.
 - [beautify_bilibili_folder](https://github.com/M-Kepler/beautify_bilibili_folder) - 把从app上下载的视频从文件夹中取出并根据视频标题进行重命名.
+- [BiliBiliVideoDownload](https://github.com/IgnatiusGL/BiliBiliVideoDownload) - B站视频下载工具(Windows版).
+- [biliNovel2Epub](https://github.com/fangxx3863/biliNovel2Epub) - 下载 哔哩轻小说 文章至Epub.
+- [bilibili-download](https://github.com/lecepin/bilibili-download) - 超简单 B 站视频下载工具, 安装即可使用.
+- [FastestBilibiliDownloader](https://github.com/sodaling/FastestBilibiliDownloader) - B站视频极速批量下载器.
+- [BiliBiliDecryptor](https://github.com/lc6464/BiliBiliDecryptor) - 哔哩哔哩 UWP 客户端下载的视频的解密工具.
 
 ## 直播相关工具
 
@@ -184,6 +190,7 @@
 - [bilibili_danmaku](https://github.com/windowsair/bilibili_danmaku) - 直播弹幕渲染工具.
 - [BilibiliLiveTools](https://github.com/withsalt/BilibiliLiveTools) - Bilibili直播工具，自动登录并获取推流地址.
 - [BilibiliDanMu](https://github.com/Kurris/BilibiliDanMu) - bilibili 弹幕工具.
+- [BililiveAutoDanmaku](https://github.com/lxfly2000/BililiveAutoDanmaku) - B站直播自动弹幕机.
 
 ## UP 工具
 
@@ -279,6 +286,7 @@
 - [SagumeAutomata](https://github.com/OhnkytaBlabdey/SagumeAutomata) - OneBot based QQ bot 订阅B站视频，直播，动态.
 - [vup_monitors](https://github.com/eric2788/vup_monitors) - 高亮个别用户弹幕+捕捉进入直播间 QQ 机器人版.
 - [nonebot-plugin-bilicover](https://github.com/A-kirami/nonebot-plugin-bilicover) - nonebot2的提取B站视频封面插件.
+- [BotBiliBili](https://github.com/Coloryr/BotBiliBili) - 一个基于 ColorMirai 的B站机器人.
 
 ## 其他
 
@@ -300,6 +308,7 @@
 - [crawling-bilibili-personal-collect](https://github.com/cangkongman/crawling-bilibili-personal-collect) - 爬取bilibili的自己账号的收藏夹信息，并转excel储存.
 - [bilibili_unread](https://github.com/powersee/bilibili_unread) - B站未读消息提示器.
 - [Bilibili-monitoring-system-server](https://github.com/ashaowena/Bilibili-monitoring-system-server) - 仿飞瓜数据监控平台（B站版）.
+- [bilibili_Data_Analysis-Clout_Prediction](https://github.com/RubyRose-TAT/bilibili_Data_Analysis-Clout_Prediction) - B站视频热度预测与分析.
 
 ## 贡献
 

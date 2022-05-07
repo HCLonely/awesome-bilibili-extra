@@ -5,6 +5,7 @@
 // @description  项目过滤
 // @author       HCLonely
 // @include      /https:\/\/github\.com\/search\?.*q=bili.*/
+// @include      https://greasyfork.org/zh-CN/scripts/by-site/bilibili.com*
 // @run-at       document-end
 // @grant        GM_setValue
 // @grant        GM_getValue
@@ -25,16 +26,18 @@
       })
     }
   }
-  $('.repo-list-item').filter((i, e) => $(e).find('p').length === 0 || addedItem.includes(new URL($(e).find('a').attr('href'), 'https://github.com/').href)).remove();
+  if (window.location.host === 'github.com') $('.repo-list-item').filter((i, e) => $(e).find('p').length === 0 || addedItem.includes(new URL($(e).find('a').attr('href'), 'https://github.com/').href)).remove();
+  if (window.location.host === 'greasyfork.org') $('#browse-script-list>li').filter((i, e) => addedItem.includes($(e).find('a.script-link').attr('href').match(/(https:\/\/greasyfork.org\/zh-CN\/scripts\/[\d]+?)-/)?.[1])).remove();
   const observer = new MutationObserver(function () {
-    $('.repo-list-item').filter((i, e) => $(e).find('p').length === 0 || addedItem.includes(new URL($(e).find('a').attr('href'), 'https://github.com/').href)).remove();
+    if (window.location.host === 'github.com') $('.repo-list-item').filter((i, e) => $(e).find('p').length === 0 || addedItem.includes(new URL($(e).find('a').attr('href'), 'https://github.com/').href)).remove();
+    if (window.location.host === 'greasyfork.org') $('#browse-script-list>li').filter((i, e) => addedItem.includes($(e).find('a.script-link').attr('href').match(/(https:\/\/greasyfork.org\/zh-CN\/scripts\/[\d]+?)-/)?.[1])).remove();
   });
   observer.observe(document.documentElement, {
     childList: true,
     subtree: true
   });
 
-  function getAddedItem () {
+  function getAddedItem() {
     return new Promise((resolve) => {
       $.ajax({
         url: 'https://raw.githubusercontent.com/HCLonely/awesome-bilibili-extra/main/README.md',
