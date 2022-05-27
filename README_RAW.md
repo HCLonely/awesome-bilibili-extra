@@ -159,6 +159,7 @@
 - [BiliBiliDecryptor](https://github.com/lc6464/BiliBiliDecryptor) - 哔哩哔哩 UWP 客户端下载的视频的解密工具.
 - [bilibili_comics_downloader](https://github.com/lihe07/bilibili_comics_downloader) - Bilibili漫画下载器.
 - [bilibili-api-client](https://github.com/judgeou/bilibili-api-client) - 哔哩哔哩视频下载器，支持 8k，hevc.
+- [Bilibili_manga_download](https://github.com/Randark-JMT/Bilibili_manga_download) - 带图形界面的哔哩哔哩漫画下载工具.
 
 ## 直播相关工具
 
@@ -281,10 +282,11 @@
 - [BilibiliTask_3](https://github.com/chuiba/BilibiliTask_3) - B站挂机用.
 - [BiliHP-APP](https://github.com/tobycroft/BiliHP-APP) - BiliBili助手全端软件.
 - [bili-live-heart](https://github.com/XiaoMiku01/bili-live-heart) - 每日获取B站直播间每日小心心及直播间自动打卡脚本.
+- [BiliLiveAutoInteract](https://github.com/MociLSeng/BiliLiveAutoInteract) - b站最新直播粉丝团自动签到/打卡 点赞/分享/发送弹幕.
 
 ## 机器人
 
-> 可在QQ、TG等社交平台互动、推送的机器人程序。
+> 可在QQ、TG等社交平台互动、推送的机器人程序/插件。
 
 - [Bilibili-helper](https://github.com/cssxsh/bilibili-helper) - 基于 Mirai Console 的 哔哩哔哩 订阅插件.
 - [HarukaBot](https://github.com/SK-415/HarukaBot) - 将 B 站的动态和直播信息推送至 QQ，基于 NoneBot2 开发.
@@ -300,6 +302,7 @@
 - [nonebot-plugin-bilicover](https://github.com/A-kirami/nonebot-plugin-bilicover) - nonebot2的提取B站视频封面插件.
 - [BotBiliBili](https://github.com/Coloryr/BotBiliBili) - 一个基于 ColorMirai 的B站机器人.
 - [bilibili-live-push-qq](https://github.com/xuejianxianzun/bilibili-live-push-qq) - 监控哔哩哔哩 bilibili 直播间状态，发送提醒到QQ（群）.
+- [bili-notice-hoshino](https://github.com/kushidou/bili-notice-hoshino) - 一个Hoshinobot插件，可以获得B站up主最新的动态并推送到QQ群中.
 
 ## 其他
 
