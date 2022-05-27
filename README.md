@@ -149,6 +149,7 @@
 - [Bilibili_UP_Spider](https://github.com/MarySueTeam/Bilibili_UP_Spider) - 下载 UP 的全部稿件.
 - [Bilibili_comics_downloader](https://github.com/lihe07/bilibili_comics_downloader) - Bilibili 漫画下载器.
 - [Bilibili_downloader](https://github.com/haogaulle/bilibili_downloader) - 一个用于下载 B 站视频的 Python 脚本.
+- [Bilibili_manga_download](https://github.com/Randark-JMT/Bilibili_manga_download) - 带图形界面的哔哩哔哩漫画下载工具.
 - [Bilibili_manga_downloader](https://github.com/MOMOYATW/bilibili_manga_downloader) - 基于现代 GUI 的哔哩哔哩漫画下载器.
 - [Bilibili_video_download](https://github.com/Henryhaohao/Bilibili_video_download) - 哔哩哔哩视频下载.
 - [Bilili](https://github.com/clostou/Bilili) - 哔哩哔哩番剧与影视下载.
@@ -276,6 +277,7 @@
 - [BiliBili_Checkin](https://github.com/ICE99125/BiliBili_Checkin) - 腾讯云函数实现 BiliBili 每日观看视频、自动投币、分享、漫画签到、直播签到.
 - [BiliHP-APP](https://github.com/tobycroft/BiliHP-APP) - BiliBili 助手全端软件.
 - [BiliHelper-personal](https://github.com/lkeme/BiliHelper-personal) - 哔哩哔哩助手 - PHP 版.
+- [BiliLiveAutoInteract](https://github.com/MociLSeng/BiliLiveAutoInteract) - b 站最新直播粉丝团自动签到 / 打卡 点赞 / 分享 / 发送弹幕.
 - [BiliTools](https://github.com/catlair/BiliTools) - 哔哩哔哩每日任务 (基于 Nodejs12.x 及以上).
 - [Bilibili-helper-hub](https://github.com/Cruii/bilibili-helper-hub) - Bilibili 每日任务托管平台.
 - [BilibiliTask_3](https://github.com/chuiba/BilibiliTask_3) - B 站挂机用.
@@ -284,8 +286,9 @@
 
 ## 机器人
 
-> 可在QQ、TG等社交平台互动、推送的机器人程序。
+> 可在QQ、TG等社交平台互动、推送的机器人程序/插件。
 
+- [Bili-notice-hoshino](https://github.com/kushidou/bili-notice-hoshino) - 一个 Hoshinobot 插件，可以获得 B 站 up 主最新的动态并推送到 QQ 群中.
 - [Bilibili-Notification](https://github.com/cnscj/Bilibili-Notification) - 检测指定 B 站 Up 主动态，直播状态并进行推送.
 - [Bilibili-dynamic-mirai-plugin](https://github.com/Colter23/bilibili-dynamic-mirai-plugin) - 低延迟检测 B 站动态 / 直播的 mirai-console 插件.
 - [Bilibili-helper](https://github.com/cssxsh/bilibili-helper) - 基于 Mirai Console 的 哔哩哔哩 订阅插件.
@@ -330,4 +333,4 @@
 
 请查看[贡献指南](https://github.com/HCLonely/awesome-bilibili-extra/blob/master/CONTRIBUTING.md).
 
-<!-- Sort Time: 2022-05-21 03:20:18 +00:00 -->
+<!-- Sort Time: 2022-05-27 09:49:12 +00:00 -->
