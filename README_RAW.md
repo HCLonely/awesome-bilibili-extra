@@ -197,6 +197,8 @@
 - [Bililive_contribution_leaderboards](https://github.com/Seyyu0015/Bililive_contribution_leaderboards)- OBS用直播插件, 直播观众贡献排行榜.
 - [bilibili-live-stream](https://github.com/ikexing-cn/bilibili-live-stream)- 一个很简单的获取bilibili直播流的小工具.
 - [BiliLiveChat](https://github.com/BanqiJane/BiliLiveChat)- 纯前端网页简易B站弹幕姬，并带语音读弹幕.
+- [BILiveChat.js](https://github.com/XL7Z/BILiveChat.js)- 基于PlayWithMe_JS二次开发的纯前端弹幕展示板.
+- [bililive_dm](https://github.com/copyliu/bililive_dm)- B站直播弹幕工具.
 
 ## UP 工具
 
@@ -246,6 +248,7 @@
 - [bilib](https://github.com/OlafZhang/bilib)- 整合多个B站原生API，并结合爬取技术的Python爬取用lib.
 - [bilibili-bullet](https://github.com/79W/bilibili-bullet)- bilibili 直播弹幕实时WebSocket爬取.
 - [biligo-live](https://github.com/iyear/biligo-live)- 哔哩哔哩直播 WebSocket 协议的 Golang 封装.
+- [biliMessage](https://github.com/HolaMikaka/biliMessage)- bilibili私信API调用.
 
 ## 第三方客户端
 
@@ -303,6 +306,7 @@
 - [BotBiliBili](https://github.com/Coloryr/BotBiliBili) - 一个基于 ColorMirai 的B站机器人.
 - [bilibili-live-push-qq](https://github.com/xuejianxianzun/bilibili-live-push-qq) - 监控哔哩哔哩 bilibili 直播间状态，发送提醒到QQ（群）.
 - [bili-notice-hoshino](https://github.com/kushidou/bili-notice-hoshino) - 一个Hoshinobot插件，可以获得B站up主最新的动态并推送到QQ群中.
+- [BilibiliBOT-1](https://github.com/catandA/BilibiliBOT-1) - 哔哩视频推荐机器人.
 
 ## 其他
 
@@ -317,7 +321,7 @@
 - [bilibili_master](https://github.com/dzxmxd/bilibili_master) - 哔哩哔哩排行榜数据分析与可视化.
 - [BiliMessengerElectron](https://github.com/Xinrea/BiliMessengerElectron) - Bilibili 舰长私信群发助手.
 - [bilimini](https://github.com/chitosai/bilimini) - 藏起来！哔哩哔哩.
-- [bilibili-skin](https://github.com/KimmyXYC/bilibili-skin) - 哔哩哔哩个性装扮主题存档.
+- [bilibili-skin](https://github.com/Rovniced/bilibili-skin) - 哔哩哔哩个性装扮主题.
 - [BilibiliFork](https://github.com/gitofleonardo/BilibiliFork) - 一款用于将他人的番剧列表导入自己的帐号的小工具.
 - [BiliBili-favorites-list-saver](https://github.com/Moemu/BiliBili-favorites-list-saver) - B站收藏夹列表保存程序.
 - [bilibili-dynamic-del](https://github.com/monSteRhhe/bilibili-dynamic-del) - 自动删除B站转发抽奖动态.
@@ -328,6 +332,9 @@
 - [BilibiliComments](https://github.com/Magi2B0y/BilibiliComments) - 基于fasttext对B站评论进行分析.
 - [bili-short-url](https://github.com/xlzy520/bili-short-url) - 哔哩哔哩短链生成器, 将B站站内链接转化为Bilibili短链.
 - [BilibiliTranscoding](https://github.com/givemefivw/BilibiliTranscoding) - Bilibili视频转码, 无需登录即可观看高清画质.
+- [BiliBili_Private_Msg](https://github.com/hd80606b/BiliBili_Private_Msg) - 哔哩哔哩私信导出，同时支持导出已经被撤回的/无法查看的消息.
+- [bilibili_dynamic_lottery](https://github.com/hexie2108/bilibili_dynamic_lottery) - B站动态转发抽奖小程序.
+- [bilibili_draw](https://github.com/Ikaros-521/bilibili_draw) - 为up主们提供的b站抽奖脚本，脚本由JS编写.
 
 ## 贡献
 
