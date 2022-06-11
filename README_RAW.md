@@ -160,6 +160,10 @@
 - [bilibili_comics_downloader](https://github.com/lihe07/bilibili_comics_downloader) - Bilibili漫画下载器.
 - [bilibili-api-client](https://github.com/judgeou/bilibili-api-client) - 哔哩哔哩视频下载器，支持 8k，hevc.
 - [Bilibili_manga_download](https://github.com/Randark-JMT/Bilibili_manga_download) - 带图形界面的哔哩哔哩漫画下载工具.
+- [BilibiliDecode](https://github.com/VindenChen/BilibiliDecode) - 批量解密UWP哔哩哔哩下载的视频文件.
+- [bilibili-uwp-download-fixtool](https://github.com/gaoyia/bilibili-uwp-download-fixtool) - B站UWP视频下载修复工具.
+- [bilibili_video_download_upid](https://github.com/speakstone/bilibili_video_download_upid) - bilibili批量下载，用于根据UP主的id下载其所有视频.
+- [bilibiliAudioDownloader.ps1](https://github.com/Quandong-Zhang/bilibiliAudioDownloader.ps1) - 基于power shell的b站视频音轨下载器（支持多P）.
 
 ## 直播相关工具
 
@@ -199,6 +203,7 @@
 - [BiliLiveChat](https://github.com/BanqiJane/BiliLiveChat)- 纯前端网页简易B站弹幕姬，并带语音读弹幕.
 - [BILiveChat.js](https://github.com/XL7Z/BILiveChat.js)- 基于PlayWithMe_JS二次开发的纯前端弹幕展示板.
 - [bililive_dm](https://github.com/copyliu/bililive_dm)- B站直播弹幕工具.
+- [bilibili-recording-go](https://github.com/DarrenIce/bilibili-recording-go)- 哔哩哔哩录播机.
 
 ## UP 工具
 
@@ -249,6 +254,7 @@
 - [bilibili-bullet](https://github.com/79W/bilibili-bullet)- bilibili 直播弹幕实时WebSocket爬取.
 - [biligo-live](https://github.com/iyear/biligo-live)- 哔哩哔哩直播 WebSocket 协议的 Golang 封装.
 - [biliMessage](https://github.com/HolaMikaka/biliMessage)- bilibili私信API调用.
+- [Imit_Bilibili](https://github.com/LanMeiX/Imit_Bilibili) - SpringBoot 2.x 实战仿B站高性能后端项目.
 
 ## 第三方客户端
 
@@ -270,6 +276,8 @@
 - [bilibili-ports](https://github.com/reekystive/bilibili-ports) - 哔哩哔哩官方客户端移植.
 - [Bilibili-Mac](https://github.com/HongyuS/Bilibili-Mac) - Bilibili 官方桌面版 macOS 移植.
 - [vue3-vant4-bilibili](https://github.com/chunxiao01/vue3-vant4-bilibili) - 基于Vue3.x和Vant4.x模仿bilibili小程序.
+- [bilibili](https://github.com/minured/bilibili) - b站移动端.
+- [bilibili](https://github.com/hdtls/bilibili) - 基于Flutter的b站客户端.
 
 ## 每日任务
 
@@ -286,6 +294,8 @@
 - [BiliHP-APP](https://github.com/tobycroft/BiliHP-APP) - BiliBili助手全端软件.
 - [bili-live-heart](https://github.com/XiaoMiku01/bili-live-heart) - 每日获取B站直播间每日小心心及直播间自动打卡脚本.
 - [BiliLiveAutoInteract](https://github.com/MociLSeng/BiliLiveAutoInteract) - b站最新直播粉丝团自动签到/打卡 点赞/分享/发送弹幕.
+- [BilibiliHelper-master](https://github.com/rtgfkgt/BilibiliHelper-master) - B 站挂机实用脚本.
+- [bilibiliHelper](https://github.com/RedSTARO/bilibiliHelper) - B 站快速升级脚本.
 
 ## 机器人
 
@@ -307,6 +317,7 @@
 - [bilibili-live-push-qq](https://github.com/xuejianxianzun/bilibili-live-push-qq) - 监控哔哩哔哩 bilibili 直播间状态，发送提醒到QQ（群）.
 - [bili-notice-hoshino](https://github.com/kushidou/bili-notice-hoshino) - 一个Hoshinobot插件，可以获得B站up主最新的动态并推送到QQ群中.
 - [BilibiliBOT-1](https://github.com/catandA/BilibiliBOT-1) - 哔哩视频推荐机器人.
+- [nonebot_plugin_bilibili_viode](https://github.com/ASTWY/nonebot_plugin_bilibili_viode) - 将用户发送的B站视频ID转为(伪)分享卡片的形式.
 
 ## 其他
 
