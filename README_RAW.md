@@ -253,7 +253,6 @@
 - [bilib](https://github.com/OlafZhang/bilib)- 整合多个B站原生API，并结合爬取技术的Python爬取用lib.
 - [bilibili-bullet](https://github.com/79W/bilibili-bullet)- bilibili 直播弹幕实时WebSocket爬取.
 - [biligo-live](https://github.com/iyear/biligo-live)- 哔哩哔哩直播 WebSocket 协议的 Golang 封装.
-- [biliMessage](https://github.com/HolaMikaka/biliMessage)- bilibili私信API调用.
 - [Imit_Bilibili](https://github.com/LanMeiX/Imit_Bilibili) - SpringBoot 2.x 实战仿B站高性能后端项目.
 
 ## 第三方客户端
