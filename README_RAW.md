@@ -5,26 +5,65 @@
 > 各项目之间使用 Javascript `Array.prototype.sort()`方法进行排序，无其他意义.
 
 <details>
-<summary><b>图标说明</b></summary>
-- ![Python](svg/python.svg?raw=true): 主要使用语言/框架-Python
-- ![NodeJs](svg/nodejs.svg?raw=true): 主要使用语言/框架-JavaScript/Node
-- ![TypeScript](svg/tsnode.svg?raw=true): 主要使用语言/框架-TypeScript/Node
-- ![JavaScript](svg/javascript.svg?raw=true): 主要使用语言/框架-JavaScript
-- ![Java](svg/openjdk.svg?raw=true): 主要使用语言/框架-Java
-- ![Java](svg/springboot.svg?raw=true): 主要使用语言/框架-SpringBoot/Java
-- ![C#](svg/csharp.svg?raw=true): 主要使用语言/框架-C#
-- ![C](svg/c.svg?raw=true): 主要使用语言/框架-C
-- ![C++](svg/cplusplus.svg?raw=true): 主要使用语言/框架-C++
-- ![PHP](svg/php.svg?raw=true): 主要使用语言/框架-PHP
-- ![Rust](svg/rust.svg?raw=true): 主要使用语言/框架-Rust
-- ![Shell](svg/shell.svg?raw=true): 主要使用语言/框架-Shell
-- ![Kotlin](svg/kotlin.svg?raw=true): 主要使用语言/框架-Kotlin
-- ![Vue](svg/vue.svg?raw=true): 主要使用语言/框架-Vue/JavaScript
-- ![Svelte](svg/svelte.svg?raw=true): 主要使用语言/框架-Svelte
-- ![Windows](svg/windows.svg?raw=true): 有构建好的可在Windows平台直接运行的可执行文件
-- ![Cli](svg/terminal.svg?raw=true): CLI工具, 主要通过在命令行运行
-- ![Docker](svg/docker.svg?raw=true): 可通过Docker一键部署
+  <summary><b>图标说明</b></summary>
+  <ul>
+    <li>
+      <img src="svg/python.svg?raw=true" alt="Python">: 主要使用语言/框架-Python
+    </li>
+    <li>
+      <img src="svg/nodejs.svg?raw=true" alt="NodeJs">: 主要使用语言/框架-JavaScript/Node
+    </li>
+    <li>
+      <img src="svg/tsnode.svg?raw=true" alt="TypeScript">: 主要使用语言/框架-TypeScript/Node
+    </li>
+    <li>
+      <img src="svg/javascript.svg?raw=true" alt="JavaScript">: 主要使用语言/框架-JavaScript
+    </li>
+    <li>
+      <img src="svg/openjdk.svg?raw=true" alt="Java">: 主要使用语言/框架-Java
+    </li>
+    <li>
+      <img src="svg/springboot.svg?raw=true" alt="Java">: 主要使用语言/框架-SpringBoot/Java
+    </li>
+    <li>
+      <img src="svg/csharp.svg?raw=true" alt="C#">: 主要使用语言/框架-C#
+    </li>
+    <li>
+      <img src="svg/c.svg?raw=true" alt="C">: 主要使用语言/框架-C
+    </li>
+    <li>
+      <img src="svg/cplusplus.svg?raw=true" alt="C++">: 主要使用语言/框架-C++
+    </li>
+    <li>
+      <img src="svg/php.svg?raw=true" alt="PHP">: 主要使用语言/框架-PHP
+    </li>
+    <li>
+      <img src="svg/rust.svg?raw=true" alt="Rust">: 主要使用语言/框架-Rust
+    </li>
+    <li>
+      <img src="svg/shell.svg?raw=true" alt="Shell">: 主要使用语言/框架-Shell
+    </li>
+    <li>
+      <img src="svg/kotlin.svg?raw=true" alt="Kotlin">: 主要使用语言/框架-Kotlin
+    </li>
+    <li>
+      <img src="svg/vue.svg?raw=true" alt="Vue">: 主要使用语言/框架-Vue/JavaScript
+    </li>
+    <li>
+      <img src="svg/svelte.svg?raw=true" alt="Svelte">: 主要使用语言/框架-Svelte
+    </li>
+    <li>
+      <img src="svg/windows.svg?raw=true" alt="Windows">: 有构建好的可在Windows平台直接运行的可执行文件
+    </li>
+    <li>
+      <img src="svg/terminal.svg?raw=true" alt="Cli">: CLI工具, 主要通过在命令行运行
+    </li>
+    <li>
+      <img src="svg/docker.svg?raw=true" alt="Docker">: 可通过Docker一键部署
+    </li>
+  </ul>
 </details>
+
 ---
 
 - [Awesome Bilibili Extra](#awesome-bilibili-extra-)

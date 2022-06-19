@@ -42,7 +42,10 @@
     "allowed_elements":[
       "details",
       "summary",
-      "b"
+      "b",
+      "ul",
+      "li",
+      "img"
     ]
   },
   "MD034": true,
