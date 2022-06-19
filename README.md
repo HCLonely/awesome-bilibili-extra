@@ -4,6 +4,27 @@
 >
 > 各项目之间使用 Javascript `Array.prototype.sort()`方法进行排序，无其他意义.
 
+<details>
+<summary><b>图标说明</b></summary>
+- ![Python](svg/python.svg?raw=true): 主要使用语言/框架-Python
+- ![NodeJs](svg/nodejs.svg?raw=true): 主要使用语言/框架-JavaScript/Node
+- ![TypeScript](svg/tsnode.svg?raw=true): 主要使用语言/框架-TypeScript/Node
+- ![JavaScript](svg/javascript.svg?raw=true): 主要使用语言/框架-JavaScript
+- ![Java](svg/openjdk.svg?raw=true): 主要使用语言/框架-Java
+- ![Java](svg/springboot.svg?raw=true): 主要使用语言/框架-SpringBoot/Java
+- ![C#](svg/csharp.svg?raw=true): 主要使用语言/框架-C#
+- ![C](svg/c.svg?raw=true): 主要使用语言/框架-C
+- ![C++](svg/cplusplus.svg?raw=true): 主要使用语言/框架-C++
+- ![PHP](svg/php.svg?raw=true): 主要使用语言/框架-PHP
+- ![Rust](svg/rust.svg?raw=true): 主要使用语言/框架-Rust
+- ![Shell](svg/shell.svg?raw=true): 主要使用语言/框架-Shell
+- ![Kotlin](svg/kotlin.svg?raw=true): 主要使用语言/框架-Kotlin
+- ![Vue](svg/vue.svg?raw=true): 主要使用语言/框架-Vue/JavaScript
+- ![Svelte](svg/svelte.svg?raw=true): 主要使用语言/框架-Svelte
+- ![Windows](svg/windows.svg?raw=true): 有构建好的可在Windows平台直接运行的可执行文件
+- ![Cli](svg/terminal.svg?raw=true): CLI工具, 主要通过在命令行运行
+- ![Docker](svg/docker.svg?raw=true): 可通过Docker一键部署
+</details>
 ---
 
 - [Awesome Bilibili Extra](#awesome-bilibili-extra-)
@@ -350,4 +371,4 @@
 
 请查看[贡献指南](https://github.com/HCLonely/awesome-bilibili-extra/blob/master/CONTRIBUTING.md).
 
-<!-- Sort Time: 2022-06-18 04:24:31 +00:00 -->
+<!-- Sort Time: 2022-06-19 13:51:06 +08:00 -->
