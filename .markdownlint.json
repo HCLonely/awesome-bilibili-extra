@@ -38,7 +38,13 @@
   "MD030": true,
   "MD031": true,
   "MD032": true,
-  "MD033": true,
+  "MD033": {
+    "allowed_elements":[
+      "details",
+      "summary",
+      "b"
+    ]
+  },
   "MD034": true,
   "MD035": {
     "style": "---"
