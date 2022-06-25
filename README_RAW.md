@@ -92,6 +92,7 @@
 ### 全站扩展
 
 - [哔哩哔哩助手](https://github.com/bilibili-helper/bilibili-helper-o) - 哔哩哔哩弹幕网辅助扩展，拥有视频区和直播区的人性化功能.
+- [bilibili-img-uploader](https://github.com/xlzy520/bilibili-img-uploader) - 哔哩哔哩图床上传、短链转换插件.
 
 ### 主站扩展
 
@@ -99,6 +100,7 @@
 - [Unblock Bilibili](https://unblockbilibili.app/) - 免费不限时加速和解锁哔哩哔哩和主流中国音视频流媒体网站.
 - [bilidown_lite](https://github.com/MNTMDEV/bilidown_lite) - b站源视频下载chrome拓展版，已兼容全新BV号标准，支持番剧，配合桌面客户端可以一键下载.
 - [audio-only-bilibili](https://github.com/cyio/audio-only-bilibili) - Biliblili 网页端使用音频模式.
+- [bili-guessYouLike](https://github.com/chitosai/bili-guessYouLike) - 为PC版bilibili首页增加「猜你喜欢」.
 
 ### 直播扩展
 
@@ -281,6 +283,7 @@
 - [Biliup](https://github.com/biliup/biliup) - 支持自动录制各大直播平台实时流，上传到哔哩哔哩.py|cli|docker
 - [YoutubeToBilibili](https://github.com/HarukaKinen/YoutubeToBilibili) - 一个自动搬运视频到 bilibili 的 python 脚本.py
 - [u2bili](https://github.com/ame-yu/u2bili) - youtube->bilibili 搬运脚本.node|py|cli
+- [auto-bilibili-recorder](https://github.com/valkjsaaa/auto-bilibili-recorder) - Bilibili 全自动录播上传脚本.py|docker
 
 ## 开发
 
@@ -316,6 +319,7 @@
 - [biligo-live](https://github.com/iyear/biligo-live)- 哔哩哔哩直播 WebSocket 协议的 Golang 封装.go
 - [Imit_Bilibili](https://github.com/LanMeiX/Imit_Bilibili) - SpringBoot 2.x 实战仿B站高性能后端项目.jar
 - [Bilibili-Live-Message](https://github.com/GoldrenEggs/Bilibili-Live-Message) - 爬取bilibili直播间接收到的几乎全部消息，并易于使用自定义的方法处理消息.py
+- [bilive-danmaku](https://github.com/4t145/bilive-danmaku) - b站直播api，将bilibili直播间的wss连接转化成事件.rust
 
 ## 第三方客户端
 
@@ -339,6 +343,7 @@
 - [bilibili](https://github.com/minured/bilibili) - b站移动端.vue
 - [bilibili](https://github.com/hdtls/bilibili) - 基于Flutter的b站客户端.flutter
 - [bilibili](https://github.com/YeZC/bilibili) - 高仿Bilibili.kotlin
+- [bilibili-vue](https://github.com/lybenson/bilibili-vue) - 前端vue+后端koa，全栈式开发bilibili首页.vue
 
 ## 每日任务
 
@@ -405,6 +410,7 @@
 - [bilibili_draw](https://github.com/Ikaros-521/bilibili_draw) - 为up主们提供的b站抽奖脚本，脚本由JS编写.js
 - [biliroaming-go-server](https://github.com/JasonKhew96/biliroaming-go-server) - 自建哔哩漫游解析服务器.go|docker
 - [puppeteer-bilibili-up-dynamic](https://github.com/uyoungco/puppeteer-bilibili-up-dynamic) - bilibili UP主动态截图工具.js|docker
+- [BiliRaffle](https://github.com/LeoChen98/BiliRaffle) - B站动态抽奖组件.c#|exe
 
 ## 贡献
 
