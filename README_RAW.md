@@ -156,6 +156,7 @@
 - [哔哩哔哩视频页面常驻显示AV/BV号](https://greasyfork.org/zh-CN/scripts/398655) - 完全自定义你的视频标题下方信息栏，排序，增加，删除.
 - [B站稍后再看功能增强](https://greasyfork.org/zh-CN/scripts/395456) - 完全自定义你的视频标题下方信息栏，排序，增加，删除！.
 - [bilibili-dynamic-del](https://github.com/monSteRhhe/bilibili-dynamic-del) - 自动删除B站转发抽奖动态.
+- [bilibili-follow](https://github.com/lilei2603/bilibili-follow) - B站首页展示UP专区.
 
 ### 直播脚本
 
@@ -227,6 +228,8 @@
 - [bilibili-uwp-download-fixtool](https://github.com/gaoyia/bilibili-uwp-download-fixtool) - B站UWP视频下载修复工具.vue|exe
 - [bilibili_video_download_upid](https://github.com/speakstone/bilibili_video_download_upid) - bilibili批量下载，用于根据UP主的id下载其所有视频.py
 - [bilibiliAudioDownloader.ps1](https://github.com/Quandong-Zhang/bilibiliAudioDownloader.ps1) - 基于power shell的b站视频音轨下载器（支持多P）.sh
+- [Bilibili.Album.Download](https://github.com/qingshanking/Bilibili.Album.Download) - 哔哩哔哩相簿下载工具.c#|exe
+- [bilibiliAudioDownloader](https://github.com/nuster1128/bilibiliAudioDownloader) - 输入视频BV号列表，批量下载B站视频中的音频到本地.py
 
 ## 直播相关工具
 
@@ -382,6 +385,7 @@
 - [bili-notice-hoshino](https://github.com/kushidou/bili-notice-hoshino) - 一个Hoshinobot插件，可以获得B站up主最新的动态并推送到QQ群中.py
 - [BilibiliBOT-1](https://github.com/catandA/BilibiliBOT-1) - 哔哩视频推荐机器人.jar
 - [nonebot_plugin_bilibili_viode](https://github.com/ASTWY/nonebot_plugin_bilibili_viode) - 将用户发送的B站视频ID转为(伪)分享卡片的形式.py
+- [bilivedioSnap](https://github.com/Arisuakip/bilivedioSnap) - HoshinoBot插件,把群友的哔哩哔哩小程序转成预览图.py
 
 ## 其他
 
@@ -411,6 +415,7 @@
 - [biliroaming-go-server](https://github.com/JasonKhew96/biliroaming-go-server) - 自建哔哩漫游解析服务器.go|docker
 - [puppeteer-bilibili-up-dynamic](https://github.com/uyoungco/puppeteer-bilibili-up-dynamic) - bilibili UP主动态截图工具.js|docker
 - [BiliRaffle](https://github.com/LeoChen98/BiliRaffle) - B站动态抽奖组件.c#|exe
+- [bilibiliLearningToolCLI](https://github.com/freysu/bilibiliLearningToolCLI) - B站分 P 视频信息助手.node|cli
 
 ## 贡献
 
