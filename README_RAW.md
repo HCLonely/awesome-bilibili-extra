@@ -117,6 +117,7 @@
 - [B站封面获取](https://greasyfork.org/zh-CN/scripts/395575) - B站视频播放页、番剧播放页、直播间添加获取封面的按钮.
 - [B站共同关注快速查看](https://greasyfork.org/zh-CN/scripts/428453) - 快速查看与特定用户的共同关注.
 - [Bilibili 解锁杜比全景声...](https://greasyfork.org/zh-CN/scripts/441403) - 为 B站 Windows 平台 解锁杜比全景声 & 8K & 开启 HDR & 直播画质PRO.
+- [Bilibili-Popups](https://github.com/sheep-realms/Bilibili-Popups) - 在 Bilibili 中提供链接内容浮窗预览的油猴脚本.
 
 ### 主站脚本
 
@@ -212,7 +213,6 @@
 - [BiliDownload](https://github.com/KafuuNeko/BiliDownload) - Android Bilibili视频下载器.c|c++
 - [BiliFavoritesDownloader](https://github.com/Left024/BiliFavoritesDownloader) - 自动下载B站收藏视频，支持下载封面图，转换xml至ass，上传 OneDrive，邮件、telegram 通知.sh
 - [bilibili-save-nodejs](https://github.com/Youky1/bilibili-save-nodejs) - 下载B站视频/音频，提供命令行工具和Nodejs的API.node|cli
-- [bilibili2local](https://github.com/sansui-orz/bilibili2local) - bilibili视频下载命令行工具.node|cli
 - [Bilibili_UP_Spider](https://github.com/MarySueTeam/Bilibili_UP_Spider) - 下载UP的全部稿件.py
 - [bilibili-bangumi-downloader](https://github.com/yaoxi-std/bilibili-bangumi-downloader) - Bilibili 番剧下载器.py|cli
 - [beautify_bilibili_folder](https://github.com/M-Kepler/beautify_bilibili_folder) - 把从app上下载的视频从文件夹中取出并根据视频标题进行重命名.py
@@ -230,6 +230,7 @@
 - [bilibiliAudioDownloader.ps1](https://github.com/Quandong-Zhang/bilibiliAudioDownloader.ps1) - 基于power shell的b站视频音轨下载器（支持多P）.sh
 - [Bilibili.Album.Download](https://github.com/qingshanking/Bilibili.Album.Download) - 哔哩哔哩相簿下载工具.c#|exe
 - [bilibiliAudioDownloader](https://github.com/nuster1128/bilibiliAudioDownloader) - 输入视频BV号列表，批量下载B站视频中的音频到本地.py
+- [BilibiliAnimeDownload](https://github.com/NorthSkybk/BilibiliAnimeDownload) - 哔哩哔哩番剧下载工具.py
 
 ## 直播相关工具
 
@@ -271,6 +272,8 @@
 - [bililive_dm](https://github.com/copyliu/bililive_dm)- B站直播弹幕工具.c#|exe
 - [bilibili-recording-go](https://github.com/DarrenIce/bilibili-recording-go)- 哔哩哔哩录播机.go
 - [bili-recorder](https://github.com/chocotan/bili-recorder)- 这是一个bilibili直播录制工具.jar
+- [BililiveRecorder-WebUI](https://github.com/BililiveRecorder/BililiveRecorder-WebUI)- B站录播姬的管理网页.vue
+- [bilistream](https://github.com/limitcool/bilistream)- B站直播转播工具,一键转播Youtube,Twitch,Mildom等直播.rust
 
 ## UP 工具
 
@@ -323,6 +326,8 @@
 - [Imit_Bilibili](https://github.com/LanMeiX/Imit_Bilibili) - SpringBoot 2.x 实战仿B站高性能后端项目.jar
 - [Bilibili-Live-Message](https://github.com/GoldrenEggs/Bilibili-Live-Message) - 爬取bilibili直播间接收到的几乎全部消息，并易于使用自定义的方法处理消息.py
 - [bilive-danmaku](https://github.com/4t145/bilive-danmaku) - b站直播api，将bilibili直播间的wss连接转化成事件.rust
+- [biligo](https://github.com/iyear/biligo) - BiliBili API SDK in Golang.go
+- [olive](https://github.com/go-olive/olive) - 一个全自动直播录制直播上传工具.go
 
 ## 第三方客户端
 
@@ -386,6 +391,7 @@
 - [BilibiliBOT-1](https://github.com/catandA/BilibiliBOT-1) - 哔哩视频推荐机器人.jar
 - [nonebot_plugin_bilibili_viode](https://github.com/ASTWY/nonebot_plugin_bilibili_viode) - 将用户发送的B站视频ID转为(伪)分享卡片的形式.py
 - [bilivedioSnap](https://github.com/Arisuakip/bilivedioSnap) - HoshinoBot插件,把群友的哔哩哔哩小程序转成预览图.py
+- [BBot-Graia](https://github.com/djkcyl/BBot-Graia) - 一个使用 gRPC 接口用于 QQ 群内高效推送 BiliBili 动态和直播的机器人.py
 
 ## 其他
 
