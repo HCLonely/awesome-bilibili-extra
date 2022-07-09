@@ -117,6 +117,7 @@
 - [B 站封面获取](https://greasyfork.org/zh-CN/scripts/395575) - B 站视频播放页、番剧播放页、直播间添加获取封面的按钮.
 - [Bilibili 解锁杜比全景声...](https://greasyfork.org/zh-CN/scripts/441403) - 为 B 站 Windows 平台 解锁杜比全景声 & 8K & 开启 HDR & 直播画质 PRO.
 - [Bilibili-Evolved](https://github.com/the1812/Bilibili-Evolved) - 强大的哔哩哔哩增强脚本：下载视频，音乐，封面，弹幕 / 简化直播间，评论区，首页 / 自定义顶栏，删除广告，夜间模式 / 触屏设备支持.
+- [Bilibili-Popups](https://github.com/sheep-realms/Bilibili-Popups) - 在 Bilibili 中提供链接内容浮窗预览的油猴脚本.
 
 ### 主站脚本
 
@@ -206,7 +207,7 @@
 - [Bilibili-video2mp3](https://github.com/wxsms/bilibili-video2mp3) - 一个下载 B 站视频并转换为 MP3 的工具.![NodeJs](svg/nodejs.svg?raw=true)
 - [Bilibili-webhook](https://github.com/LJason77/bilibili-webhook) - 通过 webhook 自动下载 B 站 视频.![Rust](svg/rust.svg?raw=true) ![Docker](svg/docker.svg?raw=true)
 - [Bilibili.Album.Download](https://github.com/qingshanking/Bilibili.Album.Download) - 哔哩哔哩相簿下载工具.![C#](svg/csharp.svg?raw=true) ![Windows](svg/windows.svg?raw=true)
-- [Bilibili2local](https://github.com/sansui-orz/bilibili2local) - bilibili 视频下载命令行工具.![NodeJs](svg/nodejs.svg?raw=true) ![Cli](svg/terminal.svg?raw=true)
+- [BilibiliAnimeDownload](https://github.com/NorthSkybk/BilibiliAnimeDownload) - 哔哩哔哩番剧下载工具.![Python](svg/python.svg?raw=true)
 - [BilibiliAudioDownloader.ps1](https://github.com/Quandong-Zhang/bilibiliAudioDownloader.ps1) - 基于 power shell 的 b 站视频音轨下载器（支持多 P）.![Shell](svg/shell.svg?raw=true)
 - [BilibiliAudioDownloader](https://github.com/nuster1128/bilibiliAudioDownloader) - 输入视频 BV 号列表，批量下载 B 站视频中的音频到本地.![Python](svg/python.svg?raw=true)
 - [BilibiliDecode](https://github.com/VindenChen/BilibiliDecode) - 批量解密 UWP 哔哩哔哩下载的视频文件.![Python](svg/python.svg?raw=true) ![Cli](svg/terminal.svg?raw=true)
@@ -258,10 +259,12 @@
 - [Biligo-live-ws](https://github.com/eric2788/biligo-live-ws) - B 站直播 WebSocket 监控服务器.![Docker](svg/docker.svg?raw=true)
 - [Bililive-go](https://github.com/hr3lxphr6j/bililive-go) - Bililive-go 是一个支持多种直播平台的直播录制工具.![Cli](svg/terminal.svg?raw=true) ![Docker](svg/docker.svg?raw=true)
 - [BililiveAutoDanmaku](https://github.com/lxfly2000/BililiveAutoDanmaku) - B 站直播自动弹幕机.![Java](svg/openjdk.svg?raw=true)
+- [BililiveRecorder-WebUI](https://github.com/BililiveRecorder/BililiveRecorder-WebUI) - B 站录播姬的管理网页.![Vue](svg/vue.svg?raw=true)
 - [BililiveRecorder](https://github.com/BililiveRecorder/BililiveRecorder) - 哔哩哔哩直播录制工具.![C#](svg/csharp.svg?raw=true) ![Cli](svg/terminal.svg?raw=true)
 - [Bililive_contribution_leaderboards](https://github.com/Seyyu0015/Bililive_contribution_leaderboards) - OBS 用直播插件，直播观众贡献排行榜.![Python](svg/python.svg?raw=true)
 - [Bililive_dm](https://github.com/copyliu/bililive_dm) - B 站直播弹幕工具.![C#](svg/csharp.svg?raw=true) ![Windows](svg/windows.svg?raw=true)
 - [Biliroku](https://github.com/zyzsdy/biliroku) - bilibili 生放送（直播）录制.![C#](svg/csharp.svg?raw=true) ![Windows](svg/windows.svg?raw=true)
+- [Bilistream](https://github.com/limitcool/bilistream) - B 站直播转播工具，一键转播 Youtube,Twitch,Mildom 等直播.![Rust](svg/rust.svg?raw=true)
 - [Bilive-danmaku](https://github.com/Beats0/bilive-danmaku) - 哔哩哔哩直播弹幕姬 (非官方)，支持 win 和 mac.![TypeScript](svg/tsnode.svg?raw=true) ![Windows](svg/windows.svg?raw=true)
 - [Blivechat](https://github.com/xfgryujk/blivechat) - 用于 OBS 的仿 YouTube 风格的哔哩哔哩直播评论栏.![NodeJs](svg/nodejs.svg?raw=true) ![Python](svg/python.svg?raw=true) ![Windows](svg/windows.svg?raw=true) ![Docker](svg/docker.svg?raw=true)
 - [Blrec](https://github.com/acgnhiki/blrec) - 哔哩哔哩直播录制工具.![Python](svg/python.svg?raw=true) ![Windows](svg/windows.svg?raw=true) ![Cli](svg/terminal.svg?raw=true) ![Docker](svg/docker.svg?raw=true)
@@ -316,11 +319,13 @@
 - [Bilibili_api](https://github.com/Nemo2011/bilibili_api) - 这是一个用 Python 写的调用 Bilibili 各种 API 的库.![Python](svg/python.svg?raw=true)
 - [Bilibili_danmaku](https://github.com/MerlynAllen/bilibili_danmaku) - 一个提供 Flask-style API 的 Bilibili 直播弹幕协议解析器.![Python](svg/python.svg?raw=true)
 - [Biligo-live](https://github.com/iyear/biligo-live) - 哔哩哔哩直播 WebSocket 协议的 Golang 封装.
+- [Biligo](https://github.com/iyear/biligo) - BiliBili API SDK in Golang.
 - [Bililive-rs](https://github.com/PhotonQuantum/bililive-rs) - Simple stream-based bilibili live client libraries.![Rust](svg/rust.svg?raw=true)
 - [Bilireq](https://github.com/SK-415/bilireq) - 原 HarukaBot 的哔哩哔哩请求库.![Python](svg/python.svg?raw=true)
 - [Bilirust](https://github.com/niuhuan/bilirust) - RUST 哔哩哔哩客户端.![Rust](svg/rust.svg?raw=true)
 - [Bilive-danmaku](https://github.com/4t145/bilive-danmaku) - b 站直播 api，将 bilibili 直播间的 wss 连接转化成事件.![Rust](svg/rust.svg?raw=true)
 - [Imit_Bilibili](https://github.com/LanMeiX/Imit_Bilibili) - SpringBoot 2.x 实战仿 B 站高性能后端项目.![Java](svg/openjdk.svg?raw=true)
+- [Olive](https://github.com/go-olive/olive) - 一个全自动直播录制直播上传工具.
 - [Yabapi](https://github.com/SDLMoe/Yabapi) - Bilibili API for Kotlin.![Kotlin](svg/kotlin.svg?raw=true)
 - [Zuiho_bilibili](https://github.com/zuiho1595440844/zuiho_bilibili) - 简易粉丝数播放量显示器（基于 esp8266 和 Python）.![C++](svg/cplusplus.svg?raw=true) ![Python](svg/python.svg?raw=true)
 
@@ -368,6 +373,7 @@
 
 > 可在QQ、TG等社交平台互动、推送的机器人程序/插件。
 
+- [BBot-Graia](https://github.com/djkcyl/BBot-Graia) - 一个使用 gRPC 接口用于 QQ 群内高效推送 BiliBili 动态和直播的机器人.![Python](svg/python.svg?raw=true)
 - [Bili-notice-hoshino](https://github.com/kushidou/bili-notice-hoshino) - 一个 Hoshinobot 插件，可以获得 B 站 up 主最新的动态并推送到 QQ 群中.![Python](svg/python.svg?raw=true)
 - [Bilibili-Notification](https://github.com/cnscj/Bilibili-Notification) - 检测指定 B 站 Up 主动态，直播状态并进行推送.![Python](svg/python.svg?raw=true)
 - [Bilibili-dynamic-mirai-plugin](https://github.com/Colter23/bilibili-dynamic-mirai-plugin) - 低延迟检测 B 站动态 / 直播的 mirai-console 插件.![Kotlin](svg/kotlin.svg?raw=true)
@@ -421,4 +427,4 @@
 
 请查看[贡献指南](https://github.com/HCLonely/awesome-bilibili-extra/blob/master/CONTRIBUTING.md).
 
-<!-- Sort Time: 2022-07-02 01:49:10 +00:00 -->
+<!-- Sort Time: 2022-07-09 01:59:47 +00:00 -->
