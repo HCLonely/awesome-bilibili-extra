@@ -101,6 +101,7 @@
 - [bilidown_lite](https://github.com/MNTMDEV/bilidown_lite) - b站源视频下载chrome拓展版，已兼容全新BV号标准，支持番剧，配合桌面客户端可以一键下载.
 - [audio-only-bilibili](https://github.com/cyio/audio-only-bilibili) - Biliblili 网页端使用音频模式.
 - [bili-guessYouLike](https://github.com/chitosai/bili-guessYouLike) - 为PC版bilibili首页增加「猜你喜欢」.
+- [BiliMini](https://github.com/Taosky/BiliMini) - Bilibili辅助扩展，用于提示并快速查看更新.
 
 ### 直播扩展
 
@@ -274,6 +275,7 @@
 - [bili-recorder](https://github.com/chocotan/bili-recorder)- 这是一个bilibili直播录制工具.jar
 - [BililiveRecorder-WebUI](https://github.com/BililiveRecorder/BililiveRecorder-WebUI)- B站录播姬的管理网页.vue
 - [bilistream](https://github.com/limitcool/bilistream)- B站直播转播工具,一键转播Youtube,Twitch,Mildom等直播.rust
+- [danmaku.bilibili](https://github.com/champkeh/danmaku.bilibili)- B站直播间实时弹幕采集.node
 
 ## UP 工具
 
@@ -290,6 +292,7 @@
 - [YoutubeToBilibili](https://github.com/HarukaKinen/YoutubeToBilibili) - 一个自动搬运视频到 bilibili 的 python 脚本.py
 - [u2bili](https://github.com/ame-yu/u2bili) - youtube->bilibili 搬运脚本.node|py|cli
 - [auto-bilibili-recorder](https://github.com/valkjsaaa/auto-bilibili-recorder) - Bilibili 全自动录播上传脚本.py|docker
+- [lucky_bilibili_web](https://github.com/nasawz/lucky_bilibili_web) - 一款帮助B站UP主恰饭视频做抽奖活动的工具.js
 
 ## 开发
 
@@ -328,6 +331,7 @@
 - [bilive-danmaku](https://github.com/4t145/bilive-danmaku) - b站直播api，将bilibili直播间的wss连接转化成事件.rust
 - [biligo](https://github.com/iyear/biligo) - BiliBili API SDK in Golang.go
 - [olive](https://github.com/go-olive/olive) - 一个全自动直播录制直播上传工具.go
+- [bilibiliAPI](https://github.com/jingyuexing/bilibiliAPI) - bilibiliAPI.py
 
 ## 第三方客户端
 
@@ -422,6 +426,10 @@
 - [puppeteer-bilibili-up-dynamic](https://github.com/uyoungco/puppeteer-bilibili-up-dynamic) - bilibili UP主动态截图工具.js|docker
 - [BiliRaffle](https://github.com/LeoChen98/BiliRaffle) - B站动态抽奖组件.c#|exe
 - [bilibiliLearningToolCLI](https://github.com/freysu/bilibiliLearningToolCLI) - B站分 P 视频信息助手.node|cli
+- [BiliGet](https://github.com/OtomadWiki/mediawiki-extension-BilibiliInfo) - 用于获取 bilibili 视频信息的 MediaWiki 插件.php
+- [bilibili-danmaku-regex](https://github.com/Mark9804/bilibili-danmaku-regex) - 结合pakku.js使用的自用B站弹幕屏蔽正则.
+- [BiliCLOnline](https://github.com/InJeCTrL/BiliCLOnline) - Bilibili评论区第三方抽奖工具.c#|docker
+- [Tool-Asoul-Music](https://github.com/sudoskys/Tool-Asoul-Music) - 哔哩哔哩收藏夹提取音频推送到TG频道且支持自动搜索筛选推送.py
 
 ## 贡献
 
