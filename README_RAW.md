@@ -276,6 +276,9 @@
 - [BililiveRecorder-WebUI](https://github.com/BililiveRecorder/BililiveRecorder-WebUI)- B站录播姬的管理网页.vue
 - [bilistream](https://github.com/limitcool/bilistream)- B站直播转播工具,一键转播Youtube,Twitch,Mildom等直播.rust
 - [danmaku.bilibili](https://github.com/champkeh/danmaku.bilibili)- B站直播间实时弹幕采集.node
+- [biliVTS](https://github.com/TenyaChannel/biliVTS)- 在bilibili直播间使用弹幕控制l2d模型.py
+- [BiliRec](https://github.com/REV-Unit/BiliRec)- 一个能够录制B站直播的工具.kotlin
+- [BiliLive](https://github.com/See-Night/BiliLive)- bilibili直播录播工具.py
 
 ## UP 工具
 
@@ -302,7 +305,7 @@
 - [Bilibili-api](https://github.com/Vespa314/bilibili-api) - B站API收集整理及开发，测试【开发中】.py
 - [Bilibili-Toolkit](https://github.com/Hsury/Bilibili-Toolkit) - 哔哩哔哩辅助工具箱，支持Cookie/Token/Password融合持久化登录与多用户操作.py|docker
 - [Bilibili-Live-API](https://github.com/lovelyyoshino/Bilibili-Live-API) - 哔哩哔哩直播/番剧 API.
-- [Bilibili-api](https://github.com/MoyuScript/bilibili-api) - 哔哩哔哩的API调用模块.py
+- [Bilibili-api](https://github.com/Nemo2011/bilibili-api) - 哔哩哔哩常用API调用。支持视频、番剧、用户、频道、音频等功能.py
 - [Bilibili-user](https://github.com/airingursb/bilibili-user)- Bilibili 用户爬虫.py
 - [Bili-api](https://github.com/simon300000/bili-api)- Bilibili Node.js API.node
 - [Yabapi](https://github.com/SDLMoe/Yabapi)- Bilibili API for Kotlin.kotlin
@@ -355,7 +358,6 @@
 - [bilibili](https://github.com/minured/bilibili) - b站移动端.vue
 - [bilibili](https://github.com/hdtls/bilibili) - 基于Flutter的b站客户端.flutter
 - [bilibili](https://github.com/YeZC/bilibili) - 高仿Bilibili.kotlin
-- [bilibili-vue](https://github.com/lybenson/bilibili-vue) - 前端vue+后端koa，全栈式开发bilibili首页.vue
 
 ## 每日任务
 
@@ -430,6 +432,8 @@
 - [bilibili-danmaku-regex](https://github.com/Mark9804/bilibili-danmaku-regex) - 结合pakku.js使用的自用B站弹幕屏蔽正则.
 - [BiliCLOnline](https://github.com/InJeCTrL/BiliCLOnline) - Bilibili评论区第三方抽奖工具.c#|docker
 - [Tool-Asoul-Music](https://github.com/sudoskys/Tool-Asoul-Music) - 哔哩哔哩收藏夹提取音频推送到TG频道且支持自动搜索筛选推送.py
+- [bilibili-stats](https://github.com/kaichii/bilibili-stats) - B 站数据卡片生成器.js
+- [bili-lottery](https://github.com/KaguraMika/bili-lottery) - bilibili 动态抽奖工具.go
 
 ## 贡献
 
