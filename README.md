@@ -66,7 +66,7 @@
 
 ---
 
-- [Awesome Bilibili Extra](#awesome-bilibili-extra)
+- Awesome Bilibili Extra
   - [浏览器扩展](#浏览器扩展)
     - [全站扩展](#全站扩展)
     - [主站扩展](#主站扩展)
@@ -439,4 +439,4 @@
 
 请查看[贡献指南](https://github.com/HCLonely/awesome-bilibili-extra/blob/master/CONTRIBUTING.md).
 
-<!-- Sort Time: 2022-07-23 02:39:45 +00:00 -->
+<!-- Sort Time: 2022-07-23 02:46:30 +00:00 -->
