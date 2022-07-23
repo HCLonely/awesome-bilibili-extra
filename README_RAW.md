@@ -66,7 +66,7 @@
 
 ---
 
-- [Awesome Bilibili Extra](#awesome-bilibili-extra)
+- Awesome Bilibili Extra
   - [浏览器扩展](#浏览器扩展)
     - [全站扩展](#全站扩展)
     - [主站扩展](#主站扩展)
