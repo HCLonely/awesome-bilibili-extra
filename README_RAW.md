@@ -159,6 +159,7 @@
 - [B站稍后再看功能增强](https://greasyfork.org/zh-CN/scripts/395456) - 完全自定义你的视频标题下方信息栏，排序，增加，删除！.
 - [bilibili-dynamic-del](https://github.com/monSteRhhe/bilibili-dynamic-del) - 自动删除B站转发抽奖动态.
 - [bilibili-follow](https://github.com/lilei2603/bilibili-follow) - B站首页展示UP专区.
+- [bilibili-block-plus](https://github.com/Cansiny0320/bilibili-block-plus) - b 站黑名单，可屏蔽指定用户作品、评论等.
 
 ### 直播脚本
 
@@ -434,6 +435,7 @@
 - [Tool-Asoul-Music](https://github.com/sudoskys/Tool-Asoul-Music) - 哔哩哔哩收藏夹提取音频推送到TG频道且支持自动搜索筛选推送.py
 - [bilibili-stats](https://github.com/kaichii/bilibili-stats) - B 站数据卡片生成器.js
 - [bili-lottery](https://github.com/KaguraMika/bili-lottery) - bilibili 动态抽奖工具.go
+- [bili-fans-medal-box](https://github.com/XiaoMiku01/bili-fans-medal-box) - 在 github gist 显示B站粉丝牌等级和进度.py
 
 ## 贡献
 
