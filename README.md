@@ -142,6 +142,7 @@
 - [Bilibili 首页增加 [关注] 列表](https://greasyfork.org/zh-CN/scripts/384723) - 在 bilibili 网页端上方菜单添加 [关注] 的列表，快速进入你关注的 up 主空间.
 - [Bilibili-Old](https://github.com/MotooriKashin/Bilibili-Old) - 通过重写网页框架的方式切换到 Bilibili 旧版页面.
 - [Bilibili-app-recommend](https://github.com/magicdawn/bilibili-app-recommend) - 为 B 站首页添加像 App 一样的推荐.
+- [Bilibili-block-plus](https://github.com/Cansiny0320/bilibili-block-plus) - b 站黑名单，可屏蔽指定用户作品、评论等.
 - [Bilibili-dynamic-del](https://github.com/monSteRhhe/bilibili-dynamic-del) - 自动删除 B 站转发抽奖动态.
 - [Bilibili-follow](https://github.com/lilei2603/bilibili-follow) - B 站首页展示 UP 专区.
 - [Bilibili-simple-home](https://github.com/hakadao/bilibili-simple-home) - 适 b 站仿搜索引擎样式首页风格.
@@ -401,6 +402,7 @@
 
 ## 其他
 
+- [Bili-fans-medal-box](https://github.com/XiaoMiku01/bili-fans-medal-box) - 在 github gist 显示 B 站粉丝牌等级和进度.![Python](svg/python.svg?raw=true)
 - [Bili-lottery](https://github.com/KaguraMika/bili-lottery) - bilibili 动态抽奖工具.
 - [Bili-short-url](https://github.com/xlzy520/bili-short-url) - 哔哩哔哩短链生成器，将 B 站站内链接转化为 Bilibili 短链.![JavaScript](svg/javascript.svg?raw=true)
 - [BiliBili-favorites-list-saver](https://github.com/Moemu/BiliBili-favorites-list-saver) - B 站收藏夹列表保存程序.![Python](svg/python.svg?raw=true)
@@ -439,4 +441,4 @@
 
 请查看[贡献指南](https://github.com/HCLonely/awesome-bilibili-extra/blob/master/CONTRIBUTING.md).
 
-<!-- Sort Time: 2022-07-23 02:46:30 +00:00 -->
+<!-- Sort Time: 2022-07-30 01:35:22 +00:00 -->
