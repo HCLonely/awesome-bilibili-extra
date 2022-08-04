@@ -71,6 +71,9 @@ const addIcon = (text) => {
     if (['docker'].includes(type.toLowerCase())) {
       icons.push('![Docker](svg/docker.svg?raw=true)');
     }
+    if (['go', 'golang'].includes(type.toLowerCase())) {
+      icons.push('![Go](svg/go.svg?raw=true)');
+    }
   }
   return icons.join(' ');
 }
