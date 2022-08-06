@@ -233,6 +233,7 @@
 - [Bilibili.Album.Download](https://github.com/qingshanking/Bilibili.Album.Download) - 哔哩哔哩相簿下载工具.c#|exe
 - [bilibiliAudioDownloader](https://github.com/nuster1128/bilibiliAudioDownloader) - 输入视频BV号列表，批量下载B站视频中的音频到本地.py
 - [BilibiliAnimeDownload](https://github.com/NorthSkybk/BilibiliAnimeDownload) - 哔哩哔哩番剧下载工具.py
+- [JavaFx-BilibiliDownLoad](https://github.com/Xiaobaishushu25/JavaFx-BilibiliDownLoad) - 下载b站视频.jar
 
 ## 直播相关工具
 
@@ -280,6 +281,7 @@
 - [biliVTS](https://github.com/TenyaChannel/biliVTS)- 在bilibili直播间使用弹幕控制l2d模型.py
 - [BiliRec](https://github.com/REV-Unit/BiliRec)- 一个能够录制B站直播的工具.kotlin
 - [BiliLive](https://github.com/See-Night/BiliLive)- bilibili直播录播工具.py
+- [bilibili-live-helper](https://github.com/bilibili-ayang/bilibili-live-helper)- 一款小破站直播姬，方便您直播，帮助您更好的与观众互动.vue
 
 ## UP 工具
 
@@ -436,6 +438,7 @@
 - [bilibili-stats](https://github.com/kaichii/bilibili-stats) - B 站数据卡片生成器.js
 - [bili-lottery](https://github.com/KaguraMika/bili-lottery) - bilibili 动态抽奖工具.go
 - [bili-fans-medal-box](https://github.com/XiaoMiku01/bili-fans-medal-box) - 在 github gist 显示B站粉丝牌等级和进度.py
+- [bilibili_lottery_dynamic_del](https://github.com/sandboxdream/bilibili_lottery_dynamic_del) - 将所有b站上转发的已开奖抽奖动态删除.py
 
 ## 贡献
 
