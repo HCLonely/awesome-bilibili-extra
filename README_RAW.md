@@ -282,6 +282,8 @@
 - [BiliRec](https://github.com/REV-Unit/BiliRec)- 一个能够录制B站直播的工具.kotlin
 - [BiliLive](https://github.com/See-Night/BiliLive)- bilibili直播录播工具.py
 - [bilibili-live-helper](https://github.com/bilibili-ayang/bilibili-live-helper)- 一款小破站直播姬，方便您直播，帮助您更好的与观众互动.vue
+- [Bilibili_GetReceivedGiftStream](https://github.com/boxie123/Bilibili_GetReceivedGiftStream)- 登录并获取bilibili礼物流水统计表格.py
+- [bilibili-ordersong-plugin](https://github.com/xiaoan-1/bilibili-ordersong-plugin)- b站直播姬点歌插件.js
 
 ## UP 工具
 
@@ -338,6 +340,7 @@
 - [biligo](https://github.com/iyear/biligo) - BiliBili API SDK in Golang.go
 - [olive](https://github.com/go-olive/olive) - 一个全自动直播录制直播上传工具.go
 - [bilibiliAPI](https://github.com/jingyuexing/bilibiliAPI) - bilibiliAPI.py
+- [biliSDK](https://github.com/yanyvgongzuoshi/biliSDK) - 哔哩哔哩直播弹幕JAVA-SDK.jar
 
 ## 第三方客户端
 
@@ -401,6 +404,7 @@
 - [nonebot_plugin_bilibili_viode](https://github.com/ASTWY/nonebot_plugin_bilibili_viode) - 将用户发送的B站视频ID转为(伪)分享卡片的形式.py
 - [bilivedioSnap](https://github.com/Arisuakip/bilivedioSnap) - HoshinoBot插件,把群友的哔哩哔哩小程序转成预览图.py
 - [BBot-Graia](https://github.com/djkcyl/BBot-Graia) - 一个使用 gRPC 接口用于 QQ 群内高效推送 BiliBili 动态和直播的机器人.py
+- [bili_dynamic_push](https://github.com/nfe-w/bili_dynamic_push) - UP主动态、直播间开播检测与推送.py
 
 ## 其他
 
