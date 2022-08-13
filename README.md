@@ -256,12 +256,14 @@
 - [Bilibili-live-stream](https://github.com/ikexing-cn/bilibili-live-stream) - 一个很简单的获取 bilibili 直播流的小工具.![Go](svg/go.svg?raw=true) ![Cli](svg/terminal.svg?raw=true)
 - [Bilibili-live-tools](https://github.com/Dawnnnnnn/bilibili-live-tools) - python 实现的哔哩哔哩直播助手.![Python](svg/python.svg?raw=true) ![Windows](svg/windows.svg?raw=true) ![Docker](svg/docker.svg?raw=true)
 - [Bilibili-live](https://github.com/filwsx/Bilibili-live) - 哔哩哔哩直播下载与监听.![Python](svg/python.svg?raw=true)
+- [Bilibili-ordersong-plugin](https://github.com/xiaoan-1/bilibili-ordersong-plugin) - b 站直播姬点歌插件.![JavaScript](svg/javascript.svg?raw=true)
 - [Bilibili-recording-go](https://github.com/DarrenIce/bilibili-recording-go) - 哔哩哔哩录播机.![Go](svg/go.svg?raw=true)
 - [Bilibili-vtuber-danmaku](https://github.com/dd-center/bilibili-vtuber-danmaku) - Vtuber 直播间的弹幕哟.![NodeJs](svg/nodejs.svg?raw=true)
 - [BilibiliDanMu](https://github.com/Kurris/BilibiliDanMu) - bilibili 弹幕工具.![C#](svg/csharp.svg?raw=true) ![Docker](svg/docker.svg?raw=true)
 - [BilibiliLiveRecordDownLoader](https://github.com/HMBSbige/BilibiliLiveRecordDownLoader) - 哔哩哔哩直播录制与回放下载.![C#](svg/csharp.svg?raw=true) ![Windows](svg/windows.svg?raw=true)
 - [BilibiliLiveTools](https://github.com/withsalt/BilibiliLiveTools) - Bilibili 直播工具，自动登录并获取推流地址.![C#](svg/csharp.svg?raw=true) ![Cli](svg/terminal.svg?raw=true)
 - [Bilibili_Danmuji](https://github.com/BanqiJane/Bilibili_Danmuji) - B 站直播礼物答谢、定时广告、关注感谢，自动回复工具，房管工具，自动打卡.![Java](svg/openjdk.svg?raw=true) ![Windows](svg/windows.svg?raw=true)
+- [Bilibili_GetReceivedGiftStream](https://github.com/boxie123/Bilibili_GetReceivedGiftStream) - 登录并获取 bilibili 礼物流水统计表格.![Python](svg/python.svg?raw=true)
 - [Bilibili_danmaku](https://github.com/windowsair/bilibili_danmaku) - 直播弹幕渲染工具.![C++](svg/cplusplus.svg?raw=true) ![Cli](svg/terminal.svg?raw=true)
 - [Biligo-live-ws](https://github.com/eric2788/biligo-live-ws) - B 站直播 WebSocket 监控服务器.![Go](svg/go.svg?raw=true) ![Docker](svg/docker.svg?raw=true)
 - [Bililive-go](https://github.com/hr3lxphr6j/bililive-go) - Bililive-go 是一个支持多种直播平台的直播录制工具.![Go](svg/go.svg?raw=true) ![Cli](svg/terminal.svg?raw=true) ![Docker](svg/docker.svg?raw=true)
@@ -310,6 +312,7 @@
 - [BiliBiliRankingScripts](https://github.com/Neutralization/BiliBiliRankingScripts) - 涉及周刊哔哩哔哩排行榜制作相关的脚本.![Python](svg/python.svg?raw=true) ![Shell](svg/shell.svg?raw=true)
 - [BiliCenter](https://github.com/TiyaAnlite/BiliCenter) - 新版番剧数据中心兼分布式数据挖掘框架.![Python](svg/python.svg?raw=true)
 - [BiliPlayer](https://github.com/xuzhb24/BiliPlayer) - 仿哔哩哔哩播放器.![Kotlin](svg/kotlin.svg?raw=true)
+- [BiliSDK](https://github.com/yanyvgongzuoshi/biliSDK) - 哔哩哔哩直播弹幕 JAVA-SDK.![Java](svg/openjdk.svg?raw=true)
 - [Biliapi](https://github.com/reveever/biliapi) - 哔哩哔哩 bilibili API SDK written in Go.![Go](svg/go.svg?raw=true)
 - [Bilib](https://github.com/OlafZhang/bilib) - 整合多个 B 站原生 API，并结合爬取技术的 Python 爬取用 lib.![Python](svg/python.svg?raw=true)
 - [Bilibili-API-collect](https://github.com/SocialSisterYi/bilibili-API-collect) - 哔哩哔哩 - API 收集整理.
@@ -384,6 +387,7 @@
 
 - [BBot-Graia](https://github.com/djkcyl/BBot-Graia) - 一个使用 gRPC 接口用于 QQ 群内高效推送 BiliBili 动态和直播的机器人.![Python](svg/python.svg?raw=true)
 - [Bili-notice-hoshino](https://github.com/kushidou/bili-notice-hoshino) - 一个 Hoshinobot 插件，可以获得 B 站 up 主最新的动态并推送到 QQ 群中.![Python](svg/python.svg?raw=true)
+- [Bili_dynamic_push](https://github.com/nfe-w/bili_dynamic_push) - UP 主动态、直播间开播检测与推送.![Python](svg/python.svg?raw=true)
 - [Bilibili-Notification](https://github.com/cnscj/Bilibili-Notification) - 检测指定 B 站 Up 主动态，直播状态并进行推送.![Python](svg/python.svg?raw=true)
 - [Bilibili-dynamic-mirai-plugin](https://github.com/Colter23/bilibili-dynamic-mirai-plugin) - 低延迟检测 B 站动态 / 直播的 mirai-console 插件.![Kotlin](svg/kotlin.svg?raw=true)
 - [Bilibili-helper](https://github.com/cssxsh/bilibili-helper) - 基于 Mirai Console 的 哔哩哔哩 订阅插件.![Kotlin](svg/kotlin.svg?raw=true)
@@ -444,4 +448,4 @@
 
 请查看[贡献指南](https://github.com/HCLonely/awesome-bilibili-extra/blob/master/CONTRIBUTING.md).
 
-<!-- Sort Time: 2022-08-06 06:32:52 +00:00 -->
+<!-- Sort Time: 2022-08-13 02:59:26 +00:00 -->
