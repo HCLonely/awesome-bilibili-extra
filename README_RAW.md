@@ -344,6 +344,7 @@
 - [bilibiliAPI](https://github.com/jingyuexing/bilibiliAPI) - bilibiliAPI.py
 - [biliSDK](https://github.com/yanyvgongzuoshi/biliSDK) - 哔哩哔哩直播弹幕JAVA-SDK.jar
 - [BilibiliAPI](https://github.com/zimoyin/BilibiliAPI) - 用java实现访问大部分的Bilibili API，并提供部分对接口工具.jar
+- [bilibili-api-ts](https://github.com/Nemo2011/bilibili-api-ts) - 哔哩哔哩常用API调用.ts
 
 ## 第三方客户端
 
