@@ -322,6 +322,7 @@
 - [Bilibili-Live-API](https://github.com/lovelyyoshino/Bilibili-Live-API) - 哔哩哔哩直播 / 番剧 API.
 - [Bilibili-Live-Message](https://github.com/GoldrenEggs/Bilibili-Live-Message) - 爬取 bilibili 直播间接收到的几乎全部消息，并易于使用自定义的方法处理消息.![Python](svg/python.svg?raw=true)
 - [Bilibili-Toolkit](https://github.com/Hsury/Bilibili-Toolkit) - 哔哩哔哩辅助工具箱，支持 Cookie/Token/Password 融合持久化登录与多用户操作.![Python](svg/python.svg?raw=true) ![Docker](svg/docker.svg?raw=true)
+- [Bilibili-api-ts](https://github.com/Nemo2011/bilibili-api-ts) - 哔哩哔哩常用 API 调用.![TypeScript](svg/tsnode.svg?raw=true)
 - [Bilibili-api](https://github.com/Nemo2011/bilibili-api) - 哔哩哔哩常用 API 调用。支持视频、番剧、用户、频道、音频等功能.![Python](svg/python.svg?raw=true)
 - [Bilibili-api](https://github.com/Vespa314/bilibili-api) - B 站 API 收集整理及开发，测试【开发中】.![Python](svg/python.svg?raw=true)
 - [Bilibili-bullet](https://github.com/79W/bilibili-bullet) - bilibili 直播弹幕实时 WebSocket 爬取.![Vue](svg/vue.svg?raw=true)
@@ -452,4 +453,4 @@
 
 请查看[贡献指南](https://github.com/HCLonely/awesome-bilibili-extra/blob/master/CONTRIBUTING.md).
 
-<!-- Sort Time: 2022-08-20 02:29:40 +00:00 -->
+<!-- Sort Time: 2022-08-27 01:14:57 +00:00 -->
