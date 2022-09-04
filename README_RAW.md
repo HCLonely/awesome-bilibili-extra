@@ -160,6 +160,7 @@
 - [bilibili-dynamic-del](https://github.com/monSteRhhe/bilibili-dynamic-del) - 自动删除B站转发抽奖动态.
 - [bilibili-follow](https://github.com/lilei2603/bilibili-follow) - B站首页展示UP专区.
 - [bilibili-block-plus](https://github.com/Cansiny0320/bilibili-block-plus) - b 站黑名单，可屏蔽指定用户作品、评论等.
+- [bilibili海外区域搜索](https://github.com/gamekingv/bilibili-oversea-search) - bilibili海外区域搜索.
 
 ### 直播脚本
 
@@ -286,6 +287,7 @@
 - [bilibili-live-helper](https://github.com/bilibili-ayang/bilibili-live-helper)- 一款小破站直播姬，方便您直播，帮助您更好的与观众互动.vue
 - [Bilibili_GetReceivedGiftStream](https://github.com/boxie123/Bilibili_GetReceivedGiftStream)- 登录并获取bilibili礼物流水统计表格.py
 - [bilibili-ordersong-plugin](https://github.com/xiaoan-1/bilibili-ordersong-plugin)- b站直播姬点歌插件.js
+- [bilibili-live-danmu-rs](https://github.com/JmPotato/bilibili-live-danmu-rs)- Bilibili 直播间弹幕命令行工具.rust
 
 ## UP 工具
 
@@ -368,6 +370,7 @@
 - [bilibili](https://github.com/minured/bilibili) - b站移动端.vue
 - [bilibili](https://github.com/hdtls/bilibili) - 基于Flutter的b站客户端.flutter
 - [bilibili](https://github.com/YeZC/bilibili) - 高仿Bilibili.kotlin
+- [BiliHub](https://github.com/LeonNOV/BiliHub) - B站第三方客户端.kotlin
 
 ## 每日任务
 
