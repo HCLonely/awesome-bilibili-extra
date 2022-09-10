@@ -53,6 +53,9 @@
       <img src="svg/svelte.svg?raw=true" alt="Svelte">: 主要使用语言/框架-Svelte
     </li>
     <li>
+      <img src="svg/swift.svg?raw=true" alt="Svelte">: 主要使用语言/框架-Swift
+    </li>
+    <li>
       <img src="svg/windows.svg?raw=true" alt="Windows">: 有构建好的可在Windows平台直接运行的可执行文件
     </li>
     <li>
@@ -161,6 +164,7 @@
 - [bilibili-follow](https://github.com/lilei2603/bilibili-follow) - B站首页展示UP专区.
 - [bilibili-block-plus](https://github.com/Cansiny0320/bilibili-block-plus) - b 站黑名单，可屏蔽指定用户作品、评论等.
 - [bilibili海外区域搜索](https://github.com/gamekingv/bilibili-oversea-search) - bilibili海外区域搜索.
+- [bilibili-joybook](https://github.com/PC6live/bilibili-joybook-tampermonkey) - Bilibili共享大会员.
 
 ### 直播脚本
 
@@ -237,6 +241,7 @@
 - [JavaFx-BilibiliDownLoad](https://github.com/Xiaobaishushu25/JavaFx-BilibiliDownLoad) - 下载b站视频.jar
 - [bilibili_download](https://github.com/dzc217/bilibili_download) - 哔哩哔哩下载器.py|cli
 - [BilibiliMemory](https://github.com/YuSitong1999/BilibiliMemory) - 获取在 哔哩哔哩 收藏夹中收藏的视频，保存到本地磁盘.py
+- [BiliDownloader](https://github.com/Harlan-H/BiliDownloader) - 获取在 哔哩哔哩 收藏夹中收藏的视频，保存到本地磁盘.c#|exe
 
 ## 直播相关工具
 
@@ -412,6 +417,8 @@
 - [bilivedioSnap](https://github.com/Arisuakip/bilivedioSnap) - HoshinoBot插件,把群友的哔哩哔哩小程序转成预览图.py
 - [BBot-Graia](https://github.com/djkcyl/BBot-Graia) - 一个使用 gRPC 接口用于 QQ 群内高效推送 BiliBili 动态和直播的机器人.py
 - [bili_dynamic_push](https://github.com/nfe-w/bili_dynamic_push) - UP主动态、直播间开播检测与推送.py
+- [nonebot_plugin_BiliRequest](https://github.com/Shadow403/nonebot_plugin_BiliRequest) - 以B站UID审核入群（粉丝）.py
+- [nonebot_plugin_BiliRequestsBarand](https://github.com/Shadow403/nonebot_plugin_BiliRequestsBarand) - 以B站UID审核入群（粉丝牌）.py
 
 ## 其他
 
@@ -451,6 +458,7 @@
 - [bili-fans-medal-box](https://github.com/XiaoMiku01/bili-fans-medal-box) - 在 github gist 显示B站粉丝牌等级和进度.py
 - [bilibili_lottery_dynamic_del](https://github.com/sandboxdream/bilibili_lottery_dynamic_del) - 将所有b站上转发的已开奖抽奖动态删除.py
 - [Bilibili-XMLSubtitle-to-ASS](https://github.com/NaiboWang/Bilibili-XMLSubtitle-to-ASS) - 可视化Bilibili本地视频XML弹幕转换ASS字幕转换器.py
+- [BIli.Mac.MenuBar](https://github.com/Richasy/BIli.Mac.MenuBar) - 用于在 Mac OS 的菜单栏显示登录用户的信息及订阅的视频动态.swift
 
 ## 贡献
 

@@ -57,6 +57,9 @@ const addIcon = (text) => {
     if (['svelte'].includes(type.toLowerCase())) {
       icons.push('![Svelte](svg/svelte.svg?raw=true)');
     }
+    if (['swift'].includes(type.toLowerCase())) {
+      icons.push('![Swift](svg/swift.svg?raw=true)');
+    }
     /*
     if (['flutter'].includes(type.toLowerCase())) {
       icons.push('![Flutter](svg/flutter.svg?raw=true)');
