@@ -146,7 +146,6 @@
 - [bilibili-app-recommend](https://github.com/magicdawn/bilibili-app-recommend) - 为 B 站首页添加像 App 一样的推荐.
 - [bilibili视频下载](https://greasyfork.org/zh-CN/scripts/413228) - 支持Web、RPC、Blob、Aria等下载方式；支持flv、dash、mp4视频格式.
 - [B站动态首页展示所有正在直播列表](https://greasyfork.org/zh-CN/scripts/438461) - 直接在动态首页展示所有的正在直播名单，而不是默认10个.
-- [B站大会员视频自动解析](https://greasyfork.org/zh-CN/scripts/440539) - 浸入式虚拟会员体验，功能智能自动化，兼容移动端.
 - [哔哩哔哩自动增强](https://greasyfork.org/zh-CN/scripts/437941) - 功能快捷键，视频智能解析，每日任务等.
 - [bilibili首页增加[关注]列表](https://greasyfork.org/zh-CN/scripts/384723) - 在bilibili网页端上方菜单添加[关注]的列表，快速进入你关注的up主空间.
 - [哔哩哔哩查看原图](https://greasyfork.org/zh-CN/scripts/372289) - 方便在B站内查看各种图片的原图，支持动态、专栏.
