@@ -127,7 +127,6 @@
 
 - [B 站动态自定义过滤](https://greasyfork.org/zh-CN/scripts/422227) - B 站动态自定义过滤，可过滤转发类型.
 - [B 站动态首页展示所有正在直播列表](https://greasyfork.org/zh-CN/scripts/438461) - 直接在动态首页展示所有的正在直播名单，而不是默认 10 个.
-- [B 站大会员视频自动解析](https://greasyfork.org/zh-CN/scripts/440539) - 浸入式虚拟会员体验，功能智能自动化，兼容移动端.
 - [B 站搜索页面、个人主页已看视频标记](https://greasyfork.org/zh-CN/scripts/374894) - 在 B 站搜索结果页面、个人主页标记哪些视频是已经看过的.
 - [B 站稍后再看功能增强](https://greasyfork.org/zh-CN/scripts/395456) - 完全自定义你的视频标题下方信息栏，排序，增加，删除！.
 - [B 站网页端添加 APP 首页推荐](https://greasyfork.org/zh-CN/scripts/368446) - 网页端首页添加 APP 首页推荐、全站排行、可选提交不喜欢的视频.
@@ -464,4 +463,4 @@
 
 请查看[贡献指南](https://github.com/HCLonely/awesome-bilibili-extra/blob/master/CONTRIBUTING.md).
 
-<!-- Sort Time: 2022-09-10 02:09:14 +00:00 -->
+<!-- Sort Time: 2022-09-10 02:15:07 +00:00 -->
