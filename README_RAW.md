@@ -292,6 +292,7 @@
 - [Bilibili_GetReceivedGiftStream](https://github.com/boxie123/Bilibili_GetReceivedGiftStream)- 登录并获取bilibili礼物流水统计表格.py
 - [bilibili-ordersong-plugin](https://github.com/xiaoan-1/bilibili-ordersong-plugin)- b站直播姬点歌插件.js
 - [bilibili-live-danmu-rs](https://github.com/JmPotato/bilibili-live-danmu-rs)- Bilibili 直播间弹幕命令行工具.rust
+- [bilibili_live_tui](https://github.com/yaocccc/bilibili_live_tui)- 终端下使用的bilibili弹幕获取和弹幕发送服务.go
 
 ## UP 工具
 
@@ -458,6 +459,7 @@
 - [bilibili_lottery_dynamic_del](https://github.com/sandboxdream/bilibili_lottery_dynamic_del) - 将所有b站上转发的已开奖抽奖动态删除.py
 - [Bilibili-XMLSubtitle-to-ASS](https://github.com/NaiboWang/Bilibili-XMLSubtitle-to-ASS) - 可视化Bilibili本地视频XML弹幕转换ASS字幕转换器.py
 - [BIli.Mac.MenuBar](https://github.com/Richasy/BIli.Mac.MenuBar) - 用于在 Mac OS 的菜单栏显示登录用户的信息及订阅的视频动态.swift
+- [BilibiliSuitBuy](https://github.com/lllk140/BilibiliSuitBuy) - b站装扮购买.py|go
 
 ## 贡献
 
