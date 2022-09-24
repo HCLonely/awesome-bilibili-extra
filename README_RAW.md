@@ -241,6 +241,7 @@
 - [bilibili_download](https://github.com/dzc217/bilibili_download) - 哔哩哔哩下载器.py|cli
 - [BilibiliMemory](https://github.com/YuSitong1999/BilibiliMemory) - 获取在 哔哩哔哩 收藏夹中收藏的视频，保存到本地磁盘.py
 - [BiliDownloader](https://github.com/Harlan-H/BiliDownloader) - 获取在 哔哩哔哩 收藏夹中收藏的视频，保存到本地磁盘.c#|exe
+- [BiliDownloader](https://github.com/Majjcom/BiliDownloader) - 超级好用的 GUI bilibili视频下载器.py|exe
 
 ## 直播相关工具
 
@@ -293,6 +294,7 @@
 - [bilibili-ordersong-plugin](https://github.com/xiaoan-1/bilibili-ordersong-plugin)- b站直播姬点歌插件.js
 - [bilibili-live-danmu-rs](https://github.com/JmPotato/bilibili-live-danmu-rs)- Bilibili 直播间弹幕命令行工具.rust
 - [bilibili_live_tui](https://github.com/yaocccc/bilibili_live_tui)- 终端下使用的bilibili弹幕获取和弹幕发送服务.go
+- [bili_live_tui](https://github.com/shr-go/bili_live_tui)- 一个用于黑听bilibili的tui客户端，支持跨平台.go
 
 ## UP 工具
 
