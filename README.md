@@ -197,6 +197,7 @@
 - [BiliDownload](https://github.com/Naptie/BiliDownload) - B 站视频下载工具.![Java](svg/openjdk.svg?raw=true)
 - [BiliDownloader](https://github.com/Harlan-H/BiliDownloader) - 获取在 哔哩哔哩 收藏夹中收藏的视频，保存到本地磁盘.![C#](svg/csharp.svg?raw=true) ![Windows](svg/windows.svg?raw=true)
 - [BiliDownloader](https://github.com/JimmyLiang-lzm/biliDownloader) - Bilibili 弹幕视频下载器，现已支持 Bilibili 互动视频下载.![Python](svg/python.svg?raw=true) ![Cli](svg/terminal.svg?raw=true)
+- [BiliDownloader](https://github.com/Majjcom/BiliDownloader) - 超级好用的 GUI bilibili 视频下载器.![Python](svg/python.svg?raw=true) ![Windows](svg/windows.svg?raw=true)
 - [BiliDownloader_GUI](https://github.com/JimmyLiang-lzm/biliDownloader_GUI) - 基于 Python 开发的可视化 B 站视频专用下载器（支持交互视频下载）.![Python](svg/python.svg?raw=true) ![Windows](svg/windows.svg?raw=true)
 - [BiliDuang](https://github.com/kengwang/BiliDuang) - 哔哩哔哩视频下载 C# GUI 版.![C#](svg/csharp.svg?raw=true) ![Windows](svg/windows.svg?raw=true)
 - [BiliFavoritesDownloader](https://github.com/Left024/BiliFavoritesDownloader) - 自动下载 B 站收藏视频，支持下载封面图，转换 xml 至 ass，上传 OneDrive，邮件、telegram 通知.![Shell](svg/shell.svg?raw=true)
@@ -254,6 +255,7 @@
 - [BiliRec](https://github.com/REV-Unit/BiliRec) - 一个能够录制 B 站直播的工具.![Kotlin](svg/kotlin.svg?raw=true)
 - [BiliVTS](https://github.com/TenyaChannel/biliVTS) - 在 bilibili 直播间使用弹幕控制 l2d 模型.![Python](svg/python.svg?raw=true)
 - [Bili_danmu](https://github.com/qydysky/bili_danmu) - bili 直播弹幕机.![Go](svg/go.svg?raw=true) ![Cli](svg/terminal.svg?raw=true)
+- [Bili_live_tui](https://github.com/shr-go/bili_live_tui) - 一个用于黑听 bilibili 的 tui 客户端，支持跨平台.![Go](svg/go.svg?raw=true)
 - [Bilibili-MagicalDanmaku](https://github.com/iwxyi/Bilibili-MagicalDanmaku) - 哔哩哔哩直播万能机器人，弹幕姬 + 答谢姬 + 回复姬 + 点歌姬 +...![C++](svg/cplusplus.svg?raw=true) ![Windows](svg/windows.svg?raw=true)
 - [Bilibili-dd-monitor](https://github.com/dd-center/bilibili-dd-monitor) - 专为 DD 设计的多屏直播观看工具.![Vue](svg/vue.svg?raw=true) ![Windows](svg/windows.svg?raw=true)
 - [Bilibili-live-chat](https://github.com/Tsuk1ko/bilibili-live-chat) - 无后端的仿 YouTube Live Chat 风格的简易 Bilibili 弹幕姬.![Vue](svg/vue.svg?raw=true)
@@ -465,4 +467,4 @@
 
 请查看[贡献指南](https://github.com/HCLonely/awesome-bilibili-extra/blob/master/CONTRIBUTING.md).
 
-<!-- Sort Time: 2022-09-17 02:22:24 +00:00 -->
+<!-- Sort Time: 2022-09-24 01:56:25 +00:00 -->
