@@ -292,9 +292,11 @@
 - [bilibili-live-helper](https://github.com/bilibili-ayang/bilibili-live-helper)- 一款小破站直播姬，方便您直播，帮助您更好的与观众互动.vue
 - [Bilibili_GetReceivedGiftStream](https://github.com/boxie123/Bilibili_GetReceivedGiftStream)- 登录并获取bilibili礼物流水统计表格.py
 - [bilibili-ordersong-plugin](https://github.com/xiaoan-1/bilibili-ordersong-plugin)- b站直播姬点歌插件.js
-- [bilibili-live-danmu-rs](https://github.com/JmPotato/bilibili-live-danmu-rs)- Bilibili 直播间弹幕命令行工具.rust
-- [bilibili_live_tui](https://github.com/yaocccc/bilibili_live_tui)- 终端下使用的bilibili弹幕获取和弹幕发送服务.go
+- [bilibili-live-danmu-rs](https://github.com/JmPotato/bilibili-live-danmu-rs)- Bilibili 直播间弹幕命令行工具.rust|cli
+- [bilibili_live_tui](https://github.com/yaocccc/bilibili_live_tui)- 终端下使用的bilibili弹幕获取和弹幕发送服务.go|xli
 - [bili_live_tui](https://github.com/shr-go/bili_live_tui)- 一个用于黑听bilibili的tui客户端，支持跨平台.go
+- [biliRecorder](https://github.com/summerkirakira/biliRecorder)- 全自动监听、录制、投稿B站直播，并为录制文件添加ass弹幕.py|docker
+- [bilicli](https://github.com/ddiu8081/bilicli)- 终端里的 Bilibili 弹幕仪表盘.vue|cli
 
 ## UP 工具
 
@@ -312,6 +314,7 @@
 - [u2bili](https://github.com/ame-yu/u2bili) - youtube->bilibili 搬运脚本.node|py|cli
 - [auto-bilibili-recorder](https://github.com/valkjsaaa/auto-bilibili-recorder) - Bilibili 全自动录播上传脚本.py|docker
 - [lucky_bilibili_web](https://github.com/nasawz/lucky_bilibili_web) - 一款帮助B站UP主恰饭视频做抽奖活动的工具.js
+- [biliup-go](https://github.com/XiaoMiku01/biliup-go) - B 站命令行投稿工具 Golang 实现.go|cli
 
 ## 开发
 
@@ -354,6 +357,7 @@
 - [biliSDK](https://github.com/yanyvgongzuoshi/biliSDK) - 哔哩哔哩直播弹幕JAVA-SDK.jar
 - [BilibiliAPI](https://github.com/zimoyin/BilibiliAPI) - 用java实现访问大部分的Bilibili API，并提供部分对接口工具.jar
 - [bilibili-api-ts](https://github.com/Nemo2011/bilibili-api-ts) - 哔哩哔哩常用API调用.ts
+- [blivedm-go](https://github.com/Akegarasu/blivedm-go) - bilibili 直播弹幕 golang 库.go
 
 ## 第三方客户端
 
@@ -462,6 +466,7 @@
 - [Bilibili-XMLSubtitle-to-ASS](https://github.com/NaiboWang/Bilibili-XMLSubtitle-to-ASS) - 可视化Bilibili本地视频XML弹幕转换ASS字幕转换器.py
 - [BIli.Mac.MenuBar](https://github.com/Richasy/BIli.Mac.MenuBar) - 用于在 Mac OS 的菜单栏显示登录用户的信息及订阅的视频动态.swift
 - [BilibiliSuitBuy](https://github.com/lllk140/BilibiliSuitBuy) - b站装扮购买.py|go
+- [bilibiliLottery](https://github.com/silie666/bilibiliLottery) - bilibili活动页抽奖，自动转发动态抽奖.go
 
 ## 贡献
 
