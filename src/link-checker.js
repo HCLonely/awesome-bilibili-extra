@@ -25,7 +25,7 @@ const axios = require('axios');
   const sleep = (time) => new Promise((resolve) => {
     setTimeout(() => {
       resolve(true);
-    }, time * 1000);
+    }, time * 5000);
   });
   let i = 1;
   for (const [, name, link] of links) {
