@@ -30,11 +30,15 @@ const axios = require('axios');
   let i = 1;
   for (const [, name, link] of links) {
     console.log('Checking link', link);
-    await axios.head(link).catch(error => {
+    await axios.head(link, {
+      validateStatus: (status) => {
+        return (status >= 200 && status < 300) || status === 429;
+      }
+    }).catch(error => {
       console.log(link, error);
       errorLinks.push({name,link});
     });
-    if (i % 20 === 0) {
+    if (i % 10 === 0) {
       await sleep(Math.floor(Math.random() * (10 - 5 + 1) + 5));
     }
     i++;

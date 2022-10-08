@@ -96,6 +96,7 @@
 
 - [哔哩哔哩助手](https://github.com/bilibili-helper/bilibili-helper-o) - 哔哩哔哩弹幕网辅助扩展，拥有视频区和直播区的人性化功能.
 - [bilibili-img-uploader](https://github.com/xlzy520/bilibili-img-uploader) - 哔哩哔哩图床上传、短链转换插件.
+- [bilibil-tool-mv3](https://github.com/tuntun0609/bilibil-tool-mv3) - bilibili网页优化插件.
 
 ### 主站扩展
 
@@ -240,8 +241,9 @@
 - [JavaFx-BilibiliDownLoad](https://github.com/Xiaobaishushu25/JavaFx-BilibiliDownLoad) - 下载b站视频.jar
 - [bilibili_download](https://github.com/dzc217/bilibili_download) - 哔哩哔哩下载器.py|cli
 - [BilibiliMemory](https://github.com/YuSitong1999/BilibiliMemory) - 获取在 哔哩哔哩 收藏夹中收藏的视频，保存到本地磁盘.py
-- [BiliDownloader](https://github.com/Harlan-H/BiliDownloader) - 获取在 哔哩哔哩 收藏夹中收藏的视频，保存到本地磁盘.c#|exe
+- [BiliDownloader](https://github.com/Harlan-H/BiliDownloader) - 一款界面精简操作简单的b站视频下载工具.c#|exe
 - [BiliDownloader](https://github.com/Majjcom/BiliDownloader) - 超级好用的 GUI bilibili视频下载器.py|exe
+- [downkyi](https://github.com/leiurayer/downkyi) - 哔哩下载姬downkyi.c#|exe
 
 ## 直播相关工具
 
@@ -297,6 +299,7 @@
 - [bili_live_tui](https://github.com/shr-go/bili_live_tui)- 一个用于黑听bilibili的tui客户端，支持跨平台.go
 - [biliRecorder](https://github.com/summerkirakira/biliRecorder)- 全自动监听、录制、投稿B站直播，并为录制文件添加ass弹幕.py|docker
 - [bilicli](https://github.com/ddiu8081/bilicli)- 终端里的 Bilibili 弹幕仪表盘.vue|cli
+- [BiliDown](https://github.com/Nemo2011/BiliDown)- 哔哩哔哩命令行下载器.py|cli
 
 ## UP 工具
 
@@ -358,6 +361,7 @@
 - [BilibiliAPI](https://github.com/zimoyin/BilibiliAPI) - 用java实现访问大部分的Bilibili API，并提供部分对接口工具.jar
 - [bilibili-api-ts](https://github.com/Nemo2011/bilibili-api-ts) - 哔哩哔哩常用API调用.ts
 - [blivedm-go](https://github.com/Akegarasu/blivedm-go) - bilibili 直播弹幕 golang 库.go
+- [tiny-bilibili-ws](https://github.com/starknt/tiny-bilibili-ws)- Bilibili 直播 WebSocket API.ts
 
 ## 第三方客户端
 
@@ -382,6 +386,7 @@
 - [bilibili](https://github.com/hdtls/bilibili) - 基于Flutter的b站客户端.flutter
 - [bilibili](https://github.com/YeZC/bilibili) - 高仿Bilibili.kotlin
 - [BiliHub](https://github.com/LeonNOV/BiliHub) - B站第三方客户端.kotlin
+- [bilibili-console](https://github.com/12345-mcpython/bilibili-console) - Bilibili命令行客户端.py|cli
 
 ## 每日任务
 
