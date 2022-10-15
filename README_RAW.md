@@ -403,6 +403,7 @@
 - [fansMedalHelper](https://github.com/XiaoMiku01/fansMedalHelper) - 每日获取B站直播间每日小心心及直播间自动打卡脚本.py|docker
 - [BiliLiveAutoInteract](https://github.com/MociLSeng/BiliLiveAutoInteract) - b站最新直播粉丝团自动签到/打卡 点赞/分享/发送弹幕.jar
 - [bilibiliHelper](https://github.com/RedSTARO/bilibiliHelper) - B 站快速升级脚本.py|exe
+- [BilibiliDailyUp](https://github.com/Wyatt1026/BilibiliDailyUp) - 哔哩哔哩每日任务脚本.py
 
 ## 机器人
 
