@@ -300,6 +300,9 @@
 - [biliRecorder](https://github.com/summerkirakira/biliRecorder)- 全自动监听、录制、投稿B站直播，并为录制文件添加ass弹幕.py|docker
 - [bilicli](https://github.com/ddiu8081/bilicli)- 终端里的 Bilibili 弹幕仪表盘.vue|cli
 - [BiliDown](https://github.com/Nemo2011/BiliDown)- 哔哩哔哩命令行下载器.py|cli
+- [Bilibili-Live-Danmaku-vscode](https://github.com/Discreater/Bilibili-Live-Danmaku-vscode)- VSCode 的 B站弹幕机.ts
+- [Bilibili_Song_Player](https://github.com/mk-ling/Bilibili_Song_Player)- 利用Selenium操控Chrome的直播点歌软件.py
+- [Bililiveauto](https://github.com/Morax-xyc/Bililiveauto)- 兼容哔哩哔哩录播姬的自动转封装、自动上传、弹幕转码脚本.js
 
 ## UP 工具
 
@@ -466,13 +469,13 @@
 - [BiliCLOnline](https://github.com/InJeCTrL/BiliCLOnline) - Bilibili评论区第三方抽奖工具.c#|docker
 - [Tool-Asoul-Music](https://github.com/sudoskys/Tool-Asoul-Music) - 哔哩哔哩收藏夹提取音频推送到TG频道且支持自动搜索筛选推送.py
 - [bilibili-stats](https://github.com/kaichii/bilibili-stats) - B 站数据卡片生成器.js
-- [bili-lottery](https://github.com/KaguraMika/bili-lottery) - bilibili 动态抽奖工具.go
 - [bili-fans-medal-box](https://github.com/XiaoMiku01/bili-fans-medal-box) - 在 github gist 显示B站粉丝牌等级和进度.py
 - [bilibili_lottery_dynamic_del](https://github.com/sandboxdream/bilibili_lottery_dynamic_del) - 将所有b站上转发的已开奖抽奖动态删除.py
 - [Bilibili-XMLSubtitle-to-ASS](https://github.com/NaiboWang/Bilibili-XMLSubtitle-to-ASS) - 可视化Bilibili本地视频XML弹幕转换ASS字幕转换器.py
 - [BIli.Mac.MenuBar](https://github.com/Richasy/BIli.Mac.MenuBar) - 用于在 Mac OS 的菜单栏显示登录用户的信息及订阅的视频动态.swift
 - [BilibiliSuitBuy](https://github.com/lllk140/BilibiliSuitBuy) - b站装扮购买.py|go
 - [bilibiliLottery](https://github.com/silie666/bilibiliLottery) - bilibili活动页抽奖，自动转发动态抽奖.go
+- [bilibili-stats-badges](https://github.com/lonelyion/bilibili-stats-badges) - Bilibili状态徽章.js
 
 ## 贡献
 
