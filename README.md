@@ -375,6 +375,7 @@
 
 > 第三方客户端、仿哔哩哔哩客户端。
 
+- [ATV-Bilibili-demo](https://github.com/yichengchen/ATV-Bilibili-demo) - BiliBili tvOS 客户端 Demo.![Swift](svg/swift.svg?raw=true)
 - [BiLiBiLiSys](https://github.com/KakarottoCui/BiLiBiLiSys) - 基于 SSM 的仿哔哩哔哩视频系统.![NodeJs](svg/nodejs.svg?raw=true) ![Java](svg/openjdk.svg?raw=true)
 - [Bili.Uwp](https://github.com/Richasy/Bili.Uwp) - 适用于新系统 UI 的第三方哔哩哔哩 UWP 客户端.![C#](svg/csharp.svg?raw=true) ![Windows](svg/windows.svg?raw=true)
 - [BiliData](https://github.com/TANGhz17/BiliData) - 一个获取哔哩哔哩 视频 & up 主 & 热门排行榜等信息的 APP.![Kotlin](svg/kotlin.svg?raw=true)
@@ -488,4 +489,4 @@
 
 请查看[贡献指南](https://github.com/HCLonely/awesome-bilibili-extra/blob/master/CONTRIBUTING.md).
 
-<!-- Sort Time: 2022-10-29 02:35:04 +00:00 -->
+<!-- Sort Time: 2022-11-05 06:28:41 +00:00 -->
