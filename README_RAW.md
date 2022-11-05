@@ -395,6 +395,7 @@
 - [bilibili](https://github.com/YeZC/bilibili) - 高仿Bilibili.kotlin
 - [BiliHub](https://github.com/LeonNOV/BiliHub) - B站第三方客户端.kotlin
 - [bilibili-console](https://github.com/12345-mcpython/bilibili-console) - Bilibili命令行客户端.py|cli
+- [ATV-Bilibili-demo](https://github.com/yichengchen/ATV-Bilibili-demo) - BiliBili tvOS 客户端 Demo.swift
 
 ## 每日任务
 
