@@ -370,6 +370,7 @@
 - [tiny-bilibili-ws](https://github.com/starknt/tiny-bilibili-ws)- Bilibili 直播 WebSocket API.ts
 - [bilibili-api](https://github.com/xlz122/bilibili-api)- 提供B站web移动端api接口.js
 - [bili-live-listener](https://github.com/LU-JIEJIE/bili-live-listener)- b站直播间信息监听库，包括但不限于弹幕、礼物、醒目留言、全站广播等.ts
+- [BiliBiliQ](https://github.com/MingxuanGame/BiliBiliQ)- Another BiliBili gRPC & REST API library.py
 
 ## 第三方客户端
 
@@ -396,6 +397,7 @@
 - [BiliHub](https://github.com/LeonNOV/BiliHub) - B站第三方客户端.kotlin
 - [bilibili-console](https://github.com/12345-mcpython/bilibili-console) - Bilibili命令行客户端.py|cli
 - [ATV-Bilibili-demo](https://github.com/yichengchen/ATV-Bilibili-demo) - BiliBili tvOS 客户端 Demo.swift
+- [bilibili-tools](https://github.com/cwuom/bilibili-tools) - 个基于android开发的哔哩哔哩辅助器.jar
 
 ## 每日任务
 
