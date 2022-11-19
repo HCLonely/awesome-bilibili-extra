@@ -96,7 +96,7 @@
 
 - [哔哩哔哩助手](https://github.com/bilibili-helper/bilibili-helper-o) - 哔哩哔哩弹幕网辅助扩展，拥有视频区和直播区的人性化功能.
 - [bilibili-img-uploader](https://github.com/xlzy520/bilibili-img-uploader) - 哔哩哔哩图床上传、短链转换插件.
-- [bilibil-tool-mv3](https://github.com/tuntun0609/bilibil-tool-mv3) - bilibili网页优化插件.
+- [tun-bili-tool](https://github.com/tuntun0609/tun-bili-tool) - bilibili网页优化插件.
 
 ### 主站扩展
 
@@ -127,7 +127,7 @@
 
 ### 主站脚本
 
-- [解除B站区域限制](https://greasyfork.org/zh-CN/scripts/25718) - 通 过替换获取视频地址接口的方式, 实现解除B站区域限制; 只对HTML5播放器生效.
+- [解除B站区域限制](https://greasyfork.org/zh-CN/scripts/25718) - 通过替换获取视频地址接口的方式, 实现解除B站区域限制; 只对HTML5播放器生效.
 - [B站网页端添加APP首页推荐](https://greasyfork.org/zh-CN/scripts/368446) - 网页端首页添加APP首页推荐、全站排行、可选提交不喜欢的视频.
 - [Bilibili CC字幕工具](https://greasyfork.org/zh-CN/scripts/378513) - 可以在B站加载外挂本地字幕、下载B站的CC字幕，旧版B站播放器可启用CC字幕.
 - [解锁b站vip视频+弹幕字幕移植](https://greasyfork.org/zh-CN/scripts/428746) - 解除B站大会员观影限制，理论支持番剧和放映厅.
@@ -167,6 +167,7 @@
 - [bilibili海外区域搜索](https://github.com/gamekingv/bilibili-oversea-search) - bilibili海外区域搜索.
 - [bilibili-joybook](https://github.com/PC6live/bilibili-joybook-tampermonkey) - Bilibili共享大会员.
 - [BiliBili-跳过互动视频](https://github.com/SynRGB/BiliBili-PassInteractiveVideo) - 列表播放的时候脚本可以跳过互动视频，直接播放下一个视频.
+- [bilibili-area-limit](https://github.com/kghost/bilibili-area-limit) - Bilibili 港澳台, 解除区域限制.
 
 ### 直播脚本
 
@@ -202,7 +203,7 @@
 - [Bili23-Downloader](https://github.com/ScottSloan/Bili23-Downloader) - 下载 Bilibili 视频/番剧/电影/纪录片 等资源.py|exe
 - [Bilibili-downloader](https://github.com/ZhelinCheng/bilibili-downloader) - B 站个人动态视频下载助手，支持下载 B 站个人动态更新的 4k 视频.ts
 - [Bili-cli-rs](https://github.com/niuhuan/bili-cli-rs) - 一个Rust的Bilibili命令行视频下载器.rust|cli
-- [BiliBangumiDownloader_Kotlin](https://github.com/sgpublic/BiliBangumiDownloader_Kotlin) - 哔哩番剧，一个开源的哔哩下载工具.kotlin
+- [BiliBangumiDownloader](https://github.com/sgpublic/BiliBangumiDownloader) - 哔哩番剧，一个开源的哔哩下载工具.kotlin
 - [biliDownloader_GUI](https://github.com/JimmyLiang-lzm/biliDownloader_GUI) - 基于Python开发的可视化B站视频专用下载器（支持交互视频下载）.py|exe
 - [bilibili-pic](https://github.com/ibook86/bilibili-pic) - 下载指定up主的主页相册的全部图片.py
 - [bilibili-video2mp3](https://github.com/wxsms/bilibili-video2mp3) - 一个下载B站视频并转换为MP3的工具.node
@@ -246,6 +247,7 @@
 - [BiliDownloader](https://github.com/Harlan-H/BiliDownloader) - 一款界面精简操作简单的b站视频下载工具.c#|exe
 - [BiliDownloader](https://github.com/Majjcom/BiliDownloader) - 超级好用的 GUI bilibili视频下载器.py|exe
 - [Bilibili-Download-Extension](https://github.com/here200/Bilibili-Download-Extension) - Bilibili下载工具.py
+- [bilibilias](https://github.com/1250422131/bilibilias) - 哔哩哔哩视频缓存的辅助工具，一键解析缓存.jar
 
 ## 直播相关工具
 
@@ -305,6 +307,7 @@
 - [Bilibili-Live-Danmaku-vscode](https://github.com/Discreater/Bilibili-Live-Danmaku-vscode)- VSCode 的 B站弹幕机.ts
 - [Bilibili_Song_Player](https://github.com/mk-ling/Bilibili_Song_Player)- 利用Selenium操控Chrome的直播点歌软件.py
 - [Bililiveauto](https://github.com/Morax-xyc/Bililiveauto)- 兼容哔哩哔哩录播姬的自动转封装、自动上传、弹幕转码脚本.js
+- [material-douden-tool](https://github.com/OToNaShiAKi/material-douden-tool)- 采用 Material 设计的向 bilibili 直播间发送 Vtuber 翻译、歌词的弹幕同传工具.vue|exe
 
 ## UP 工具
 
@@ -398,6 +401,7 @@
 - [bilibili-console](https://github.com/12345-mcpython/bilibili-console) - Bilibili命令行客户端.py|cli
 - [ATV-Bilibili-demo](https://github.com/yichengchen/ATV-Bilibili-demo) - BiliBili tvOS 客户端 Demo.swift
 - [bilibili-tools](https://github.com/cwuom/bilibili-tools) - 个基于android开发的哔哩哔哩辅助器.jar
+- [wiliwili](https://github.com/xfangfang/wiliwili) - 专为手柄控制设计的第三方跨平台B站客户端，目前可以运行在PC全平台和Nintendo Switch上.c++
 
 ## 每日任务
 
@@ -486,6 +490,8 @@
 - [bilibiliLottery](https://github.com/silie666/bilibiliLottery) - bilibili活动页抽奖，自动转发动态抽奖.go
 - [bilibili-stats-badges](https://github.com/lonelyion/bilibili-stats-badges) - Bilibili状态徽章.js
 - [Bili_Realtime_Data](https://github.com/CzJam/Bili_Realtime_Data) - Bilibili粉丝与视频实时数据统计.php
+- [VisualBilibili](https://github.com/Nomination-NRB/VisualBilibili) - 爬取B站up视频详细信息，并进行可视化.py|js
+- [bilibiliNoteExport](https://github.com/fireworks99/bilibiliNoteExport) - B站视频笔记一键导出（pdf）.js
 
 ## 贡献
 
