@@ -183,6 +183,7 @@
 - [B站直播自动抢红包](https://greasyfork.org/zh-CN/scripts/439169) - 会在进房间以后的下一次发红包时开始生效.
 - [B站直播随看随录](https://greasyfork.org/zh-CN/scripts/435623) - 无需打开弹幕姬，可即时录制flv的油猴脚本，快速切片.
 - [bilibili_live-assistant](https://github.com/isma123HH/bilibili_live-assistant) - 获取直播流, 获取直播封面, 直播切片...
+- [Bilibili直播自动追帧](https://github.com/c-basalt/bilibili-live-seeker-script) - Bilibili直播自动追帧.
 
 ## 下载工具
 
@@ -248,6 +249,7 @@
 - [BiliDownloader](https://github.com/Majjcom/BiliDownloader) - 超级好用的 GUI bilibili视频下载器.py|exe
 - [Bilibili-Download-Extension](https://github.com/here200/Bilibili-Download-Extension) - Bilibili下载工具.py
 - [bilibilias](https://github.com/1250422131/bilibilias) - 哔哩哔哩视频缓存的辅助工具，一键解析缓存.jar
+- [Bili23-Downloader-CLI](https://github.com/ScottSloan/Bili23-Downloader-CLI) - Bili23 Downloader CLI 命令行版本.py
 
 ## 直播相关工具
 
@@ -308,6 +310,8 @@
 - [Bilibili_Song_Player](https://github.com/mk-ling/Bilibili_Song_Player)- 利用Selenium操控Chrome的直播点歌软件.py
 - [Bililiveauto](https://github.com/Morax-xyc/Bililiveauto)- 兼容哔哩哔哩录播姬的自动转封装、自动上传、弹幕转码脚本.js
 - [material-douden-tool](https://github.com/OToNaShiAKi/material-douden-tool)- 采用 Material 设计的向 bilibili 直播间发送 Vtuber 翻译、歌词的弹幕同传工具.vue|exe
+- [bililive-uploader](https://github.com/Gliese129/bililive-uploader)- 采自动将B站录播姬录播上传到B站.py|docker
+- [bili_live_shield_words](https://github.com/FHChen0420/bili_live_shield_words)- B站直播间弹幕屏蔽字处理.py
 
 ## UP 工具
 
