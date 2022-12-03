@@ -97,6 +97,7 @@
 - [哔哩哔哩助手](https://github.com/bilibili-helper/bilibili-helper-o) - 哔哩哔哩弹幕网辅助扩展，拥有视频区和直播区的人性化功能.
 - [bilibili-img-uploader](https://github.com/xlzy520/bilibili-img-uploader) - 哔哩哔哩图床上传、短链转换插件.
 - [tun-bili-tool](https://github.com/tuntun0609/tun-bili-tool) - bilibili网页优化插件.
+- [bilibili-dark-mode](https://github.com/flanker/bilibili-dark-mode) - 一个浏览器插件，可以让 bilibili.com 进入夜间模式.
 
 ### 主站扩展
 
@@ -168,6 +169,7 @@
 - [bilibili-joybook](https://github.com/PC6live/bilibili-joybook-tampermonkey) - Bilibili共享大会员.
 - [BiliBili-跳过互动视频](https://github.com/SynRGB/BiliBili-PassInteractiveVideo) - 列表播放的时候脚本可以跳过互动视频，直接播放下一个视频.
 - [bilibili-area-limit](https://github.com/kghost/bilibili-area-limit) - Bilibili 港澳台, 解除区域限制.
+- [bilitwin](https://github.com/liqi0816/bilitwin) - 超清FLV下载, FLV合并, 原生MP4下载, 弹幕ASS下载, MKV打包, 播放体验增强...
 
 ### 直播脚本
 
@@ -250,6 +252,7 @@
 - [Bilibili-Download-Extension](https://github.com/here200/Bilibili-Download-Extension) - Bilibili下载工具.py
 - [bilibilias](https://github.com/1250422131/bilibilias) - 哔哩哔哩视频缓存的辅助工具，一键解析缓存.jar
 - [Bili23-Downloader-CLI](https://github.com/ScottSloan/Bili23-Downloader-CLI) - Bili23 Downloader CLI 命令行版本.py
+- [BilibiliVideoDownload](https://github.com/MunMunMiao/BilibiliVideoDownload) - 哔哩哔哩视频下载.ts
 
 ## 直播相关工具
 
@@ -312,6 +315,7 @@
 - [material-douden-tool](https://github.com/OToNaShiAKi/material-douden-tool)- 采用 Material 设计的向 bilibili 直播间发送 Vtuber 翻译、歌词的弹幕同传工具.vue|exe
 - [bililive-uploader](https://github.com/Gliese129/bililive-uploader)- 采自动将B站录播姬录播上传到B站.py|docker
 - [bili_live_shield_words](https://github.com/FHChen0420/bili_live_shield_words)- B站直播间弹幕屏蔽字处理.py
+- [biliLiveNotification](https://github.com/yunhuanyx/biliLiveNotification)- b站直播开播提醒.py|exe
 
 ## UP 工具
 
@@ -378,6 +382,7 @@
 - [bilibili-api](https://github.com/xlz122/bilibili-api)- 提供B站web移动端api接口.js
 - [bili-live-listener](https://github.com/LU-JIEJIE/bili-live-listener)- b站直播间信息监听库，包括但不限于弹幕、礼物、醒目留言、全站广播等.ts
 - [BiliBiliQ](https://github.com/MingxuanGame/BiliBiliQ)- Another BiliBili gRPC & REST API library.py
+- [BilibiliLogin](https://github.com/lllk140/BilibiliLogin)- b站app登陆模拟，获取accesskey和cookie，非TV.py|exe
 
 ## 第三方客户端
 
@@ -451,6 +456,7 @@
 - [nonebot_plugin_BiliRequest](https://github.com/Shadow403/nonebot_plugin_BiliRequest) - 以B站UID审核入群（粉丝）.py
 - [nonebot_plugin_BiliRequestsBarand](https://github.com/Shadow403/nonebot_plugin_BiliRequestsBarand) - 以B站UID审核入群（粉丝牌）.py
 - [nonebot_plugin_searchBiliInfo](https://github.com/Ikaros-521/nonebot_plugin_searchBiliInfo) - 适用于nonebot2 v11的b站用户粉丝、舰团信息查询插件.py
+- [nonebot_plugin_BiliRequestAll](https://github.com/Shadow403/nonebot_plugin_BiliRequestAll) - 以B站UID审核入群（分群管理）.py
 
 ## 其他
 
