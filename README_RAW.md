@@ -253,6 +253,7 @@
 - [bilibilias](https://github.com/1250422131/bilibilias) - 哔哩哔哩视频缓存的辅助工具，一键解析缓存.jar
 - [Bili23-Downloader-CLI](https://github.com/ScottSloan/Bili23-Downloader-CLI) - Bili23 Downloader CLI 命令行版本.py
 - [BilibiliVideoDownload](https://github.com/MunMunMiao/BilibiliVideoDownload) - 哔哩哔哩视频下载.ts
+- [Bilibili-Album-Download](https://github.com/littleplus/Bilibili-Album-Download) - 下载Bilibili用户相簿.py
 
 ## 直播相关工具
 
@@ -339,6 +340,8 @@
 ## 开发
 
 > 方便开发人员使用的API、库等。
+>
+> [官方直播API](https://open-live.bilibili.com/document/)
 
 - [Bilibili-API-collect](https://github.com/SocialSisterYi/bilibili-API-collect) - 哔哩哔哩-API收集整理.
 - [Bilibili-api](https://github.com/Vespa314/bilibili-api) - B站API收集整理及开发，测试【开发中】.py
@@ -502,6 +505,7 @@
 - [Bili_Realtime_Data](https://github.com/CzJam/Bili_Realtime_Data) - Bilibili粉丝与视频实时数据统计.php
 - [VisualBilibili](https://github.com/Nomination-NRB/VisualBilibili) - 爬取B站up视频详细信息，并进行可视化.py|js
 - [bilibiliNoteExport](https://github.com/fireworks99/bilibiliNoteExport) - B站视频笔记一键导出（pdf）.js
+- [bilibili-comment2png](https://github.com/circle-hotaru/bilibili-comment2png) - Bilibili 评论转图片神器.vue
 
 ## 贡献
 
