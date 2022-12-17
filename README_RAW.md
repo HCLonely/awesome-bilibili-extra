@@ -458,8 +458,6 @@
 - [bilivedioSnap](https://github.com/Arisuakip/bilivedioSnap) - HoshinoBot插件,把群友的哔哩哔哩小程序转成预览图.py
 - [BBot-Graia](https://github.com/djkcyl/BBot-Graia) - 一个使用 gRPC 接口用于 QQ 群内高效推送 BiliBili 动态和直播的机器人.py
 - [bili_dynamic_push](https://github.com/nfe-w/bili_dynamic_push) - UP主动态、直播间开播检测与推送.py
-- [nonebot_plugin_BiliRequest](https://github.com/Shadow403/nonebot_plugin_BiliRequest) - 以B站UID审核入群（粉丝）.py
-- [nonebot_plugin_BiliRequestsBarand](https://github.com/Shadow403/nonebot_plugin_BiliRequestsBarand) - 以B站UID审核入群（粉丝牌）.py
 - [nonebot_plugin_searchBiliInfo](https://github.com/Ikaros-521/nonebot_plugin_searchBiliInfo) - 适用于nonebot2 v11的b站用户粉丝、舰团信息查询插件.py
 - [nonebot_plugin_BiliRequestAll](https://github.com/Shadow403/nonebot_plugin_BiliRequestAll) - 以B站UID审核入群（分群管理）.py
 
