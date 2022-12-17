@@ -254,6 +254,7 @@
 - [Bili23-Downloader-CLI](https://github.com/ScottSloan/Bili23-Downloader-CLI) - Bili23 Downloader CLI 命令行版本.py
 - [BilibiliVideoDownload](https://github.com/MunMunMiao/BilibiliVideoDownload) - 哔哩哔哩视频下载.ts
 - [Bilibili-Album-Download](https://github.com/littleplus/Bilibili-Album-Download) - 下载Bilibili用户相簿.py
+- [bilibili-downloader](https://github.com/tyokyo320/bilibili-downloader) - B站视频下载，支持下载大会员清晰度4K.py
 
 ## 直播相关工具
 
@@ -317,6 +318,7 @@
 - [bililive-uploader](https://github.com/Gliese129/bililive-uploader)- 采自动将B站录播姬录播上传到B站.py|docker
 - [bili_live_shield_words](https://github.com/FHChen0420/bili_live_shield_words)- B站直播间弹幕屏蔽字处理.py
 - [biliLiveNotification](https://github.com/yunhuanyx/biliLiveNotification)- b站直播开播提醒.py|exe
+- [OlivaBiliLive](https://github.com/A2C29K9/OlivaBiliLive)- 可插件化管理的B站直播间机器人(插件基于OlivOS).py
 
 ## UP 工具
 
