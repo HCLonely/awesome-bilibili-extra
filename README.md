@@ -219,6 +219,7 @@
 - [Bilibili-download](https://github.com/lecepin/bilibili-download) - 超简单 B 站视频下载工具，安装即可使用.![NodeJs](svg/nodejs.svg?raw=true) ![Windows](svg/windows.svg?raw=true)
 - [Bilibili-downloader](https://github.com/ZhelinCheng/bilibili-downloader) - B 站个人动态视频下载助手，支持下载 B 站个人动态更新的 4k 视频.![TypeScript](svg/tsnode.svg?raw=true)
 - [Bilibili-downloader](https://github.com/stevenjoezhang/bilibili-downloader) - 基于 Node.js 和 Electron 开发的哔哩哔哩视频、弹幕下载器.![NodeJs](svg/nodejs.svg?raw=true)
+- [Bilibili-downloader](https://github.com/tyokyo320/bilibili-downloader) - B 站视频下载，支持下载大会员清晰度 4K.![Python](svg/python.svg?raw=true)
 - [Bilibili-pic](https://github.com/ibook86/bilibili-pic) - 下载指定 up 主的主页相册的全部图片.![Python](svg/python.svg?raw=true)
 - [Bilibili-save-nodejs](https://github.com/Youky1/bilibili-save-nodejs) - 下载 B 站视频 / 音频，提供命令行工具和 Nodejs 的 API.![NodeJs](svg/nodejs.svg?raw=true) ![Cli](svg/terminal.svg?raw=true)
 - [Bilibili-uwp-download-fixtool](https://github.com/gaoyia/bilibili-uwp-download-fixtool) - B 站 UWP 视频下载修复工具.![Vue](svg/vue.svg?raw=true) ![Windows](svg/windows.svg?raw=true)
@@ -316,6 +317,7 @@
 - [DD_Monitor](https://github.com/zhimingshenjun/DD_Monitor) - DD 监控室.![Python](svg/python.svg?raw=true) ![Windows](svg/windows.svg?raw=true)
 - [Danmaku.bilibili](https://github.com/champkeh/danmaku.bilibili) - B 站直播间实时弹幕采集.![NodeJs](svg/nodejs.svg?raw=true)
 - [Material-douden-tool](https://github.com/OToNaShiAKi/material-douden-tool) - 采用 Material 设计的向 bilibili 直播间发送 Vtuber 翻译、歌词的弹幕同传工具.![Vue](svg/vue.svg?raw=true) ![Windows](svg/windows.svg?raw=true)
+- [OlivaBiliLive](https://github.com/A2C29K9/OlivaBiliLive) - 可插件化管理的 B 站直播间机器人 (插件基于 OlivOS).![Python](svg/python.svg?raw=true)
 - [StreamerHelper](https://github.com/ZhangMingZhao1/StreamerHelper) - 全平台主播录制工具 & 自动投稿 B 站.![TypeScript](svg/tsnode.svg?raw=true) ![Docker](svg/docker.svg?raw=true)
 
 ## UP 工具
@@ -511,4 +513,4 @@
 
 请查看[贡献指南](https://github.com/HCLonely/awesome-bilibili-extra/blob/master/CONTRIBUTING.md).
 
-<!-- Sort Time: 2022-12-10 07:03:22 +00:00 -->
+<!-- Sort Time: 2022-12-17 02:50:14 +00:00 -->
