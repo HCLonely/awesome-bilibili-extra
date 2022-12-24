@@ -319,6 +319,7 @@
 - [bili_live_shield_words](https://github.com/FHChen0420/bili_live_shield_words)- B站直播间弹幕屏蔽字处理.py
 - [biliLiveNotification](https://github.com/yunhuanyx/biliLiveNotification)- b站直播开播提醒.py|exe
 - [OlivaBiliLive](https://github.com/A2C29K9/OlivaBiliLive)- 可插件化管理的B站直播间机器人(插件基于OlivOS).py
+- [vue-bili-danmaku](https://github.com/Drelf2018/vue-bili-danmaku)- 基于 Vue3 的b站直播弹幕姬.vue
 
 ## UP 工具
 
@@ -416,6 +417,7 @@
 - [ATV-Bilibili-demo](https://github.com/yichengchen/ATV-Bilibili-demo) - BiliBili tvOS 客户端 Demo.swift
 - [bilibili-tools](https://github.com/cwuom/bilibili-tools) - 个基于android开发的哔哩哔哩辅助器.jar
 - [wiliwili](https://github.com/xfangfang/wiliwili) - 专为手柄控制设计的第三方跨平台B站客户端，目前可以运行在PC全平台和Nintendo Switch上.c++
+- [bv](https://github.com/aaa1115910/bv) - 哔哩哔哩 的第三方 Android TV 应用.kotlin
 
 ## 每日任务
 
@@ -427,7 +429,6 @@
 - [BiliBili_Checkin](https://github.com/ICE99125/BiliBili_Checkin) - 腾讯云函数实现 BiliBili 每日观看视频、自动投币、分享、漫画签到、直播签到.py
 - [bilicoin](https://github.com/r3inbowari/bilicoin) - B站自动投币工具 批量用户处理 Lv6经验补全 手机客户端二维码登录 支持docker.go|cli|docker
 - [bilibili-helper-hub](https://github.com/Cruii/bilibili-helper-hub) - Bilibili每日任务托管平台.jar
-- [BiliTools](https://github.com/KudouRan/BiliTools) - 哔哩哔哩每日任务(基于 Nodejs12.x 及以上).ts
 - [BilibiliTask_3](https://github.com/chuiba/BilibiliTask_3) - B站挂机用.jar|docker
 - [fansMedalHelper](https://github.com/XiaoMiku01/fansMedalHelper) - 每日获取B站直播间每日小心心及直播间自动打卡脚本.py|docker
 - [BiliLiveAutoInteract](https://github.com/MociLSeng/BiliLiveAutoInteract) - b站最新直播粉丝团自动签到/打卡 点赞/分享/发送弹幕.jar
@@ -506,6 +507,10 @@
 - [VisualBilibili](https://github.com/Nomination-NRB/VisualBilibili) - 爬取B站up视频详细信息，并进行可视化.py|js
 - [bilibiliNoteExport](https://github.com/fireworks99/bilibiliNoteExport) - B站视频笔记一键导出（pdf）.js
 - [bilibili-comment2png](https://github.com/circle-hotaru/bilibili-comment2png) - Bilibili 评论转图片神器.vue
+- [bili_app_splash](https://github.com/zjkwdy/bili_app_splash) - B站壁纸娘和开屏图自动下载，每天使用Actions自动同步.py
+- [bilibili-emotes](https://github.com/ccmuyuu/bilibili-emotes) - bilibili已发布的表情包.
+- [bilibili-activity-theme](https://github.com/xiaofeiTM233/bilibili-activity-theme) - B站动态页主题.
+- [biliroaming-ts-server-vercel](https://github.com/bili-vd-bak/biliroaming-ts-server-vercel) - 为BiliRoaming、哔哩UWP 等提供支持。包括支持基本功能、搜索替换、黑白名单的哔哩漫游服务端.ts
 
 ## 贡献
 
