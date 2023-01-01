@@ -427,6 +427,7 @@
 - [BiliBili_Checkin](https://github.com/ICE99125/BiliBili_Checkin) - 腾讯云函数实现 BiliBili 每日观看视频、自动投币、分享、漫画签到、直播签到.![Python](svg/python.svg?raw=true)
 - [BiliHelper-personal](https://github.com/lkeme/BiliHelper-personal) - 哔哩哔哩助手 - PHP 版.![PHP](svg/php.svg?raw=true)
 - [BiliLiveAutoInteract](https://github.com/MociLSeng/BiliLiveAutoInteract) - b 站最新直播粉丝团自动签到 / 打卡 点赞 / 分享 / 发送弹幕.![Java](svg/openjdk.svg?raw=true)
+- [BiliOutils](https://github.com/catlair/BiliOutils) - 哔哩哔哩每日任务.![TypeScript](svg/tsnode.svg?raw=true)
 - [Bilibili-helper-hub](https://github.com/Cruii/bilibili-helper-hub) - Bilibili 每日任务托管平台.![Java](svg/openjdk.svg?raw=true)
 - [BilibiliDailyUp](https://github.com/Wyatt1026/BilibiliDailyUp) - 哔哩哔哩每日任务脚本.![Python](svg/python.svg?raw=true)
 - [BilibiliHelper](https://github.com/RedSTARO/bilibiliHelper) - B 站快速升级脚本.![Python](svg/python.svg?raw=true) ![Windows](svg/windows.svg?raw=true)
@@ -516,4 +517,4 @@
 
 请查看[贡献指南](https://github.com/HCLonely/awesome-bilibili-extra/blob/master/CONTRIBUTING.md).
 
-<!-- Sort Time: 2022-12-24 02:21:38 +00:00 -->
+<!-- Sort Time: 2023-01-01 10:09:16 +00:00 -->
