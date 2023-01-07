@@ -368,6 +368,7 @@
 - [Bilibili-api](https://github.com/xlz122/bilibili-api) - 提供 B 站 web 移动端 api 接口.![JavaScript](svg/javascript.svg?raw=true)
 - [Bilibili-bullet](https://github.com/79W/bilibili-bullet) - bilibili 直播弹幕实时 WebSocket 爬取.![Vue](svg/vue.svg?raw=true)
 - [Bilibili-live-ws](https://github.com/simon300000/bilibili-live-ws) - Bilibili 直播 WebSocket/TCP API.![TypeScript](svg/tsnode.svg?raw=true)
+- [Bilibili-live](https://github.com/pandaGao/bilibili-live) - Bilibili 直播相关工具包.![JavaScript](svg/javascript.svg?raw=true)
 - [Bilibili-login-js](https://github.com/MoyuScript/bilibili-login-js) - b 站登录库.![NodeJs](svg/nodejs.svg?raw=true)
 - [Bilibili-user](https://github.com/airingursb/bilibili-user) - Bilibili 用户爬虫.![Python](svg/python.svg?raw=true)
 - [Bilibili-ws-client](https://github.com/varieget/bilibili-ws-client) - 适用于 b 站直播的 Websocket 客户端.![JavaScript](svg/javascript.svg?raw=true)
@@ -517,4 +518,4 @@
 
 请查看[贡献指南](https://github.com/HCLonely/awesome-bilibili-extra/blob/master/CONTRIBUTING.md).
 
-<!-- Sort Time: 2023-01-01 10:09:16 +00:00 -->
+<!-- Sort Time: 2023-01-07 03:06:23 +00:00 -->
