@@ -389,6 +389,7 @@
 - [bili-live-listener](https://github.com/LU-JIEJIE/bili-live-listener)- b站直播间信息监听库，包括但不限于弹幕、礼物、醒目留言、全站广播等.ts
 - [BiliBiliQ](https://github.com/MingxuanGame/BiliBiliQ)- Another BiliBili gRPC & REST API library.py
 - [BilibiliLogin](https://github.com/lllk140/BilibiliLogin)- b站app登陆模拟，获取accesskey和cookie，非TV.py|exe
+- [bilibili-live](https://github.com/pandaGao/bilibili-live)- Bilibili直播相关工具包.js
 
 ## 第三方客户端
 
