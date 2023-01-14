@@ -170,6 +170,7 @@
 - [BiliBili-跳过互动视频](https://github.com/SynRGB/BiliBili-PassInteractiveVideo) - 列表播放的时候脚本可以跳过互动视频，直接播放下一个视频.
 - [bilibili-area-limit](https://github.com/kghost/bilibili-area-limit) - Bilibili 港澳台, 解除区域限制.
 - [bilitwin](https://github.com/liqi0816/bilitwin) - 超清FLV下载, FLV合并, 原生MP4下载, 弹幕ASS下载, MKV打包, 播放体验增强...
+- [Bilibili-Markdown](https://github.com/LuckyPuppy514/Bilibili-Markdown) - B站专栏 Markdown 编辑器.
 
 ### 直播脚本
 
@@ -436,6 +437,7 @@
 - [bilibiliHelper](https://github.com/RedSTARO/bilibiliHelper) - B 站快速升级脚本.py|exe
 - [BilibiliDailyUp](https://github.com/Wyatt1026/BilibiliDailyUp) - 哔哩哔哩每日任务脚本.py
 - [BiliOutils](https://github.com/catlair/BiliOutils) - 哔哩哔哩每日任务.ts
+- [bilibili-helper](https://github.com/RealBeBetter/bilibili-helper) - bilibili 签到助手.jar
 
 ## 机器人
 
@@ -513,6 +515,8 @@
 - [bilibili-emotes](https://github.com/ccmuyuu/bilibili-emotes) - bilibili已发布的表情包.
 - [bilibili-activity-theme](https://github.com/xiaofeiTM233/bilibili-activity-theme) - B站动态页主题.
 - [biliroaming-ts-server-vercel](https://github.com/bili-vd-bak/biliroaming-ts-server-vercel) - 为BiliRoaming、哔哩UWP 等提供支持。包括支持基本功能、搜索替换、黑白名单的哔哩漫游服务端.ts
+- [BilibiliFans](https://github.com/Bernankez/BilibiliFans) - 制作你的粉丝装扮卡片.vue
+- [BiliLottery](https://github.com/cicidoll/BiliLottery) - B站动态评论抽奖脚本.py
 
 ## 贡献
 
