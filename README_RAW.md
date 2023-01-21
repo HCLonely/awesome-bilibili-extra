@@ -171,6 +171,7 @@
 - [bilibili-area-limit](https://github.com/kghost/bilibili-area-limit) - Bilibili 港澳台, 解除区域限制.
 - [bilitwin](https://github.com/liqi0816/bilitwin) - 超清FLV下载, FLV合并, 原生MP4下载, 弹幕ASS下载, MKV打包, 播放体验增强...
 - [Bilibili-Markdown](https://github.com/LuckyPuppy514/Bilibili-Markdown) - B站专栏 Markdown 编辑器.
+- [BiliFilter](https://github.com/RSSYLY/BiliFilter) - 哔哩哔哩评论过滤器，根据UID屏蔽B站用户的评论.
 
 ### 直播脚本
 
@@ -420,6 +421,7 @@
 - [bilibili-tools](https://github.com/cwuom/bilibili-tools) - 个基于android开发的哔哩哔哩辅助器.jar
 - [wiliwili](https://github.com/xfangfang/wiliwili) - 专为手柄控制设计的第三方跨平台B站客户端，目前可以运行在PC全平台和Nintendo Switch上.c++
 - [bv](https://github.com/aaa1115910/bv) - 哔哩哔哩 的第三方 Android TV 应用.kotlin
+- [BBLL](https://github.com/xiaye13579/BBLL) - 一个第三方哔哩哔哩TV和Pad客户端.
 
 ## 每日任务
 
@@ -517,6 +519,7 @@
 - [biliroaming-ts-server-vercel](https://github.com/bili-vd-bak/biliroaming-ts-server-vercel) - 为BiliRoaming、哔哩UWP 等提供支持。包括支持基本功能、搜索替换、黑白名单的哔哩漫游服务端.ts
 - [BilibiliFans](https://github.com/Bernankez/BilibiliFans) - 制作你的粉丝装扮卡片.vue
 - [BiliLottery](https://github.com/cicidoll/BiliLottery) - B站动态评论抽奖脚本.py
+- [bilibili_subscriber](https://github.com/lixiang810/bilibili_subscriber) - bilibili 第三方关注系统.dart
 
 ## 贡献
 
