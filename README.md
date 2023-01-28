@@ -231,6 +231,7 @@
 - [BilibiliAnimeDownload](https://github.com/NorthSkybk/BilibiliAnimeDownload) - 哔哩哔哩番剧下载工具.![Python](svg/python.svg?raw=true)
 - [BilibiliAudioDownloader.ps1](https://github.com/Quandong-Zhang/bilibiliAudioDownloader.ps1) - 基于 power shell 的 b 站视频音轨下载器（支持多 P）.![Shell](svg/shell.svg?raw=true)
 - [BilibiliAudioDownloader](https://github.com/nuster1128/bilibiliAudioDownloader) - 输入视频 BV 号列表，批量下载 B 站视频中的音频到本地.![Python](svg/python.svg?raw=true)
+- [BilibiliCacheVideoMerge](https://github.com/molihuan/BilibiliCacheVideoMerge) - Android 上将 bilibili 缓存视频合并导出为 mp4，支持安卓 5.0 ~ 13，视频挂载弹幕播放.![Java](svg/openjdk.svg?raw=true)
 - [BilibiliDecode](https://github.com/VindenChen/BilibiliDecode) - 批量解密 UWP 哔哩哔哩下载的视频文件.![Python](svg/python.svg?raw=true) ![Cli](svg/terminal.svg?raw=true)
 - [BilibiliDown](https://github.com/nICEnnnnnnnLee/BilibiliDown) - (GUI - 多平台支持) 哔哩哔哩视频下载器，支持稍后再看、收藏夹、UP 主视频批量下载.![Java](svg/openjdk.svg?raw=true) ![Windows](svg/windows.svg?raw=true)
 - [BilibiliDownloadExtract](https://github.com/lycode404/BilibiliDownloadExtract) - 可批量从 Bilibili (Android) 缓存文件中提取 MP4/MKV 格式的视频以及弹幕.![Python](svg/python.svg?raw=true)
@@ -261,6 +262,7 @@
 ## 直播相关工具
 
 - [BILiveChat.js](https://github.com/XL7Z/BILiveChat.js) - 基于 PlayWithMe_JS 二次开发的纯前端弹幕展示板.![JavaScript](svg/javascript.svg?raw=true)
+- [Bili-bot](https://github.com/orangelckc/bili-bot) - 哔哩哔哩 - 直播间管家机器人.![TypeScript](svg/tsnode.svg?raw=true)
 - [Bili-recorder](https://github.com/chocotan/bili-recorder) - 这是一个 bilibili 直播录制工具.![Java](svg/openjdk.svg?raw=true)
 - [Bili2.0](https://github.com/yjqiang/bili2.0) - Python3 实现的 Bilibili 直播助手.![Python](svg/python.svg?raw=true) ![Docker](svg/docker.svg?raw=true)
 - [BiliBiliLiveAutoRec](https://github.com/qiaoshouzi/BiliBiliLiveAutoRec) - 自动录播脚本.![Python](svg/python.svg?raw=true)
@@ -511,6 +513,7 @@
 - [Bilibili_master](https://github.com/dzxmxd/bilibili_master) - 哔哩哔哩排行榜数据分析与可视化.![Python](svg/python.svg?raw=true)
 - [Bilibili_subscriber](https://github.com/lixiang810/bilibili_subscriber) - bilibili 第三方关注系统.![Dart](svg/dart.svg?raw=true)
 - [Bilibili_unread](https://github.com/powersee/bilibili_unread) - B 站未读消息提示器.![Python](svg/python.svg?raw=true)
+- [Bilibiliplayer](https://github.com/MotooriKashin/bilibiliplayer) - 旧版 Bilibili 播放器，使用 typescript 进行了重构.![TypeScript](svg/tsnode.svg?raw=true)
 - [Bilimini](https://github.com/chitosai/bilimini) - 藏起来！哔哩哔哩.![NodeJs](svg/nodejs.svg?raw=true) ![Windows](svg/windows.svg?raw=true)
 - [Biliroaming-go-server](https://github.com/JasonKhew96/biliroaming-go-server) - 自建哔哩漫游解析服务器.![Go](svg/go.svg?raw=true) ![Docker](svg/docker.svg?raw=true)
 - [Biliroaming-ts-server-vercel](https://github.com/bili-vd-bak/biliroaming-ts-server-vercel) - 为 BiliRoaming、哔哩 UWP 等提供支持。包括支持基本功能、搜索替换、黑白名单的哔哩漫游服务端.![TypeScript](svg/tsnode.svg?raw=true)
@@ -525,4 +528,4 @@
 
 请查看[贡献指南](https://github.com/HCLonely/awesome-bilibili-extra/blob/master/CONTRIBUTING.md).
 
-<!-- Sort Time: 2023-01-21 02:16:23 +00:00 -->
+<!-- Sort Time: 2023-01-28 03:50:16 +00:00 -->
