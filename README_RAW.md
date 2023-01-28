@@ -257,6 +257,7 @@
 - [BilibiliVideoDownload](https://github.com/MunMunMiao/BilibiliVideoDownload) - 哔哩哔哩视频下载.ts
 - [Bilibili-Album-Download](https://github.com/littleplus/Bilibili-Album-Download) - 下载Bilibili用户相簿.py
 - [bilibili-downloader](https://github.com/tyokyo320/bilibili-downloader) - B站视频下载，支持下载大会员清晰度4K.py
+- [BilibiliCacheVideoMerge](https://github.com/molihuan/BilibiliCacheVideoMerge) - Android上将bilibili缓存视频合并导出为mp4，支持安卓5.0 ~ 13，视频挂载弹幕播放.jar
 
 ## 直播相关工具
 
@@ -322,6 +323,7 @@
 - [biliLiveNotification](https://github.com/yunhuanyx/biliLiveNotification)- b站直播开播提醒.py|exe
 - [OlivaBiliLive](https://github.com/A2C29K9/OlivaBiliLive)- 可插件化管理的B站直播间机器人(插件基于OlivOS).py
 - [vue-bili-danmaku](https://github.com/Drelf2018/vue-bili-danmaku)- 基于 Vue3 的b站直播弹幕姬.vue
+- [bili-bot](https://github.com/orangelckc/bili-bot)- 哔哩哔哩-直播间管家机器人.ts
 
 ## UP 工具
 
@@ -520,6 +522,7 @@
 - [BilibiliFans](https://github.com/Bernankez/BilibiliFans) - 制作你的粉丝装扮卡片.vue
 - [BiliLottery](https://github.com/cicidoll/BiliLottery) - B站动态评论抽奖脚本.py
 - [bilibili_subscriber](https://github.com/lixiang810/bilibili_subscriber) - bilibili 第三方关注系统.dart
+- [bilibiliplayer](https://github.com/MotooriKashin/bilibiliplayer) - 旧版Bilibili播放器，使用typescript进行了重构.ts
 
 ## 贡献
 
