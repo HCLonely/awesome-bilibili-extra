@@ -258,6 +258,8 @@
 - [Bilibili-Album-Download](https://github.com/littleplus/Bilibili-Album-Download) - 下载Bilibili用户相簿.py
 - [bilibili-downloader](https://github.com/tyokyo320/bilibili-downloader) - B站视频下载，支持下载大会员清晰度4K.py
 - [BilibiliCacheVideoMerge](https://github.com/molihuan/BilibiliCacheVideoMerge) - Android上将bilibili缓存视频合并导出为mp4，支持安卓5.0 ~ 13，视频挂载弹幕播放.jar
+- [bilibili](https://github.com/misssonder/bilibili) - 使用golang编写的bilibili视频下载器.go
+- [BilibiliAudioDownloader-rebuild](https://github.com/Quandong-Zhang/BilibiliAudioDownloader-rebuild) - b站视频音轨下载器（支持多P）.py|exe
 
 ## 直播相关工具
 
@@ -305,7 +307,6 @@
 - [biliVTS](https://github.com/TenyaChannel/biliVTS)- 在bilibili直播间使用弹幕控制l2d模型.py
 - [BiliRec](https://github.com/REV-Unit/BiliRec)- 一个能够录制B站直播的工具.kotlin
 - [BiliLive](https://github.com/See-Night/BiliLive)- bilibili直播录播工具.py
-- [bilibili-live-helper](https://github.com/bilibili-ayang/bilibili-live-helper)- 一款小破站直播姬，方便您直播，帮助您更好的与观众互动.vue
 - [Bilibili_GetReceivedGiftStream](https://github.com/boxie123/Bilibili_GetReceivedGiftStream)- 登录并获取bilibili礼物流水统计表格.py
 - [bilibili-ordersong-plugin](https://github.com/xiaoan-1/bilibili-ordersong-plugin)- b站直播姬点歌插件.js
 - [bilibili-live-danmu-rs](https://github.com/JmPotato/bilibili-live-danmu-rs)- Bilibili 直播间弹幕命令行工具.rust|cli
@@ -324,6 +325,7 @@
 - [OlivaBiliLive](https://github.com/A2C29K9/OlivaBiliLive)- 可插件化管理的B站直播间机器人(插件基于OlivOS).py
 - [vue-bili-danmaku](https://github.com/Drelf2018/vue-bili-danmaku)- 基于 Vue3 的b站直播弹幕姬.vue
 - [bili-bot](https://github.com/orangelckc/bili-bot)- 哔哩哔哩-直播间管家机器人.ts
+- [bilive](https://github.com/Nauxscript/bilive)- 命令行 bilibili 弹幕姬.ts
 
 ## UP 工具
 
@@ -469,6 +471,15 @@
 - [bili_dynamic_push](https://github.com/nfe-w/bili_dynamic_push) - UP主动态、直播间开播检测与推送.py
 - [nonebot_plugin_searchBiliInfo](https://github.com/Ikaros-521/nonebot_plugin_searchBiliInfo) - 适用于nonebot2 v11的b站用户粉丝、舰团信息查询插件.py
 - [nonebot_plugin_BiliRequestAll](https://github.com/Shadow403/nonebot_plugin_BiliRequestAll) - 以B站UID审核入群（分群管理）.py
+
+## 相关插件
+
+> 适用于其他平台/客户端的与B站相关的插件。
+
+- [picgo-plugin-bilibili](https://github.com/xlzy520/picgo-plugin-bilibili) - 为 PicGo 开发的一款插件，新增了B站图床.js
+- [typora-plugin-bilibili](https://github.com/xlzy520/typora-plugin-bilibili) - Typora粘贴图片自动上传到Bilibili图床.go
+- [hexo-bilibili-bangumi](https://github.com/HCLonely/hexo-bilibili-bangumi) - hexo 番剧页面插件.js
+- [hexo-bilibili-plus](https://github.com/pk5ls20/hexo-bilibili-plus) - 一个hexo插件，可以快速而方便的在hexo页面中嵌入bilibili视频.js
 
 ## 其他
 
