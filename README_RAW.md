@@ -175,6 +175,7 @@
 - [bilibili-comment-checker](https://github.com/trychen/bilibili-comment-checker) - B站评论区自动标注成分油猴脚本.
 - [bilibili-subtitle-tweaks](https://github.com/Kr328/bilibili-subtitle-tweaks) - 增强 Bilibili 番剧的 CC 字幕，包含自动翻译及自动断行功能.
 - [BilibiliProgressBar](https://github.com/zweix123/BilibiliProgressBar) - Total progress bar of Bilibili collective video.
+- [tampermonkey-removePrefix-bilibili](https://github.com/SoonIter/tampermonkey-removePrefix-bilibili) - 一个脚本解决bilibili视频选集中标题过长的问题.
 
 ### 直播脚本
 
@@ -430,6 +431,7 @@
 - [wiliwili](https://github.com/xfangfang/wiliwili) - 专为手柄控制设计的第三方跨平台B站客户端，目前可以运行在PC全平台和Nintendo Switch上.c++
 - [bv](https://github.com/aaa1115910/bv) - 哔哩哔哩 的第三方 Android TV 应用.kotlin
 - [BBLL](https://github.com/xiaye13579/BBLL) - 一个第三方哔哩哔哩TV和Pad客户端.
+- [bili_you](https://github.com/lucinhu/bili_you) - 一个用flutter制作的第三方B站客户端.dart
 
 ## 每日任务
 
