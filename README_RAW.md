@@ -172,6 +172,9 @@
 - [bilitwin](https://github.com/liqi0816/bilitwin) - 超清FLV下载, FLV合并, 原生MP4下载, 弹幕ASS下载, MKV打包, 播放体验增强...
 - [Bilibili-Markdown](https://github.com/LuckyPuppy514/Bilibili-Markdown) - B站专栏 Markdown 编辑器.
 - [BiliFilter](https://github.com/RSSYLY/BiliFilter) - 哔哩哔哩评论过滤器，根据UID屏蔽B站用户的评论.
+- [bilibili-comment-checker](https://github.com/trychen/bilibili-comment-checker) - B站评论区自动标注成分油猴脚本.
+- [bilibili-subtitle-tweaks](https://github.com/Kr328/bilibili-subtitle-tweaks) - 增强 Bilibili 番剧的 CC 字幕，包含自动翻译及自动断行功能.
+- [BilibiliProgressBar](https://github.com/zweix123/BilibiliProgressBar) - Total progress bar of Bilibili collective video.
 
 ### 直播脚本
 
@@ -396,6 +399,7 @@
 - [BiliBiliQ](https://github.com/MingxuanGame/BiliBiliQ)- Another BiliBili gRPC & REST API library.py
 - [BilibiliLogin](https://github.com/lllk140/BilibiliLogin)- b站app登陆模拟，获取accesskey和cookie，非TV.py|exe
 - [bilibili-live](https://github.com/pandaGao/bilibili-live)- Bilibili直播相关工具包.js
+- [Go-BiliChat](https://github.com/FishZe/Go-BiliChat)- golang的b站信息流处理.go
 
 ## 第三方客户端
 
@@ -471,6 +475,7 @@
 - [bili_dynamic_push](https://github.com/nfe-w/bili_dynamic_push) - UP主动态、直播间开播检测与推送.py
 - [nonebot_plugin_searchBiliInfo](https://github.com/Ikaros-521/nonebot_plugin_searchBiliInfo) - 适用于nonebot2 v11的b站用户粉丝、舰团信息查询插件.py
 - [nonebot_plugin_BiliRequestAll](https://github.com/Shadow403/nonebot_plugin_BiliRequestAll) - 以B站UID审核入群（分群管理）.py
+- [telegram-bili-feed-helper](https://github.com/simonsmh/telegram-bili-feed-helper) - Telegram bot for Bili Feed Helper.py
 
 ## 相关插件
 
@@ -486,6 +491,7 @@
 - [BiliRoaming](https://github.com/yujincheng08/BiliRoaming) - 解除B站客户端番剧区域限制的 Xposed 模块，并且提供其他小功能.kotlin
 - [LotteryAutoScript](https://github.com/shanmiteko/LotteryAutoScript) - Bilibili动态抽奖助手.node|exe|docker
 - [BiliRoaming-PHP-Server](https://github.com/david082321/BiliRoaming-PHP-Server) - 自建哔哩漫游解析服务器.php
+- [BiliRoaming-Rust-Server](https://github.com/pchpub/BiliRoaming-Rust-Server) - 自建哔哩漫游解析服务器.rust
 - [BiliEmoji](https://github.com/lrhtony/BiliEmoji) - B站全表情收集，含付费表情.
 - [biliup_record](https://github.com/96bearli/biliup_record) - 对bilibili的up动态留档.py
 - [bilibili-anime](https://github.com/Senasiko/bilibili-anime) - 一个获取B站番剧信息的CLI工具.rust|cli
@@ -534,6 +540,7 @@
 - [BiliLottery](https://github.com/cicidoll/BiliLottery) - B站动态评论抽奖脚本.py
 - [bilibili_subscriber](https://github.com/lixiang810/bilibili_subscriber) - bilibili 第三方关注系统.dart
 - [bilibiliplayer](https://github.com/MotooriKashin/bilibiliplayer) - 旧版Bilibili播放器，使用typescript进行了重构.ts
+- [Bilibili_video_convert_pdf](https://github.com/lrzjbyx/Bilibili_video_convert_pdf) - 视频转换成关键帧PDF.py
 
 ## 贡献
 
