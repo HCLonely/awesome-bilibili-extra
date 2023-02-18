@@ -176,6 +176,8 @@
 - [bilibili-subtitle-tweaks](https://github.com/Kr328/bilibili-subtitle-tweaks) - 增强 Bilibili 番剧的 CC 字幕，包含自动翻译及自动断行功能.
 - [BilibiliProgressBar](https://github.com/zweix123/BilibiliProgressBar) - Total progress bar of Bilibili collective video.
 - [tampermonkey-removePrefix-bilibili](https://github.com/SoonIter/tampermonkey-removePrefix-bilibili) - 一个脚本解决bilibili视频选集中标题过长的问题.
+- [Bilibili-Minus-Minus](https://github.com/insorker/Bilibili-Minus-Minus) - 简化网页版B站视频界面.
+- [bili-msg-read](https://github.com/monSteRhhe/bili-msg-read) - 用于简单设置B站消息已读的油猴脚本.
 
 ### 直播脚本
 
@@ -264,6 +266,7 @@
 - [BilibiliCacheVideoMerge](https://github.com/molihuan/BilibiliCacheVideoMerge) - Android上将bilibili缓存视频合并导出为mp4，支持安卓5.0 ~ 13，视频挂载弹幕播放.jar
 - [bilibili](https://github.com/misssonder/bilibili) - 使用golang编写的bilibili视频下载器.go
 - [BilibiliAudioDownloader-rebuild](https://github.com/Quandong-Zhang/BilibiliAudioDownloader-rebuild) - b站视频音轨下载器（支持多P）.py|exe
+- [bilibili-service](https://github.com/niyuancheng/bilibili-service) - 提供B站的弹幕和视频流服务，只需输入B站视频的bvid即可获取对应视频的视频流和弹幕池信息.js
 
 ## 直播相关工具
 
@@ -401,6 +404,7 @@
 - [BilibiliLogin](https://github.com/lllk140/BilibiliLogin)- b站app登陆模拟，获取accesskey和cookie，非TV.py|exe
 - [bilibili-live](https://github.com/pandaGao/bilibili-live)- Bilibili直播相关工具包.js
 - [Go-BiliChat](https://github.com/FishZe/Go-BiliChat)- golang的b站信息流处理.go
+- [bilibili-captain](https://github.com/Ninzore/bilibili-captain)- 简易B站API调用.ts
 
 ## 第三方客户端
 
@@ -432,6 +436,7 @@
 - [bv](https://github.com/aaa1115910/bv) - 哔哩哔哩 的第三方 Android TV 应用.kotlin
 - [BBLL](https://github.com/xiaye13579/BBLL) - 一个第三方哔哩哔哩TV和Pad客户端.
 - [bili_you](https://github.com/lucinhu/bili_you) - 一个用flutter制作的第三方B站客户端.dart
+- [BiliStart](https://github.com/BlameTwo/BiliStart) - B站第三方客户端.c#|exe
 
 ## 每日任务
 
@@ -448,7 +453,6 @@
 - [BiliLiveAutoInteract](https://github.com/MociLSeng/BiliLiveAutoInteract) - b站最新直播粉丝团自动签到/打卡 点赞/分享/发送弹幕.jar
 - [bilibiliHelper](https://github.com/RedSTARO/bilibiliHelper) - B 站快速升级脚本.py|exe
 - [BilibiliDailyUp](https://github.com/Wyatt1026/BilibiliDailyUp) - 哔哩哔哩每日任务脚本.py
-- [BiliOutils](https://github.com/catlair/BiliOutils) - 哔哩哔哩每日任务.ts
 - [bilibili-helper](https://github.com/RealBeBetter/bilibili-helper) - bilibili 签到助手.jar
 
 ## 机器人
