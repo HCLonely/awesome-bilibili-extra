@@ -166,6 +166,7 @@
 - [BilibiliTimer](https://greasyfork.org/zh-CN/scripts/30367) - B 站 H5 播放器全屏下实时显示当前系统时间和播放进度.
 - [Bilitwin](https://github.com/liqi0816/bilitwin) - 超清 FLV 下载，FLV 合并，原生 MP4 下载，弹幕 ASS 下载，MKV 打包，播放体验增强...
 - [Tampermonkey-removePrefix-bilibili](https://github.com/SoonIter/tampermonkey-removePrefix-bilibili) - 一个脚本解决 bilibili 视频选集中标题过长的问题.
+- [Unlock-bilibili-PcBrowser-comment](https://github.com/QingXia-Ela/unlock-bilibili-PcBrowser-comment) - 新版 b 站评论区显示 IP 归属地与展示被隐藏评论.
 - [Userscript-enhance-bilibili-player](https://github.com/fython/userscript-enhance-bilibili-player) - 增强哔哩哔哩播放器的使用体验.
 - [关注管理器](https://greasyfork.org/zh-CN/scripts/428895) - 快速排序和筛选你的关注列表，一键取关不再关注的 UP 等.
 - [哔哩哔哩查看原图](https://greasyfork.org/zh-CN/scripts/372289) - 方便在 B 站内查看各种图片的原图，支持动态、专栏.
@@ -203,6 +204,7 @@
 - [Bili-cli-rs](https://github.com/niuhuan/bili-cli-rs) - 一个 Rust 的 Bilibili 命令行视频下载器.![Rust](svg/rust.svg?raw=true) ![Cli](svg/terminal.svg?raw=true)
 - [Bili-downloader](https://github.com/feilongproject/bili-downloader) - 纯网页版 bilibili 视频下载器.![Vue](svg/vue.svg?raw=true)
 - [Bili-downloader](https://github.com/heartalborada-del/bili-downloader) - 这是一个 B 站视频下载器.![Java](svg/openjdk.svg?raw=true)
+- [Bili-fav-sniffer](https://github.com/BarryLiu1995/bili-fav-sniffer) - 哔哩哔哩收藏夹嗅探器，定时下载特定收藏夹的新视频到本地.![Shell](svg/shell.svg?raw=true) ![Docker](svg/docker.svg?raw=true)
 - [Bili-go](https://github.com/mouxiaohui/bili-go) - 一个 bilibili 视频命令行下载器.![Go](svg/go.svg?raw=true) ![Cli](svg/terminal.svg?raw=true)
 - [Bili23-Downloader-CLI](https://github.com/ScottSloan/Bili23-Downloader-CLI) - Bili23 Downloader CLI 命令行版本.![Python](svg/python.svg?raw=true)
 - [Bili23-Downloader](https://github.com/ScottSloan/Bili23-Downloader) - 下载 Bilibili 视频 / 番剧 / 电影 / 纪录片 等资源.![Python](svg/python.svg?raw=true) ![Windows](svg/windows.svg?raw=true)
@@ -219,6 +221,7 @@
 - [BiliFavoritesDownloader](https://github.com/Left024/BiliFavoritesDownloader) - 自动下载 B 站收藏视频，支持下载封面图，转换 xml 至 ass，上传 OneDrive，邮件、telegram 通知.![Shell](svg/shell.svg?raw=true)
 - [BiliNovel2Epub](https://github.com/fangxx3863/biliNovel2Epub) - 下载 哔哩轻小说 文章至 Epub.![Python](svg/python.svg?raw=true) ![Cli](svg/terminal.svg?raw=true)
 - [Bili](https://github.com/lifegpc/bili) - 一个 Python 编写的从 Bilibili/Acfun 下载弹幕 / 视频的工具.![Python](svg/python.svg?raw=true) ![Windows](svg/windows.svg?raw=true)
+- [Bili_novel_packer](https://github.com/Montaro2017/bili_novel_packer) - 速度更快的 Dart 语言版哔哩轻小说打包器.![Dart](svg/dart.svg?raw=true)
 - [Bilibili-Album-Download](https://github.com/littleplus/Bilibili-Album-Download) - 下载 Bilibili 用户相簿.![Python](svg/python.svg?raw=true)
 - [Bilibili-Download-Extension](https://github.com/here200/Bilibili-Download-Extension) - Bilibili 下载工具.![Python](svg/python.svg?raw=true)
 - [Bilibili-api-client](https://github.com/judgeou/bilibili-api-client) - 哔哩哔哩视频下载器，支持 8k，hevc.![TypeScript](svg/tsnode.svg?raw=true)
@@ -316,7 +319,7 @@
 - [BililiveRecorder](https://github.com/BililiveRecorder/BililiveRecorder) - 哔哩哔哩直播录制工具.![C#](svg/csharp.svg?raw=true) ![Cli](svg/terminal.svg?raw=true)
 - [Bililive_contribution_leaderboards](https://github.com/Seyyu0015/Bililive_contribution_leaderboards) - OBS 用直播插件，直播观众贡献排行榜.![Python](svg/python.svg?raw=true)
 - [Bililive_dm](https://github.com/copyliu/bililive_dm) - B 站直播弹幕工具.![C#](svg/csharp.svg?raw=true) ![Windows](svg/windows.svg?raw=true)
-- [Bililiveauto](https://github.com/Morax-xyc/Bililiveauto) - 兼容哔哩哔哩录播姬的自动转封装、自动上传、弹幕转码脚本.![JavaScript](svg/javascript.svg?raw=true)
+- [Bililiveauto](https://github.com/Moraxyc/Bililiveauto) - 兼容哔哩哔哩录播姬的自动转封装、自动上传、弹幕转码脚本.![JavaScript](svg/javascript.svg?raw=true)
 - [Biliroku](https://github.com/zyzsdy/biliroku) - bilibili 生放送（直播）录制.![C#](svg/csharp.svg?raw=true) ![Windows](svg/windows.svg?raw=true)
 - [Bilistream](https://github.com/limitcool/bilistream) - B 站直播转播工具，一键转播 Youtube,Twitch,Mildom 等直播.![Rust](svg/rust.svg?raw=true)
 - [Bilive-danmaku](https://github.com/Beats0/bilive-danmaku) - 哔哩哔哩直播弹幕姬 (非官方)，支持 win 和 mac.![TypeScript](svg/tsnode.svg?raw=true) ![Windows](svg/windows.svg?raw=true)
@@ -552,4 +555,4 @@
 
 请查看[贡献指南](https://github.com/HCLonely/awesome-bilibili-extra/blob/master/CONTRIBUTING.md).
 
-<!-- Sort Time: 2023-02-18 06:41:02 +00:00 -->
+<!-- Sort Time: 2023-02-25 10:16:31 +00:00 -->
