@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "link-checker": "node src/link-checker.js",
     "sort-format": "node src/sort-format.js",
-    "push": "node src/commit.js && git add . && git commit -F message.txt && git push"
+    "push": "node src/commit.js && node src/updateUser.js && git add . && git commit -F message.txt && git push"
   },
   "repository": {
     "type": "git",

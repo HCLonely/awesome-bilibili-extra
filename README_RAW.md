@@ -178,6 +178,7 @@
 - [tampermonkey-removePrefix-bilibili](https://github.com/SoonIter/tampermonkey-removePrefix-bilibili) - 一个脚本解决bilibili视频选集中标题过长的问题.
 - [Bilibili-Minus-Minus](https://github.com/insorker/Bilibili-Minus-Minus) - 简化网页版B站视频界面.
 - [bili-msg-read](https://github.com/monSteRhhe/bili-msg-read) - 用于简单设置B站消息已读的油猴脚本.
+- [unlock-bilibili-PcBrowser-comment](https://github.com/QingXia-Ela/unlock-bilibili-PcBrowser-comment) - 新版b站评论区显示IP归属地与展示被隐藏评论.
 
 ### 直播脚本
 
@@ -267,6 +268,8 @@
 - [bilibili](https://github.com/misssonder/bilibili) - 使用golang编写的bilibili视频下载器.go
 - [BilibiliAudioDownloader-rebuild](https://github.com/Quandong-Zhang/BilibiliAudioDownloader-rebuild) - b站视频音轨下载器（支持多P）.py|exe
 - [bilibili-service](https://github.com/niyuancheng/bilibili-service) - 提供B站的弹幕和视频流服务，只需输入B站视频的bvid即可获取对应视频的视频流和弹幕池信息.js
+- [bili-fav-sniffer](https://github.com/BarryLiu1995/bili-fav-sniffer) - 哔哩哔哩收藏夹嗅探器，定时下载特定收藏夹的新视频到本地.shell|docker
+- [bili_novel_packer](https://github.com/Montaro2017/bili_novel_packer) - 速度更快的Dart语言版哔哩轻小说打包器.dart
 
 ## 直播相关工具
 
@@ -324,7 +327,7 @@
 - [BiliDown](https://github.com/Nemo2011/BiliDown)- 哔哩哔哩命令行下载器.py|cli
 - [Bilibili-Live-Danmaku-vscode](https://github.com/Discreater/Bilibili-Live-Danmaku-vscode)- VSCode 的 B站弹幕机.ts
 - [Bilibili_Song_Player](https://github.com/mk-ling/Bilibili_Song_Player)- 利用Selenium操控Chrome的直播点歌软件.py
-- [Bililiveauto](https://github.com/Morax-xyc/Bililiveauto)- 兼容哔哩哔哩录播姬的自动转封装、自动上传、弹幕转码脚本.js
+- [Bililiveauto](https://github.com/Moraxyc/Bililiveauto)- 兼容哔哩哔哩录播姬的自动转封装、自动上传、弹幕转码脚本.js
 - [material-douden-tool](https://github.com/OToNaShiAKi/material-douden-tool)- 采用 Material 设计的向 bilibili 直播间发送 Vtuber 翻译、歌词的弹幕同传工具.vue|exe
 - [bililive-uploader](https://github.com/Gliese129/bililive-uploader)- 采自动将B站录播姬录播上传到B站.py|docker
 - [bili_live_shield_words](https://github.com/FHChen0420/bili_live_shield_words)- B站直播间弹幕屏蔽字处理.py
