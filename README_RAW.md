@@ -179,6 +179,7 @@
 - [Bilibili-Minus-Minus](https://github.com/insorker/Bilibili-Minus-Minus) - 简化网页版B站视频界面.
 - [bili-msg-read](https://github.com/monSteRhhe/bili-msg-read) - 用于简单设置B站消息已读的油猴脚本.
 - [unlock-bilibili-PcBrowser-comment](https://github.com/QingXia-Ela/unlock-bilibili-PcBrowser-comment) - 新版b站评论区显示IP归属地与展示被隐藏评论.
+- [Download-Pictures-from-Bilibili-Timeline](https://github.com/owendswang/Download-Pictures-from-Bilibili-Timeline) - 从“Bilibili动态”页面下载图片.
 
 ### 直播脚本
 
@@ -270,6 +271,8 @@
 - [bilibili-service](https://github.com/niyuancheng/bilibili-service) - 提供B站的弹幕和视频流服务，只需输入B站视频的bvid即可获取对应视频的视频流和弹幕池信息.js
 - [bili-fav-sniffer](https://github.com/BarryLiu1995/bili-fav-sniffer) - 哔哩哔哩收藏夹嗅探器，定时下载特定收藏夹的新视频到本地.shell|docker
 - [bili_novel_packer](https://github.com/Montaro2017/bili_novel_packer) - 速度更快的Dart语言版哔哩轻小说打包器.dart
+- [BiliFM](https://github.com/jingfelix/BiliFM) - 下载指定up主全部或指定数量的视频音频.py
+- [bilimusic](https://github.com/aoout/bilimusic) - 从哔哩哔哩视频下载mp3文件.py|cli
 
 ## 直播相关工具
 
@@ -332,10 +335,11 @@
 - [bililive-uploader](https://github.com/Gliese129/bililive-uploader)- 采自动将B站录播姬录播上传到B站.py|docker
 - [bili_live_shield_words](https://github.com/FHChen0420/bili_live_shield_words)- B站直播间弹幕屏蔽字处理.py
 - [biliLiveNotification](https://github.com/yunhuanyx/biliLiveNotification)- b站直播开播提醒.py|exe
-- [OlivaBiliLive](https://github.com/A2C29K9/OlivaBiliLive)- 可插件化管理的B站直播间机器人(插件基于OlivOS).py
+- [OlivaBiliLive](https://github.com/HsiangNianian/OlivaBiliLive)- 可插件化管理的B站直播间机器人(插件基于OlivOS).py
 - [vue-bili-danmaku](https://github.com/Drelf2018/vue-bili-danmaku)- 基于 Vue3 的b站直播弹幕姬.vue
 - [bili-bot](https://github.com/orangelckc/bili-bot)- 哔哩哔哩-直播间管家机器人.ts
 - [bilive](https://github.com/Nauxscript/bilive)- 命令行 bilibili 弹幕姬.ts
+- [BilibiliLiveNotifier_WPF](https://github.com/C1manyd/BilibiliLiveNotifier_WPF)- Bilibili直播通知小工具.c#
 
 ## UP 工具
 
@@ -406,7 +410,7 @@
 - [BiliBiliQ](https://github.com/MingxuanGame/BiliBiliQ)- Another BiliBili gRPC & REST API library.py
 - [BilibiliLogin](https://github.com/lllk140/BilibiliLogin)- b站app登陆模拟，获取accesskey和cookie，非TV.py|exe
 - [bilibili-live](https://github.com/pandaGao/bilibili-live)- Bilibili直播相关工具包.js
-- [Go-BiliChat](https://github.com/FishZe/Go-BiliChat)- golang的b站信息流处理.go
+- [go_bili_chat](https://github.com/FishZe/go_bili_chat)- golang的b站信息流处理.go
 - [bilibili-captain](https://github.com/Ninzore/bilibili-captain)- 简易B站API调用.ts
 
 ## 第三方客户端
@@ -494,6 +498,7 @@
 - [typora-plugin-bilibili](https://github.com/xlzy520/typora-plugin-bilibili) - Typora粘贴图片自动上传到Bilibili图床.go
 - [hexo-bilibili-bangumi](https://github.com/HCLonely/hexo-bilibili-bangumi) - hexo 番剧页面插件.js
 - [hexo-bilibili-plus](https://github.com/pk5ls20/hexo-bilibili-plus) - 一个hexo插件，可以快速而方便的在hexo页面中嵌入bilibili视频.js
+- [BilibiliPotPlayer](https://github.com/chen310/BilibiliPotPlayer) - 适用于 PotPlayer 的 Bilibili 插件.js
 
 ## 其他
 
