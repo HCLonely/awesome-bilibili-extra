@@ -98,6 +98,7 @@
 - [bilibili-img-uploader](https://github.com/xlzy520/bilibili-img-uploader) - 哔哩哔哩图床上传、短链转换插件.
 - [tun-bili-tool](https://github.com/tuntun0609/tun-bili-tool) - bilibili网页优化插件.
 - [bilibili-dark-mode](https://github.com/flanker/bilibili-dark-mode) - 一个浏览器插件，可以让 bilibili.com 进入夜间模式.
+- [biliscope](https://github.com/gaogaotiantian/biliscope) - 在B站的任何网页轻松查询任何出现的UP的详细信息.
 
 ### 主站扩展
 
@@ -171,7 +172,7 @@
 - [bilibili-area-limit](https://github.com/kghost/bilibili-area-limit) - Bilibili 港澳台, 解除区域限制.
 - [bilitwin](https://github.com/liqi0816/bilitwin) - 超清FLV下载, FLV合并, 原生MP4下载, 弹幕ASS下载, MKV打包, 播放体验增强...
 - [Bilibili-Markdown](https://github.com/LuckyPuppy514/Bilibili-Markdown) - B站专栏 Markdown 编辑器.
-- [BiliFilter](https://github.com/RSSYLY/BiliFilter) - 哔哩哔哩评论过滤器，根据UID屏蔽B站用户的评论.
+- [BiliFilterX](https://github.com/RSSYLY/BiliFilterX) - 哔哩哔哩评论过滤器，根据规则集屏蔽B站用户的评论.
 - [bilibili-comment-checker](https://github.com/trychen/bilibili-comment-checker) - B站评论区自动标注成分油猴脚本.
 - [bilibili-subtitle-tweaks](https://github.com/Kr328/bilibili-subtitle-tweaks) - 增强 Bilibili 番剧的 CC 字幕，包含自动翻译及自动断行功能.
 - [BilibiliProgressBar](https://github.com/zweix123/BilibiliProgressBar) - Total progress bar of Bilibili collective video.
@@ -273,6 +274,7 @@
 - [bili_novel_packer](https://github.com/Montaro2017/bili_novel_packer) - 速度更快的Dart语言版哔哩轻小说打包器.dart
 - [BiliFM](https://github.com/jingfelix/BiliFM) - 下载指定up主全部或指定数量的视频音频.py
 - [bilimusic](https://github.com/aoout/bilimusic) - 从哔哩哔哩视频下载mp3文件.py|cli
+- [BiliBili-Manga-Downloader](https://github.com/Zeal-L/BiliBili-Manga-Downloader) - 一个好用的哔哩哔哩漫画下载器.py|exe
 
 ## 直播相关工具
 
@@ -412,6 +414,7 @@
 - [bilibili-live](https://github.com/pandaGao/bilibili-live)- Bilibili直播相关工具包.js
 - [go_bili_chat](https://github.com/FishZe/go_bili_chat)- golang的b站信息流处理.go
 - [bilibili-captain](https://github.com/Ninzore/bilibili-captain)- 简易B站API调用.ts
+- [go-bili-chat](https://github.com/FishZe/go-bili-chat)- Bilibili直播间弹幕处理库.go
 
 ## 第三方客户端
 
@@ -444,6 +447,7 @@
 - [BBLL](https://github.com/xiaye13579/BBLL) - 一个第三方哔哩哔哩TV和Pad客户端.
 - [bili_you](https://github.com/lucinhu/bili_you) - 一个用flutter制作的第三方B站客户端.dart
 - [BiliStart](https://github.com/BlameTwo/BiliStart) - B站第三方客户端.c#|exe
+- [BilibiliTv](https://github.com/peacefulprogram/BilibiliTv) - B站第三方客户端.kotlin
 
 ## 每日任务
 
@@ -489,6 +493,8 @@
 - [nonebot_plugin_searchBiliInfo](https://github.com/Ikaros-521/nonebot_plugin_searchBiliInfo) - 适用于nonebot2 v11的b站用户粉丝、舰团信息查询插件.py
 - [nonebot_plugin_BiliRequestAll](https://github.com/Shadow403/nonebot_plugin_BiliRequestAll) - 以B站UID审核入群（分群管理）.py
 - [telegram-bili-feed-helper](https://github.com/simonsmh/telegram-bili-feed-helper) - Telegram bot for Bili Feed Helper.py
+- [discord-bilibili-embed](https://github.com/azusemst/discord-bilibili-embed) - 功能完全的b站-discord机器人.js
+- [zhenxun_bot_bilibili_ding](https://github.com/greyblueP/zhenxun_bot_bilibili_ding) - 适配真寻的哔哩哔哩订阅插件.py
 
 ## 相关插件
 
@@ -555,6 +561,7 @@
 - [bilibili_subscriber](https://github.com/lixiang810/bilibili_subscriber) - bilibili 第三方关注系统.dart
 - [bilibiliplayer](https://github.com/MotooriKashin/bilibiliplayer) - 旧版Bilibili播放器，使用typescript进行了重构.ts
 - [Bilibili_video_convert_pdf](https://github.com/lrzjbyx/Bilibili_video_convert_pdf) - 视频转换成关键帧PDF.py
+- [Bilibili-Toolkit](https://github.com/cntvc/Bilibili-Toolkit) - 哔哩哔哩（B站）辅助工具箱.py
 
 ## 贡献
 
