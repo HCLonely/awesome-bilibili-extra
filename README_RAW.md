@@ -181,6 +181,7 @@
 - [bili-msg-read](https://github.com/monSteRhhe/bili-msg-read) - 用于简单设置B站消息已读的油猴脚本.
 - [unlock-bilibili-PcBrowser-comment](https://github.com/QingXia-Ela/unlock-bilibili-PcBrowser-comment) - 新版b站评论区显示IP归属地与展示被隐藏评论.
 - [Download-Pictures-from-Bilibili-Timeline](https://github.com/owendswang/Download-Pictures-from-Bilibili-Timeline) - 从“Bilibili动态”页面下载图片.
+- [Bilibili-Trackpad-Scroll-Reverser](https://github.com/MaxChang3/Bilibili-Trackpad-Scroll-Reverser) - 优化 b 站视频音量调节在触控板上的体验.
 
 ### 直播脚本
 
@@ -275,6 +276,7 @@
 - [BiliFM](https://github.com/jingfelix/BiliFM) - 下载指定up主全部或指定数量的视频音频.py
 - [bilimusic](https://github.com/aoout/bilimusic) - 从哔哩哔哩视频下载mp3文件.py|cli
 - [BiliBili-Manga-Downloader](https://github.com/Zeal-L/BiliBili-Manga-Downloader) - 一个好用的哔哩哔哩漫画下载器.py|exe
+- [bili-dl](https://github.com/yu1745/bili-dl) - 下载b站视频.go|cli
 
 ## 直播相关工具
 
@@ -361,6 +363,7 @@
 - [lucky_bilibili_web](https://github.com/nasawz/lucky_bilibili_web) - 一款帮助B站UP主恰饭视频做抽奖活动的工具.js
 - [biliup-go](https://github.com/XiaoMiku01/biliup-go) - B 站命令行投稿工具 Golang 实现.go|cli
 - [TubeToBili](https://github.com/Gingmzmzx/TubeToBili) - YouTube视频自动一键转载到Bilibili，带GUI界面.py|exe
+- [youlive2bili](https://github.com/LucasLee99/youlive2bili) - 油管直播监控自动发哔哩哔哩.shell
 
 ## 开发
 
@@ -505,6 +508,7 @@
 - [hexo-bilibili-bangumi](https://github.com/HCLonely/hexo-bilibili-bangumi) - hexo 番剧页面插件.js
 - [hexo-bilibili-plus](https://github.com/pk5ls20/hexo-bilibili-plus) - 一个hexo插件，可以快速而方便的在hexo页面中嵌入bilibili视频.js
 - [BilibiliPotPlayer](https://github.com/chen310/BilibiliPotPlayer) - 适用于 PotPlayer 的 Bilibili 插件.js
+- [BiliVido-For-Typecho](https://github.com/HaruhiYunona/BiliVido-For-Typecho) - 为Typecho开发专门用于Bilibili视频解析的插件.js
 
 ## 其他
 
@@ -562,6 +566,7 @@
 - [bilibiliplayer](https://github.com/MotooriKashin/bilibiliplayer) - 旧版Bilibili播放器，使用typescript进行了重构.ts
 - [Bilibili_video_convert_pdf](https://github.com/lrzjbyx/Bilibili_video_convert_pdf) - 视频转换成关键帧PDF.py
 - [Bilibili-Toolkit](https://github.com/cntvc/Bilibili-Toolkit) - 哔哩哔哩（B站）辅助工具箱.py
+- [bilibili-lottery](https://github.com/flamego-examples/bilibili-lottery) - 一款支持对哔哩哔哩视频或动态评论进行抽奖的小程序.go|ts|exe
 
 ## 贡献
 
