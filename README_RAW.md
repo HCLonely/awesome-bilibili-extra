@@ -85,6 +85,7 @@
   - [第三方客户端](#第三方客户端)
   - [每日任务](#每日任务)
   - [机器人](#机器人)
+  - [相关插件](#相关插件)
   - [其他](#其他)
   - [贡献](#贡献)
 
@@ -108,6 +109,7 @@
 - [audio-only-bilibili](https://github.com/cyio/audio-only-bilibili) - Biliblili 网页端使用音频模式.
 - [bili-guessYouLike](https://github.com/chitosai/bili-guessYouLike) - 为PC版bilibili首页增加「猜你喜欢」.
 - [BiliMini](https://github.com/Taosky/BiliMini) - Bilibili辅助扩展，用于提示并快速查看更新.
+- [Edge-Bilibili](https://github.com/Missde/Edge-Bilibili) - 基于哔哩哔哩网站的api开发的Edge浏览器插件，界面简洁、下载视频、过滤视频、指定在副屏播放.
 
 ### 直播扩展
 
@@ -344,6 +346,7 @@
 - [bili-bot](https://github.com/orangelckc/bili-bot)- 哔哩哔哩-直播间管家机器人.ts
 - [bilive](https://github.com/Nauxscript/bilive)- 命令行 bilibili 弹幕姬.ts
 - [BilibiliLiveNotifier_WPF](https://github.com/C1manyd/BilibiliLiveNotifier_WPF)- Bilibili直播通知小工具.c#
+- [bilibili-live-stream](https://github.com/Beats0/bilibili-live-stream)- bilibili直播代理转发 + flv.js 拉流播放.js
 
 ## UP 工具
 
@@ -509,6 +512,7 @@
 - [hexo-bilibili-plus](https://github.com/pk5ls20/hexo-bilibili-plus) - 一个hexo插件，可以快速而方便的在hexo页面中嵌入bilibili视频.js
 - [BilibiliPotPlayer](https://github.com/chen310/BilibiliPotPlayer) - 适用于 PotPlayer 的 Bilibili 插件.js
 - [BiliVido-For-Typecho](https://github.com/HaruhiYunona/BiliVido-For-Typecho) - 为Typecho开发专门用于Bilibili视频解析的插件.js
+- [MPV-Play-BiliBili-Comments](https://github.com/itKelis/MPV-Play-BiliBili-Comments) - 使用mpv自动下载弹幕并加载.py
 
 ## 其他
 
@@ -567,6 +571,10 @@
 - [Bilibili_video_convert_pdf](https://github.com/lrzjbyx/Bilibili_video_convert_pdf) - 视频转换成关键帧PDF.py
 - [Bilibili-Toolkit](https://github.com/cntvc/Bilibili-Toolkit) - 哔哩哔哩（B站）辅助工具箱.py
 - [bilibili-lottery](https://github.com/flamego-examples/bilibili-lottery) - 一款支持对哔哩哔哩视频或动态评论进行抽奖的小程序.go|ts|exe
+- [BiliBili-Lucky-Draw](https://github.com/rongchenlin/BiliBili-Lucky-Draw) - B站抽奖转发——薅羊毛脚本.py
+- [BilibiliDanmuCrawler](https://github.com/vinouno/BilibiliDanmuCrawler) - 弹幕词云生成器.py
+- [bilibili-stats](https://github.com/zmh-program/bilibili-stats) - 动态生成B站用户简介SVG图像.ts
+- [bilibili-barrage-analysis](https://github.com/moyuweiqing/bilibili-barrage-analysis) - bilibili弹幕分析，包含爬虫、词云分析、词频分析、情感分析、构建衍生指标，可视化.py
 
 ## 贡献
 
