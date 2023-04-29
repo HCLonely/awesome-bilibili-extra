@@ -282,6 +282,7 @@
 - [bilimusic](https://github.com/aoout/bilimusic) - 从哔哩哔哩视频下载mp3文件.py|cli
 - [BiliBili-Manga-Downloader](https://github.com/Zeal-L/BiliBili-Manga-Downloader) - 一个好用的哔哩哔哩漫画下载器.py|exe
 - [bili-dl](https://github.com/yu1745/bili-dl) - 下载b站视频.go|cli
+- [鼠鼠下载器](https://github.com/MoyuScript/double-mouse-downloader) - 跨平台哔哩哔哩视频下载工具.ts|exe
 
 ## 直播相关工具
 
