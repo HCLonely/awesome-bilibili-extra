@@ -215,6 +215,7 @@
 - [Bili-downloader](https://github.com/heartalborada-del/bili-downloader) - 这是一个 B 站视频下载器.![Java](svg/openjdk.svg?raw=true)
 - [Bili-fav-sniffer](https://github.com/BarryLiu1995/bili-fav-sniffer) - 哔哩哔哩收藏夹嗅探器，定时下载特定收藏夹的新视频到本地.![Shell](svg/shell.svg?raw=true) ![Docker](svg/docker.svg?raw=true)
 - [Bili-go](https://github.com/mouxiaohui/bili-go) - 一个 bilibili 视频命令行下载器.![Go](svg/go.svg?raw=true) ![Cli](svg/terminal.svg?raw=true)
+- [Bili-video-merger](https://github.com/ZiAzusa/bili-video-merger) - 此工具用于将 B 站缓存视频的 video.m4s 和 audio.m4s 整合为一个文件.![Python](svg/python.svg?raw=true)
 - [Bili23-Downloader-CLI](https://github.com/ScottSloan/Bili23-Downloader-CLI) - Bili23 Downloader CLI 命令行版本.![Python](svg/python.svg?raw=true)
 - [Bili23-Downloader](https://github.com/ScottSloan/Bili23-Downloader) - 下载 Bilibili 视频 / 番剧 / 电影 / 纪录片 等资源.![Python](svg/python.svg?raw=true) ![Windows](svg/windows.svg?raw=true)
 - [BiliBangumiDownloader](https://github.com/sgpublic/BiliBangumiDownloader) - 哔哩番剧，一个开源的哔哩下载工具.![Kotlin](svg/kotlin.svg?raw=true)
@@ -528,6 +529,7 @@
 - [BIli.Mac.MenuBar](https://github.com/Richasy/BIli.Mac.MenuBar) - 用于在 Mac OS 的菜单栏显示登录用户的信息及订阅的视频动态.![Swift](svg/swift.svg?raw=true)
 - [Bili-fans-medal-box](https://github.com/XiaoMiku01/bili-fans-medal-box) - 在 github gist 显示 B 站粉丝牌等级和进度.![Python](svg/python.svg?raw=true)
 - [Bili-short-url](https://github.com/xlzy520/bili-short-url) - 哔哩哔哩短链生成器，将 B 站站内链接转化为 Bilibili 短链.![JavaScript](svg/javascript.svg?raw=true)
+- [BiliBackup](https://github.com/Privilege-privacy/BiliBackup) - 自动将 BiliBili (B 站) 收藏夹内的视频备份到 OneDrive 或其他云存储.![Go](svg/go.svg?raw=true) ![Docker](svg/docker.svg?raw=true)
 - [BiliBili-Lucky-Draw](https://github.com/rongchenlin/BiliBili-Lucky-Draw) - B 站抽奖转发 —— 薅羊毛脚本.![Python](svg/python.svg?raw=true)
 - [BiliBili-favorites-list-saver](https://github.com/Moemu/BiliBili-favorites-list-saver) - B 站收藏夹列表保存程序.![Python](svg/python.svg?raw=true)
 - [BiliBili_Private_Msg](https://github.com/hd80606b/BiliBili_Private_Msg) - 哔哩哔哩私信导出，同时支持导出已经被撤回的 / 无法查看的消息.![C#](svg/csharp.svg?raw=true) ![Windows](svg/windows.svg?raw=true)
@@ -594,4 +596,4 @@
 
 请查看[贡献指南](https://github.com/HCLonely/awesome-bilibili-extra/blob/master/CONTRIBUTING.md).
 
-<!-- Sort Time: 2023-04-30 02:02:50 +00:00 -->
+<!-- Sort Time: 2023-05-06 04:44:46 +00:00 -->
