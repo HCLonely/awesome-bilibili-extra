@@ -154,7 +154,7 @@
 - [Bilibili 海外区域搜索](https://github.com/gamekingv/bilibili-oversea-search) - bilibili 海外区域搜索.
 - [Bilibili 自动切 P](https://greasyfork.org/zh-CN/scripts/432283) - 为什么要单独写个脚本呢？因为自动连播就是个 **.
 - [Bilibili 视频下载](https://greasyfork.org/zh-CN/scripts/413228) - 支持 Web、RPC、Blob、Aria 等下载方式；支持 flv、dash、mp4 视频格式.
-- [Bilibili 首页增加 [关注] 列表](https://greasyfork.org/zh-CN/scripts/384723) - 在 bilibili 网页端上方菜单添加 [关注] 的列表，快速进入你关注的 up 主空间.
+- [Bilibili 首页增加 \[关注 \] 列表](https://greasyfork.org/zh-CN/scripts/384723) - 在 bilibili 网页端上方菜单添加 \[关注 \] 的列表，快速进入你关注的 up 主空间.
 - [Bilibili-Markdown](https://github.com/LuckyPuppy514/Bilibili-Markdown) - B 站专栏 Markdown 编辑器.
 - [Bilibili-Minus-Minus](https://github.com/insorker/Bilibili-Minus-Minus) - 简化网页版 B 站视频界面.
 - [Bilibili-Old](https://github.com/MotooriKashin/Bilibili-Old) - 通过重写网页框架的方式切换到 Bilibili 旧版页面.
@@ -596,4 +596,4 @@
 
 请查看[贡献指南](https://github.com/HCLonely/awesome-bilibili-extra/blob/master/CONTRIBUTING.md).
 
-<!-- Sort Time: 2023-05-06 04:44:46 +00:00 -->
+<!-- Sort Time: 2023-05-06 05:05:10 +00:00 -->
