@@ -283,6 +283,7 @@
 - [BiliBili-Manga-Downloader](https://github.com/Zeal-L/BiliBili-Manga-Downloader) - 一个好用的哔哩哔哩漫画下载器.py|exe
 - [bili-dl](https://github.com/yu1745/bili-dl) - 下载b站视频.go|cli
 - [鼠鼠下载器](https://github.com/MoyuScript/double-mouse-downloader) - 跨平台哔哩哔哩视频下载工具.ts|exe
+- [bili-video-merger](https://github.com/ZiAzusa/bili-video-merger) - 此工具用于将B站缓存视频的video.m4s和audio.m4s整合为一个文件.py
 
 ## 直播相关工具
 
@@ -589,6 +590,7 @@
 - [BilibiliCommentScraper](https://github.com/Ghauster/BilibiliCommentScraper) - B站视频评论爬虫 Bilibili完整爬取评论数据.py
 - [bilibili-catcher](https://github.com/ImMappyJ/bilibili-catcher) - B站投稿实时生成图像、根据B站用户生成用户画像、获取视频下载地址的网站.php
 - [bilibili-lucky](https://github.com/wojiangkuanglong/bilibili-lucky) - B站抽奖脚本.js
+- [BiliBackup](https://github.com/Privilege-privacy/BiliBackup) - 自动将 BiliBili (B站) 收藏夹内的视频备份到 OneDrive 或其他云存储.go|docker
 
 ## 贡献
 
