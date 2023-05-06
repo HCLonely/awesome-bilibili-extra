@@ -5,14 +5,12 @@ on:
       - main
     paths:
       - 'README_RAW.md'
-      - 'README.md'
   pull_request:
     types: [opened, synchronize]
     branches:
       - main
     paths:
       - 'README_RAW.md'
-      - 'README.md'
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -26,4 +24,3 @@ jobs:
       - uses: xt0rted/markdownlint-problem-matcher@v1
       - run: |
           markdownlint README_RAW.md
-          markdownlint README.md
