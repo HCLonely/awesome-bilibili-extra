@@ -375,6 +375,7 @@
 - [TubeToBili](https://github.com/Gingmzmzx/TubeToBili) - YouTube视频自动一键转载到Bilibili，带GUI界面.py|exe
 - [youlive2bili](https://github.com/LucasLee99/youlive2bili) - 油管直播监控自动发哔哩哔哩.shell
 - [Youtube2Bili](https://github.com/INSIinc/Youtube2Bili) - 一个能够从任何你想要的YouTuber那里下载视频并上传到Bilibili的Python脚本.py
+- [YoutubeToBilibiliHelp](https://github.com/gaoxiaoduan/YoutubeToBilibiliHelp) - 将油管视频自动上传到b站.ts
 
 ## 开发
 
@@ -511,6 +512,7 @@
 - [zhenxun_bot_bilibili_ding](https://github.com/greyblueP/zhenxun_bot_bilibili_ding) - 适配真寻的哔哩哔哩订阅插件.py
 - [nonebot-plugin-bilichat](https://github.com/Aunly/nonebot-plugin-bilichat) - 一个通过 OpenAI 来对b站视频进行总结的多功能B站解析插件.py
 - [nonebot_plugin_bilifan](https://github.com/Agnes4m/nonebot_plugin_bilifan) - 基于nonebot2的插件，刷b站直播间牌子.py
+- [bilibili-live-dm-qq-bot](https://github.com/FEINIAO233/bilibili-live-dm-qq-bot) - 哔哩哔哩直播弹幕获取（QQ频道机器人）.py
 
 ## 相关插件
 
@@ -591,6 +593,10 @@
 - [bilibili-catcher](https://github.com/ImMappyJ/bilibili-catcher) - B站投稿实时生成图像、根据B站用户生成用户画像、获取视频下载地址的网站.php
 - [bilibili-lucky](https://github.com/wojiangkuanglong/bilibili-lucky) - B站抽奖脚本.js
 - [BiliBackup](https://github.com/Privilege-privacy/BiliBackup) - 自动将 BiliBili (B站) 收藏夹内的视频备份到 OneDrive 或其他云存储.go|docker
+- [GetBilibiliUserInfo](https://github.com/cwuom/GetBilibiliUserInfo) - 一个通过Python编写的全自动哔哩哔哩个人信息爬取工具.py
+- [Bilivideoinfo](https://github.com/Ghauster/Bilivideoinfo) - Bilibili 视频数据爬虫，能批量爬取指定视频的信息.py
+- [BiliUserInfo](https://github.com/Ghauster/BiliUserInfo) - Bilibili 用户精确数据爬虫.py
+- [BilibiliUnfollowingListener](https://github.com/cwuom/BilibiliUnfollowingListener) - 一个由纯JAVA开发的全自动bilibil取关/关注检测程序.jar
 
 ## 贡献
 
