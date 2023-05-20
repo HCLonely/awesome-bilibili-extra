@@ -374,6 +374,7 @@
 - [U2bili](https://github.com/ame-yu/u2bili) - youtube->bilibili 搬运脚本.![NodeJs](svg/nodejs.svg?raw=true) ![Python](svg/python.svg?raw=true) ![Cli](svg/terminal.svg?raw=true)
 - [Youlive2bili](https://github.com/LucasLee99/youlive2bili) - 油管直播监控自动发哔哩哔哩.![Shell](svg/shell.svg?raw=true)
 - [Youtube2Bili](https://github.com/INSIinc/Youtube2Bili) - 一个能够从任何你想要的 YouTuber 那里下载视频并上传到 Bilibili 的 Python 脚本.![Python](svg/python.svg?raw=true)
+- [YoutubeToBilibiliHelp](https://github.com/gaoxiaoduan/YoutubeToBilibiliHelp) - 将油管视频自动上传到 b 站.![TypeScript](svg/tsnode.svg?raw=true)
 - [YoutubeToBilibili](https://github.com/HarukaKinen/YoutubeToBilibili) - 一个自动搬运视频到 bilibili 的 python 脚本.![Python](svg/python.svg?raw=true)
 
 ## 开发
@@ -490,6 +491,7 @@
 - [Bilibili-Notification](https://github.com/cnscj/Bilibili-Notification) - 检测指定 B 站 Up 主动态，直播状态并进行推送.![Python](svg/python.svg?raw=true)
 - [Bilibili-dynamic-mirai-plugin](https://github.com/Colter23/bilibili-dynamic-mirai-plugin) - 低延迟检测 B 站动态 / 直播的 mirai-console 插件.![Kotlin](svg/kotlin.svg?raw=true)
 - [Bilibili-helper](https://github.com/cssxsh/bilibili-helper) - 基于 Mirai Console 的 哔哩哔哩 订阅插件.![Kotlin](svg/kotlin.svg?raw=true)
+- [Bilibili-live-dm-qq-bot](https://github.com/FEINIAO233/bilibili-live-dm-qq-bot) - 哔哩哔哩直播弹幕获取（QQ 频道机器人）.![Python](svg/python.svg?raw=true)
 - [Bilibili-live-push-qq](https://github.com/xuejianxianzun/bilibili-live-push-qq) - 监控哔哩哔哩 bilibili 直播间状态，发送提醒到 QQ（群）.![NodeJs](svg/nodejs.svg?raw=true)
 - [BilibiliBOT-1](https://github.com/catandA/BilibiliBOT-1) - 哔哩视频推荐机器人.![Java](svg/openjdk.svg?raw=true)
 - [Bilibili_api](https://github.com/xiaokexiang/bilibili_api) - 基于 Python 对 B 站 UP 发布的动态进行推送的小程序.![Python](svg/python.svg?raw=true)
@@ -542,6 +544,7 @@
 - [BiliRoaming-PHP-Server](https://github.com/david082321/BiliRoaming-PHP-Server) - 自建哔哩漫游解析服务器.![PHP](svg/php.svg?raw=true)
 - [BiliRoaming-Rust-Server](https://github.com/pchpub/BiliRoaming-Rust-Server) - 自建哔哩漫游解析服务器.![Rust](svg/rust.svg?raw=true)
 - [BiliRoaming](https://github.com/yujincheng08/BiliRoaming) - 解除 B 站客户端番剧区域限制的 Xposed 模块，并且提供其他小功能.![Kotlin](svg/kotlin.svg?raw=true)
+- [BiliUserInfo](https://github.com/Ghauster/BiliUserInfo) - Bilibili 用户精确数据爬虫.![Python](svg/python.svg?raw=true)
 - [Bili_Realtime_Data](https://github.com/CzJam/Bili_Realtime_Data) - Bilibili 粉丝与视频实时数据统计.![PHP](svg/php.svg?raw=true)
 - [Bili_app_splash](https://github.com/zjkwdy/bili_app_splash) - B 站壁纸娘和开屏图自动下载，每天使用 Actions 自动同步.![Python](svg/python.svg?raw=true)
 - [Bilibili-Toolkit](https://github.com/cntvc/Bilibili-Toolkit) - 哔哩哔哩（B 站）辅助工具箱.![Python](svg/python.svg?raw=true)
@@ -571,6 +574,7 @@
 - [BilibiliNoteExport](https://github.com/fireworks99/bilibiliNoteExport) - B 站视频笔记一键导出（pdf）.![JavaScript](svg/javascript.svg?raw=true)
 - [BilibiliSuitBuy](https://github.com/lllk140/BilibiliSuitBuy) - b 站装扮购买.![Python](svg/python.svg?raw=true) ![Go](svg/go.svg?raw=true)
 - [BilibiliTranscoding](https://github.com/givemefivw/BilibiliTranscoding) - Bilibili 视频转码，无需登录即可观看高清画质.![Python](svg/python.svg?raw=true)
+- [BilibiliUnfollowingListener](https://github.com/cwuom/BilibiliUnfollowingListener) - 一个由纯 JAVA 开发的全自动 bilibil 取关 / 关注检测程序.![Java](svg/openjdk.svg?raw=true)
 - [BilibiliWordCloud](https://github.com/MGMCN/bilibiliWordCloud) - 爬取 b 站番剧短评，利用 jieba 分词，wordcloud 展示.![Python](svg/python.svg?raw=true) ![Docker](svg/docker.svg?raw=true)
 - [Bilibili_Data_Analysis-Clout_Prediction](https://github.com/RubyRose-TAT/bilibili_Data_Analysis-Clout_Prediction) - B 站视频热度预测与分析.![Python](svg/python.svg?raw=true)
 - [Bilibili_draw](https://github.com/Ikaros-521/bilibili_draw) - 为 up 主们提供的 b 站抽奖脚本，脚本由 JS 编写.![JavaScript](svg/javascript.svg?raw=true)
@@ -585,8 +589,10 @@
 - [Biliroaming-go-server](https://github.com/JasonKhew96/biliroaming-go-server) - 自建哔哩漫游解析服务器.![Go](svg/go.svg?raw=true) ![Docker](svg/docker.svg?raw=true)
 - [Biliroaming-ts-server-vercel](https://github.com/bili-vd-bak/biliroaming-ts-server-vercel) - 为 BiliRoaming、哔哩 UWP 等提供支持。包括支持基本功能、搜索替换、黑白名单的哔哩漫游服务端.![TypeScript](svg/tsnode.svg?raw=true)
 - [Biliup_record](https://github.com/96bearli/biliup_record) - 对 bilibili 的 up 动态留档.![Python](svg/python.svg?raw=true)
+- [Bilivideoinfo](https://github.com/Ghauster/Bilivideoinfo) - Bilibili 视频数据爬虫，能批量爬取指定视频的信息.![Python](svg/python.svg?raw=true)
 - [ChatBilibili](https://github.com/jiran214/chatBilibili) - 基于 Fastapi 和 ChatGPT Embedding，实时生成视频概要，检索上下文视频提问 / 聊天.![Python](svg/python.svg?raw=true)
 - [Crawling-bilibili-personal-collect](https://github.com/cangkongman/crawling-bilibili-personal-collect) - 爬取 bilibili 的自己账号的收藏夹信息，并转 excel 储存.![Python](svg/python.svg?raw=true)
+- [GetBilibiliUserInfo](https://github.com/cwuom/GetBilibiliUserInfo) - 一个通过 Python 编写的全自动哔哩哔哩个人信息爬取工具.![Python](svg/python.svg?raw=true)
 - [LotteryAutoScript](https://github.com/shanmiteko/LotteryAutoScript) - Bilibili 动态抽奖助手.![NodeJs](svg/nodejs.svg?raw=true) ![Windows](svg/windows.svg?raw=true) ![Docker](svg/docker.svg?raw=true)
 - [Puppeteer-bilibili-up-dynamic](https://github.com/uyoungco/puppeteer-bilibili-up-dynamic) - bilibili UP 主动态截图工具.![JavaScript](svg/javascript.svg?raw=true) ![Docker](svg/docker.svg?raw=true)
 - [Tool-Asoul-Music](https://github.com/sudoskys/Tool-Asoul-Music) - 哔哩哔哩收藏夹提取音频推送到 TG 频道且支持自动搜索筛选推送.![Python](svg/python.svg?raw=true)
@@ -596,4 +602,4 @@
 
 请查看[贡献指南](https://github.com/HCLonely/awesome-bilibili-extra/blob/master/CONTRIBUTING.md).
 
-<!-- Sort Time: 2023-05-06 05:05:10 +00:00 -->
+<!-- Sort Time: 2023-05-15 09:30:57 +00:00 -->
