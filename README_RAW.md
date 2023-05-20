@@ -111,6 +111,7 @@
 - [BiliMini](https://github.com/Taosky/BiliMini) - Bilibili辅助扩展，用于提示并快速查看更新.
 - [Edge-Bilibili](https://github.com/Missde/Edge-Bilibili) - 基于哔哩哔哩网站的api开发的Edge浏览器插件，界面简洁、下载视频、过滤视频、指定在副屏播放.
 - [bilimap](https://github.com/nightstream/bilimap) - 利用B站良好的弹幕生态系统，在B站页面生成弹幕图表，展示特定类型的弹幕在某一时刻的数量.
+- [哔哩哔哩字幕列表](https://github.com/IndieKKY/bilibili-subtitle) - 哔哩哔哩字幕列表浏览器扩展，功能包括点击跳转，下载字幕，总结字幕，翻译字幕等.
 
 ### 直播扩展
 
