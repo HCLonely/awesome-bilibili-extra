@@ -438,6 +438,7 @@
 - [go-bili-chat](https://github.com/FishZe/go-bili-chat) - Bilibili直播间弹幕处理库.go
 - [BiliBiliApi](https://github.com/BiliBiliApi/BiliBiliApi) - 哔哩哔哩 NodeJS 版 API Service.js|docker
 - [BiLiveir](https://github.com/GoldrenEggs/BiLiveir) - 异步bilibili直播信息流（弹幕、抽奖、礼物等）处理框架.py
+- [bili-verify](https://github.com/FishZe/bili-verify) - B站用户认证工具, 非官方账号绑定识别接口.go
 
 ## 第三方客户端
 
@@ -534,6 +535,7 @@
 - [BilibiliPotPlayer](https://github.com/chen310/BilibiliPotPlayer) - 适用于 PotPlayer 的 Bilibili 插件.js
 - [BiliVido-For-Typecho](https://github.com/HaruhiYunona/BiliVido-For-Typecho) - 为Typecho开发专门用于Bilibili视频解析的插件.js
 - [MPV-Play-BiliBili-Comments](https://github.com/itKelis/MPV-Play-BiliBili-Comments) - 使用mpv自动下载弹幕并加载.py
+- [bilibili_live](https://github.com/Posartor/bilibili_live) - Bilibili Live 直播状态监控 Home Assistant 集成.py
 
 ## 其他
 
