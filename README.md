@@ -394,6 +394,7 @@
 - [Bili-auth](https://github.com/vapehacker/bili-auth) - 第三方哔哩哔哩 OAuth API，基于私信鉴权.![Python](svg/python.svg?raw=true)
 - [Bili-live-api](https://github.com/BotPlayerNeo/bili-live-api) - B 站直播 API 的 Go 语言实现（目前仅支持弹幕相关）.
 - [Bili-live-listener](https://github.com/LU-JIEJIE/bili-live-listener) - b 站直播间信息监听库，包括但不限于弹幕、礼物、醒目留言、全站广播等.![TypeScript](svg/tsnode.svg?raw=true)
+- [Bili-verify](https://github.com/FishZe/bili-verify) - B 站用户认证工具，非官方账号绑定识别接口.![Go](svg/go.svg?raw=true)
 - [BiliBiliApi](https://github.com/BiliBiliApi/BiliBiliApi) - 哔哩哔哩 NodeJS 版 API Service.![JavaScript](svg/javascript.svg?raw=true) ![Docker](svg/docker.svg?raw=true)
 - [BiliBiliQ](https://github.com/MingxuanGame/BiliBiliQ) - Another BiliBili gRPC & REST API library.![Python](svg/python.svg?raw=true)
 - [BiliBiliRankingScripts](https://github.com/Neutralization/BiliBiliRankingScripts) - 涉及周刊哔哩哔哩排行榜制作相关的脚本.![Python](svg/python.svg?raw=true) ![Shell](svg/shell.svg?raw=true)
@@ -529,6 +530,7 @@
 
 - [BiliVido-For-Typecho](https://github.com/HaruhiYunona/BiliVido-For-Typecho) - 为 Typecho 开发专门用于 Bilibili 视频解析的插件.![JavaScript](svg/javascript.svg?raw=true)
 - [BilibiliPotPlayer](https://github.com/chen310/BilibiliPotPlayer) - 适用于 PotPlayer 的 Bilibili 插件.![JavaScript](svg/javascript.svg?raw=true)
+- [Bilibili_live](https://github.com/Posartor/bilibili_live) - Bilibili Live 直播状态监控 Home Assistant 集成.![Python](svg/python.svg?raw=true)
 - [Hexo-bilibili-bangumi](https://github.com/HCLonely/hexo-bilibili-bangumi) - hexo 番剧页面插件.![JavaScript](svg/javascript.svg?raw=true)
 - [Hexo-bilibili-plus](https://github.com/pk5ls20/hexo-bilibili-plus) - 一个 hexo 插件，可以快速而方便的在 hexo 页面中嵌入 bilibili 视频.![JavaScript](svg/javascript.svg?raw=true)
 - [MPV-Play-BiliBili-Comments](https://github.com/itKelis/MPV-Play-BiliBili-Comments) - 使用 mpv 自动下载弹幕并加载.![Python](svg/python.svg?raw=true)
@@ -611,4 +613,4 @@
 
 请查看[贡献指南](https://github.com/HCLonely/awesome-bilibili-extra/blob/master/CONTRIBUTING.md).
 
-<!-- Sort Time: 2023-05-29 09:03:58 +00:00 -->
+<!-- Sort Time: 2023-06-03 08:31:16 +00:00 -->
