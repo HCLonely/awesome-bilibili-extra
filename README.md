@@ -104,6 +104,7 @@
 ### 主站扩展
 
 - [Audio-only-bilibili](https://github.com/cyio/audio-only-bilibili) - Biliblili 网页端使用音频模式.
+- [Bili-Insight](https://github.com/2951121599/Bili-Insight) - B 站视频内容总结预览插件：通过使用这个插件来更快地了解视频的内容.
 - [Bili-guessYouLike](https://github.com/chitosai/bili-guessYouLike) - 为 PC 版 bilibili 首页增加「猜你喜欢」.
 - [BiliMini](https://github.com/Taosky/BiliMini) - Bilibili 辅助扩展，用于提示并快速查看更新.
 - [Bilidown_lite](https://github.com/MNTMDEV/bilidown_lite) - b 站源视频下载 chrome 拓展版，已兼容全新 BV 号标准，支持番剧，配合桌面客户端可以一键下载.
@@ -500,6 +501,7 @@
 - [Bili-notice-hoshino](https://github.com/kushidou/bili-notice-hoshino) - 一个 Hoshinobot 插件，可以获得 B 站 up 主最新的动态并推送到 QQ 群中.![Python](svg/python.svg?raw=true)
 - [Bili_dynamic_push](https://github.com/nfe-w/bili_dynamic_push) - UP 主动态、直播间开播检测与推送.![Python](svg/python.svg?raw=true)
 - [Bilibili-Notification](https://github.com/cnscj/Bilibili-Notification) - 检测指定 B 站 Up 主动态，直播状态并进行推送.![Python](svg/python.svg?raw=true)
+- [Bilibili-QQ-BOT](https://github.com/keithfeng425/Bilibili-QQ-BOT) - 自动转发 B 站用户的动态和直播开播下播提醒到 QQ 群.![Java](svg/openjdk.svg?raw=true)
 - [Bilibili-dynamic-mirai-plugin](https://github.com/Colter23/bilibili-dynamic-mirai-plugin) - 低延迟检测 B 站动态 / 直播的 mirai-console 插件.![Kotlin](svg/kotlin.svg?raw=true)
 - [Bilibili-helper](https://github.com/cssxsh/bilibili-helper) - 基于 Mirai Console 的 哔哩哔哩 订阅插件.![Kotlin](svg/kotlin.svg?raw=true)
 - [Bilibili-live-dm-qq-bot](https://github.com/FEINIAO233/bilibili-live-dm-qq-bot) - 哔哩哔哩直播弹幕获取（QQ 频道机器人）.![Python](svg/python.svg?raw=true)
@@ -613,4 +615,4 @@
 
 请查看[贡献指南](https://github.com/HCLonely/awesome-bilibili-extra/blob/master/CONTRIBUTING.md).
 
-<!-- Sort Time: 2023-06-03 08:31:16 +00:00 -->
+<!-- Sort Time: 2023-06-10 03:06:34 +00:00 -->
