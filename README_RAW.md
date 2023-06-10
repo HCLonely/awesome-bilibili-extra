@@ -112,6 +112,7 @@
 - [Edge-Bilibili](https://github.com/Missde/Edge-Bilibili) - 基于哔哩哔哩网站的api开发的Edge浏览器插件，界面简洁、下载视频、过滤视频、指定在副屏播放.
 - [bilimap](https://github.com/nightstream/bilimap) - 利用B站良好的弹幕生态系统，在B站页面生成弹幕图表，展示特定类型的弹幕在某一时刻的数量.
 - [哔哩哔哩字幕列表](https://github.com/IndieKKY/bilibili-subtitle) - 哔哩哔哩字幕列表浏览器扩展，功能包括点击跳转，下载字幕，总结字幕，翻译字幕等.
+- [Bili-Insight](https://github.com/2951121599/Bili-Insight) - B站视频内容总结预览插件：通过使用这个插件来更快地了解视频的内容.
 
 ### 直播扩展
 
@@ -523,6 +524,7 @@
 - [nonebot-plugin-bilichat](https://github.com/Aunly/nonebot-plugin-bilichat) - 一个通过 OpenAI 来对b站视频进行总结的多功能B站解析插件.py
 - [nonebot_plugin_bilifan](https://github.com/Agnes4m/nonebot_plugin_bilifan) - 基于nonebot2的插件，刷b站直播间牌子.py
 - [bilibili-live-dm-qq-bot](https://github.com/FEINIAO233/bilibili-live-dm-qq-bot) - 哔哩哔哩直播弹幕获取（QQ频道机器人）.py
+- [Bilibili-QQ-BOT](https://github.com/keithfeng425/Bilibili-QQ-BOT) - 自动转发B站用户的动态和直播开播下播提醒到QQ群.jar
 
 ## 相关插件
 
