@@ -113,6 +113,7 @@
 - [bilimap](https://github.com/nightstream/bilimap) - 利用B站良好的弹幕生态系统，在B站页面生成弹幕图表，展示特定类型的弹幕在某一时刻的数量.
 - [哔哩哔哩字幕列表](https://github.com/IndieKKY/bilibili-subtitle) - 哔哩哔哩字幕列表浏览器扩展，功能包括点击跳转，下载字幕，总结字幕，翻译字幕等.
 - [Bili-Insight](https://github.com/2951121599/Bili-Insight) - B站视频内容总结预览插件：通过使用这个插件来更快地了解视频的内容.
+- [BiliBiliTimer](https://github.com/Whimmey/BiliBiliTimer) - 在Bilibili视频播放页面计算分集视频区间内总时长.
 
 ### 直播扩展
 
@@ -190,6 +191,7 @@
 - [Bilibili-Trackpad-Scroll-Reverser](https://github.com/MaxChang3/Bilibili-Trackpad-Scroll-Reverser) - 优化 b 站视频音量调节在触控板上的体验.
 - [BiliBili-EasyCopy](https://github.com/SynRGB/BiliBili-EasyCopy) - 去掉B站专栏中复制文本时的水印.
 - [Bilibili-Web-Show-IP-Address](https://github.com/MaxChang3/Bilibili-Web-Show-IP-Address) - 展示哔哩哔哩 Web 端的 IP 属地.
+- [bilibili-subtitle-to-text](https://github.com/Fros1er/bilibili-subtitle-to-text) - 把b站字幕一次性全部显示或下载.
 
 ### 直播脚本
 
@@ -206,6 +208,7 @@
 - [B站直播随看随录](https://greasyfork.org/zh-CN/scripts/435623) - 无需打开弹幕姬，可即时录制flv的油猴脚本，快速切片.
 - [bilibili_live-assistant](https://github.com/isma123HH/bilibili_live-assistant) - 获取直播流, 获取直播封面, 直播切片...
 - [Bilibili直播自动追帧](https://github.com/c-basalt/bilibili-live-seeker-script) - Bilibili直播自动追帧.
+- [Bilibili-Remove-Live-Giftbar](https://github.com/OnlyCharacters/Bilibili-Remove-Live-Giftbar) - 移除b站直播间礼物条.
 
 ## 下载工具
 
@@ -265,7 +268,6 @@
 - [bilibiliAudioDownloader](https://github.com/nuster1128/bilibiliAudioDownloader) - 输入视频BV号列表，批量下载B站视频中的音频到本地.py
 - [BilibiliAnimeDownload](https://github.com/NorthSkybk/BilibiliAnimeDownload) - 哔哩哔哩番剧下载工具.py
 - [JavaFx-BilibiliDownLoad](https://github.com/Xiaobaishushu25/JavaFx-BilibiliDownLoad) - 下载b站视频.jar
-- [bilibili_download](https://github.com/dzc217/bilibili_download) - 哔哩哔哩下载器.py|cli
 - [BilibiliMemory](https://github.com/YuSitong1999/BilibiliMemory) - 获取在 哔哩哔哩 收藏夹中收藏的视频，保存到本地磁盘.py
 - [BiliDownloader](https://github.com/Harlan-H/BiliDownloader) - 一款界面精简操作简单的b站视频下载工具.c#|exe
 - [BiliDownloader](https://github.com/Majjcom/BiliDownloader) - 超级好用的 GUI bilibili视频下载器.py|exe
@@ -288,6 +290,7 @@
 - [鼠鼠下载器](https://github.com/MoyuScript/double-mouse-downloader) - 跨平台哔哩哔哩视频下载工具.ts|exe
 - [bili-video-merger](https://github.com/ZiAzusa/bili-video-merger) - 此工具用于将B站缓存视频的video.m4s和audio.m4s整合为一个文件.py
 - [bilibilidownload](https://github.com/hellokuls/bilibilidownload) - B 站视频下载.py|docker
+- [BiliAuDown](https://github.com/Mikachu2333/BiliAuDown) - 利用BBDown以及FFmpeg下载哔哩哔哩的音频/视频并将其转换为MP3或者flac格式.exe
 
 ## 直播相关工具
 
@@ -361,6 +364,7 @@
 - [bilive24h](https://github.com/x-dr/bilive24h) - b站7 * 24小时的直播.shell
 - [BiliLive-Auto-Streaming](https://github.com/KimmyXYC/BiliLive-Auto-Streaming) - 哔哩哔哩自动直播.py
 - [bili-shadowreplay](https://github.com/Xinrea/bili-shadowreplay) - bilibili 直播实时切片工具.rust
+- [bili-live-machine](https://github.com/phy-lei/bili-live-machine) - bilibili直播姬-弹幕姬.ts
 
 ## UP 工具
 
@@ -440,6 +444,7 @@
 - [BiliBiliApi](https://github.com/BiliBiliApi/BiliBiliApi) - 哔哩哔哩 NodeJS 版 API Service.js|docker
 - [BiLiveir](https://github.com/GoldrenEggs/BiLiveir) - 异步bilibili直播信息流（弹幕、抽奖、礼物等）处理框架.py
 - [bili-verify](https://github.com/FishZe/bili-verify) - B站用户认证工具, 非官方账号绑定识别接口.go
+- [BiliAuth.py](https://github.com/Radekyspec/BiliAuth.py) - 模拟B站登录，获取access_token, refresh_token和cookies.py
 
 ## 第三方客户端
 
