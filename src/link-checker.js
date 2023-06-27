@@ -46,7 +46,8 @@ const axios = require('axios');
 
   if (errorLinks.length > 0) {
     console.table(errorLinks);
-    throw `${errorLinks.length} broken links were founded!`
+    console.error(\n`${errorLinks.length} broken links were founded!`);
+    process.exit(1);
   }
 
   const uniquedLinks = new Set(links.map(e => e[2]));
@@ -58,6 +59,7 @@ const axios = require('axios');
       }
       return {name: e[1], link: e[2]};
     }).filter(e => e));
-    throw `Double links were founded!`
+    console.error(\n`Double links were founded!`);
+    process.exit(1);
   }
 })();

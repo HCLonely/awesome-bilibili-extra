@@ -312,7 +312,6 @@
 - [Bililive-go](https://github.com/hr3lxphr6j/bililive-go) - Bililive-go 是一个支持多种直播平台的直播录制工具.go|cli|docker
 - [DDRecorder](https://github.com/AsaChiri/DDRecorder) - Headless全自动B站直播录播、切片、上传一体工具.py|exe|docker
 - [Bilibili-live-helper](https://github.com/LiangYuxuan/bilibili-live-helper) - Bilibili直播相关自动化脚本.ts
-- [bilibili-vtuber-danmaku](https://github.com/dd-center/bilibili-vtuber-danmaku) - Vtuber直播间的弹幕哟.node
 - [BiliBiliSongHime](https://github.com/SoingSaika/BiliBiliSongHime) - 哔哩哔哩直播点歌姬.jar
 - [Bilibili-live](https://github.com/filwsx/Bilibili-live) - 哔哩哔哩直播下载与监听.py
 - [bilibili-live-chat](https://github.com/Tsuk1ko/bilibili-live-chat) - 无后端的仿 YouTube Live Chat 风格的简易 Bilibili 弹幕姬.vue
@@ -436,7 +435,6 @@
 - [bilibili-api](https://github.com/xlz122/bilibili-api) - 提供B站web移动端api接口.js
 - [bili-live-listener](https://github.com/LU-JIEJIE/bili-live-listener) - b站直播间信息监听库，包括但不限于弹幕、礼物、醒目留言、全站广播等.ts
 - [BiliBiliQ](https://github.com/MingxuanGame/BiliBiliQ) - Another BiliBili gRPC & REST API library.py
-- [BilibiliLogin](https://github.com/lllk140/BilibiliLogin) - b站app登陆模拟，获取accesskey和cookie，非TV.py|exe
 - [bilibili-live](https://github.com/pandaGao/bilibili-live) - Bilibili直播相关工具包.js
 - [go_bili_chat](https://github.com/FishZe/go_bili_chat) - golang的b站信息流处理.go
 - [bilibili-captain](https://github.com/Ninzore/bilibili-captain) - 简易B站API调用.ts
@@ -583,7 +581,6 @@
 - [bilibili_lottery_dynamic_del](https://github.com/sandboxdream/bilibili_lottery_dynamic_del) - 将所有b站上转发的已开奖抽奖动态删除.py
 - [Bilibili-XMLSubtitle-to-ASS](https://github.com/NaiboWang/Bilibili-XMLSubtitle-to-ASS) - 可视化Bilibili本地视频XML弹幕转换ASS字幕转换器.py
 - [BIli.Mac.MenuBar](https://github.com/Richasy/BIli.Mac.MenuBar) - 用于在 Mac OS 的菜单栏显示登录用户的信息及订阅的视频动态.swift
-- [BilibiliSuitBuy](https://github.com/lllk140/BilibiliSuitBuy) - b站装扮购买.py|go
 - [bilibiliLottery](https://github.com/silie666/bilibiliLottery) - bilibili活动页抽奖，自动转发动态抽奖.go
 - [bilibili-stats-badges](https://github.com/lonelyion/bilibili-stats-badges) - Bilibili状态徽章.js
 - [Bili_Realtime_Data](https://github.com/CzJam/Bili_Realtime_Data) - Bilibili粉丝与视频实时数据统计.php
