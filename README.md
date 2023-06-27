@@ -326,7 +326,6 @@
 - [Bilibili-live](https://github.com/filwsx/Bilibili-live) - 哔哩哔哩直播下载与监听.![Python](svg/python.svg?raw=true)
 - [Bilibili-ordersong-plugin](https://github.com/xiaoan-1/bilibili-ordersong-plugin) - b 站直播姬点歌插件.![JavaScript](svg/javascript.svg?raw=true)
 - [Bilibili-recording-go](https://github.com/DarrenIce/bilibili-recording-go) - 哔哩哔哩录播机.![Go](svg/go.svg?raw=true)
-- [Bilibili-vtuber-danmaku](https://github.com/dd-center/bilibili-vtuber-danmaku) - Vtuber 直播间的弹幕哟.![NodeJs](svg/nodejs.svg?raw=true)
 - [BilibiliDanMu](https://github.com/Kurris/BilibiliDanMu) - bilibili 弹幕工具.![C#](svg/csharp.svg?raw=true) ![Docker](svg/docker.svg?raw=true)
 - [BilibiliLiveNotifier_WPF](https://github.com/C1manyd/BilibiliLiveNotifier_WPF) - Bilibili 直播通知小工具.![C#](svg/csharp.svg?raw=true)
 - [BilibiliLiveRecordDownLoader](https://github.com/HMBSbige/BilibiliLiveRecordDownLoader) - 哔哩哔哩直播录制与回放下载.![C#](svg/csharp.svg?raw=true) ![Windows](svg/windows.svg?raw=true)
@@ -427,7 +426,6 @@
 - [Bilibili-ws-client](https://github.com/varieget/bilibili-ws-client) - 适用于 b 站直播的 Websocket 客户端.![JavaScript](svg/javascript.svg?raw=true)
 - [BilibiliAPI](https://github.com/jingyuexing/bilibiliAPI) - bilibiliAPI.![Python](svg/python.svg?raw=true)
 - [BilibiliAPI](https://github.com/zimoyin/BilibiliAPI) - 用 java 实现访问大部分的 Bilibili API，并提供部分对接口工具.![Java](svg/openjdk.svg?raw=true)
-- [BilibiliLogin](https://github.com/lllk140/BilibiliLogin) - b 站 app 登陆模拟，获取 accesskey 和 cookie，非 TV.![Python](svg/python.svg?raw=true) ![Windows](svg/windows.svg?raw=true)
 - [Bilibili](https://github.com/CuteReimu/bilibili) - 哔哩哔哩 bilibili 的 API 的 Go SDK.![Go](svg/go.svg?raw=true)
 - [Bilibili_api](https://github.com/Nemo2011/bilibili_api) - 这是一个用 Python 写的调用 Bilibili 各种 API 的库.![Python](svg/python.svg?raw=true)
 - [Bilibili_danmaku](https://github.com/MerlynAllen/bilibili_danmaku) - 一个提供 Flask-style API 的 Bilibili 直播弹幕协议解析器.![Python](svg/python.svg?raw=true)
@@ -590,7 +588,6 @@
 - [BilibiliLearningToolCLI](https://github.com/freysu/bilibiliLearningToolCLI) - B 站分 P 视频信息助手.![NodeJs](svg/nodejs.svg?raw=true) ![Cli](svg/terminal.svg?raw=true)
 - [BilibiliLottery](https://github.com/silie666/bilibiliLottery) - bilibili 活动页抽奖，自动转发动态抽奖.![Go](svg/go.svg?raw=true)
 - [BilibiliNoteExport](https://github.com/fireworks99/bilibiliNoteExport) - B 站视频笔记一键导出（pdf）.![JavaScript](svg/javascript.svg?raw=true)
-- [BilibiliSuitBuy](https://github.com/lllk140/BilibiliSuitBuy) - b 站装扮购买.![Python](svg/python.svg?raw=true) ![Go](svg/go.svg?raw=true)
 - [BilibiliTranscoding](https://github.com/givemefivw/BilibiliTranscoding) - Bilibili 视频转码，无需登录即可观看高清画质.![Python](svg/python.svg?raw=true)
 - [BilibiliUnfollowingListener](https://github.com/cwuom/BilibiliUnfollowingListener) - 一个由纯 JAVA 开发的全自动 bilibil 取关 / 关注检测程序.![Java](svg/openjdk.svg?raw=true)
 - [BilibiliWordCloud](https://github.com/MGMCN/bilibiliWordCloud) - 爬取 b 站番剧短评，利用 jieba 分词，wordcloud 展示.![Python](svg/python.svg?raw=true) ![Docker](svg/docker.svg?raw=true)
@@ -620,4 +617,4 @@
 
 请查看[贡献指南](https://github.com/HCLonely/awesome-bilibili-extra/blob/master/CONTRIBUTING.md).
 
-<!-- Sort Time: 2023-06-19 08:27:59 +00:00 -->
+<!-- Sort Time: 2023-06-27 02:42:21 +00:00 -->
