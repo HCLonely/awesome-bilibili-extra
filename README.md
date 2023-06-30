@@ -104,10 +104,13 @@
 ### 主站扩展
 
 - [Audio-only-bilibili](https://github.com/cyio/audio-only-bilibili) - Biliblili 网页端使用音频模式.
+- [B 站快进快退脚本](https://github.com/GongT/bilibili-ff-script) - B 站快进快退脚本.
 - [Bili-Insight](https://github.com/2951121599/Bili-Insight) - B 站视频内容总结预览插件：通过使用这个插件来更快地了解视频的内容.
 - [Bili-guessYouLike](https://github.com/chitosai/bili-guessYouLike) - 为 PC 版 bilibili 首页增加「猜你喜欢」.
 - [BiliBiliTimer](https://github.com/Whimmey/BiliBiliTimer) - 在 Bilibili 视频播放页面计算分集视频区间内总时长.
+- [BiliFilter](https://github.com/ChizhaoEngine/BiliFilter) - 过滤 BiliBili 上不顺眼的东西，支持按用户 / 内容 / 甚至是视频时长过滤内容.
 - [BiliMini](https://github.com/Taosky/BiliMini) - Bilibili 辅助扩展，用于提示并快速查看更新.
+- [Bilibili 弹幕查询发送者](https://github.com/qianjiachun/bilibili-danmaku-tracker) - bilibili 弹幕查询发送者插件.
 - [Bilidown_lite](https://github.com/MNTMDEV/bilidown_lite) - b 站源视频下载 chrome 拓展版，已兼容全新 BV 号标准，支持番剧，配合桌面客户端可以一键下载.
 - [Bilimap](https://github.com/nightstream/bilimap) - 利用 B 站良好的弹幕生态系统，在 B 站页面生成弹幕图表，展示特定类型的弹幕在某一时刻的数量.
 - [Edge-Bilibili](https://github.com/Missde/Edge-Bilibili) - 基于哔哩哔哩网站的 api 开发的 Edge 浏览器插件，界面简洁、下载视频、过滤视频、指定在副屏播放.
@@ -148,7 +151,6 @@
 - [Bili-msg-read](https://github.com/monSteRhhe/bili-msg-read) - 用于简单设置 B 站消息已读的油猴脚本.
 - [BiliBili - 跳过互动视频](https://github.com/SynRGB/BiliBili-PassInteractiveVideo) - 列表播放的时候脚本可以跳过互动视频，直接播放下一个视频.
 - [BiliBili-EasyCopy](https://github.com/SynRGB/BiliBili-EasyCopy) - 去掉 B 站专栏中复制文本时的水印.
-- [BiliFilterX](https://github.com/RSSYLY/BiliFilterX) - 哔哩哔哩评论过滤器，根据规则集屏蔽 B 站用户的评论.
 - [Bili_Video_Speed_Controller](https://github.com/NicerWang/Bili_Video_Speed_Controller) - 适用于 Bilibili 新版网页播放器的速度控制插件.
 - [Bilibili CC 字幕工具](https://greasyfork.org/zh-CN/scripts/378513) - 可以在 B 站加载外挂本地字幕、下载 B 站的 CC 字幕，旧版 B 站播放器可启用 CC 字幕.
 - [Bilibili Vesiter](https://greasyfork.org/zh-CN/scripts/425696) - 哔哩哔哩移除主站广告、移除播放页广告、自动宽屏、自动全屏、自动播放、逐帧播放.
@@ -471,6 +473,7 @@
 - [Bilibilitv1.6.6-repair](https://github.com/qidian55/bilibilitv1.6.6-repair) - 尝试修复经典的 bilibili tv 1.6.6 版本.![Kotlin](svg/kotlin.svg?raw=true)
 - [Bilimiao2](https://github.com/10miaomiao/bilimiao2) - bilimiao，拓展 b 站客户端没有的功能.![Kotlin](svg/kotlin.svg?raw=true)
 - [Biliuwp-lite](https://github.com/xiaoyaocz/biliuwp-lite) - 第三方哔哩哔哩 UWP 客户端.![C#](svg/csharp.svg?raw=true) ![Windows](svg/windows.svg?raw=true)
+- [Biliuwp-lite](https://github.com/ywmoyue/biliuwp-lite) - 哔哩哔哩 UWP Lite.![C#](svg/csharp.svg?raw=true)
 - [Bv](https://github.com/aaa1115910/bv) - 哔哩哔哩 的第三方 Android TV 应用.![Kotlin](svg/kotlin.svg?raw=true)
 - [Fake_bilibili](https://github.com/Raftern/fake_bilibili) - kotlin 仿哔哩哔哩动画 app.![Kotlin](svg/kotlin.svg?raw=true)
 - [React-bilibili](https://github.com/dxx/react-bilibili) - 高仿 B 站 web 移动端.![NodeJs](svg/nodejs.svg?raw=true)
@@ -617,4 +620,4 @@
 
 请查看[贡献指南](https://github.com/HCLonely/awesome-bilibili-extra/blob/master/CONTRIBUTING.md).
 
-<!-- Sort Time: 2023-06-27 02:42:21 +00:00 -->
+<!-- Sort Time: 2023-06-30 02:00:11 +00:00 -->
