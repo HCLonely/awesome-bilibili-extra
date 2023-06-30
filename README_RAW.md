@@ -114,6 +114,9 @@
 - [哔哩哔哩字幕列表](https://github.com/IndieKKY/bilibili-subtitle) - 哔哩哔哩字幕列表浏览器扩展，功能包括点击跳转，下载字幕，总结字幕，翻译字幕等.
 - [Bili-Insight](https://github.com/2951121599/Bili-Insight) - B站视频内容总结预览插件：通过使用这个插件来更快地了解视频的内容.
 - [BiliBiliTimer](https://github.com/Whimmey/BiliBiliTimer) - 在Bilibili视频播放页面计算分集视频区间内总时长.
+- [B站快进快退脚本](https://github.com/GongT/bilibili-ff-script) - B站快进快退脚本.
+- [BiliFilter](https://github.com/ChizhaoEngine/BiliFilter) - 过滤BiliBili上不顺眼的东西，支持按用户/内容/甚至是视频时长过滤内容.
+- [Bilibili弹幕查询发送者](https://github.com/qianjiachun/bilibili-danmaku-tracker) - bilibili弹幕查询发送者插件.
 
 ### 直播扩展
 
@@ -179,7 +182,6 @@
 - [bilibili-area-limit](https://github.com/kghost/bilibili-area-limit) - Bilibili 港澳台, 解除区域限制.
 - [bilitwin](https://github.com/liqi0816/bilitwin) - 超清FLV下载, FLV合并, 原生MP4下载, 弹幕ASS下载, MKV打包, 播放体验增强...
 - [Bilibili-Markdown](https://github.com/LuckyPuppy514/Bilibili-Markdown) - B站专栏 Markdown 编辑器.
-- [BiliFilterX](https://github.com/RSSYLY/BiliFilterX) - 哔哩哔哩评论过滤器，根据规则集屏蔽B站用户的评论.
 - [bilibili-comment-checker](https://github.com/trychen/bilibili-comment-checker) - B站评论区自动标注成分油猴脚本.
 - [bilibili-subtitle-tweaks](https://github.com/Kr328/bilibili-subtitle-tweaks) - 增强 Bilibili 番剧的 CC 字幕，包含自动翻译及自动断行功能.
 - [BilibiliProgressBar](https://github.com/zweix123/BilibiliProgressBar) - Total progress bar of Bilibili collective video.
@@ -478,6 +480,7 @@
 - [BilibiliTv](https://github.com/peacefulprogram/BilibiliTv) - B站第三方客户端.kotlin
 - [bilibilitv1.6.6-repair](https://github.com/qidian55/bilibilitv1.6.6-repair) - 尝试修复经典的 bilibili tv 1.6.6 版本.kotlin
 - [WristBilibili](https://github.com/luern0313/WristBilibili) - 腕上哔哩, 在智能手表上集成一个有简单功能的b站客户端.jar
+- [biliuwp-lite](https://github.com/ywmoyue/biliuwp-lite) - 哔哩哔哩UWP Lite.c#
 
 ## 每日任务
 
