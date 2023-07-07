@@ -169,6 +169,7 @@
 - [Bilibili-area-limit](https://github.com/kghost/bilibili-area-limit) - Bilibili 港澳台，解除区域限制.
 - [Bilibili-block-plus](https://github.com/Cansiny0320/bilibili-block-plus) - b 站黑名单，可屏蔽指定用户作品、评论等.
 - [Bilibili-comment-checker](https://github.com/trychen/bilibili-comment-checker) - B 站评论区自动标注成分油猴脚本.
+- [Bilibili-downloader](https://github.com/foamzou/bilibili-downloader) - 哔哩哔哩（b 站）音视频下载脚本.
 - [Bilibili-dynamic-del](https://github.com/monSteRhhe/bilibili-dynamic-del) - 自动删除 B 站转发抽奖动态.
 - [Bilibili-follow](https://github.com/lilei2603/bilibili-follow) - B 站首页展示 UP 专区.
 - [Bilibili-joybook](https://github.com/PC6live/bilibili-joybook-tampermonkey) - Bilibili 共享大会员.
@@ -344,6 +345,7 @@
 - [BililiveAutoDanmaku](https://github.com/lxfly2000/BililiveAutoDanmaku) - B 站直播自动弹幕机.![Java](svg/openjdk.svg?raw=true)
 - [BililiveNotification](https://github.com/Executor-Cheng/BililiveNotification) - 哔哩哔哩直播提醒.![C#](svg/csharp.svg?raw=true) ![Windows](svg/windows.svg?raw=true)
 - [BililiveRecorder-WebUI](https://github.com/BililiveRecorder/BililiveRecorder-WebUI) - B 站录播姬的管理网页.![Vue](svg/vue.svg?raw=true)
+- [BililiveRecorder-webhook-docker](https://github.com/puzzlemoondev/BililiveRecorder-webhook-docker) - docker + webhook 懒人部署 B 站录播姬并自动化 B 站投稿、百度云与阿里云上传.![Python](svg/python.svg?raw=true) ![Docker](svg/docker.svg?raw=true)
 - [BililiveRecorder.cli-ds](https://github.com/jkfujr/BililiveRecorder.cli-ds) - 一个用 python 简单实现的录播姬命令行的信息展示.![Python](svg/python.svg?raw=true)
 - [BililiveRecorder](https://github.com/BililiveRecorder/BililiveRecorder) - 哔哩哔哩直播录制工具.![C#](svg/csharp.svg?raw=true) ![Cli](svg/terminal.svg?raw=true)
 - [Bililive_contribution_leaderboards](https://github.com/Seyyu0015/Bililive_contribution_leaderboards) - OBS 用直播插件，直播观众贡献排行榜.![Python](svg/python.svg?raw=true)
@@ -531,6 +533,7 @@
 - [SagumeAutomata](https://github.com/OhnkytaBlabdey/SagumeAutomata) - OneBot based QQ bot 订阅 B 站视频，直播，动态.![TypeScript](svg/tsnode.svg?raw=true)
 - [Telegram-bili-feed-helper](https://github.com/simonsmh/telegram-bili-feed-helper) - Telegram bot for Bili Feed Helper.![Python](svg/python.svg?raw=true)
 - [Vup_monitors](https://github.com/eric2788/vup_monitors) - 高亮个别用户弹幕 + 捕捉进入直播间 QQ 机器人版.![JavaScript](svg/javascript.svg?raw=true) ![Windows](svg/windows.svg?raw=true) ![Docker](svg/docker.svg?raw=true)
+- [Worker-bilibili-discord](https://github.com/UnluckyNinja/worker-bilibili-discord) - 利用 Cloudflare Worker 监测 B 站用户动态并推送到 Discord 中.![TypeScript](svg/tsnode.svg?raw=true)
 
 ## 相关插件
 
@@ -620,4 +623,4 @@
 
 请查看[贡献指南](https://github.com/HCLonely/awesome-bilibili-extra/blob/master/CONTRIBUTING.md).
 
-<!-- Sort Time: 2023-06-30 02:00:11 +00:00 -->
+<!-- Sort Time: 2023-07-07 12:25:22 +00:00 -->
