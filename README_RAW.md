@@ -194,6 +194,7 @@
 - [BiliBili-EasyCopy](https://github.com/SynRGB/BiliBili-EasyCopy) - 去掉B站专栏中复制文本时的水印.
 - [Bilibili-Web-Show-IP-Address](https://github.com/MaxChang3/Bilibili-Web-Show-IP-Address) - 展示哔哩哔哩 Web 端的 IP 属地.
 - [bilibili-subtitle-to-text](https://github.com/Fros1er/bilibili-subtitle-to-text) - 把b站字幕一次性全部显示或下载.
+- [bilibili-downloader](https://github.com/foamzou/bilibili-downloader) - 哔哩哔哩（b站）音视频下载脚本.
 
 ### 直播脚本
 
@@ -366,6 +367,7 @@
 - [BiliLive-Auto-Streaming](https://github.com/KimmyXYC/BiliLive-Auto-Streaming) - 哔哩哔哩自动直播.py
 - [bili-shadowreplay](https://github.com/Xinrea/bili-shadowreplay) - bilibili 直播实时切片工具.rust
 - [bili-live-machine](https://github.com/phy-lei/bili-live-machine) - bilibili直播姬-弹幕姬.ts
+- [BililiveRecorder-webhook-docker](https://github.com/puzzlemoondev/BililiveRecorder-webhook-docker) - docker + webhook 懒人部署B站录播姬并自动化B站投稿、百度云与阿里云上传.py|docker
 
 ## UP 工具
 
@@ -531,6 +533,7 @@
 - [nonebot_plugin_bilifan](https://github.com/Agnes4m/nonebot_plugin_bilifan) - 基于nonebot2的插件，刷b站直播间牌子.py
 - [bilibili-live-dm-qq-bot](https://github.com/FEINIAO233/bilibili-live-dm-qq-bot) - 哔哩哔哩直播弹幕获取（QQ频道机器人）.py
 - [Bilibili-QQ-BOT](https://github.com/keithfeng425/Bilibili-QQ-BOT) - 自动转发B站用户的动态和直播开播下播提醒到QQ群.jar
+- [worker-bilibili-discord](https://github.com/UnluckyNinja/worker-bilibili-discord) - 利用Cloudflare Worker监测B站用户动态并推送到Discord中.ts
 
 ## 相关插件
 
