@@ -195,6 +195,7 @@
 - [Bilibili-Web-Show-IP-Address](https://github.com/MaxChang3/Bilibili-Web-Show-IP-Address) - 展示哔哩哔哩 Web 端的 IP 属地.
 - [bilibili-subtitle-to-text](https://github.com/Fros1er/bilibili-subtitle-to-text) - 把b站字幕一次性全部显示或下载.
 - [bilibili-downloader](https://github.com/foamzou/bilibili-downloader) - 哔哩哔哩（b站）音视频下载脚本.
+- [userscript-bilibili-comment-search](https://github.com/pacexy/userscript-bilibili-comment-search) - 让 Bilibili 支持评论搜索.
 
 ### 直播脚本
 
@@ -368,6 +369,8 @@
 - [bili-shadowreplay](https://github.com/Xinrea/bili-shadowreplay) - bilibili 直播实时切片工具.rust
 - [bili-live-machine](https://github.com/phy-lei/bili-live-machine) - bilibili直播姬-弹幕姬.ts
 - [BililiveRecorder-webhook-docker](https://github.com/puzzlemoondev/BililiveRecorder-webhook-docker) - docker + webhook 懒人部署B站录播姬并自动化B站投稿、百度云与阿里云上传.py|docker
+- [BilibiliLive](https://github.com/zxc7563598/BilibiliLive) - 哔哩哔哩直播辅助，例如开播通知，录播姬视频自动上传等.php
+- [BilibiliDanmuRobot](https://github.com/xbclub/BilibiliDanmuRobot) - bilibili直播弹幕机器人.go|exe
 
 ## UP 工具
 
@@ -500,6 +503,7 @@
 - [bilibiliHelper](https://github.com/RedSTARO/bilibiliHelper) - B 站快速升级脚本.py|exe
 - [BilibiliDailyUp](https://github.com/Wyatt1026/BilibiliDailyUp) - 哔哩哔哩每日任务脚本.py
 - [bilibili-helper](https://github.com/RealBeBetter/bilibili-helper) - bilibili 签到助手.jar
+- [BiliOutils](https://github.com/catlair/BiliOutils) - 直播心跳，漫画每日阅读积分，漫读券兑换，赛事竞猜.ts|docker
 
 ## 机器人
 
