@@ -183,6 +183,7 @@
 - [Download-Pictures-from-Bilibili-Timeline](https://github.com/owendswang/Download-Pictures-from-Bilibili-Timeline) - 从 “Bilibili 动态” 页面下载图片.
 - [Tampermonkey-removePrefix-bilibili](https://github.com/SoonIter/tampermonkey-removePrefix-bilibili) - 一个脚本解决 bilibili 视频选集中标题过长的问题.
 - [Unlock-bilibili-PcBrowser-comment](https://github.com/QingXia-Ela/unlock-bilibili-PcBrowser-comment) - 新版 b 站评论区显示 IP 归属地与展示被隐藏评论.
+- [Userscript-bilibili-comment-search](https://github.com/pacexy/userscript-bilibili-comment-search) - 让 Bilibili 支持评论搜索.
 - [Userscript-enhance-bilibili-player](https://github.com/fython/userscript-enhance-bilibili-player) - 增强哔哩哔哩播放器的使用体验.
 - [关注管理器](https://greasyfork.org/zh-CN/scripts/428895) - 快速排序和筛选你的关注列表，一键取关不再关注的 UP 等.
 - [哔哩哔哩查看原图](https://greasyfork.org/zh-CN/scripts/372289) - 方便在 B 站内查看各种图片的原图，支持动态、专栏.
@@ -330,9 +331,11 @@
 - [Bilibili-ordersong-plugin](https://github.com/xiaoan-1/bilibili-ordersong-plugin) - b 站直播姬点歌插件.![JavaScript](svg/javascript.svg?raw=true)
 - [Bilibili-recording-go](https://github.com/DarrenIce/bilibili-recording-go) - 哔哩哔哩录播机.![Go](svg/go.svg?raw=true)
 - [BilibiliDanMu](https://github.com/Kurris/BilibiliDanMu) - bilibili 弹幕工具.![C#](svg/csharp.svg?raw=true) ![Docker](svg/docker.svg?raw=true)
+- [BilibiliDanmuRobot](https://github.com/xbclub/BilibiliDanmuRobot) - bilibili 直播弹幕机器人.![Go](svg/go.svg?raw=true) ![Windows](svg/windows.svg?raw=true)
 - [BilibiliLiveNotifier_WPF](https://github.com/C1manyd/BilibiliLiveNotifier_WPF) - Bilibili 直播通知小工具.![C#](svg/csharp.svg?raw=true)
 - [BilibiliLiveRecordDownLoader](https://github.com/HMBSbige/BilibiliLiveRecordDownLoader) - 哔哩哔哩直播录制与回放下载.![C#](svg/csharp.svg?raw=true) ![Windows](svg/windows.svg?raw=true)
 - [BilibiliLiveTools](https://github.com/withsalt/BilibiliLiveTools) - Bilibili 直播工具，自动登录并获取推流地址.![C#](svg/csharp.svg?raw=true) ![Cli](svg/terminal.svg?raw=true)
+- [BilibiliLive](https://github.com/zxc7563598/BilibiliLive) - 哔哩哔哩直播辅助，例如开播通知，录播姬视频自动上传等.![PHP](svg/php.svg?raw=true)
 - [Bilibili_Danmuji](https://github.com/BanqiJane/Bilibili_Danmuji) - B 站直播礼物答谢、定时广告、关注感谢，自动回复工具，房管工具，自动打卡.![Java](svg/openjdk.svg?raw=true) ![Windows](svg/windows.svg?raw=true)
 - [Bilibili_GetReceivedGiftStream](https://github.com/boxie123/Bilibili_GetReceivedGiftStream) - 登录并获取 bilibili 礼物流水统计表格.![Python](svg/python.svg?raw=true)
 - [Bilibili_Song_Player](https://github.com/mk-ling/Bilibili_Song_Player) - 利用 Selenium 操控 Chrome 的直播点歌软件.![Python](svg/python.svg?raw=true)
@@ -492,6 +495,7 @@
 - [BiliBili_Checkin](https://github.com/ICE99125/BiliBili_Checkin) - 腾讯云函数实现 BiliBili 每日观看视频、自动投币、分享、漫画签到、直播签到.![Python](svg/python.svg?raw=true)
 - [BiliHelper-personal](https://github.com/lkeme/BiliHelper-personal) - 哔哩哔哩助手 - PHP 版.![PHP](svg/php.svg?raw=true)
 - [BiliLiveAutoInteract](https://github.com/MociLSeng/BiliLiveAutoInteract) - b 站最新直播粉丝团自动签到 / 打卡 点赞 / 分享 / 发送弹幕.![Java](svg/openjdk.svg?raw=true)
+- [BiliOutils](https://github.com/catlair/BiliOutils) - 直播心跳，漫画每日阅读积分，漫读券兑换，赛事竞猜.![TypeScript](svg/tsnode.svg?raw=true) ![Docker](svg/docker.svg?raw=true)
 - [Bilibili-helper-hub](https://github.com/Cruii/bilibili-helper-hub) - Bilibili 每日任务托管平台.![Java](svg/openjdk.svg?raw=true)
 - [Bilibili-helper](https://github.com/RealBeBetter/bilibili-helper) - bilibili 签到助手.![Java](svg/openjdk.svg?raw=true)
 - [BilibiliDailyUp](https://github.com/Wyatt1026/BilibiliDailyUp) - 哔哩哔哩每日任务脚本.![Python](svg/python.svg?raw=true)
@@ -623,4 +627,4 @@
 
 请查看[贡献指南](https://github.com/HCLonely/awesome-bilibili-extra/blob/master/CONTRIBUTING.md).
 
-<!-- Sort Time: 2023-07-07 12:25:22 +00:00 -->
+<!-- Sort Time: 2023-07-17 02:01:55 +00:00 -->
