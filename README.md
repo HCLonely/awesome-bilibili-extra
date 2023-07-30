@@ -461,6 +461,7 @@
 - [Bili.Uwp](https://github.com/Richasy/Bili.Uwp) - 适用于新系统 UI 的第三方哔哩哔哩 UWP 客户端.![C#](svg/csharp.svg?raw=true) ![Windows](svg/windows.svg?raw=true)
 - [BiliData](https://github.com/TANGhz17/BiliData) - 一个获取哔哩哔哩 视频 & up 主 & 热门排行榜等信息的 APP.![Kotlin](svg/kotlin.svg?raw=true)
 - [BiliHub](https://github.com/LeonNOV/BiliHub) - B 站第三方客户端.![Kotlin](svg/kotlin.svg?raw=true)
+- [BiliSpirit](https://github.com/JamesBaiJun/BiliSpirit) - WPF B 站 (Bilibili) 工具，查看热门视频，动态，及历史记录等功能.![C#](svg/csharp.svg?raw=true)
 - [BiliStart](https://github.com/BlameTwo/BiliStart) - B 站第三方客户端.![C#](svg/csharp.svg?raw=true) ![Windows](svg/windows.svg?raw=true)
 - [Bili_you](https://github.com/lucinhu/bili_you) - 一个用 flutter 制作的第三方 B 站客户端.![Dart](svg/dart.svg?raw=true)
 - [Bilibili-console](https://github.com/12345-mcpython/bilibili-console) - Bilibili 命令行客户端.![Python](svg/python.svg?raw=true) ![Cli](svg/terminal.svg?raw=true)
@@ -482,6 +483,7 @@
 - [Bv](https://github.com/aaa1115910/bv) - 哔哩哔哩 的第三方 Android TV 应用.![Kotlin](svg/kotlin.svg?raw=true)
 - [Fake_bilibili](https://github.com/Raftern/fake_bilibili) - kotlin 仿哔哩哔哩动画 app.![Kotlin](svg/kotlin.svg?raw=true)
 - [React-bilibili](https://github.com/dxx/react-bilibili) - 高仿 B 站 web 移动端.![NodeJs](svg/nodejs.svg?raw=true)
+- [TikBili](https://github.com/todo-proj/TikBili) - 用刷抖音的方法刷 B 站视频.![Kotlin](svg/kotlin.svg?raw=true)
 - [Vue3-ts-bilibili](https://github.com/lemon3yo/vue3-ts-bilibili) - BiliBili site demo based on Vue3 and TS.![Vue](svg/vue.svg?raw=true)
 - [Vue3-vant4-bilibili](https://github.com/chunxiao01/vue3-vant4-bilibili) - 基于 Vue3.x 和 Vant4.x 模仿 bilibili 小程序.![Vue](svg/vue.svg?raw=true)
 - [Wiliwili](https://github.com/xfangfang/wiliwili) - 专为手柄控制设计的第三方跨平台 B 站客户端，目前可以运行在 PC 全平台和 Nintendo Switch 上.![C++](svg/cplusplus.svg?raw=true)
@@ -517,6 +519,7 @@
 - [Bilibili-dynamic-mirai-plugin](https://github.com/Colter23/bilibili-dynamic-mirai-plugin) - 低延迟检测 B 站动态 / 直播的 mirai-console 插件.![Kotlin](svg/kotlin.svg?raw=true)
 - [Bilibili-helper](https://github.com/cssxsh/bilibili-helper) - 基于 Mirai Console 的 哔哩哔哩 订阅插件.![Kotlin](svg/kotlin.svg?raw=true)
 - [Bilibili-live-dm-qq-bot](https://github.com/FEINIAO233/bilibili-live-dm-qq-bot) - 哔哩哔哩直播弹幕获取（QQ 频道机器人）.![Python](svg/python.svg?raw=true)
+- [Bilibili-live-notification](https://github.com/NateScarlet/bilibili-live-notification) - B 站直播事件 webhook 和开播邮件提醒.![Python](svg/python.svg?raw=true) ![Docker](svg/docker.svg?raw=true)
 - [Bilibili-live-push-qq](https://github.com/xuejianxianzun/bilibili-live-push-qq) - 监控哔哩哔哩 bilibili 直播间状态，发送提醒到 QQ（群）.![NodeJs](svg/nodejs.svg?raw=true)
 - [BilibiliBOT-1](https://github.com/catandA/BilibiliBOT-1) - 哔哩视频推荐机器人.![Java](svg/openjdk.svg?raw=true)
 - [Bilibili_api](https://github.com/xiaokexiang/bilibili_api) - 基于 Python 对 B 站 UP 发布的动态进行推送的小程序.![Python](svg/python.svg?raw=true)
@@ -567,6 +570,7 @@
 - [BiliLottery](https://github.com/cicidoll/BiliLottery) - B 站动态评论抽奖脚本.![Python](svg/python.svg?raw=true)
 - [BiliMessengerElectron](https://github.com/Xinrea/BiliMessengerElectron) - Bilibili 舰长私信群发助手.![Vue](svg/vue.svg?raw=true)
 - [BiliRaffle](https://github.com/LeoChen98/BiliRaffle) - B 站动态抽奖组件.![C#](svg/csharp.svg?raw=true) ![Windows](svg/windows.svg?raw=true)
+- [BiliRecommBehaviorCorrection](https://github.com/cctyl/BiliRecommBehaviorCorrection) - 纠正 bilibili 视频推荐倾向.![Java](svg/openjdk.svg?raw=true)
 - [BiliRoaming-PHP-Server](https://github.com/david082321/BiliRoaming-PHP-Server) - 自建哔哩漫游解析服务器.![PHP](svg/php.svg?raw=true)
 - [BiliRoaming-Rust-Server](https://github.com/pchpub/BiliRoaming-Rust-Server) - 自建哔哩漫游解析服务器.![Rust](svg/rust.svg?raw=true)
 - [BiliRoaming](https://github.com/yujincheng08/BiliRoaming) - 解除 B 站客户端番剧区域限制的 Xposed 模块，并且提供其他小功能.![Kotlin](svg/kotlin.svg?raw=true)
@@ -627,4 +631,4 @@
 
 请查看[贡献指南](https://github.com/HCLonely/awesome-bilibili-extra/blob/master/CONTRIBUTING.md).
 
-<!-- Sort Time: 2023-07-17 02:01:55 +00:00 -->
+<!-- Sort Time: 2023-07-30 08:30:56 +00:00 -->
