@@ -486,6 +486,8 @@
 - [bilibilitv1.6.6-repair](https://github.com/qidian55/bilibilitv1.6.6-repair) - 尝试修复经典的 bilibili tv 1.6.6 版本.kotlin
 - [WristBilibili](https://github.com/luern0313/WristBilibili) - 腕上哔哩, 在智能手表上集成一个有简单功能的b站客户端.jar
 - [biliuwp-lite](https://github.com/ywmoyue/biliuwp-lite) - 哔哩哔哩UWP Lite.c#
+- [BiliSpirit](https://github.com/JamesBaiJun/BiliSpirit) - WPF B站(Bilibili)工具，查看热门视频，动态，及历史记录等功能.c#
+- [TikBili](https://github.com/todo-proj/TikBili) - 用刷抖音的方法刷B站视频.Kotlin
 
 ## 每日任务
 
@@ -538,6 +540,7 @@
 - [bilibili-live-dm-qq-bot](https://github.com/FEINIAO233/bilibili-live-dm-qq-bot) - 哔哩哔哩直播弹幕获取（QQ频道机器人）.py
 - [Bilibili-QQ-BOT](https://github.com/keithfeng425/Bilibili-QQ-BOT) - 自动转发B站用户的动态和直播开播下播提醒到QQ群.jar
 - [worker-bilibili-discord](https://github.com/UnluckyNinja/worker-bilibili-discord) - 利用Cloudflare Worker监测B站用户动态并推送到Discord中.ts
+- [bilibili-live-notification](https://github.com/NateScarlet/bilibili-live-notification) - B 站直播事件 webhook 和开播邮件提醒.py|docker
 
 ## 相关插件
 
@@ -622,6 +625,7 @@
 - [BiliUserInfo](https://github.com/Ghauster/BiliUserInfo) - Bilibili 用户精确数据爬虫.py
 - [BilibiliUnfollowingListener](https://github.com/cwuom/BilibiliUnfollowingListener) - 一个由纯JAVA开发的全自动bilibil取关/关注检测程序.jar
 - [biliSendCommAntifraud](https://github.com/freedom-introvert/biliSendCommAntifraud) - 哔哩发评反诈.jar
+- [BiliRecommBehaviorCorrection](https://github.com/cctyl/BiliRecommBehaviorCorrection) - 纠正bilibili视频推荐倾向.jar
 
 ## 贡献
 
