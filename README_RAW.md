@@ -488,6 +488,7 @@
 - [biliuwp-lite](https://github.com/ywmoyue/biliuwp-lite) - 哔哩哔哩UWP Lite.c#
 - [BiliSpirit](https://github.com/JamesBaiJun/BiliSpirit) - WPF B站(Bilibili)工具，查看热门视频，动态，及历史记录等功能.c#
 - [TikBili](https://github.com/todo-proj/TikBili) - 用刷抖音的方法刷B站视频.Kotlin
+- [bili_you](https://github.com/lucinhu/bili_you) - 一个用flutter制作的第三方B站客户端.flutter
 
 ## 每日任务
 
