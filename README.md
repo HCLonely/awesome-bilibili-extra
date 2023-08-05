@@ -463,6 +463,7 @@
 - [BiliHub](https://github.com/LeonNOV/BiliHub) - B 站第三方客户端.![Kotlin](svg/kotlin.svg?raw=true)
 - [BiliSpirit](https://github.com/JamesBaiJun/BiliSpirit) - WPF B 站 (Bilibili) 工具，查看热门视频，动态，及历史记录等功能.![C#](svg/csharp.svg?raw=true)
 - [BiliStart](https://github.com/BlameTwo/BiliStart) - B 站第三方客户端.![C#](svg/csharp.svg?raw=true) ![Windows](svg/windows.svg?raw=true)
+- [Bili_you](https://github.com/lucinhu/bili_you) - 一个用 flutter 制作的第三方 B 站客户端.
 - [Bili_you](https://github.com/lucinhu/bili_you) - 一个用 flutter 制作的第三方 B 站客户端.![Dart](svg/dart.svg?raw=true)
 - [Bilibili-console](https://github.com/12345-mcpython/bilibili-console) - Bilibili 命令行客户端.![Python](svg/python.svg?raw=true) ![Cli](svg/terminal.svg?raw=true)
 - [Bilibili-linux](https://github.com/msojocs/bilibili-linux) - 基于哔哩哔哩官方客户端修改的 Linux 版本.![NodeJs](svg/nodejs.svg?raw=true)
@@ -631,4 +632,4 @@
 
 请查看[贡献指南](https://github.com/HCLonely/awesome-bilibili-extra/blob/master/CONTRIBUTING.md).
 
-<!-- Sort Time: 2023-07-30 08:30:56 +00:00 -->
+<!-- Sort Time: 2023-08-05 02:06:05 +00:00 -->
