@@ -319,6 +319,7 @@
 - [Bili_live_tui](https://github.com/shr-go/bili_live_tui) - 一个用于黑听 bilibili 的 tui 客户端，支持跨平台.![Go](svg/go.svg?raw=true)
 - [Bilibili-Live-Danmaku-vscode](https://github.com/Discreater/Bilibili-Live-Danmaku-vscode) - VSCode 的 B 站弹幕机.![TypeScript](svg/tsnode.svg?raw=true)
 - [Bilibili-MagicalDanmaku](https://github.com/iwxyi/Bilibili-MagicalDanmaku) - 哔哩哔哩直播万能机器人，弹幕姬 + 答谢姬 + 回复姬 + 点歌姬 +...![C++](svg/cplusplus.svg?raw=true) ![Windows](svg/windows.svg?raw=true)
+- [Bilibili-danmu](https://github.com/jonssonyan/bilibili-danmu) - B 站直播弹幕实时显示工具.![Python](svg/python.svg?raw=true) ![Windows](svg/windows.svg?raw=true)
 - [Bilibili-dd-monitor](https://github.com/dd-center/bilibili-dd-monitor) - 专为 DD 设计的多屏直播观看工具.![Vue](svg/vue.svg?raw=true) ![Windows](svg/windows.svg?raw=true)
 - [Bilibili-live-chat](https://github.com/Tsuk1ko/bilibili-live-chat) - 无后端的仿 YouTube Live Chat 风格的简易 Bilibili 弹幕姬.![Vue](svg/vue.svg?raw=true)
 - [Bilibili-live-danmu-rs](https://github.com/JmPotato/bilibili-live-danmu-rs) - Bilibili 直播间弹幕命令行工具.![Rust](svg/rust.svg?raw=true) ![Cli](svg/terminal.svg?raw=true)
@@ -461,6 +462,7 @@
 - [Bili.Uwp](https://github.com/Richasy/Bili.Uwp) - 适用于新系统 UI 的第三方哔哩哔哩 UWP 客户端.![C#](svg/csharp.svg?raw=true) ![Windows](svg/windows.svg?raw=true)
 - [BiliData](https://github.com/TANGhz17/BiliData) - 一个获取哔哩哔哩 视频 & up 主 & 热门排行榜等信息的 APP.![Kotlin](svg/kotlin.svg?raw=true)
 - [BiliHub](https://github.com/LeonNOV/BiliHub) - B 站第三方客户端.![Kotlin](svg/kotlin.svg?raw=true)
+- [BiliMusic](https://github.com/zsakvo/BiliMusic) - 一个基于 Flutter 实现，使用哔哩哔哩作为音频源的音乐播放器.
 - [BiliSpirit](https://github.com/JamesBaiJun/BiliSpirit) - WPF B 站 (Bilibili) 工具，查看热门视频，动态，及历史记录等功能.![C#](svg/csharp.svg?raw=true)
 - [BiliStart](https://github.com/BlameTwo/BiliStart) - B 站第三方客户端.![C#](svg/csharp.svg?raw=true) ![Windows](svg/windows.svg?raw=true)
 - [Bili_you](https://github.com/lucinhu/bili_you) - 一个用 flutter 制作的第三方 B 站客户端.
@@ -489,6 +491,7 @@
 - [Vue3-vant4-bilibili](https://github.com/chunxiao01/vue3-vant4-bilibili) - 基于 Vue3.x 和 Vant4.x 模仿 bilibili 小程序.![Vue](svg/vue.svg?raw=true)
 - [Wiliwili](https://github.com/xfangfang/wiliwili) - 专为手柄控制设计的第三方跨平台 B 站客户端，目前可以运行在 PC 全平台和 Nintendo Switch 上.![C++](svg/cplusplus.svg?raw=true)
 - [WristBilibili](https://github.com/luern0313/WristBilibili) - 腕上哔哩，在智能手表上集成一个有简单功能的 b 站客户端.![Java](svg/openjdk.svg?raw=true)
+- [哔哩助理](https://github.com/Richasy/Bili.Copilot) - 哔哩哔哩用户的个人助理.![C#](svg/csharp.svg?raw=true)
 
 ## 每日任务
 
@@ -622,6 +625,7 @@
 - [Bilivideoinfo](https://github.com/Ghauster/Bilivideoinfo) - Bilibili 视频数据爬虫，能批量爬取指定视频的信息.![Python](svg/python.svg?raw=true)
 - [ChatBilibili](https://github.com/jiran214/chatBilibili) - 基于 Fastapi 和 ChatGPT Embedding，实时生成视频概要，检索上下文视频提问 / 聊天.![Python](svg/python.svg?raw=true)
 - [Crawling-bilibili-personal-collect](https://github.com/cangkongman/crawling-bilibili-personal-collect) - 爬取 bilibili 的自己账号的收藏夹信息，并转 excel 储存.![Python](svg/python.svg?raw=true)
+- [GPTForBiliBiliLive](https://github.com/yxc0915/GPTForBiliBiliLive) - GPTForBiliBiliLive 是一个由 ChatGPT 驱动的虚拟主播，可以在 Bilibili 直播中与观众实时互动.![Python](svg/python.svg?raw=true)
 - [GetBilibiliUserInfo](https://github.com/cwuom/GetBilibiliUserInfo) - 一个通过 Python 编写的全自动哔哩哔哩个人信息爬取工具.![Python](svg/python.svg?raw=true)
 - [LotteryAutoScript](https://github.com/shanmiteko/LotteryAutoScript) - Bilibili 动态抽奖助手.![NodeJs](svg/nodejs.svg?raw=true) ![Windows](svg/windows.svg?raw=true) ![Docker](svg/docker.svg?raw=true)
 - [Puppeteer-bilibili-up-dynamic](https://github.com/uyoungco/puppeteer-bilibili-up-dynamic) - bilibili UP 主动态截图工具.![JavaScript](svg/javascript.svg?raw=true) ![Docker](svg/docker.svg?raw=true)
@@ -632,4 +636,4 @@
 
 请查看[贡献指南](https://github.com/HCLonely/awesome-bilibili-extra/blob/master/CONTRIBUTING.md).
 
-<!-- Sort Time: 2023-08-05 02:06:05 +00:00 -->
+<!-- Sort Time: 2023-08-12 03:26:52 +00:00 -->
