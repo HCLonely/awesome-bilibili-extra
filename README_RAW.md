@@ -371,6 +371,7 @@
 - [BililiveRecorder-webhook-docker](https://github.com/puzzlemoondev/BililiveRecorder-webhook-docker) - docker + webhook 懒人部署B站录播姬并自动化B站投稿、百度云与阿里云上传.py|docker
 - [BilibiliLive](https://github.com/zxc7563598/BilibiliLive) - 哔哩哔哩直播辅助，例如开播通知，录播姬视频自动上传等.php
 - [BilibiliDanmuRobot](https://github.com/xbclub/BilibiliDanmuRobot) - bilibili直播弹幕机器人.go|exe
+- [bilibili-danmu](https://github.com/jonssonyan/bilibili-danmu) - B站直播弹幕实时显示工具.py|exe
 
 ## UP 工具
 
@@ -489,6 +490,8 @@
 - [BiliSpirit](https://github.com/JamesBaiJun/BiliSpirit) - WPF B站(Bilibili)工具，查看热门视频，动态，及历史记录等功能.c#
 - [TikBili](https://github.com/todo-proj/TikBili) - 用刷抖音的方法刷B站视频.Kotlin
 - [bili_you](https://github.com/lucinhu/bili_you) - 一个用flutter制作的第三方B站客户端.flutter
+- [BiliMusic](https://github.com/zsakvo/BiliMusic) - 一个基于 Flutter 实现，使用哔哩哔哩作为音频源的音乐播放器.flutter
+- [哔哩助理](https://github.com/Richasy/Bili.Copilot) - 哔哩哔哩用户的个人助理.c#
 
 ## 每日任务
 
@@ -627,6 +630,7 @@
 - [BilibiliUnfollowingListener](https://github.com/cwuom/BilibiliUnfollowingListener) - 一个由纯JAVA开发的全自动bilibil取关/关注检测程序.jar
 - [biliSendCommAntifraud](https://github.com/freedom-introvert/biliSendCommAntifraud) - 哔哩发评反诈.jar
 - [BiliRecommBehaviorCorrection](https://github.com/cctyl/BiliRecommBehaviorCorrection) - 纠正bilibili视频推荐倾向.jar
+- [GPTForBiliBiliLive](https://github.com/yxc0915/GPTForBiliBiliLive) - GPTForBiliBiliLive是一个由ChatGPT驱动的虚拟主播，可以在Bilibili直播中与观众实时互动.py
 
 ## 贡献
 
