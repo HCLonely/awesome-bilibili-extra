@@ -447,6 +447,7 @@
 - [Go-bili-chat](https://github.com/FishZe/go-bili-chat) - Bilibili 直播间弹幕处理库.![Go](svg/go.svg?raw=true)
 - [Go_bili_chat](https://github.com/FishZe/go_bili_chat) - golang 的 b 站信息流处理.![Go](svg/go.svg?raw=true)
 - [Imit_Bilibili](https://github.com/LanMeiX/Imit_Bilibili) - SpringBoot 2.x 实战仿 B 站高性能后端项目.![Java](svg/openjdk.svg?raw=true)
+- [MisakaBiliApi](https://github.com/Misaka-L/MisakaBiliApi) - 一个提供哔哩哔哩视频流解析的 Api 项目.![C#](svg/csharp.svg?raw=true)
 - [Olive](https://github.com/go-olive/olive) - 一个全自动直播录制直播上传工具.![Go](svg/go.svg?raw=true)
 - [Tiny-bilibili-ws](https://github.com/starknt/tiny-bilibili-ws) - Bilibili 直播 WebSocket API.![TypeScript](svg/tsnode.svg?raw=true)
 - [Yabapi](https://github.com/SDLMoe/Yabapi) - Bilibili API for Kotlin.![Kotlin](svg/kotlin.svg?raw=true)
@@ -557,6 +558,7 @@
 - [Hexo-bilibili-plus](https://github.com/pk5ls20/hexo-bilibili-plus) - 一个 hexo 插件，可以快速而方便的在 hexo 页面中嵌入 bilibili 视频.![JavaScript](svg/javascript.svg?raw=true)
 - [MPV-Play-BiliBili-Comments](https://github.com/itKelis/MPV-Play-BiliBili-Comments) - 使用 mpv 自动下载弹幕并加载.![Python](svg/python.svg?raw=true)
 - [Picgo-plugin-bilibili](https://github.com/xlzy520/picgo-plugin-bilibili) - 为 PicGo 开发的一款插件，新增了 B 站图床.![JavaScript](svg/javascript.svg?raw=true)
+- [SKS-Bilibili-Live](https://github.com/Shulker-Studio/SKS-Bilibili-Live) - 适用于 LiteLoaderBDS 的 Bilibili 直播间弹幕转发插件.![JavaScript](svg/javascript.svg?raw=true)
 - [Typora-plugin-bilibili](https://github.com/xlzy520/typora-plugin-bilibili) - Typora 粘贴图片自动上传到 Bilibili 图床.![Go](svg/go.svg?raw=true)
 
 ## 其他
@@ -636,4 +638,4 @@
 
 请查看[贡献指南](https://github.com/HCLonely/awesome-bilibili-extra/blob/master/CONTRIBUTING.md).
 
-<!-- Sort Time: 2023-08-12 03:26:52 +00:00 -->
+<!-- Sort Time: 2023-08-19 02:02:29 +00:00 -->
