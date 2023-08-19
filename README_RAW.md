@@ -451,6 +451,7 @@
 - [BiLiveir](https://github.com/GoldrenEggs/BiLiveir) - 异步bilibili直播信息流（弹幕、抽奖、礼物等）处理框架.py
 - [bili-verify](https://github.com/FishZe/bili-verify) - B站用户认证工具, 非官方账号绑定识别接口.go
 - [BiliAuth.py](https://github.com/Radekyspec/BiliAuth.py) - 模拟B站登录，获取access_token, refresh_token和cookies.py
+- [MisakaBiliApi](https://github.com/Misaka-L/MisakaBiliApi) - 一个提供哔哩哔哩视频流解析的 Api 项目.c#
 
 ## 第三方客户端
 
@@ -558,6 +559,7 @@
 - [BiliVido-For-Typecho](https://github.com/HaruhiYunona/BiliVido-For-Typecho) - 为Typecho开发专门用于Bilibili视频解析的插件.js
 - [MPV-Play-BiliBili-Comments](https://github.com/itKelis/MPV-Play-BiliBili-Comments) - 使用mpv自动下载弹幕并加载.py
 - [bilibili_live](https://github.com/Posartor/bilibili_live) - Bilibili Live 直播状态监控 Home Assistant 集成.py
+- [SKS-Bilibili-Live](https://github.com/Shulker-Studio/SKS-Bilibili-Live) - 适用于LiteLoaderBDS的Bilibili直播间弹幕转发插件.js
 
 ## 其他
 
