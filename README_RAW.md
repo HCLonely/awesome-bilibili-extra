@@ -295,6 +295,7 @@
 - [bili-video-merger](https://github.com/ZiAzusa/bili-video-merger) - 此工具用于将B站缓存视频的video.m4s和audio.m4s整合为一个文件.py
 - [bilibilidownload](https://github.com/hellokuls/bilibilidownload) - B 站视频下载.py|docker
 - [BiliAuDown](https://github.com/Mikachu2333/BiliAuDown) - 利用BBDown以及FFmpeg下载哔哩哔哩的音频/视频并将其转换为MP3或者flac格式.exe
+- [BilibiliDown](https://github.com/nICEnnnnnnnLee/BilibiliDown) - Bilibili 视频下载器，用于下载B站视频.jar|exe|cli
 
 ## 直播相关工具
 
@@ -452,6 +453,7 @@
 - [bili-verify](https://github.com/FishZe/bili-verify) - B站用户认证工具, 非官方账号绑定识别接口.go
 - [BiliAuth.py](https://github.com/Radekyspec/BiliAuth.py) - 模拟B站登录，获取access_token, refresh_token和cookies.py
 - [MisakaBiliApi](https://github.com/Misaka-L/MisakaBiliApi) - 一个提供哔哩哔哩视频流解析的 Api 项目.c#
+- [ordinaryroad-bilibili-live](https://github.com/OrdinaryRoad-Project/ordinaryroad-bilibili-live) - 使用Netty来连接B站直播间的弹幕信息流Websocket接口.jar
 
 ## 第三方客户端
 
@@ -493,6 +495,7 @@
 - [bili_you](https://github.com/lucinhu/bili_you) - 一个用flutter制作的第三方B站客户端.flutter
 - [BiliMusic](https://github.com/zsakvo/BiliMusic) - 一个基于 Flutter 实现，使用哔哩哔哩作为音频源的音乐播放器.flutter
 - [哔哩助理](https://github.com/Richasy/Bili.Copilot) - 哔哩哔哩用户的个人助理.c#
+- [Bibi-Release](https://github.com/cotaku/Bibi-Release) - UWP版哔哩哔哩.
 
 ## 每日任务
 
@@ -560,6 +563,8 @@
 - [MPV-Play-BiliBili-Comments](https://github.com/itKelis/MPV-Play-BiliBili-Comments) - 使用mpv自动下载弹幕并加载.py
 - [bilibili_live](https://github.com/Posartor/bilibili_live) - Bilibili Live 直播状态监控 Home Assistant 集成.py
 - [SKS-Bilibili-Live](https://github.com/Shulker-Studio/SKS-Bilibili-Live) - 适用于LiteLoaderBDS的Bilibili直播间弹幕转发插件.js
+- [plugin.video.bili](https://github.com/chen310/plugin.video.bili) - 哔哩哔哩 Kodi 插件.py
+- [hexo-bilibili-card](https://github.com/maxchang3/hexo-bilibili-card) - 一个Hexo插件，在你的文章中插入b站的视频卡片，样式模仿和借鉴自b站.js
 
 ## 其他
 
