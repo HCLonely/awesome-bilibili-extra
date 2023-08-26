@@ -268,6 +268,7 @@
 - [BilibiliCacheVideoMerge](https://github.com/molihuan/BilibiliCacheVideoMerge) - Android 上将 bilibili 缓存视频合并导出为 mp4，支持安卓 5.0 ~ 13，视频挂载弹幕播放.![Java](svg/openjdk.svg?raw=true)
 - [BilibiliDecode](https://github.com/VindenChen/BilibiliDecode) - 批量解密 UWP 哔哩哔哩下载的视频文件.![Python](svg/python.svg?raw=true) ![Cli](svg/terminal.svg?raw=true)
 - [BilibiliDown](https://github.com/nICEnnnnnnnLee/BilibiliDown) - (GUI - 多平台支持) 哔哩哔哩视频下载器，支持稍后再看、收藏夹、UP 主视频批量下载.![Java](svg/openjdk.svg?raw=true) ![Windows](svg/windows.svg?raw=true)
+- [BilibiliDown](https://github.com/nICEnnnnnnnLee/BilibiliDown) - Bilibili 视频下载器，用于下载 B 站视频.![Java](svg/openjdk.svg?raw=true) ![Windows](svg/windows.svg?raw=true) ![Cli](svg/terminal.svg?raw=true)
 - [BilibiliDownloadExtract](https://github.com/lycode404/BilibiliDownloadExtract) - 可批量从 Bilibili (Android) 缓存文件中提取 MP4/MKV 格式的视频以及弹幕.![Python](svg/python.svg?raw=true)
 - [BilibiliMemory](https://github.com/YuSitong1999/BilibiliMemory) - 获取在 哔哩哔哩 收藏夹中收藏的视频，保存到本地磁盘.![Python](svg/python.svg?raw=true)
 - [BilibiliVideoDownload](https://github.com/MunMunMiao/BilibiliVideoDownload) - 哔哩哔哩视频下载.![TypeScript](svg/tsnode.svg?raw=true)
@@ -449,6 +450,7 @@
 - [Imit_Bilibili](https://github.com/LanMeiX/Imit_Bilibili) - SpringBoot 2.x 实战仿 B 站高性能后端项目.![Java](svg/openjdk.svg?raw=true)
 - [MisakaBiliApi](https://github.com/Misaka-L/MisakaBiliApi) - 一个提供哔哩哔哩视频流解析的 Api 项目.![C#](svg/csharp.svg?raw=true)
 - [Olive](https://github.com/go-olive/olive) - 一个全自动直播录制直播上传工具.![Go](svg/go.svg?raw=true)
+- [Ordinaryroad-bilibili-live](https://github.com/OrdinaryRoad-Project/ordinaryroad-bilibili-live) - 使用 Netty 来连接 B 站直播间的弹幕信息流 Websocket 接口.![Java](svg/openjdk.svg?raw=true)
 - [Tiny-bilibili-ws](https://github.com/starknt/tiny-bilibili-ws) - Bilibili 直播 WebSocket API.![TypeScript](svg/tsnode.svg?raw=true)
 - [Yabapi](https://github.com/SDLMoe/Yabapi) - Bilibili API for Kotlin.![Kotlin](svg/kotlin.svg?raw=true)
 - [Zuiho_bilibili](https://github.com/zuiho1595440844/zuiho_bilibili) - 简易粉丝数播放量显示器（基于 esp8266 和 Python）.![C++](svg/cplusplus.svg?raw=true) ![Python](svg/python.svg?raw=true)
@@ -460,6 +462,7 @@
 - [ATV-Bilibili-demo](https://github.com/yichengchen/ATV-Bilibili-demo) - BiliBili tvOS 客户端 Demo.![Swift](svg/swift.svg?raw=true)
 - [BBLL](https://github.com/xiaye13579/BBLL) - 一个第三方哔哩哔哩 TV 和 Pad 客户端.
 - [BiLiBiLiSys](https://github.com/KakarottoCui/BiLiBiLiSys) - 基于 SSM 的仿哔哩哔哩视频系统.![NodeJs](svg/nodejs.svg?raw=true) ![Java](svg/openjdk.svg?raw=true)
+- [Bibi-Release](https://github.com/cotaku/Bibi-Release) - UWP 版哔哩哔哩.
 - [Bili.Uwp](https://github.com/Richasy/Bili.Uwp) - 适用于新系统 UI 的第三方哔哩哔哩 UWP 客户端.![C#](svg/csharp.svg?raw=true) ![Windows](svg/windows.svg?raw=true)
 - [BiliData](https://github.com/TANGhz17/BiliData) - 一个获取哔哩哔哩 视频 & up 主 & 热门排行榜等信息的 APP.![Kotlin](svg/kotlin.svg?raw=true)
 - [BiliHub](https://github.com/LeonNOV/BiliHub) - B 站第三方客户端.![Kotlin](svg/kotlin.svg?raw=true)
@@ -555,9 +558,11 @@
 - [BilibiliPotPlayer](https://github.com/chen310/BilibiliPotPlayer) - 适用于 PotPlayer 的 Bilibili 插件.![JavaScript](svg/javascript.svg?raw=true)
 - [Bilibili_live](https://github.com/Posartor/bilibili_live) - Bilibili Live 直播状态监控 Home Assistant 集成.![Python](svg/python.svg?raw=true)
 - [Hexo-bilibili-bangumi](https://github.com/HCLonely/hexo-bilibili-bangumi) - hexo 番剧页面插件.![JavaScript](svg/javascript.svg?raw=true)
+- [Hexo-bilibili-card](https://github.com/maxchang3/hexo-bilibili-card) - 一个 Hexo 插件，在你的文章中插入 b 站的视频卡片，样式模仿和借鉴自 b 站.![JavaScript](svg/javascript.svg?raw=true)
 - [Hexo-bilibili-plus](https://github.com/pk5ls20/hexo-bilibili-plus) - 一个 hexo 插件，可以快速而方便的在 hexo 页面中嵌入 bilibili 视频.![JavaScript](svg/javascript.svg?raw=true)
 - [MPV-Play-BiliBili-Comments](https://github.com/itKelis/MPV-Play-BiliBili-Comments) - 使用 mpv 自动下载弹幕并加载.![Python](svg/python.svg?raw=true)
 - [Picgo-plugin-bilibili](https://github.com/xlzy520/picgo-plugin-bilibili) - 为 PicGo 开发的一款插件，新增了 B 站图床.![JavaScript](svg/javascript.svg?raw=true)
+- [Plugin.video.bili](https://github.com/chen310/plugin.video.bili) - 哔哩哔哩 Kodi 插件.![Python](svg/python.svg?raw=true)
 - [SKS-Bilibili-Live](https://github.com/Shulker-Studio/SKS-Bilibili-Live) - 适用于 LiteLoaderBDS 的 Bilibili 直播间弹幕转发插件.![JavaScript](svg/javascript.svg?raw=true)
 - [Typora-plugin-bilibili](https://github.com/xlzy520/typora-plugin-bilibili) - Typora 粘贴图片自动上传到 Bilibili 图床.![Go](svg/go.svg?raw=true)
 
@@ -638,4 +643,4 @@
 
 请查看[贡献指南](https://github.com/HCLonely/awesome-bilibili-extra/blob/master/CONTRIBUTING.md).
 
-<!-- Sort Time: 2023-08-19 02:02:29 +00:00 -->
+<!-- Sort Time: 2023-08-26 13:32:42 +00:00 -->
