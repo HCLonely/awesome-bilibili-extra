@@ -296,6 +296,7 @@
 - [bilibilidownload](https://github.com/hellokuls/bilibilidownload) - B 站视频下载.py|docker
 - [BiliAuDown](https://github.com/Mikachu2333/BiliAuDown) - 利用BBDown以及FFmpeg下载哔哩哔哩的音频/视频并将其转换为MP3或者flac格式.exe
 - [BilibiliDown](https://github.com/nICEnnnnnnnLee/BilibiliDown) - Bilibili 视频下载器，用于下载B站视频.jar|exe|cli
+- [BiliCache2MP4](https://github.com/kaixinol/BiliCache2MP4) - 哔哩哔哩Biliili视频缓存的*.m4s文件批量转换为.mp4文件工具.py|cli
 
 ## 直播相关工具
 
@@ -549,6 +550,7 @@
 - [Bilibili-QQ-BOT](https://github.com/keithfeng425/Bilibili-QQ-BOT) - 自动转发B站用户的动态和直播开播下播提醒到QQ群.jar
 - [worker-bilibili-discord](https://github.com/UnluckyNinja/worker-bilibili-discord) - 利用Cloudflare Worker监测B站用户动态并推送到Discord中.ts
 - [bilibili-live-notification](https://github.com/NateScarlet/bilibili-live-notification) - B 站直播事件 webhook 和开播邮件提醒.py|docker
+- [nonebot-plugin-bilibili-yuan](https://github.com/mengxinyuan638/nonebot-plugin-bilibili-yuan) - 一个支持q群登录哔哩哔哩的nonebot插件.py
 
 ## 相关插件
 
