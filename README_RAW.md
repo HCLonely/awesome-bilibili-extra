@@ -374,6 +374,7 @@
 - [BilibiliLive](https://github.com/zxc7563598/BilibiliLive) - 哔哩哔哩直播辅助，例如开播通知，录播姬视频自动上传等.php
 - [BilibiliDanmuRobot](https://github.com/xbclub/BilibiliDanmuRobot) - bilibili直播弹幕机器人.go|exe
 - [bilibili-danmu](https://github.com/jonssonyan/bilibili-danmu) - B站直播弹幕实时显示工具.py|exe
+- [bilive-oauth2](https://github.com/shynome/bilive-oauth2) - bilibili直播间弹幕验证.go
 
 ## UP 工具
 
