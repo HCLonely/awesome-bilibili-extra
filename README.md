@@ -360,6 +360,7 @@
 - [Biliroku](https://github.com/zyzsdy/biliroku) - bilibili 生放送（直播）录制.![C#](svg/csharp.svg?raw=true) ![Windows](svg/windows.svg?raw=true)
 - [Bilistream](https://github.com/limitcool/bilistream) - B 站直播转播工具，一键转播 Youtube,Twitch,Mildom 等直播.![Rust](svg/rust.svg?raw=true)
 - [Bilive-danmaku](https://github.com/Beats0/bilive-danmaku) - 哔哩哔哩直播弹幕姬 (非官方)，支持 win 和 mac.![TypeScript](svg/tsnode.svg?raw=true) ![Windows](svg/windows.svg?raw=true)
+- [Bilive-oauth2](https://github.com/shynome/bilive-oauth2) - bilibili 直播间弹幕验证.![Go](svg/go.svg?raw=true)
 - [Bilive24h](https://github.com/x-dr/bilive24h) - b 站 7 * 24 小时的直播.![Shell](svg/shell.svg?raw=true)
 - [Bilive](https://github.com/Nauxscript/bilive) - 命令行 bilibili 弹幕姬.![TypeScript](svg/tsnode.svg?raw=true)
 - [Blivechat](https://github.com/xfgryujk/blivechat) - 用于 OBS 的仿 YouTube 风格的哔哩哔哩直播评论栏.![NodeJs](svg/nodejs.svg?raw=true) ![Python](svg/python.svg?raw=true) ![Windows](svg/windows.svg?raw=true) ![Docker](svg/docker.svg?raw=true)
@@ -645,4 +646,4 @@
 
 请查看[贡献指南](https://github.com/HCLonely/awesome-bilibili-extra/blob/master/CONTRIBUTING.md).
 
-<!-- Sort Time: 2023-09-09 03:06:59 +00:00 -->
+<!-- Sort Time: 2023-09-16 14:18:15 +00:00 -->
