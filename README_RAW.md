@@ -641,6 +641,7 @@
 - [biliSendCommAntifraud](https://github.com/freedom-introvert/biliSendCommAntifraud) - 哔哩发评反诈.jar
 - [BiliRecommBehaviorCorrection](https://github.com/cctyl/BiliRecommBehaviorCorrection) - 纠正bilibili视频推荐倾向.jar
 - [GPTForBiliBiliLive](https://github.com/yxc0915/GPTForBiliBiliLive) - GPTForBiliBiliLive是一个由ChatGPT驱动的虚拟主播，可以在Bilibili直播中与观众实时互动.py
+- [BiliGPTHelper](https://github.com/yanyao2333/BiliGPTHelper) - bilibili人形自走bot.py|docker
 
 ## 贡献
 
