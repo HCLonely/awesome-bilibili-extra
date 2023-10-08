@@ -580,6 +580,7 @@
 - [BiliBili_Private_Msg](https://github.com/hd80606b/BiliBili_Private_Msg) - 哔哩哔哩私信导出，同时支持导出已经被撤回的 / 无法查看的消息.![C#](svg/csharp.svg?raw=true) ![Windows](svg/windows.svg?raw=true)
 - [BiliCLOnline](https://github.com/InJeCTrL/BiliCLOnline) - Bilibili 评论区第三方抽奖工具.![C#](svg/csharp.svg?raw=true) ![Docker](svg/docker.svg?raw=true)
 - [BiliEmoji](https://github.com/lrhtony/BiliEmoji) - B 站全表情收集，含付费表情.
+- [BiliGPTHelper](https://github.com/yanyao2333/BiliGPTHelper) - bilibili 人形自走 bot.![Python](svg/python.svg?raw=true) ![Docker](svg/docker.svg?raw=true)
 - [BiliGet](https://github.com/OtomadWiki/mediawiki-extension-BilibiliInfo) - 用于获取 bilibili 视频信息的 MediaWiki 插件.![PHP](svg/php.svg?raw=true)
 - [BiliLottery](https://github.com/cicidoll/BiliLottery) - B 站动态评论抽奖脚本.![Python](svg/python.svg?raw=true)
 - [BiliMessengerElectron](https://github.com/Xinrea/BiliMessengerElectron) - Bilibili 舰长私信群发助手.![Vue](svg/vue.svg?raw=true)
@@ -646,4 +647,4 @@
 
 请查看[贡献指南](https://github.com/HCLonely/awesome-bilibili-extra/blob/master/CONTRIBUTING.md).
 
-<!-- Sort Time: 2023-09-16 14:18:15 +00:00 -->
+<!-- Sort Time: 2023-10-08 02:29:00 +00:00 -->
