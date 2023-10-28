@@ -297,6 +297,8 @@
 - [BiliAuDown](https://github.com/Mikachu2333/BiliAuDown) - 利用BBDown以及FFmpeg下载哔哩哔哩的音频/视频并将其转换为MP3或者flac格式.exe
 - [BilibiliDown](https://github.com/nICEnnnnnnnLee/BilibiliDown) - Bilibili 视频下载器，用于下载B站视频.jar|exe|cli
 - [BiliCache2MP4](https://github.com/kaixinol/BiliCache2MP4) - 哔哩哔哩Biliili视频缓存的*.m4s文件批量转换为.mp4文件工具.py|cli
+- [bilibili_music](https://github.com/rat857/bilibili_music) - bilibili的视频的音频下载及播放，TUI.go
+- [Bilibili_Downloader_Cli](https://github.com/open17/Bilibili_Downloader_Cli) - 一个轻量的b站下载器,支持下载B站视频,番剧,电影,电视剧等.py|cli|exe
 
 ## 直播相关工具
 
