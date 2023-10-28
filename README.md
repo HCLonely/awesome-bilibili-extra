@@ -277,11 +277,13 @@
 - [Bilibili](https://github.com/ggdream/bilibili) - Flutter, Python, Golang, Docker 下载哔哩哔哩视频.![Go](svg/go.svg?raw=true) ![Windows](svg/windows.svg?raw=true) ![Cli](svg/terminal.svg?raw=true) ![Docker](svg/docker.svg?raw=true)
 - [Bilibili](https://github.com/misssonder/bilibili) - 使用 golang 编写的 bilibili 视频下载器.![Go](svg/go.svg?raw=true)
 - [Bilibili_DownVideoToMp4](https://github.com/binghe021/Bilibili_DownVideoToMp4) - Bilibili 手机端下载的 Download 文件批量转换为 MP4 软件.![C#](svg/csharp.svg?raw=true) ![Windows](svg/windows.svg?raw=true)
+- [Bilibili_Downloader_Cli](https://github.com/open17/Bilibili_Downloader_Cli) - 一个轻量的 b 站下载器，支持下载 B 站视频，番剧，电影，电视剧等.![Python](svg/python.svg?raw=true) ![Cli](svg/terminal.svg?raw=true) ![Windows](svg/windows.svg?raw=true)
 - [Bilibili_UP_Spider](https://github.com/MarySueTeam/Bilibili_UP_Spider) - 下载 UP 的全部稿件.![Python](svg/python.svg?raw=true)
 - [Bilibili_comics_downloader](https://github.com/lihe07/bilibili_comics_downloader) - Bilibili 漫画下载器.![Rust](svg/rust.svg?raw=true) ![Cli](svg/terminal.svg?raw=true)
 - [Bilibili_downloader](https://github.com/haogaulle/bilibili_downloader) - 一个用于下载 B 站视频的 Python 脚本.![Python](svg/python.svg?raw=true) ![Windows](svg/windows.svg?raw=true)
 - [Bilibili_manga_download](https://github.com/Randark-JMT/Bilibili_manga_download) - 带图形界面的哔哩哔哩漫画下载工具.![Python](svg/python.svg?raw=true) ![Windows](svg/windows.svg?raw=true)
 - [Bilibili_manga_downloader](https://github.com/MOMOYATW/bilibili_manga_downloader) - 基于现代 GUI 的哔哩哔哩漫画下载器.![Python](svg/python.svg?raw=true) ![Windows](svg/windows.svg?raw=true)
+- [Bilibili_music](https://github.com/rat857/bilibili_music) - bilibili 的视频的音频下载及播放，TUI.![Go](svg/go.svg?raw=true)
 - [Bilibili_video_download](https://github.com/Henryhaohao/Bilibili_video_download) - 哔哩哔哩视频下载.![Python](svg/python.svg?raw=true)
 - [Bilibili_video_download_upid](https://github.com/speakstone/bilibili_video_download_upid) - bilibili 批量下载，用于根据 UP 主的 id 下载其所有视频.![Python](svg/python.svg?raw=true)
 - [Bilibilias](https://github.com/1250422131/bilibilias) - 哔哩哔哩视频缓存的辅助工具，一键解析缓存.![Java](svg/openjdk.svg?raw=true)
@@ -647,4 +649,4 @@
 
 请查看[贡献指南](https://github.com/HCLonely/awesome-bilibili-extra/blob/master/CONTRIBUTING.md).
 
-<!-- Sort Time: 2023-10-08 02:29:00 +00:00 -->
+<!-- Sort Time: 2023-10-28 07:25:57 +00:00 -->
