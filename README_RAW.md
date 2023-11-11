@@ -299,6 +299,8 @@
 - [BiliCache2MP4](https://github.com/kaixinol/BiliCache2MP4) - 哔哩哔哩Biliili视频缓存的*.m4s文件批量转换为.mp4文件工具.py|cli
 - [bilibili_music](https://github.com/rat857/bilibili_music) - bilibili的视频的音频下载及播放，TUI.go
 - [Bilibili_Downloader_Cli](https://github.com/open17/Bilibili_Downloader_Cli) - 一个轻量的b站下载器,支持下载B站视频,番剧,电影,电视剧等.py|cli|exe
+- [bilinovel-download](https://github.com/ShqWW/bilinovel-download) - 哔哩轻小说转epub下载器.py|exe
+- [BilibiliCacheVideoMergePython](https://github.com/molihuan/BilibiliCacheVideoMergePython) -将Bilibili缓存文件合并导出为MP4.py|exe
 
 ## 直播相关工具
 
@@ -377,6 +379,7 @@
 - [BilibiliDanmuRobot](https://github.com/xbclub/BilibiliDanmuRobot) - bilibili直播弹幕机器人.go|exe
 - [bilibili-danmu](https://github.com/jonssonyan/bilibili-danmu) - B站直播弹幕实时显示工具.py|exe
 - [bilive-oauth2](https://github.com/shynome/bilive-oauth2) - bilibili直播间弹幕验证.go
+- [bilibili-live-recorder](https://github.com/NetherXiaoYu/bilibili-live-recorder) - B站直播间录屏，录制完成后自动打包上传到 OSS.py
 
 ## UP 工具
 
@@ -399,6 +402,7 @@
 - [youlive2bili](https://github.com/LucasLee99/youlive2bili) - 油管直播监控自动发哔哩哔哩.shell
 - [Youtube2Bili](https://github.com/INSIinc/Youtube2Bili) - 一个能够从任何你想要的YouTuber那里下载视频并上传到Bilibili的Python脚本.py
 - [YoutubeToBilibiliHelp](https://github.com/gaoxiaoduan/YoutubeToBilibiliHelp) - 将油管视频自动上传到b站.ts
+- [Bili-to-Youtube](https://github.com/BlueSkyXN/Bili-to-Youtube) - 简化从哔哩哔哩视频下载到上传到Youtube的快速操作.py
 
 ## 开发
 
@@ -554,6 +558,7 @@
 - [worker-bilibili-discord](https://github.com/UnluckyNinja/worker-bilibili-discord) - 利用Cloudflare Worker监测B站用户动态并推送到Discord中.ts
 - [bilibili-live-notification](https://github.com/NateScarlet/bilibili-live-notification) - B 站直播事件 webhook 和开播邮件提醒.py|docker
 - [nonebot-plugin-bilibili-yuan](https://github.com/mengxinyuan638/nonebot-plugin-bilibili-yuan) - 一个支持q群登录哔哩哔哩的nonebot插件.py
+- [nonebot_plugin_BiliMedalWall](https://github.com/Shadow403/nonebot_plugin_BiliMedalWall) - 查询B站用户粉丝牌等级信息.py
 
 ## 相关插件
 
@@ -644,6 +649,7 @@
 - [BiliRecommBehaviorCorrection](https://github.com/cctyl/BiliRecommBehaviorCorrection) - 纠正bilibili视频推荐倾向.jar
 - [GPTForBiliBiliLive](https://github.com/yxc0915/GPTForBiliBiliLive) - GPTForBiliBiliLive是一个由ChatGPT驱动的虚拟主播，可以在Bilibili直播中与观众实时互动.py
 - [BiliGPTHelper](https://github.com/yanyao2333/BiliGPTHelper) - bilibili人形自走bot.py|docker
+- [bili-blocklist-sync](https://github.com/jerryshell/bili-blocklist-sync) - 哔哩哔哩黑名单同步工具.rust
 
 ## 贡献
 
