@@ -196,6 +196,7 @@
 - [bilibili-subtitle-to-text](https://github.com/Fros1er/bilibili-subtitle-to-text) - 把b站字幕一次性全部显示或下载.
 - [bilibili-downloader](https://github.com/foamzou/bilibili-downloader) - 哔哩哔哩（b站）音视频下载脚本.
 - [userscript-bilibili-comment-search](https://github.com/pacexy/userscript-bilibili-comment-search) - 让 Bilibili 支持评论搜索.
+- [B站笔记快捷键](https://greasyfork.org/zh-CN/scripts/454784) - 极大提高笔记效率，哔哩哔哩大学必备.
 
 ### 直播脚本
 
