@@ -143,6 +143,7 @@
 - [B 站动态首页展示所有正在直播列表](https://greasyfork.org/zh-CN/scripts/438461) - 直接在动态首页展示所有的正在直播名单，而不是默认 10 个.
 - [B 站搜索页面、个人主页已看视频标记](https://greasyfork.org/zh-CN/scripts/374894) - 在 B 站搜索结果页面、个人主页标记哪些视频是已经看过的.
 - [B 站稍后再看功能增强](https://greasyfork.org/zh-CN/scripts/395456) - 完全自定义你的视频标题下方信息栏，排序，增加，删除！.
+- [B 站笔记快捷键](https://greasyfork.org/zh-CN/scripts/454784) - 极大提高笔记效率，哔哩哔哩大学必备.
 - [B 站网页端添加 APP 首页推荐](https://greasyfork.org/zh-CN/scripts/368446) - 网页端首页添加 APP 首页推荐、全站排行、可选提交不喜欢的视频.
 - [B 站防剧透进度条](https://greasyfork.org/zh-CN/scripts/411092) - 看比赛、看番总是被进度条剧透？装上这个脚本再也不用担心这些问题了.
 - [B 站首页黑名单](https://greasyfork.org/zh-CN/scripts/437528) - 屏蔽 b 站首页推荐中的指定 up.
@@ -655,4 +656,4 @@
 
 请查看[贡献指南](https://github.com/HCLonely/awesome-bilibili-extra/blob/master/CONTRIBUTING.md).
 
-<!-- Sort Time: 2023-11-11 07:51:45 +00:00 -->
+<!-- Sort Time: 2023-11-26 07:04:21 +00:00 -->
