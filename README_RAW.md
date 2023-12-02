@@ -117,6 +117,7 @@
 - [B站快进快退脚本](https://github.com/GongT/bilibili-ff-script) - B站快进快退脚本.
 - [BiliFilter](https://github.com/ChizhaoEngine/BiliFilter) - 过滤BiliBili上不顺眼的东西，支持按用户/内容/甚至是视频时长过滤内容.
 - [Bilibili弹幕查询发送者](https://github.com/qianjiachun/bilibili-danmaku-tracker) - bilibili弹幕查询发送者插件.
+- [BiliVideoInfo](https://github.com/iceriny/BiliVideoInfo) - B站显示视频详情卡片，视频详情的侧面可以格式化视频数据并分享.
 
 ### 直播扩展
 
@@ -381,6 +382,7 @@
 - [bilibili-danmu](https://github.com/jonssonyan/bilibili-danmu) - B站直播弹幕实时显示工具.py|exe
 - [bilive-oauth2](https://github.com/shynome/bilive-oauth2) - bilibili直播间弹幕验证.go
 - [bilibili-live-recorder](https://github.com/NetherXiaoYu/bilibili-live-recorder) - B站直播间录屏，录制完成后自动打包上传到 OSS.py
+- [biliLive-tools](https://github.com/renmu123/biliLive-tools) - B 站录播一站式工具，支持录播姬webhook自动上传.vue|exe
 
 ## UP 工具
 
@@ -651,6 +653,7 @@
 - [GPTForBiliBiliLive](https://github.com/yxc0915/GPTForBiliBiliLive) - GPTForBiliBiliLive是一个由ChatGPT驱动的虚拟主播，可以在Bilibili直播中与观众实时互动.py
 - [BiliGPTHelper](https://github.com/yanyao2333/BiliGPTHelper) - bilibili人形自走bot.py|docker
 - [bili-blocklist-sync](https://github.com/jerryshell/bili-blocklist-sync) - 哔哩哔哩黑名单同步工具.rust
+- [bili-sync](https://github.com/amtoaer/bili-sync) - 基于 python asyncio 编写的 bilibili 收藏夹同步下载工具.py|docker
 
 ## 贡献
 
