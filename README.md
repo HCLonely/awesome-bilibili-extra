@@ -110,6 +110,7 @@
 - [BiliBiliTimer](https://github.com/Whimmey/BiliBiliTimer) - 在 Bilibili 视频播放页面计算分集视频区间内总时长.
 - [BiliFilter](https://github.com/ChizhaoEngine/BiliFilter) - 过滤 BiliBili 上不顺眼的东西，支持按用户 / 内容 / 甚至是视频时长过滤内容.
 - [BiliMini](https://github.com/Taosky/BiliMini) - Bilibili 辅助扩展，用于提示并快速查看更新.
+- [BiliVideoInfo](https://github.com/iceriny/BiliVideoInfo) - B 站显示视频详情卡片，视频详情的侧面可以格式化视频数据并分享.
 - [Bilibili 弹幕查询发送者](https://github.com/qianjiachun/bilibili-danmaku-tracker) - bilibili 弹幕查询发送者插件.
 - [Bilidown_lite](https://github.com/MNTMDEV/bilidown_lite) - b 站源视频下载 chrome 拓展版，已兼容全新 BV 号标准，支持番剧，配合桌面客户端可以一键下载.
 - [Bilimap](https://github.com/nightstream/bilimap) - 利用 B 站良好的弹幕生态系统，在 B 站页面生成弹幕图表，展示特定类型的弹幕在某一时刻的数量.
@@ -153,6 +154,7 @@
 - [BiliBili - 跳过互动视频](https://github.com/SynRGB/BiliBili-PassInteractiveVideo) - 列表播放的时候脚本可以跳过互动视频，直接播放下一个视频.
 - [BiliBili-EasyCopy](https://github.com/SynRGB/BiliBili-EasyCopy) - 去掉 B 站专栏中复制文本时的水印.
 - [Bili_Video_Speed_Controller](https://github.com/NicerWang/Bili_Video_Speed_Controller) - 适用于 Bilibili 新版网页播放器的速度控制插件.
+- [Bilibili Blocked Videos By Tags](https://github.com/tjxwork/bilibili_blocked_videos_by_tags) - 对 Bilibili.com 的视频卡片元素，以标签、标题、时长、UP 主名称、UP 主 UID 来判断匹配，添加屏蔽叠加层.
 - [Bilibili CC 字幕工具](https://greasyfork.org/zh-CN/scripts/378513) - 可以在 B 站加载外挂本地字幕、下载 B 站的 CC 字幕，旧版 B 站播放器可启用 CC 字幕.
 - [Bilibili Vesiter](https://greasyfork.org/zh-CN/scripts/425696) - 哔哩哔哩移除主站广告、移除播放页广告、自动宽屏、自动全屏、自动播放、逐帧播放.
 - [Bilibili 一键已读](https://greasyfork.org/zh-CN/scripts/429152) - 一键设置所有会话已读.
@@ -315,6 +317,7 @@
 - [BiliBiliSongHime](https://github.com/SoingSaika/BiliBiliSongHime) - 哔哩哔哩直播点歌姬.![Java](svg/openjdk.svg?raw=true)
 - [BiliDown](https://github.com/Nemo2011/BiliDown) - 哔哩哔哩命令行下载器.![Python](svg/python.svg?raw=true) ![Cli](svg/terminal.svg?raw=true)
 - [BiliLive-Auto-Streaming](https://github.com/KimmyXYC/BiliLive-Auto-Streaming) - 哔哩哔哩自动直播.![Python](svg/python.svg?raw=true)
+- [BiliLive-tools](https://github.com/renmu123/biliLive-tools) - B 站录播一站式工具，支持录播姬 webhook 自动上传.![Vue](svg/vue.svg?raw=true) ![Windows](svg/windows.svg?raw=true)
 - [BiliLiveChat](https://github.com/BanqiJane/BiliLiveChat) - 纯前端网页简易 B 站弹幕姬，并带语音读弹幕.![JavaScript](svg/javascript.svg?raw=true)
 - [BiliLiveNotification](https://github.com/yunhuanyx/biliLiveNotification) - b 站直播开播提醒.![Python](svg/python.svg?raw=true) ![Windows](svg/windows.svg?raw=true)
 - [BiliLive](https://github.com/See-Night/BiliLive) - bilibili 直播录播工具.![Python](svg/python.svg?raw=true)
@@ -583,6 +586,7 @@
 - [Bili-blocklist-sync](https://github.com/jerryshell/bili-blocklist-sync) - 哔哩哔哩黑名单同步工具.![Rust](svg/rust.svg?raw=true)
 - [Bili-fans-medal-box](https://github.com/XiaoMiku01/bili-fans-medal-box) - 在 github gist 显示 B 站粉丝牌等级和进度.![Python](svg/python.svg?raw=true)
 - [Bili-short-url](https://github.com/xlzy520/bili-short-url) - 哔哩哔哩短链生成器，将 B 站站内链接转化为 Bilibili 短链.![JavaScript](svg/javascript.svg?raw=true)
+- [Bili-sync](https://github.com/amtoaer/bili-sync) - 基于 python asyncio 编写的 bilibili 收藏夹同步下载工具.![Python](svg/python.svg?raw=true) ![Docker](svg/docker.svg?raw=true)
 - [BiliBackup](https://github.com/Privilege-privacy/BiliBackup) - 自动将 BiliBili (B 站) 收藏夹内的视频备份到 OneDrive 或其他云存储.![Go](svg/go.svg?raw=true) ![Docker](svg/docker.svg?raw=true)
 - [BiliBili-Lucky-Draw](https://github.com/rongchenlin/BiliBili-Lucky-Draw) - B 站抽奖转发 —— 薅羊毛脚本.![Python](svg/python.svg?raw=true)
 - [BiliBili-favorites-list-saver](https://github.com/Moemu/BiliBili-favorites-list-saver) - B 站收藏夹列表保存程序.![Python](svg/python.svg?raw=true)
@@ -656,4 +660,4 @@
 
 请查看[贡献指南](https://github.com/HCLonely/awesome-bilibili-extra/blob/master/CONTRIBUTING.md).
 
-<!-- Sort Time: 2023-11-26 07:04:21 +00:00 -->
+<!-- Sort Time: 2023-12-09 07:07:58 +00:00 -->
