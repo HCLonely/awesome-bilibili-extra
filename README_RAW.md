@@ -198,6 +198,7 @@
 - [bilibili-downloader](https://github.com/foamzou/bilibili-downloader) - 哔哩哔哩（b站）音视频下载脚本.
 - [userscript-bilibili-comment-search](https://github.com/pacexy/userscript-bilibili-comment-search) - 让 Bilibili 支持评论搜索.
 - [B站笔记快捷键](https://greasyfork.org/zh-CN/scripts/454784) - 极大提高笔记效率，哔哩哔哩大学必备.
+- [Bilibili Blocked Videos By Tags](https://github.com/tjxwork/bilibili_blocked_videos_by_tags) - 对Bilibili.com的视频卡片元素，以标签、标题、时长、UP主名称、UP主UID 来判断匹配，添加屏蔽叠加层.
 
 ### 直播脚本
 
