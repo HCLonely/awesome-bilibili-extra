@@ -5,6 +5,7 @@ const dayjs = require('dayjs');
 const content = fs.readFileSync('README_RAW.md').toString();
 const time = dayjs().format('YYYY-MM-DD HH:mm:ss Z');
 
+// Add icon
 const addIcon = (text) => {
   const icons = [];
   const types = text.split('|');
@@ -81,6 +82,8 @@ const addIcon = (text) => {
   return icons.join(' ');
 }
 const [header, toc, mainText] = content.split('---');
+
+// Sort & format
 const sortedMainText = mainText.split(/(\r?\n){2}/g).map(text => {
   text = text.replace(/\r/g, '');
   if (/^- /.test(text)) {
