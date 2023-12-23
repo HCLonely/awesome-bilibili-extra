@@ -177,6 +177,7 @@
 - [Bilibili-follow](https://github.com/lilei2603/bilibili-follow) - B 站首页展示 UP 专区.
 - [Bilibili-joybook](https://github.com/PC6live/bilibili-joybook-tampermonkey) - Bilibili 共享大会员.
 - [Bilibili-simple-home](https://github.com/hakadao/bilibili-simple-home) - 适 b 站仿搜索引擎样式首页风格.
+- [Bilibili-subtitle-download-plugin](https://github.com/AdvMaple/bilibili-subtitle-download-plugin) - 从 bilibili 下载字幕、视频、音频.
 - [Bilibili-subtitle-to-text](https://github.com/Fros1er/bilibili-subtitle-to-text) - 把 b 站字幕一次性全部显示或下载.
 - [Bilibili-subtitle-tweaks](https://github.com/Kr328/bilibili-subtitle-tweaks) - 增强 Bilibili 番剧的 CC 字幕，包含自动翻译及自动断行功能.
 - [Bilibili-timeline-filter](https://github.com/hi94740/bilibili-timeline-filter.user.js) - 帮助你梳理 b 站时间线上的动态的油猴脚本.
@@ -475,6 +476,7 @@
 - [BBLL](https://github.com/xiaye13579/BBLL) - 一个第三方哔哩哔哩 TV 和 Pad 客户端.
 - [BiLiBiLiSys](https://github.com/KakarottoCui/BiLiBiLiSys) - 基于 SSM 的仿哔哩哔哩视频系统.![NodeJs](svg/nodejs.svg?raw=true) ![Java](svg/openjdk.svg?raw=true)
 - [Bibi-Release](https://github.com/cotaku/Bibi-Release) - UWP 版哔哩哔哩.
+- [Bili-down-out](https://github.com/10miaomiao/bili-down-out) - 哔哩哔哩缓存导出工具.![Kotlin](svg/kotlin.svg?raw=true)
 - [Bili.Uwp](https://github.com/Richasy/Bili.Uwp) - 适用于新系统 UI 的第三方哔哩哔哩 UWP 客户端.![C#](svg/csharp.svg?raw=true) ![Windows](svg/windows.svg?raw=true)
 - [BiliData](https://github.com/TANGhz17/BiliData) - 一个获取哔哩哔哩 视频 & up 主 & 热门排行榜等信息的 APP.![Kotlin](svg/kotlin.svg?raw=true)
 - [BiliHub](https://github.com/LeonNOV/BiliHub) - B 站第三方客户端.![Kotlin](svg/kotlin.svg?raw=true)
@@ -501,6 +503,7 @@
 - [Biliuwp-lite](https://github.com/ywmoyue/biliuwp-lite) - 哔哩哔哩 UWP Lite.![C#](svg/csharp.svg?raw=true)
 - [Bv](https://github.com/aaa1115910/bv) - 哔哩哔哩 的第三方 Android TV 应用.![Kotlin](svg/kotlin.svg?raw=true)
 - [Fake_bilibili](https://github.com/Raftern/fake_bilibili) - kotlin 仿哔哩哔哩动画 app.![Kotlin](svg/kotlin.svg?raw=true)
+- [Pilipala](https://github.com/guozhigq/pilipala) - PiliPala 是使用 Flutter 开发的 BiliBili 第三方客户端 flutter.
 - [React-bilibili](https://github.com/dxx/react-bilibili) - 高仿 B 站 web 移动端.![NodeJs](svg/nodejs.svg?raw=true)
 - [TikBili](https://github.com/todo-proj/TikBili) - 用刷抖音的方法刷 B 站视频.![Kotlin](svg/kotlin.svg?raw=true)
 - [Vue3-ts-bilibili](https://github.com/lemon3yo/vue3-ts-bilibili) - BiliBili site demo based on Vue3 and TS.![Vue](svg/vue.svg?raw=true)
@@ -660,4 +663,4 @@
 
 请查看[贡献指南](https://github.com/HCLonely/awesome-bilibili-extra/blob/master/CONTRIBUTING.md).
 
-<!-- Sort Time: 2023-12-09 07:07:58 +00:00 -->
+<!-- Sort Time: 2023-12-23 09:08:40 +00:00 -->
