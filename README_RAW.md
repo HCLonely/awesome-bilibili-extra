@@ -137,6 +137,7 @@
 - [Bilibili-Popups](https://github.com/sheep-realms/Bilibili-Popups) - 在 Bilibili 中提供链接内容浮窗预览的油猴脚本.
 - [Bilibili【哔哩哔哩】 用户成分标签](https://github.com/lyzoris/BilibiliComments-userTag) - 根据 Bilibili 用户近期动态、粉丝勋章内容检测成分添加自定义标签.
 - [bili-senior-newbie-qa](https://github.com/HCLonely/bili-senior-newbie-qa) - 哔哩哔哩硬核会员搜题脚本.
+- [bilibili-cleaner](https://github.com/festoney8/bilibili-cleaner) - bilibili 页面净化大师.
 
 ### 主站脚本
 
@@ -467,6 +468,7 @@
 - [BiliAuth.py](https://github.com/Radekyspec/BiliAuth.py) - 模拟B站登录，获取access_token, refresh_token和cookies.py
 - [MisakaBiliApi](https://github.com/Misaka-L/MisakaBiliApi) - 一个提供哔哩哔哩视频流解析的 Api 项目.c#
 - [ordinaryroad-bilibili-live](https://github.com/OrdinaryRoad-Project/ordinaryroad-bilibili-live) - 使用Netty来连接B站直播间的弹幕信息流Websocket接口.jar
+- [biliAPI](https://github.com/renmu123/biliAPI) - 使用Netty来连接B站直播间的弹幕信息流Websocket接口.ts
 
 ## 第三方客户端
 

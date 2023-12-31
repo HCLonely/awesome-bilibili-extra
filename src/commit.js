@@ -27,4 +27,4 @@ const changedLog = changedNames.length > 0 ? ('Changed items:\n- ' + changedName
 
 const message = 'docs(main): update some items\n\n' + addedLog + removedLog + changedLog;
 
-fs.writeFileSync('CHANGELOG.txt', message.replace(/\n$/, ''));
+fs.writeFileSync('CHANGELOG.md', message.replace(/\n$/, ''));

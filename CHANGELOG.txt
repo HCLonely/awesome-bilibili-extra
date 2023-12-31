@@ -1,6 +1,0 @@
-docs(main): update some items
-
-Added items:
-- [bilibili-subtitle-download-plugin](https://github.com/AdvMaple/bilibili-subtitle-download-plugin)
-- [bili-down-out](https://github.com/10miaomiao/bili-down-out)
-- [pilipala](https://github.com/guozhigq/pilipala)
