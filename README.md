@@ -136,6 +136,7 @@
 - [Bilibili 解锁杜比全景声...](https://greasyfork.org/zh-CN/scripts/441403) - 为 B 站 Windows 平台 解锁杜比全景声 & 8K & 开启 HDR & 直播画质 PRO.
 - [Bilibili-Evolved](https://github.com/the1812/Bilibili-Evolved) - 强大的哔哩哔哩增强脚本：下载视频，音乐，封面，弹幕 / 简化直播间，评论区，首页 / 自定义顶栏，删除广告，夜间模式 / 触屏设备支持.
 - [Bilibili-Popups](https://github.com/sheep-realms/Bilibili-Popups) - 在 Bilibili 中提供链接内容浮窗预览的油猴脚本.
+- [Bilibili-cleaner](https://github.com/festoney8/bilibili-cleaner) - bilibili 页面净化大师.
 - [Bilibili【哔哩哔哩】 用户成分标签](https://github.com/lyzoris/BilibiliComments-userTag) - 根据 Bilibili 用户近期动态、粉丝勋章内容检测成分添加自定义标签.
 
 ### 主站脚本
@@ -421,6 +422,7 @@
 - [Bili-live-api](https://github.com/BotPlayerNeo/bili-live-api) - B 站直播 API 的 Go 语言实现（目前仅支持弹幕相关）.
 - [Bili-live-listener](https://github.com/LU-JIEJIE/bili-live-listener) - b 站直播间信息监听库，包括但不限于弹幕、礼物、醒目留言、全站广播等.![TypeScript](svg/tsnode.svg?raw=true)
 - [Bili-verify](https://github.com/FishZe/bili-verify) - B 站用户认证工具，非官方账号绑定识别接口.![Go](svg/go.svg?raw=true)
+- [BiliAPI](https://github.com/renmu123/biliAPI) - 使用 Netty 来连接 B 站直播间的弹幕信息流 Websocket 接口.![TypeScript](svg/tsnode.svg?raw=true)
 - [BiliAuth.py](https://github.com/Radekyspec/BiliAuth.py) - 模拟 B 站登录，获取 access_token, refresh_token 和 cookies.![Python](svg/python.svg?raw=true)
 - [BiliBiliApi](https://github.com/BiliBiliApi/BiliBiliApi) - 哔哩哔哩 NodeJS 版 API Service.![JavaScript](svg/javascript.svg?raw=true) ![Docker](svg/docker.svg?raw=true)
 - [BiliBiliQ](https://github.com/MingxuanGame/BiliBiliQ) - Another BiliBili gRPC & REST API library.![Python](svg/python.svg?raw=true)
@@ -663,4 +665,4 @@
 
 请查看[贡献指南](https://github.com/HCLonely/awesome-bilibili-extra/blob/master/CONTRIBUTING.md).
 
-<!-- Sort Time: 2023-12-23 09:08:40 +00:00 -->
+<!-- Sort Time: 2023-12-31 09:10:45 +00:00 -->
