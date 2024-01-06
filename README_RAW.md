@@ -306,6 +306,7 @@
 - [Bilibili_Downloader_Cli](https://github.com/open17/Bilibili_Downloader_Cli) - 一个轻量的b站下载器,支持下载B站视频,番剧,电影,电视剧等.py|cli|exe
 - [bilinovel-download](https://github.com/ShqWW/bilinovel-download) - 哔哩轻小说转epub下载器.py|exe
 - [BilibiliCacheVideoMergePython](https://github.com/molihuan/BilibiliCacheVideoMergePython) -将Bilibili缓存文件合并导出为MP4.py|exe
+- [BiliTools](https://github.com/btjawa/BiliTools) -基于 Tauri & Rust 实现的 bilibili 第三方轻量工具箱.js|exe
 
 ## 直播相关工具
 
@@ -506,13 +507,14 @@
 - [WristBilibili](https://github.com/luern0313/WristBilibili) - 腕上哔哩, 在智能手表上集成一个有简单功能的b站客户端.jar
 - [biliuwp-lite](https://github.com/ywmoyue/biliuwp-lite) - 哔哩哔哩UWP Lite.c#
 - [BiliSpirit](https://github.com/JamesBaiJun/BiliSpirit) - WPF B站(Bilibili)工具，查看热门视频，动态，及历史记录等功能.c#
-- [TikBili](https://github.com/todo-proj/TikBili) - 用刷抖音的方法刷B站视频.Kotlin
+- [TikBili](https://github.com/todo-proj/TikBili) - 用刷抖音的方法刷B站视频.kotlin
 - [bili_you](https://github.com/lucinhu/bili_you) - 一个用flutter制作的第三方B站客户端.flutter
 - [BiliMusic](https://github.com/zsakvo/BiliMusic) - 一个基于 Flutter 实现，使用哔哩哔哩作为音频源的音乐播放器.flutter
 - [哔哩助理](https://github.com/Richasy/Bili.Copilot) - 哔哩哔哩用户的个人助理.c#
 - [Bibi-Release](https://github.com/cotaku/Bibi-Release) - UWP版哔哩哔哩.
 - [bili-down-out](https://github.com/10miaomiao/bili-down-out) - 哔哩哔哩缓存导出工具.kotlin
-- [pilipala](https://github.com/guozhigq/pilipala) - PiliPala 是使用Flutter开发的BiliBili第三方客户端flutter.
+- [pilipala](https://github.com/guozhigq/pilipala) - PiliPala 是使用Flutter开发的BiliBili第三方客户端.flutter
+- [Re-WearBili](https://github.com/SpaceXC/Re-WearBili) - 一个手表上的第三方Bilibili客户端.kotlin
 
 ## 每日任务
 
