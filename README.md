@@ -249,6 +249,7 @@
 - [BiliFM](https://github.com/jingfelix/BiliFM) - 下载指定 up 主全部或指定数量的视频音频.![Python](svg/python.svg?raw=true)
 - [BiliFavoritesDownloader](https://github.com/Left024/BiliFavoritesDownloader) - 自动下载 B 站收藏视频，支持下载封面图，转换 xml 至 ass，上传 OneDrive，邮件、telegram 通知.![Shell](svg/shell.svg?raw=true)
 - [BiliNovel2Epub](https://github.com/fangxx3863/biliNovel2Epub) - 下载 哔哩轻小说 文章至 Epub.![Python](svg/python.svg?raw=true) ![Cli](svg/terminal.svg?raw=true)
+- [BiliTools](https://github.com/btjawa/BiliTools) - 基于 Tauri & Rust 实现的 bilibili 第三方轻量工具箱.![JavaScript](svg/javascript.svg?raw=true) ![Windows](svg/windows.svg?raw=true)
 - [Bili](https://github.com/lifegpc/bili) - 一个 Python 编写的从 Bilibili/Acfun 下载弹幕 / 视频的工具.![Python](svg/python.svg?raw=true) ![Windows](svg/windows.svg?raw=true)
 - [Bili_novel_packer](https://github.com/Montaro2017/bili_novel_packer) - 速度更快的 Dart 语言版哔哩轻小说打包器.![Dart](svg/dart.svg?raw=true)
 - [Bilibili-Album-Download](https://github.com/littleplus/Bilibili-Album-Download) - 下载 Bilibili 用户相簿.![Python](svg/python.svg?raw=true)
@@ -505,7 +506,8 @@
 - [Biliuwp-lite](https://github.com/ywmoyue/biliuwp-lite) - 哔哩哔哩 UWP Lite.![C#](svg/csharp.svg?raw=true)
 - [Bv](https://github.com/aaa1115910/bv) - 哔哩哔哩 的第三方 Android TV 应用.![Kotlin](svg/kotlin.svg?raw=true)
 - [Fake_bilibili](https://github.com/Raftern/fake_bilibili) - kotlin 仿哔哩哔哩动画 app.![Kotlin](svg/kotlin.svg?raw=true)
-- [Pilipala](https://github.com/guozhigq/pilipala) - PiliPala 是使用 Flutter 开发的 BiliBili 第三方客户端 flutter.
+- [Pilipala](https://github.com/guozhigq/pilipala) - PiliPala 是使用 Flutter 开发的 BiliBili 第三方客户端.
+- [Re-WearBili](https://github.com/SpaceXC/Re-WearBili) - 一个手表上的第三方 Bilibili 客户端.![Kotlin](svg/kotlin.svg?raw=true)
 - [React-bilibili](https://github.com/dxx/react-bilibili) - 高仿 B 站 web 移动端.![NodeJs](svg/nodejs.svg?raw=true)
 - [TikBili](https://github.com/todo-proj/TikBili) - 用刷抖音的方法刷 B 站视频.![Kotlin](svg/kotlin.svg?raw=true)
 - [Vue3-ts-bilibili](https://github.com/lemon3yo/vue3-ts-bilibili) - BiliBili site demo based on Vue3 and TS.![Vue](svg/vue.svg?raw=true)
@@ -665,4 +667,4 @@
 
 请查看[贡献指南](https://github.com/HCLonely/awesome-bilibili-extra/blob/master/CONTRIBUTING.md).
 
-<!-- Sort Time: 2023-12-31 09:10:45 +00:00 -->
+<!-- Sort Time: 2024-01-06 12:29:23 +00:00 -->
