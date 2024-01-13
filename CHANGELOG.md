@@ -1,8 +1,7 @@
 docs(main): update some items
 
 Added items:
-- [BiliTools](https://github.com/btjawa/BiliTools)
-- [Re-WearBili](https://github.com/SpaceXC/Re-WearBili)
-Changed items:
-- [TikBili](https://github.com/todo-proj/TikBili)
-- [pilipala](https://github.com/guozhigq/pilipala)
+- [Minimal Bilibili](https://github.com/reorx/minimal-bilibili)
+- [bili-screenshot-helper](https://github.com/zsakvo/bili-screenshot-helper)
+- [Darock-Bili](https://github.com/Darock-Studio/Darock-Bili)
+- [biliTickerBuy](https://github.com/mikumifa/biliTickerBuy)

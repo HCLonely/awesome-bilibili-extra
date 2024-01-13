@@ -118,6 +118,7 @@
 - [BiliFilter](https://github.com/ChizhaoEngine/BiliFilter) - 过滤BiliBili上不顺眼的东西，支持按用户/内容/甚至是视频时长过滤内容.
 - [Bilibili弹幕查询发送者](https://github.com/qianjiachun/bilibili-danmaku-tracker) - bilibili弹幕查询发送者插件.
 - [BiliVideoInfo](https://github.com/iceriny/BiliVideoInfo) - B站显示视频详情卡片，视频详情的侧面可以格式化视频数据并分享.
+- [Minimal Bilibili](https://github.com/reorx/minimal-bilibili) - 给你纯净的视频发现体验.
 
 ### 直播扩展
 
@@ -201,6 +202,7 @@
 - [B站笔记快捷键](https://greasyfork.org/zh-CN/scripts/454784) - 极大提高笔记效率，哔哩哔哩大学必备.
 - [Bilibili Blocked Videos By Tags](https://github.com/tjxwork/bilibili_blocked_videos_by_tags) - 对Bilibili.com的视频卡片元素，以标签、标题、时长、UP主名称、UP主UID 来判断匹配，添加屏蔽叠加层.
 - [bilibili-subtitle-download-plugin](https://github.com/AdvMaple/bilibili-subtitle-download-plugin) - 从bilibili下载字幕、视频、音频.
+- [bili-screenshot-helper](https://github.com/zsakvo/bili-screenshot-helper) - 适合小白的, 图形化的B站会员购抢票软件, 自带图形界面, 纯接口抢票.
 
 ### 直播脚本
 
@@ -515,6 +517,7 @@
 - [bili-down-out](https://github.com/10miaomiao/bili-down-out) - 哔哩哔哩缓存导出工具.kotlin
 - [pilipala](https://github.com/guozhigq/pilipala) - PiliPala 是使用Flutter开发的BiliBili第三方客户端.flutter
 - [Re-WearBili](https://github.com/SpaceXC/Re-WearBili) - 一个手表上的第三方Bilibili客户端.kotlin
+- [Darock-Bili](https://github.com/Darock-Studio/Darock-Bili) - Apple Watch 上的B站客户端.swift
 
 ## 每日任务
 
@@ -662,6 +665,7 @@
 - [BiliGPTHelper](https://github.com/yanyao2333/BiliGPTHelper) - bilibili人形自走bot.py|docker
 - [bili-blocklist-sync](https://github.com/jerryshell/bili-blocklist-sync) - 哔哩哔哩黑名单同步工具.rust
 - [bili-sync](https://github.com/amtoaer/bili-sync) - 基于 python asyncio 编写的 bilibili 收藏夹同步下载工具.py|docker
+- [biliTickerBuy](https://github.com/mikumifa/biliTickerBuy) - 适合小白的, 图形化的B站会员购抢票软件, 自带图形界面, 纯接口抢票.py|exe
 
 ## 贡献
 
