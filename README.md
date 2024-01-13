@@ -115,6 +115,7 @@
 - [Bilidown_lite](https://github.com/MNTMDEV/bilidown_lite) - b 站源视频下载 chrome 拓展版，已兼容全新 BV 号标准，支持番剧，配合桌面客户端可以一键下载.
 - [Bilimap](https://github.com/nightstream/bilimap) - 利用 B 站良好的弹幕生态系统，在 B 站页面生成弹幕图表，展示特定类型的弹幕在某一时刻的数量.
 - [Edge-Bilibili](https://github.com/Missde/Edge-Bilibili) - 基于哔哩哔哩网站的 api 开发的 Edge 浏览器插件，界面简洁、下载视频、过滤视频、指定在副屏播放.
+- [Minimal Bilibili](https://github.com/reorx/minimal-bilibili) - 给你纯净的视频发现体验.
 - [Pakku](https://github.com/xmcp/pakku.js) - 哔哩哔哩弹幕过滤器.
 - [Unblock Bilibili](https://unblockbilibili.app/) - 免费不限时加速和解锁哔哩哔哩和主流中国音视频流媒体网站.
 - [哔哩哔哩字幕列表](https://github.com/IndieKKY/bilibili-subtitle) - 哔哩哔哩字幕列表浏览器扩展，功能包括点击跳转，下载字幕，总结字幕，翻译字幕等.
@@ -152,6 +153,7 @@
 - [BILIBILI MoeUseHelper](https://greasyfork.org/zh-CN/scripts/408526) - 一键开关弹幕 | 播放暂停 | 调整倍速 | 开关全屏 | 能让你用哔哩哔哩更加愉快的助手.
 - [Bili-Recommended-List-Blocker](https://github.com/kuzen/Bili-Recommended-List-Blocker) - 屏蔽 b 站首页推荐中的 up 主.
 - [Bili-msg-read](https://github.com/monSteRhhe/bili-msg-read) - 用于简单设置 B 站消息已读的油猴脚本.
+- [Bili-screenshot-helper](https://github.com/zsakvo/bili-screenshot-helper) - 适合小白的，图形化的 B 站会员购抢票软件，自带图形界面，纯接口抢票.
 - [BiliBili - 跳过互动视频](https://github.com/SynRGB/BiliBili-PassInteractiveVideo) - 列表播放的时候脚本可以跳过互动视频，直接播放下一个视频.
 - [BiliBili-EasyCopy](https://github.com/SynRGB/BiliBili-EasyCopy) - 去掉 B 站专栏中复制文本时的水印.
 - [Bili_Video_Speed_Controller](https://github.com/NicerWang/Bili_Video_Speed_Controller) - 适用于 Bilibili 新版网页播放器的速度控制插件.
@@ -505,6 +507,7 @@
 - [Biliuwp-lite](https://github.com/xiaoyaocz/biliuwp-lite) - 第三方哔哩哔哩 UWP 客户端.![C#](svg/csharp.svg?raw=true) ![Windows](svg/windows.svg?raw=true)
 - [Biliuwp-lite](https://github.com/ywmoyue/biliuwp-lite) - 哔哩哔哩 UWP Lite.![C#](svg/csharp.svg?raw=true)
 - [Bv](https://github.com/aaa1115910/bv) - 哔哩哔哩 的第三方 Android TV 应用.![Kotlin](svg/kotlin.svg?raw=true)
+- [Darock-Bili](https://github.com/Darock-Studio/Darock-Bili) - Apple Watch 上的 B 站客户端.![Swift](svg/swift.svg?raw=true)
 - [Fake_bilibili](https://github.com/Raftern/fake_bilibili) - kotlin 仿哔哩哔哩动画 app.![Kotlin](svg/kotlin.svg?raw=true)
 - [Pilipala](https://github.com/guozhigq/pilipala) - PiliPala 是使用 Flutter 开发的 BiliBili 第三方客户端.
 - [Re-WearBili](https://github.com/SpaceXC/Re-WearBili) - 一个手表上的第三方 Bilibili 客户端.![Kotlin](svg/kotlin.svg?raw=true)
@@ -610,6 +613,7 @@
 - [BiliRoaming-Rust-Server](https://github.com/pchpub/BiliRoaming-Rust-Server) - 自建哔哩漫游解析服务器.![Rust](svg/rust.svg?raw=true)
 - [BiliRoaming](https://github.com/yujincheng08/BiliRoaming) - 解除 B 站客户端番剧区域限制的 Xposed 模块，并且提供其他小功能.![Kotlin](svg/kotlin.svg?raw=true)
 - [BiliSendCommAntifraud](https://github.com/freedom-introvert/biliSendCommAntifraud) - 哔哩发评反诈.![Java](svg/openjdk.svg?raw=true)
+- [BiliTickerBuy](https://github.com/mikumifa/biliTickerBuy) - 适合小白的，图形化的 B 站会员购抢票软件，自带图形界面，纯接口抢票.![Python](svg/python.svg?raw=true) ![Windows](svg/windows.svg?raw=true)
 - [BiliUserInfo](https://github.com/Ghauster/BiliUserInfo) - Bilibili 用户精确数据爬虫.![Python](svg/python.svg?raw=true)
 - [Bili_Realtime_Data](https://github.com/CzJam/Bili_Realtime_Data) - Bilibili 粉丝与视频实时数据统计.![PHP](svg/php.svg?raw=true)
 - [Bili_app_splash](https://github.com/zjkwdy/bili_app_splash) - B 站壁纸娘和开屏图自动下载，每天使用 Actions 自动同步.![Python](svg/python.svg?raw=true)
@@ -667,4 +671,4 @@
 
 请查看[贡献指南](https://github.com/HCLonely/awesome-bilibili-extra/blob/master/CONTRIBUTING.md).
 
-<!-- Sort Time: 2024-01-06 12:29:23 +00:00 -->
+<!-- Sort Time: 2024-01-13 07:54:35 +00:00 -->
