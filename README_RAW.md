@@ -220,6 +220,7 @@
 - [bilibili_live-assistant](https://github.com/isma123HH/bilibili_live-assistant) - 获取直播流, 获取直播封面, 直播切片...
 - [Bilibili直播自动追帧](https://github.com/c-basalt/bilibili-live-seeker-script) - Bilibili直播自动追帧.
 - [Bilibili-Remove-Live-Giftbar](https://github.com/OnlyCharacters/Bilibili-Remove-Live-Giftbar) - 移除b站直播间礼物条.
+- [bilibili-sc-record](https://github.com/ltxlong/bilibili-sc-record) - B站直播间SC记录板.
 
 ## 下载工具
 
