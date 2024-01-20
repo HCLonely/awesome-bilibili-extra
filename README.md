@@ -216,6 +216,7 @@
 - [Bilibili 直播间工具](https://greasyfork.org/zh-CN/scripts/368635) - 直播间切换勋章 / 头衔、网页全屏自动隐藏礼物栏 / 全屏发送弹幕、轮播显示链接.
 - [Bilibili 直播间挂机助手](https://github.com/SeaLoong/BLRHH) - B 站直播间挂机用：签到，领瓜子，移动端心跳，瓜子换硬币等.
 - [Bilibili-Remove-Live-Giftbar](https://github.com/OnlyCharacters/Bilibili-Remove-Live-Giftbar) - 移除 b 站直播间礼物条.
+- [Bilibili-sc-record](https://github.com/ltxlong/bilibili-sc-record) - B 站直播间 SC 记录板.
 - [Bilibili_live-assistant](https://github.com/isma123HH/bilibili_live-assistant) - 获取直播流，获取直播封面，直播切片...
 - [Bliveproxy](https://github.com/xfgryujk/bliveproxy) - B 站直播 websocket hook 框架.
 - [斗虫数据直播间可视化](https://greasyfork.org/zh-CN/scripts/416768) - 添加斗虫数据到直播间 (仅支持 VUP).
@@ -671,4 +672,4 @@
 
 请查看[贡献指南](https://github.com/HCLonely/awesome-bilibili-extra/blob/master/CONTRIBUTING.md).
 
-<!-- Sort Time: 2024-01-13 07:54:35 +00:00 -->
+<!-- Sort Time: 2024-01-20 08:29:31 +00:00 -->
