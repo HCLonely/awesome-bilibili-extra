@@ -100,6 +100,7 @@
 - [tun-bili-tool](https://github.com/tuntun0609/tun-bili-tool) - bilibili网页优化插件.
 - [bilibili-dark-mode](https://github.com/flanker/bilibili-dark-mode) - 一个浏览器插件，可以让 bilibili.com 进入夜间模式.
 - [biliscope](https://github.com/gaogaotiantian/biliscope) - 在B站的任何网页轻松查询任何出现的UP的详细信息.
+- [BiliChrome](https://github.com/EZ118/BiliChrome) - 第三方哔哩哔哩客户端Chrome插件.
 
 ### 主站扩展
 
@@ -203,6 +204,7 @@
 - [Bilibili Blocked Videos By Tags](https://github.com/tjxwork/bilibili_blocked_videos_by_tags) - 对Bilibili.com的视频卡片元素，以标签、标题、时长、UP主名称、UP主UID 来判断匹配，添加屏蔽叠加层.
 - [bilibili-subtitle-download-plugin](https://github.com/AdvMaple/bilibili-subtitle-download-plugin) - 从bilibili下载字幕、视频、音频.
 - [bili-screenshot-helper](https://github.com/zsakvo/bili-screenshot-helper) - 适合小白的, 图形化的B站会员购抢票软件, 自带图形界面, 纯接口抢票.
+- [Bilibili-Auto-Quality](https://github.com/AHCorn/Bilibili-Auto-Quality) - 自动解锁并更改哔哩哔哩视频的画质和音质，实现自动选择最高画质、无损音频及杜比全景声.
 
 ### 直播脚本
 

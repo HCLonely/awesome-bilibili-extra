@@ -1,4 +1,5 @@
 docs(main): update some items
 
 Added items:
-- [bilibili-sc-record](https://github.com/ltxlong/bilibili-sc-record)
+- [BiliChrome](https://github.com/EZ118/BiliChrome)
+- [Bilibili-Auto-Quality](https://github.com/AHCorn/Bilibili-Auto-Quality)
