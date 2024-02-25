@@ -120,6 +120,7 @@
 - [Bilibili弹幕查询发送者](https://github.com/qianjiachun/bilibili-danmaku-tracker) - bilibili弹幕查询发送者插件.
 - [BiliVideoInfo](https://github.com/iceriny/BiliVideoInfo) - B站显示视频详情卡片，视频详情的侧面可以格式化视频数据并分享.
 - [Minimal Bilibili](https://github.com/reorx/minimal-bilibili) - 给你纯净的视频发现体验.
+- [bilibili-bangumi](https://github.com/kaze-k/bilibili-bangumi) - Bilibili Bangumi是一个bilibili追番时间表的浏览器插件.
 
 ### 直播扩展
 
@@ -205,6 +206,7 @@
 - [bilibili-subtitle-download-plugin](https://github.com/AdvMaple/bilibili-subtitle-download-plugin) - 从bilibili下载字幕、视频、音频.
 - [bili-screenshot-helper](https://github.com/zsakvo/bili-screenshot-helper) - 适合小白的, 图形化的B站会员购抢票软件, 自带图形界面, 纯接口抢票.
 - [Bilibili-Auto-Quality](https://github.com/AHCorn/Bilibili-Auto-Quality) - 自动解锁并更改哔哩哔哩视频的画质和音质，实现自动选择最高画质、无损音频及杜比全景声.
+- [Bilibili-Favlist-Export](https://github.com/AHCorn/Bilibili-Favlist-Export) - 导出哔哩哔哩收藏夹为 CSV 或 HTML 文件.
 
 ### 直播脚本
 
@@ -312,6 +314,7 @@
 - [bilinovel-download](https://github.com/ShqWW/bilinovel-download) - 哔哩轻小说转epub下载器.py|exe
 - [BilibiliCacheVideoMergePython](https://github.com/molihuan/BilibiliCacheVideoMergePython) -将Bilibili缓存文件合并导出为MP4.py|exe
 - [BiliTools](https://github.com/btjawa/BiliTools) -基于 Tauri & Rust 实现的 bilibili 第三方轻量工具箱.js|exe
+- [bilibili-app-cache-converter](https://github.com/BlueCitizens/bilibili-app-cache-converter) -将哔哩哔哩手机客户端视频缓存文件批量合并成mp4视频和ass字幕.py|exe
 
 ## 直播相关工具
 
@@ -392,6 +395,7 @@
 - [bilive-oauth2](https://github.com/shynome/bilive-oauth2) - bilibili直播间弹幕验证.go
 - [bilibili-live-recorder](https://github.com/NetherXiaoYu/bilibili-live-recorder) - B站直播间录屏，录制完成后自动打包上传到 OSS.py
 - [biliLive-tools](https://github.com/renmu123/biliLive-tools) - B 站录播一站式工具，支持录播姬webhook自动上传.vue|exe
+- [bilibili_gift_screenshot](https://github.com/Ikaros-521/bilibili_gift_screenshot) - 用于哔哩哔哩直播时，用户送礼物时触发截图，可自定义截图区域.py
 
 ## UP 工具
 
@@ -669,6 +673,7 @@
 - [bili-blocklist-sync](https://github.com/jerryshell/bili-blocklist-sync) - 哔哩哔哩黑名单同步工具.rust
 - [bili-sync](https://github.com/amtoaer/bili-sync) - 基于 python asyncio 编写的 bilibili 收藏夹同步下载工具.py|docker
 - [biliTickerBuy](https://github.com/mikumifa/biliTickerBuy) - 适合小白的, 图形化的B站会员购抢票软件, 自带图形界面, 纯接口抢票.py|exe
+- [bilibilijson2srt](https://github.com/Poempoat/bilibilijson2srt) - 将Bilibili的CC字幕（JSON格式）文件转换为srt.c++|exe
 
 ## 贡献
 
