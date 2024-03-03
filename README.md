@@ -116,6 +116,7 @@
 - [Bilibili-bangumi](https://github.com/kaze-k/bilibili-bangumi) - Bilibili Bangumi 是一个 bilibili 追番时间表的浏览器插件.
 - [Bilidown_lite](https://github.com/MNTMDEV/bilidown_lite) - b 站源视频下载 chrome 拓展版，已兼容全新 BV 号标准，支持番剧，配合桌面客户端可以一键下载.
 - [Bilimap](https://github.com/nightstream/bilimap) - 利用 B 站良好的弹幕生态系统，在 B 站页面生成弹幕图表，展示特定类型的弹幕在某一时刻的数量.
+- [Biliplus](https://github.com/0xlau/biliplus) - A Chrome/Edge extension to feel better in bilibili.com.
 - [Edge-Bilibili](https://github.com/Missde/Edge-Bilibili) - 基于哔哩哔哩网站的 api 开发的 Edge 浏览器插件，界面简洁、下载视频、过滤视频、指定在副屏播放.
 - [Minimal Bilibili](https://github.com/reorx/minimal-bilibili) - 给你纯净的视频发现体验.
 - [Pakku](https://github.com/xmcp/pakku.js) - 哔哩哔哩弹幕过滤器.
@@ -312,6 +313,7 @@
 - [FastestBilibiliDownloader](https://github.com/sodaling/FastestBilibiliDownloader) - B 站视频极速批量下载器.![Go](svg/go.svg?raw=true) ![Docker](svg/docker.svg?raw=true)
 - [JavaFx-BilibiliDownLoad](https://github.com/Xiaobaishushu25/JavaFx-BilibiliDownLoad) - 下载 b 站视频.![Java](svg/openjdk.svg?raw=true)
 - [Tiny-bilibili-downloader](https://github.com/CeriChen/tiny-bilibili-downloader) - 简单 bilibilii (B 站) 视频命令行下载工具.![Go](svg/go.svg?raw=true) ![Cli](svg/terminal.svg?raw=true)
+- [Vue-Bili-Analyzer](https://github.com/ScaredCube/Vue-Bili-Analyzer) - 美观、快速、好用的 B 站视频解析下载器.![Python](svg/python.svg?raw=true) ![Windows](svg/windows.svg?raw=true)
 - [Yutto](https://github.com/yutto-dev/yutto) - 一个可爱且任性的哔哩哔哩视频下载器.![Python](svg/python.svg?raw=true) ![Cli](svg/terminal.svg?raw=true) ![Docker](svg/docker.svg?raw=true)
 - [哔哩下载姬](https://github.com/leiurayer/downkyi) - 一个简单易用的哔哩哔哩视频下载工具.![C#](svg/csharp.svg?raw=true) ![Windows](svg/windows.svg?raw=true)
 - [鼠鼠下载器](https://github.com/MoyuScript/double-mouse-downloader) - 跨平台哔哩哔哩视频下载工具.![TypeScript](svg/tsnode.svg?raw=true) ![Windows](svg/windows.svg?raw=true)
@@ -679,4 +681,4 @@
 
 请查看[贡献指南](https://github.com/HCLonely/awesome-bilibili-extra/blob/master/CONTRIBUTING.md).
 
-<!-- Sort Time: 2024-02-25 06:09:26 +00:00 -->
+<!-- Sort Time: 2024-03-03 07:04:33 +00:00 -->
