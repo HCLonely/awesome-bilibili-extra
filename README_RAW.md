@@ -121,6 +121,7 @@
 - [BiliVideoInfo](https://github.com/iceriny/BiliVideoInfo) - B站显示视频详情卡片，视频详情的侧面可以格式化视频数据并分享.
 - [Minimal Bilibili](https://github.com/reorx/minimal-bilibili) - 给你纯净的视频发现体验.
 - [bilibili-bangumi](https://github.com/kaze-k/bilibili-bangumi) - Bilibili Bangumi是一个bilibili追番时间表的浏览器插件.
+- [biliplus](https://github.com/0xlau/biliplus) - A Chrome/Edge extension to feel better in bilibili.com.
 
 ### 直播扩展
 
@@ -312,9 +313,10 @@
 - [bilibili_music](https://github.com/rat857/bilibili_music) - bilibili的视频的音频下载及播放，TUI.go
 - [Bilibili_Downloader_Cli](https://github.com/open17/Bilibili_Downloader_Cli) - 一个轻量的b站下载器,支持下载B站视频,番剧,电影,电视剧等.py|cli|exe
 - [bilinovel-download](https://github.com/ShqWW/bilinovel-download) - 哔哩轻小说转epub下载器.py|exe
-- [BilibiliCacheVideoMergePython](https://github.com/molihuan/BilibiliCacheVideoMergePython) -将Bilibili缓存文件合并导出为MP4.py|exe
-- [BiliTools](https://github.com/btjawa/BiliTools) -基于 Tauri & Rust 实现的 bilibili 第三方轻量工具箱.js|exe
-- [bilibili-app-cache-converter](https://github.com/BlueCitizens/bilibili-app-cache-converter) -将哔哩哔哩手机客户端视频缓存文件批量合并成mp4视频和ass字幕.py|exe
+- [BilibiliCacheVideoMergePython](https://github.com/molihuan/BilibiliCacheVideoMergePython) - 将Bilibili缓存文件合并导出为MP4.py|exe
+- [BiliTools](https://github.com/btjawa/BiliTools) - 基于 Tauri & Rust 实现的 bilibili 第三方轻量工具箱.js|exe
+- [bilibili-app-cache-converter](https://github.com/BlueCitizens/bilibili-app-cache-converter) - 将哔哩哔哩手机客户端视频缓存文件批量合并成mp4视频和ass字幕.py|exe
+- [Vue-Bili-Analyzer](https://github.com/ScaredCube/Vue-Bili-Analyzer) - 美观、快速、好用的B站视频解析下载器.py|exe
 
 ## 直播相关工具
 

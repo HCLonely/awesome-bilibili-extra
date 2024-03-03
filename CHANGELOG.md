@@ -1,8 +1,9 @@
 docs(main): update some items
 
 Added items:
-- [bilibili-bangumi](https://github.com/kaze-k/bilibili-bangumi)
-- [Bilibili-Favlist-Export](https://github.com/AHCorn/Bilibili-Favlist-Export)
+- [biliplus](https://github.com/0xlau/biliplus)
+- [Vue-Bili-Analyzer](https://github.com/ScaredCube/Vue-Bili-Analyzer)
+Changed items:
+- [BilibiliCacheVideoMergePython](https://github.com/molihuan/BilibiliCacheVideoMergePython)
+- [BiliTools](https://github.com/btjawa/BiliTools)
 - [bilibili-app-cache-converter](https://github.com/BlueCitizens/bilibili-app-cache-converter)
-- [bilibili_gift_screenshot](https://github.com/Ikaros-521/bilibili_gift_screenshot)
-- [bilibilijson2srt](https://github.com/Poempoat/bilibilijson2srt)
