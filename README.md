@@ -164,6 +164,7 @@
 - [Bilibili CC 字幕工具](https://greasyfork.org/zh-CN/scripts/378513) - 可以在 B 站加载外挂本地字幕、下载 B 站的 CC 字幕，旧版 B 站播放器可启用 CC 字幕.
 - [Bilibili Vesiter](https://greasyfork.org/zh-CN/scripts/425696) - 哔哩哔哩移除主站广告、移除播放页广告、自动宽屏、自动全屏、自动播放、逐帧播放.
 - [Bilibili 一键已读](https://greasyfork.org/zh-CN/scripts/429152) - 一键设置所有会话已读.
+- [Bilibili 专注模式](https://github.com/cndiandian/bilibili-focus) - 消除视频播放页面可能会吸引注意的元素，如右上角的消息未读数、右侧的广告、相关推荐、直播推荐等元素.
 - [Bilibili 时间线筛选](https://greasyfork.org/zh-CN/scripts/396032) - 这个脚本能帮你通过关注分组筛选 b 站时间线上的动态.
 - [Bilibili 海外区域搜索](https://github.com/gamekingv/bilibili-oversea-search) - bilibili 海外区域搜索.
 - [Bilibili 自动切 P](https://greasyfork.org/zh-CN/scripts/432283) - 为什么要单独写个脚本呢？因为自动连播就是个 **.
@@ -495,6 +496,7 @@
 - [BiliData](https://github.com/TANGhz17/BiliData) - 一个获取哔哩哔哩 视频 & up 主 & 热门排行榜等信息的 APP.![Kotlin](svg/kotlin.svg?raw=true)
 - [BiliHub](https://github.com/LeonNOV/BiliHub) - B 站第三方客户端.![Kotlin](svg/kotlin.svg?raw=true)
 - [BiliMusic](https://github.com/zsakvo/BiliMusic) - 一个基于 Flutter 实现，使用哔哩哔哩作为音频源的音乐播放器.
+- [BiliNeo](https://github.com/Predidit/BiliNeo) - 又一个第三方 Bilibili 客户端，支持 Android 和 Windows.
 - [BiliSpirit](https://github.com/JamesBaiJun/BiliSpirit) - WPF B 站 (Bilibili) 工具，查看热门视频，动态，及历史记录等功能.![C#](svg/csharp.svg?raw=true)
 - [BiliStart](https://github.com/BlameTwo/BiliStart) - B 站第三方客户端.![C#](svg/csharp.svg?raw=true) ![Windows](svg/windows.svg?raw=true)
 - [Bili_you](https://github.com/lucinhu/bili_you) - 一个用 flutter 制作的第三方 B 站客户端.
@@ -681,4 +683,4 @@
 
 请查看[贡献指南](https://github.com/HCLonely/awesome-bilibili-extra/blob/master/CONTRIBUTING.md).
 
-<!-- Sort Time: 2024-03-03 07:04:33 +00:00 -->
+<!-- Sort Time: 2024-03-23 07:22:16 +00:00 -->
