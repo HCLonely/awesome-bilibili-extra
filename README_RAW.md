@@ -208,6 +208,7 @@
 - [bili-screenshot-helper](https://github.com/zsakvo/bili-screenshot-helper) - 适合小白的, 图形化的B站会员购抢票软件, 自带图形界面, 纯接口抢票.
 - [Bilibili-Auto-Quality](https://github.com/AHCorn/Bilibili-Auto-Quality) - 自动解锁并更改哔哩哔哩视频的画质和音质，实现自动选择最高画质、无损音频及杜比全景声.
 - [Bilibili-Favlist-Export](https://github.com/AHCorn/Bilibili-Favlist-Export) - 导出哔哩哔哩收藏夹为 CSV 或 HTML 文件.
+- [Bilibili专注模式](https://github.com/cndiandian/bilibili-focus) - 消除视频播放页面可能会吸引注意的元素，如右上角的消息未读数、右侧的广告、相关推荐、直播推荐等元素.
 
 ### 直播脚本
 
@@ -527,6 +528,7 @@
 - [pilipala](https://github.com/guozhigq/pilipala) - PiliPala 是使用Flutter开发的BiliBili第三方客户端.flutter
 - [Re-WearBili](https://github.com/SpaceXC/Re-WearBili) - 一个手表上的第三方Bilibili客户端.kotlin
 - [Darock-Bili](https://github.com/Darock-Studio/Darock-Bili) - Apple Watch 上的B站客户端.swift
+- [BiliNeo](https://github.com/Predidit/BiliNeo) - 又一个第三方 Bilibili 客户端，支持 Android 和 Windows.flutter
 
 ## 每日任务
 
