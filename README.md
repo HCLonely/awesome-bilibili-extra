@@ -183,7 +183,7 @@
 - [Bilibili-comment-checker](https://github.com/trychen/bilibili-comment-checker) - B 站评论区自动标注成分油猴脚本.
 - [Bilibili-downloader](https://github.com/foamzou/bilibili-downloader) - 哔哩哔哩（b 站）音视频下载脚本.
 - [Bilibili-dynamic-del](https://github.com/monSteRhhe/bilibili-dynamic-del) - 自动删除 B 站转发抽奖动态.
-- [Bilibili-favorites-fix](https://github.com/crnkv/bilibili-favorites-fix) - 修 哔哩哔哩失效的收藏。（可查看 av 号、简介、标题、封面）.
+- [Bilibili-favorites-fix](https://github.com/crnkv/bilibili-favorites-fix) - 修复哔哩哔哩失效的收藏。（可查看 av 号、简介、标题、封面）.
 - [Bilibili-follow](https://github.com/lilei2603/bilibili-follow) - B 站首页展示 UP 专区.
 - [Bilibili-joybook](https://github.com/PC6live/bilibili-joybook-tampermonkey) - Bilibili 共享大会员.
 - [Bilibili-simple-home](https://github.com/hakadao/bilibili-simple-home) - 适 b 站仿搜索引擎样式首页风格.
@@ -684,4 +684,4 @@
 
 请查看[贡献指南](https://github.com/HCLonely/awesome-bilibili-extra/blob/master/CONTRIBUTING.md).
 
-<!-- Sort Time: 2024-03-30 15:22:32 +00:00 -->
+<!-- Sort Time: 2024-03-30 15:24:46 +00:00 -->
