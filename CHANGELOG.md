@@ -1,4 +1,4 @@
 docs(main): update some items
 
-Added items:
+Changed items:
 - [bilibili-favorites-fix](https://github.com/crnkv/bilibili-favorites-fix)
