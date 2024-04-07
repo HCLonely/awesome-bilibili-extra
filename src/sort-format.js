@@ -78,6 +78,18 @@ const addIcon = (text) => {
     if (['go', 'golang'].includes(type.toLowerCase())) {
       icons.push('![Go](svg/go.svg?raw=true)');
     }
+    if (['web'].includes(type.toLowerCase())) {
+      icons.push('![Web](svg/edge.svg?raw=true)');
+    }
+    if (['android'].includes(type.toLowerCase())) {
+      icons.push('![Android](svg/android.svg?raw=true)');
+    }
+    if (['linux'].includes(type.toLowerCase())) {
+      icons.push('![Linux](svg/linux.svg?raw=true)');
+    }
+    if (['apple', 'mac', 'ios'].includes(type.toLowerCase())) {
+      icons.push('![MacOS](svg/apple.svg?raw=true)');
+    }
   }
   return icons.join(' ');
 }

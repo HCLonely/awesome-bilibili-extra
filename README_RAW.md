@@ -488,48 +488,44 @@
 
 > 第三方客户端、仿哔哩哔哩客户端。
 
-- [react-bilibili](https://github.com/dxx/react-bilibili) - 高仿B站web移动端.node
-- [fake_bilibili](https://github.com/Raftern/fake_bilibili) - kotlin仿哔哩哔哩动画app.kotlin
-- [BiLiBiLiSys](https://github.com/KakarottoCui/BiLiBiLiSys) - 基于SSM的仿哔哩哔哩视频系统.node|jar
-- [bilibili_project](https://github.com/Shift-Ctrl-Alt/bilibili_project) - 仿制哔哩哔哩.springboot
-- [vue3-ts-bilibili](https://github.com/lemon3yo/vue3-ts-bilibili) - BiliBili site demo based on Vue3 and TS.vue
+- [react-bilibili](https://github.com/dxx/react-bilibili) - 高仿B站web移动端.node|android
+- [fake_bilibili](https://github.com/Raftern/fake_bilibili) - kotlin仿哔哩哔哩动画app.kotlin|android
 - [Bili.Uwp](https://github.com/Richasy/Bili.Uwp) - 适用于新系统UI的第三方哔哩哔哩UWP客户端.c#|exe
 - [biliuwp-lite](https://github.com/xiaoyaocz/biliuwp-lite) - 第三方哔哩哔哩UWP客户端.c#|exe
-- [BilibiliHD2](https://github.com/duzhaokun123/BilibiliHD2) - 非官方哔哩哔哩客户端.kotlin
-- [BilibiliLiveTV](https://github.com/MUedsa/BilibiliLiveTV) - 哔哩哔哩直播 Android TV APP.jar
-- [bilimiao2](https://github.com/10miaomiao/bilimiao2) - bilimiao，拓展b站客户端没有的功能.kotlin
-- [BiliData](https://github.com/TANGhz17/BiliData) - 一个获取哔哩哔哩 视频&up主&热门排行榜等信息的APP.kotlin
+- [BilibiliHD2](https://github.com/duzhaokun123/BilibiliHD2) - 非官方哔哩哔哩客户端.kotlin|android
+- [BilibiliLiveTV](https://github.com/MUedsa/BilibiliLiveTV) - 哔哩哔哩直播 Android TV APP.jar|android
+- [bilimiao2](https://github.com/10miaomiao/bilimiao2) - bilimiao，拓展b站客户端没有的功能.kotlin|android
+- [BiliData](https://github.com/TANGhz17/BiliData) - 一个获取哔哩哔哩 视频&up主&热门排行榜等信息的APP.kotlin|android
 - [Bilibili.Manga](https://github.com/dove-team/Bilibili.Manga) - Bilibili漫画第三方客户端.c#|exe
-- [bilibili-linux](https://github.com/msojocs/bilibili-linux) - 基于哔哩哔哩官方客户端修改的Linux版本.node
-- [bilibili-ports](https://github.com/reekystive/bilibili-ports) - 哔哩哔哩官方客户端移植.ts
+- [bilibili-linux](https://github.com/msojocs/bilibili-linux) - 基于哔哩哔哩官方客户端修改的Linux版本.node|exe|linux
+- [bilibili-ports](https://github.com/reekystive/bilibili-ports) - 哔哩哔哩官方客户端移植.ts|exe|linux|mac
 - [vue3-vant4-bilibili](https://github.com/chunxiao01/vue3-vant4-bilibili) - 基于Vue3.x和Vant4.x模仿bilibili小程序.vue
-- [bilibili](https://github.com/minured/bilibili) - b站移动端.vue
-- [bilibili](https://github.com/hdtls/bilibili) - 基于Flutter的b站客户端.flutter
-- [bilibili](https://github.com/YeZC/bilibili) - 高仿Bilibili.kotlin
-- [BiliHub](https://github.com/LeonNOV/BiliHub) - B站第三方客户端.kotlin
+- [bilibili](https://github.com/minured/bilibili) - b站移动端.vue|web
+- [bilibili](https://github.com/hdtls/bilibili) - 基于Flutter的b站客户端.flutter|ios
+- [bilibili](https://github.com/YeZC/bilibili) - 高仿Bilibili.kotlin|android
+- [BiliHub](https://github.com/LeonNOV/BiliHub) - B站第三方客户端.kotlin|android
 - [bilibili-console](https://github.com/12345-mcpython/bilibili-console) - Bilibili命令行客户端.py|cli
-- [ATV-Bilibili-demo](https://github.com/yichengchen/ATV-Bilibili-demo) - BiliBili tvOS 客户端 Demo.swift
-- [bilibili-tools](https://github.com/cwuom/bilibili-tools) - 个基于android开发的哔哩哔哩辅助器.jar
-- [wiliwili](https://github.com/xfangfang/wiliwili) - 专为手柄控制设计的第三方跨平台B站客户端，目前可以运行在PC全平台和Nintendo Switch上.c++
-- [bv](https://github.com/aaa1115910/bv) - 哔哩哔哩 的第三方 Android TV 应用.kotlin
-- [BBLL](https://github.com/xiaye13579/BBLL) - 一个第三方哔哩哔哩TV和Pad客户端.
-- [bili_you](https://github.com/lucinhu/bili_you) - 一个用flutter制作的第三方B站客户端.dart
+- [ATV-Bilibili-demo](https://github.com/yichengchen/ATV-Bilibili-demo) - BiliBili tvOS 客户端 Demo.swift|android
+- [bilibili-tools](https://github.com/cwuom/bilibili-tools) - 个基于android开发的哔哩哔哩辅助器.jar|android
+- [wiliwili](https://github.com/xfangfang/wiliwili) - 专为手柄控制设计的第三方跨平台B站客户端，目前可以运行在PC全平台和Nintendo Switch上.c++|exe|linux|mac
+- [bv](https://github.com/aaa1115910/bv) - 哔哩哔哩 的第三方 Android TV 应用.kotlin|android
+- [BBLL](https://github.com/xiaye13579/BBLL) - 一个第三方哔哩哔哩TV和Pad客户端.android
+- [bili_you](https://github.com/lucinhu/bili_you) - 一个用flutter制作的第三方B站客户端.dart|android|linux
 - [BiliStart](https://github.com/BlameTwo/BiliStart) - B站第三方客户端.c#|exe
-- [BilibiliTv](https://github.com/peacefulprogram/BilibiliTv) - B站第三方客户端.kotlin
-- [bilibilitv1.6.6-repair](https://github.com/qidian55/bilibilitv1.6.6-repair) - 尝试修复经典的 bilibili tv 1.6.6 版本.kotlin
+- [BilibiliTv](https://github.com/peacefulprogram/BilibiliTv) - B站第三方客户端.kotlin|android
+- [bilibilitv1.6.6-repair](https://github.com/qidian55/bilibilitv1.6.6-repair) - 尝试修复经典的 bilibili tv 1.6.6 版本.kotlin|android
 - [WristBilibili](https://github.com/luern0313/WristBilibili) - 腕上哔哩, 在智能手表上集成一个有简单功能的b站客户端.jar
-- [biliuwp-lite](https://github.com/ywmoyue/biliuwp-lite) - 哔哩哔哩UWP Lite.c#
-- [BiliSpirit](https://github.com/JamesBaiJun/BiliSpirit) - WPF B站(Bilibili)工具，查看热门视频，动态，及历史记录等功能.c#
-- [TikBili](https://github.com/todo-proj/TikBili) - 用刷抖音的方法刷B站视频.kotlin
-- [bili_you](https://github.com/lucinhu/bili_you) - 一个用flutter制作的第三方B站客户端.flutter
-- [BiliMusic](https://github.com/zsakvo/BiliMusic) - 一个基于 Flutter 实现，使用哔哩哔哩作为音频源的音乐播放器.flutter
-- [哔哩助理](https://github.com/Richasy/Bili.Copilot) - 哔哩哔哩用户的个人助理.c#
-- [Bibi-Release](https://github.com/cotaku/Bibi-Release) - UWP版哔哩哔哩.
-- [bili-down-out](https://github.com/10miaomiao/bili-down-out) - 哔哩哔哩缓存导出工具.kotlin
-- [pilipala](https://github.com/guozhigq/pilipala) - PiliPala 是使用Flutter开发的BiliBili第三方客户端.flutter
+- [biliuwp-lite](https://github.com/ywmoyue/biliuwp-lite) - 哔哩哔哩UWP Lite.c#|exe
+- [BiliSpirit](https://github.com/JamesBaiJun/BiliSpirit) - WPF B站(Bilibili)工具，查看热门视频，动态，及历史记录等功能.c#|web
+- [TikBili](https://github.com/todo-proj/TikBili) - 用刷抖音的方法刷B站视频.kotlin|android
+- [BiliMusic](https://github.com/zsakvo/BiliMusic) - 一个基于 Flutter 实现，使用哔哩哔哩作为音频源的音乐播放器.flutter|exe|mac
+- [哔哩助理](https://github.com/Richasy/Bili.Copilot) - 哔哩哔哩用户的个人助理.c#|exe
+- [Bibi-Release](https://github.com/cotaku/Bibi-Release) - UWP版哔哩哔哩.exe
+- [bili-down-out](https://github.com/10miaomiao/bili-down-out) - 哔哩哔哩缓存导出工具.kotlin|android
+- [pilipala](https://github.com/guozhigq/pilipala) - PiliPala 是使用Flutter开发的BiliBili第三方客户端.flutter|android
 - [Re-WearBili](https://github.com/SpaceXC/Re-WearBili) - 一个手表上的第三方Bilibili客户端.kotlin
 - [Darock-Bili](https://github.com/Darock-Studio/Darock-Bili) - Apple Watch 上的B站客户端.swift
-- [BiliNeo](https://github.com/Predidit/BiliNeo) - 又一个第三方 Bilibili 客户端，支持 Android 和 Windows.flutter
+- [BiliNeo](https://github.com/Predidit/BiliNeo) - 又一个第三方 Bilibili 客户端，支持 Android 和 Windows.flutter|exe|android
 
 ## 每日任务
 
