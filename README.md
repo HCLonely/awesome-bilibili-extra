@@ -502,6 +502,7 @@
 - [Bibi-Release](https://github.com/cotaku/Bibi-Release) - UWP 版哔哩哔哩.![Windows](svg/windows.svg?raw=true)
 - [Bili-down-out](https://github.com/10miaomiao/bili-down-out) - 哔哩哔哩缓存导出工具.![Kotlin](svg/kotlin.svg?raw=true) ![Android](svg/android.svg?raw=true)
 - [Bili.Uwp](https://github.com/Richasy/Bili.Uwp) - 适用于新系统 UI 的第三方哔哩哔哩 UWP 客户端.![C#](svg/csharp.svg?raw=true) ![Windows](svg/windows.svg?raw=true)
+- [BiliClient](https://github.com/huanli233/BiliClient) - 一个简单的、具有基本功能的第三方 B 站客户端，可用于安卓手表或其它低配置的安卓设备，支持安卓 4.2 以上.![Java](svg/openjdk.svg?raw=true) ![Android](svg/android.svg?raw=true)
 - [BiliData](https://github.com/TANGhz17/BiliData) - 一个获取哔哩哔哩 视频 & up 主 & 热门排行榜等信息的 APP.![Kotlin](svg/kotlin.svg?raw=true) ![Android](svg/android.svg?raw=true)
 - [BiliHub](https://github.com/LeonNOV/BiliHub) - B 站第三方客户端.![Kotlin](svg/kotlin.svg?raw=true) ![Android](svg/android.svg?raw=true)
 - [BiliMusic](https://github.com/zsakvo/BiliMusic) - 一个基于 Flutter 实现，使用哔哩哔哩作为音频源的音乐播放器.![Windows](svg/windows.svg?raw=true) ![MacOS](svg/apple.svg?raw=true)
@@ -694,4 +695,4 @@
 
 请查看[贡献指南](https://github.com/HCLonely/awesome-bilibili-extra/blob/master/CONTRIBUTING.md).
 
-<!-- Sort Time: 2024-04-27 13:50:21 +00:00 -->
+<!-- Sort Time: 2024-05-27 12:55:48 +00:00 -->
