@@ -535,6 +535,7 @@
 - [Darock-Bili](https://github.com/Darock-Studio/Darock-Bili) - Apple Watch 上的B站客户端.swift
 - [BiliNeo](https://github.com/Predidit/BiliNeo) - 又一个第三方 Bilibili 客户端，支持 Android 和 Windows.flutter|exe|android
 - [azusa-player-mobile](https://github.com/lovegaoshi/azusa-player-mobile) - 移动端的第三方b站音乐播放器.ts|android
+- [BiliClient](https://github.com/huanli233/BiliClient) - 一个简单的、具有基本功能的第三方B站客户端，可用于安卓手表或其它低配置的安卓设备，支持安卓4.2以上.jar|android
 
 ## 每日任务
 
