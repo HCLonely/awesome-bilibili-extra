@@ -323,6 +323,9 @@
 - [bilibili-app-cache-converter](https://github.com/BlueCitizens/bilibili-app-cache-converter) - 将哔哩哔哩手机客户端视频缓存文件批量合并成mp4视频和ass字幕.py|exe
 - [Vue-Bili-Analyzer](https://github.com/ScaredCube/Vue-Bili-Analyzer) - 美观、快速、好用的B站视频解析下载器.py|exe
 - [yutto](https://github.com/yutto-dev/yutto) -  一个可爱且任性的 B 站视频下载器.py|docker|cli
+- [哔哩下载姬](https://github.com/yaobiao131/downkyicore) -  哔哩下载姬(跨平台版)downkyi，哔哩哔哩网站视频下载工具，支持批量下载，支持8K、HDR、杜比视界，提供工具箱（音视频提取、去水印等）.c#|exe
+- [bilivideo_down](https://github.com/kangpeiqin/bilivideo_down) -  一款基于 Flutter 开发的桌面端 B 站视频下载器.dart|exe
+- [哔哩哔哩漫画下载工具](https://github.com/KayneWang/bilibili-manga-downloader) -  通过 cli 的形式，将在哔漫已经购买过的漫画下载到本地，未购买的漫画无法下载全部图片.rust|cli
 
 ## 直播相关工具
 
@@ -536,6 +539,7 @@
 - [BiliNeo](https://github.com/Predidit/BiliNeo) - 又一个第三方 Bilibili 客户端，支持 Android 和 Windows.flutter|exe|android
 - [azusa-player-mobile](https://github.com/lovegaoshi/azusa-player-mobile) - 移动端的第三方b站音乐播放器.ts|android
 - [BiliClient](https://github.com/huanli233/BiliClient) - 一个简单的、具有基本功能的第三方B站客户端，可用于安卓手表或其它低配置的安卓设备，支持安卓4.2以上.jar|android
+- [BiliStart.WinUI3](https://github.com/BlameTwo/BiliStart.WinUI3-Preview) - BiliStart的衍生版本，为 BiliBili 网站的第三方Windows本地客户端.c#|exe
 
 ## 每日任务
 
@@ -610,6 +614,7 @@
 - [plugin.video.bili](https://github.com/chen310/plugin.video.bili) - 哔哩哔哩 Kodi 插件.py
 - [hexo-bilibili-card](https://github.com/maxchang3/hexo-bilibili-card) - 一个Hexo插件，在你的文章中插入b站的视频卡片，样式模仿和借鉴自b站.js
 - [plugin.bilibili-manga](https://github.com/RuliaReader/plugin.bilibili-manga) - 用于阅读哔哩哔哩漫画的 Rulia 插件.js
+- [bilibili-bangumi-component](https://github.com/yixiaojiu/bilibili-bangumi-component) - 展示 bilibili 与 Bangumi 追番列表的 WebComponent 组件.ts
 
 ## 其他
 
