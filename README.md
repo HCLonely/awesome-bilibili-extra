@@ -313,6 +313,7 @@
 - [Bilili](https://github.com/yutto-dev/bilili) - 哔哩哔哩视频、弹幕下载器.![Python](svg/python.svg?raw=true) ![Cli](svg/terminal.svg?raw=true)
 - [Bilimusic](https://github.com/aoout/bilimusic) - 从哔哩哔哩视频下载 mp3 文件.![Python](svg/python.svg?raw=true) ![Cli](svg/terminal.svg?raw=true)
 - [Bilinovel-download](https://github.com/ShqWW/bilinovel-download) - 哔哩轻小说转 epub 下载器.![Python](svg/python.svg?raw=true) ![Windows](svg/windows.svg?raw=true)
+- [Bilivideo_down](https://github.com/kangpeiqin/bilivideo_down) -  一款基于 Flutter 开发的桌面端 B 站视频下载器.![Dart](svg/dart.svg?raw=true) ![Windows](svg/windows.svg?raw=true)
 - [Bilix](https://github.com/HFrost0/bilix) - 快如闪电的 bilibili 下载工具.![Python](svg/python.svg?raw=true) ![Cli](svg/terminal.svg?raw=true)
 - [Decode_bilibili_uwp_download_video](https://github.com/DuckBurnIncense/decode_bilibili_uwp_download_video) - 解密 b 站 UWP 最新版下载的视频.![Python](svg/python.svg?raw=true) ![Cli](svg/terminal.svg?raw=true)
 - [FastestBilibiliDownloader](https://github.com/sodaling/FastestBilibiliDownloader) - B 站视频极速批量下载器.![Go](svg/go.svg?raw=true) ![Docker](svg/docker.svg?raw=true)
@@ -322,6 +323,8 @@
 - [Yutto](https://github.com/yutto-dev/yutto) -  一个可爱且任性的 B 站视频下载器.![Python](svg/python.svg?raw=true) ![Docker](svg/docker.svg?raw=true) ![Cli](svg/terminal.svg?raw=true)
 - [Yutto](https://github.com/yutto-dev/yutto) - 一个可爱且任性的哔哩哔哩视频下载器.![Python](svg/python.svg?raw=true) ![Cli](svg/terminal.svg?raw=true) ![Docker](svg/docker.svg?raw=true)
 - [哔哩下载姬](https://github.com/leiurayer/downkyi) - 一个简单易用的哔哩哔哩视频下载工具.![C#](svg/csharp.svg?raw=true) ![Windows](svg/windows.svg?raw=true)
+- [哔哩下载姬](https://github.com/yaobiao131/downkyicore) -  哔哩下载姬 (跨平台版) downkyi，哔哩哔哩网站视频下载工具，支持批量下载，支持 8K、HDR、杜比视界，提供工具箱（音视频提取、去水印等）.![C#](svg/csharp.svg?raw=true) ![Windows](svg/windows.svg?raw=true)
+- [哔哩哔哩漫画下载工具](https://github.com/KayneWang/bilibili-manga-downloader) -  通过 cli 的形式，将在哔漫已经购买过的漫画下载到本地，未购买的漫画无法下载全部图片.![Rust](svg/rust.svg?raw=true) ![Cli](svg/terminal.svg?raw=true)
 - [鼠鼠下载器](https://github.com/MoyuScript/double-mouse-downloader) - 跨平台哔哩哔哩视频下载工具.![TypeScript](svg/tsnode.svg?raw=true) ![Windows](svg/windows.svg?raw=true)
 
 ## 直播相关工具
@@ -508,6 +511,7 @@
 - [BiliMusic](https://github.com/zsakvo/BiliMusic) - 一个基于 Flutter 实现，使用哔哩哔哩作为音频源的音乐播放器.![Windows](svg/windows.svg?raw=true) ![MacOS](svg/apple.svg?raw=true)
 - [BiliNeo](https://github.com/Predidit/BiliNeo) - 又一个第三方 Bilibili 客户端，支持 Android 和 Windows.![Windows](svg/windows.svg?raw=true) ![Android](svg/android.svg?raw=true)
 - [BiliSpirit](https://github.com/JamesBaiJun/BiliSpirit) - WPF B 站 (Bilibili) 工具，查看热门视频，动态，及历史记录等功能.![C#](svg/csharp.svg?raw=true) ![Web](svg/edge.svg?raw=true)
+- [BiliStart.WinUI3](https://github.com/BlameTwo/BiliStart.WinUI3-Preview) - BiliStart 的衍生版本，为 BiliBili 网站的第三方 Windows 本地客户端.![C#](svg/csharp.svg?raw=true) ![Windows](svg/windows.svg?raw=true)
 - [BiliStart](https://github.com/BlameTwo/BiliStart) - B 站第三方客户端.![C#](svg/csharp.svg?raw=true) ![Windows](svg/windows.svg?raw=true)
 - [Bili_you](https://github.com/lucinhu/bili_you) - 一个用 flutter 制作的第三方 B 站客户端.![Dart](svg/dart.svg?raw=true) ![Android](svg/android.svg?raw=true) ![Linux](svg/linux.svg?raw=true)
 - [Bilibili-console](https://github.com/12345-mcpython/bilibili-console) - Bilibili 命令行客户端.![Python](svg/python.svg?raw=true) ![Cli](svg/terminal.svg?raw=true)
@@ -599,6 +603,7 @@
 > 适用于其他平台/客户端的与B站相关的插件。
 
 - [BiliVido-For-Typecho](https://github.com/HaruhiYunona/BiliVido-For-Typecho) - 为 Typecho 开发专门用于 Bilibili 视频解析的插件.![JavaScript](svg/javascript.svg?raw=true)
+- [Bilibili-bangumi-component](https://github.com/yixiaojiu/bilibili-bangumi-component) - 展示 bilibili 与 Bangumi 追番列表的 WebComponent 组件.![TypeScript](svg/tsnode.svg?raw=true)
 - [BilibiliPotPlayer](https://github.com/chen310/BilibiliPotPlayer) - 适用于 PotPlayer 的 Bilibili 插件.![JavaScript](svg/javascript.svg?raw=true)
 - [Bilibili_live](https://github.com/Posartor/bilibili_live) - Bilibili Live 直播状态监控 Home Assistant 集成.![Python](svg/python.svg?raw=true)
 - [Hexo-bilibili-bangumi](https://github.com/HCLonely/hexo-bilibili-bangumi) - hexo 番剧页面插件.![JavaScript](svg/javascript.svg?raw=true)
@@ -695,4 +700,4 @@
 
 请查看[贡献指南](https://github.com/HCLonely/awesome-bilibili-extra/blob/master/CONTRIBUTING.md).
 
-<!-- Sort Time: 2024-05-27 12:55:48 +00:00 -->
+<!-- Sort Time: 2024-06-28 03:16:47 +00:00 -->
