@@ -1,20 +1,5 @@
 docs(main): update some items
 
 Added items:
-- [bilibili_translate_chrome_extension](https://github.com/XilkyTofu/bilibili_translate_chrome_extension)
-- [Bilibili-Batch-Unsubscribe](https://github.com/AHCorn/Bilibili-Batch-Unsubscribe)
-- [bilibili-manga-watermark-remover](https://github.com/lanyeeee/bilibili-manga-watermark-remover)
-- [bili-sync-yt-dlp](https://github.com/cap153/bili-sync-yt-dlp)
-- [BiliBiliVideoMerge](https://github.com/Server-WX/BiliBiliVideoMerge)
-- [BilibiliVideoDownloadFork](https://github.com/gxr404/BilibiliVideoDownloadFork)
-- [Bilibili-Video-Downloader](https://github.com/MrBZBZ/Bilibili-Video-Downloader)
-- [bilidown](https://github.com/iuroc/bilidown)
-- [bilibili-dl](https://github.com/Youguang-Zhou/bilibili-dl)
-- [bilibili-mac](https://github.com/yielde/bilibili-mac)
-- [BilibiliLiveMonitorDocker](https://github.com/LambdaExpression/BilibiliLiveMonitorDocker)
-- [Bilibili-Live-Record](https://github.com/chandou-code/Bilibili-Live-Record)
-- [HyperBilibili](https://github.com/Searchstars/HyperBilibili)
-- [gopeed-extension-bilibili](https://github.com/monkeyWie/gopeed-extension-bilibili)
-- [biliTickerBuy](https://github.com/mikumifa/biliTickerBuy)
-- [ESP8266-BiliBili](https://github.com/taichimaker/ESP8266-BiliBili)
-- [bilibiliTask](https://github.com/JiaQiZJQ/bilibiliTask)
+- [bilibili-comment-checker](https://github.com/hmjz100/bilibili-comment-checker)
+- [bilibilitv](https://github.com/zackaryhuang/bilibilitv)

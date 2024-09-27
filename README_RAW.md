@@ -215,6 +215,7 @@
 - [Bilibili专注模式](https://github.com/cndiandian/bilibili-focus) - 消除视频播放页面可能会吸引注意的元素，如右上角的消息未读数、右侧的广告、相关推荐、直播推荐等元素.
 - [bilibili-favorites-fix](https://github.com/crnkv/bilibili-favorites-fix) - 修复哔哩哔哩失效的收藏。（可查看av号、简介、标题、封面）.
 - [Bilibili-Batch-Unsubscribe](https://github.com/AHCorn/Bilibili-Batch-Unsubscribe) - 批量管理哔哩哔哩订阅，可实现一键取消所有订阅.
+- [bilibili-comment-checker](https://github.com/hmjz100/bilibili-comment-checker) - B站评论区自动标注成分，支持动态和关注识别以及手动输入 UID 识别.
 
 ### 直播脚本
 
@@ -553,6 +554,7 @@
 - [BiliClient](https://github.com/huanli233/BiliClient) - 一个简单的、具有基本功能的第三方B站客户端，可用于安卓手表或其它低配置的安卓设备，支持安卓4.2以上.jar|android
 - [BiliStart.WinUI3](https://github.com/BlameTwo/BiliStart.WinUI3-Preview) - BiliStart的衍生版本，为 BiliBili 网站的第三方Windows本地客户端.c#|exe
 - [HyperBilibili](https://github.com/Searchstars/HyperBilibili) - 在Vela嵌入式设备上基于QuickApp实现的第三方B站客户端.ts|android
+- [bilibilitv](https://github.com/zackaryhuang/bilibilitv) - bilibili for Apple TV.swift
 
 ## 每日任务
 
