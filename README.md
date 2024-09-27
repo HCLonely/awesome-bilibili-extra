@@ -185,6 +185,7 @@
 - [Bilibili-app-recommend](https://github.com/magicdawn/bilibili-app-recommend) - 为 B 站首页添加像 App 一样的推荐.
 - [Bilibili-area-limit](https://github.com/kghost/bilibili-area-limit) - Bilibili 港澳台，解除区域限制.
 - [Bilibili-block-plus](https://github.com/Cansiny0320/bilibili-block-plus) - b 站黑名单，可屏蔽指定用户作品、评论等.
+- [Bilibili-comment-checker](https://github.com/hmjz100/bilibili-comment-checker) - B 站评论区自动标注成分，支持动态和关注识别以及手动输入 UID 识别.
 - [Bilibili-comment-checker](https://github.com/trychen/bilibili-comment-checker) - B 站评论区自动标注成分油猴脚本.
 - [Bilibili-downloader](https://github.com/foamzou/bilibili-downloader) - 哔哩哔哩（b 站）音视频下载脚本.
 - [Bilibili-dynamic-del](https://github.com/monSteRhhe/bilibili-dynamic-del) - 自动删除 B 站转发抽奖动态.
@@ -538,6 +539,7 @@
 - [Bilibili](https://github.com/hdtls/bilibili) - 基于 Flutter 的 b 站客户端.![MacOS](svg/apple.svg?raw=true)
 - [Bilibili](https://github.com/minured/bilibili) - b 站移动端.![Vue](svg/vue.svg?raw=true) ![Web](svg/edge.svg?raw=true)
 - [Bilibilitv1.6.6-repair](https://github.com/qidian55/bilibilitv1.6.6-repair) - 尝试修复经典的 bilibili tv 1.6.6 版本.![Kotlin](svg/kotlin.svg?raw=true) ![Android](svg/android.svg?raw=true)
+- [Bilibilitv](https://github.com/zackaryhuang/bilibilitv) - bilibili for Apple TV.![Swift](svg/swift.svg?raw=true)
 - [Bilimiao2](https://github.com/10miaomiao/bilimiao2) - bilimiao，拓展 b 站客户端没有的功能.![Kotlin](svg/kotlin.svg?raw=true) ![Android](svg/android.svg?raw=true)
 - [Biliuwp-lite](https://github.com/xiaoyaocz/biliuwp-lite) - 第三方哔哩哔哩 UWP 客户端.![C#](svg/csharp.svg?raw=true) ![Windows](svg/windows.svg?raw=true)
 - [Biliuwp-lite](https://github.com/ywmoyue/biliuwp-lite) - 哔哩哔哩 UWP Lite.![C#](svg/csharp.svg?raw=true) ![Windows](svg/windows.svg?raw=true)
@@ -717,4 +719,4 @@
 
 请查看[贡献指南](https://github.com/HCLonely/awesome-bilibili-extra/blob/master/CONTRIBUTING.md).
 
-<!-- Sort Time: 2024-08-28 11:00:18 +00:00 -->
+<!-- Sort Time: 2024-09-27 02:20:02 +00:00 -->
