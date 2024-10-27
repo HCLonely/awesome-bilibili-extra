@@ -22,8 +22,8 @@ const removedNames = diffText.split('\n').filter(e => /^-- \[/.test(e)).map(e =>
 }).filter(e => e);
 
 const addedLog = addedNames.size > 0 ? ('Added items:\n- ' + [...addedNames].map(e => `[${e}](${addedItems[e]})`).join('\n- ') + '\n') : '';
-const removedLog = removedNames.length > 0 ? ('Removed items:\n- ' + removedNames.map(e => `[${e}](${removedItems[e]})`).join('\n- ') + '\n') : '';
-const changedLog = changedNames.length > 0 ? ('Changed items:\n- ' + changedNames.map(e => `[${e}](${addedItems[e]})`).join('\n- ') + '\n') : '';
+const removedLog = removedNames.length > 0 ? ('\nRemoved items:\n- ' + removedNames.map(e => `[${e}](${removedItems[e]})`).join('\n- ') + '\n') : '';
+const changedLog = changedNames.length > 0 ? ('\nChanged items:\n- ' + changedNames.map(e => `[${e}](${addedItems[e]})`).join('\n- ') + '\n') : '';
 
 const message = 'docs(main): update some items\n\n' + addedLog + removedLog + changedLog;
 

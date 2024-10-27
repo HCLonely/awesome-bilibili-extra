@@ -114,4 +114,4 @@ const sortedMainText = mainText.split(/(\r?\n){2}/g).map(text => {
 }).join('\n') + '\n<!-- Sort Time: ' + time + ' -->\n';
 
 fs.writeFileSync('README.md', [header, toc, sortedMainText].join('---'));
-fs.writeFileSync('message.txt', 'Sort at ' + time);
+fs.writeFileSync('message.txt', 'Sort at ' + time + '\n\n' + fs.readFileSync('CHANGELOG.md').toString());
