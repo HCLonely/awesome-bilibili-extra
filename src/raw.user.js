@@ -17,7 +17,7 @@
   if (window.location.host === 'github.com') $('[data-testid="results-list"]>div').filter((i, e) => $(e).find('span.search-match').length < 2 || ($(e).find('span[data-component="buttonContent"]').text().includes('Unstar') && !$(e).find('a').attr('href').includes('HCLonely/awesome-bilibili-extra'))).hide();
   if (window.location.host === 'greasyfork.org') $('#browse-script-list>li').filter((i, e) => addedItem.includes($(e).find('a.script-link').attr('href').match(/(https:\/\/greasyfork.org\/zh-CN\/scripts\/[\d]+?)-/)?.[1])).hide();
   const observer = new MutationObserver(function () {
-    if (window.location.host === 'github.com') $('[data-testid="results-list"]>div').filter((i, e) => $(e).find('span.search-match').length < 2 || ($(e).find('span[data-component="buttonContent"]').text().includes('Unstar') && !$(e).find('a').attr('href').includes('HCLonely/awesome-bilibili-extra'))).hide();
+    if (window.location.host === 'github.com') $('[data-testid="results-list"]>div').filter((i, e) => $(e).find('span.search-match').length < 2 || ($(e).find('span[data-component="buttonContent"]').text().includes('Unstar') && !$(e).find('a').attr('href').includes('HCLonely/awesome-bilibili-extra')) || (addedItem.includes($(e).find('a').attr('href')))).hide();
     if (window.location.host === 'greasyfork.org') $('#browse-script-list>li').filter((i, e) => addedItem.includes($(e).find('a.script-link').attr('href').match(/(https:\/\/greasyfork.org\/zh-CN\/scripts\/[\d]+?)-/)?.[1])).hide();
   });
   observer.observe(document.documentElement, {

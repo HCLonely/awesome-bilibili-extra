@@ -31,6 +31,7 @@ const axios = require('axios');
   for (const [, name, link] of links) {
     console.log('Checking link', link);
     await axios.head(link, {
+      maxRedirects: 0,
       validateStatus: (status) => {
         return (status >= 200 && status < 300) || status === 429;
       }
@@ -45,12 +46,13 @@ const axios = require('axios');
   }
 
   if (errorLinks.length > 0) {
+    console.error(`\n${errorLinks.length} broken links were founded!\n`);
     console.table(errorLinks);
-    console.error(`\n${errorLinks.length} broken links were founded!`);
   }
 
   const uniquedLinks = new Set(links.map(e => e[2]));
   if (links.length > uniquedLinks.size) {
+    console.error(`\nDouble links were founded!`);
     console.table(links.map(e => {
       if (uniquedLinks.has(e[2])) {
         uniquedLinks.delete(e[2])
@@ -58,6 +60,5 @@ const axios = require('axios');
       }
       return {name: e[1], link: e[2]};
     }).filter(e => e));
-    console.error(`\nDouble links were founded!`);
   }
 })();
