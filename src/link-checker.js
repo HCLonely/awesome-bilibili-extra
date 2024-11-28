@@ -36,8 +36,10 @@ const axios = require('axios');
         return (status >= 200 && status < 300) || status === 429;
       }
     }).catch(error => {
-      console.log(link, error);
-      errorLinks.push({name,link});
+      if (!error.response?.headers?.location?.includes(link)) {
+        console.log(link, error);
+        errorLinks.push({ name, link });
+      }
     });
     if (i % 10 === 0) {
       await sleep(Math.floor(Math.random() * (10 - 5 + 1) + 5));
@@ -58,7 +60,7 @@ const axios = require('axios');
         uniquedLinks.delete(e[2])
         return null;
       }
-      return {name: e[1], link: e[2]};
+      return { name: e[1], link: e[2] };
     }).filter(e => e));
   }
 })();
