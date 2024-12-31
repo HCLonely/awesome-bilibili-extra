@@ -95,10 +95,10 @@
 
 ### 全站扩展
 
+- [BiliBili-To-English](https://github.com/WavaDev/BiliBili-To-English) - Translate BiliBili To English.
 - [BiliChrome](https://github.com/EZ118/BiliChrome) - 第三方哔哩哔哩客户端 Chrome 插件.
 - [Bilibili-dark-mode](https://github.com/flanker/bilibili-dark-mode) - 一个浏览器插件，可以让 bilibili.com 进入夜间模式.
 - [Bilibili-img-uploader](https://github.com/xlzy520/bilibili-img-uploader) - 哔哩哔哩图床上传、短链转换插件.
-- [Bilibili_translate_chrome_extension](https://github.com/XilkyTofu/bilibili_translate_chrome_extension) - chrome extension to translate bilibili into English.
 - [Biliscope](https://github.com/gaogaotiantian/biliscope) - 在 B 站的任何网页轻松查询任何出现的 UP 的详细信息.
 - [Tun-bili-tool](https://github.com/tuntun0609/tun-bili-tool) - bilibili 网页优化插件.
 - [哔哩哔哩助手](https://github.com/bilibili-helper/bilibili-helper-o) - 哔哩哔哩弹幕网辅助扩展，拥有视频区和直播区的人性化功能.
@@ -166,12 +166,14 @@
 - [BiliBili-EasyCopy](https://github.com/SynRGB/BiliBili-EasyCopy) - 去掉 B 站专栏中复制文本时的水印.
 - [BiliTimer](https://github.com/AntiO2/Bili-Timer) - 一个用于统计 Bilibili 多视频进度的 TamperMonkey 插件.
 - [BiliWallpaper](https://github.com/HHsomeHand/BiliWallpaper) - 一个可以高度自定义的油猴脚本，作用是美化 B 站，支持用户自定义背景图片，和管理背景图片，以及设置背景图片的位置大小显示模式.
+- [BiliWallpaper](https://github.com/HHsomeHand/BiliWallpaper) - 一个可以高度自定义的油猴脚本，作用是美化 B 站，支持用户自定义背景图片，和管理背景图片，以及设置背景图片的位置大小显示模式.
 - [Bili_Video_Speed_Controller](https://github.com/NicerWang/Bili_Video_Speed_Controller) - 适用于 Bilibili 新版网页播放器的速度控制插件.
 - [Bilibili Blocked Videos By Tags](https://github.com/tjxwork/bilibili_blocked_videos_by_tags) - 对 Bilibili.com 的视频卡片元素，以标签、标题、时长、UP 主名称、UP 主 UID 来判断匹配，添加屏蔽叠加层.
 - [Bilibili CC 字幕工具](https://greasyfork.org/zh-CN/scripts/378513) - 可以在 B 站加载外挂本地字幕、下载 B 站的 CC 字幕，旧版 B 站播放器可启用 CC 字幕.
 - [Bilibili Vesiter](https://greasyfork.org/zh-CN/scripts/425696) - 哔哩哔哩移除主站广告、移除播放页广告、自动宽屏、自动全屏、自动播放、逐帧播放.
 - [Bilibili 一键已读](https://greasyfork.org/zh-CN/scripts/429152) - 一键设置所有会话已读.
 - [Bilibili 专注模式](https://github.com/cndiandian/bilibili-focus) - 消除视频播放页面可能会吸引注意的元素，如右上角的消息未读数、右侧的广告、相关推荐、直播推荐等元素.
+- [Bilibili 动态批量删除工具](https://github.com/hatanokokosa/bilibili-dynamic-cleaner) - 一个用于清理 Bilibili 动态的用户脚本.
 - [Bilibili 时间线筛选](https://greasyfork.org/zh-CN/scripts/396032) - 这个脚本能帮你通过关注分组筛选 b 站时间线上的动态.
 - [Bilibili 海外区域搜索](https://github.com/gamekingv/bilibili-oversea-search) - bilibili 海外区域搜索.
 - [Bilibili 自动切 P](https://greasyfork.org/zh-CN/scripts/432283) - 为什么要单独写个脚本呢？因为自动连播就是个 **.
@@ -186,7 +188,6 @@
 - [Bilibili-Old](https://github.com/MotooriKashin/Bilibili-Old) - 通过重写网页框架的方式切换到 Bilibili 旧版页面.
 - [Bilibili-Trackpad-Scroll-Reverser](https://github.com/MaxChang3/Bilibili-Trackpad-Scroll-Reverser) - 优化 b 站视频音量调节在触控板上的体验.
 - [Bilibili-Web-Show-IP-Address](https://github.com/maxchang3/Bilibili-Web-Show-IP-Location) - 展示哔哩哔哩 Web 端的 IP 属地.
-- [Bilibili-app-recommend](https://github.com/magicdawn/bilibili-app-recommend) - 为 B 站首页添加像 App 一样的推荐.
 - [Bilibili-area-limit](https://github.com/kghost/bilibili-area-limit) - Bilibili 港澳台，解除区域限制.
 - [Bilibili-block-plus](https://github.com/Cansiny0320/bilibili-block-plus) - b 站黑名单，可屏蔽指定用户作品、评论等.
 - [Bilibili-comment-checker](https://github.com/hmjz100/bilibili-comment-checker) - B 站评论区自动标注成分，支持动态和关注识别以及手动输入 UID 识别.
@@ -203,12 +204,14 @@
 - [Bilibili-timeline-filter](https://github.com/hi94740/bilibili-timeline-filter.user.js) - 帮助你梳理 b 站时间线上的动态的油猴脚本.
 - [BilibiliProgressBar](https://github.com/zweix123/BilibiliProgressBar) - Total progress bar of Bilibili collective video.
 - [BilibiliTimer](https://greasyfork.org/zh-CN/scripts/30367) - B 站 H5 播放器全屏下实时显示当前系统时间和播放进度.
+- [Bilibili🎶音乐姬](https://github.com/Ocyss/bilibili-music) - 仅帮助用户从视频页下载音乐 (封面，Tags, 歌词，字幕 写入支持).
 - [Bilitwin](https://github.com/liqi0816/bilitwin) - 超清 FLV 下载，FLV 合并，原生 MP4 下载，弹幕 ASS 下载，MKV 打包，播放体验增强...
 - [Download-Pictures-from-Bilibili-Timeline](https://github.com/owendswang/Download-Pictures-from-Bilibili-Timeline) - 从 “Bilibili 动态” 页面下载图片.
 - [Tampermonkey-removePrefix-bilibili](https://github.com/SoonIter/tampermonkey-removePrefix-bilibili) - 一个脚本解决 bilibili 视频选集中标题过长的问题.
 - [Unlock-bilibili-PcBrowser-comment](https://github.com/QingXia-Ela/unlock-bilibili-PcBrowser-comment) - 新版 b 站评论区显示 IP 归属地与展示被隐藏评论.
 - [Userscript-bilibili-comment-search](https://github.com/pacexy/userscript-bilibili-comment-search) - 让 Bilibili 支持评论搜索.
 - [Userscript-enhance-bilibili-player](https://github.com/fython/userscript-enhance-bilibili-player) - 增强哔哩哔哩播放器的使用体验.
+- [Wider Bilibili](https://github.com/posthumz/wider-bilibili) - 哔哩哔哩宽屏体验.
 - [关注管理器](https://greasyfork.org/zh-CN/scripts/428895) - 快速排序和筛选你的关注列表，一键取关不再关注的 UP 等.
 - [哔哩哔哩查看原图](https://greasyfork.org/zh-CN/scripts/372289) - 方便在 B 站内查看各种图片的原图，支持动态、专栏.
 - [哔哩哔哩深色模式](https://greasyfork.org/zh-CN/scripts/428222) - 熬夜必备 | 呵护眼睛 | 沉浸体验 | 优化布局 | 适用于网页端 | 深色 / 夜间 / 黑色 / 暗色模式.
@@ -235,18 +238,18 @@
 - [Bilibili-sc-record](https://github.com/ltxlong/bilibili-sc-record) - B 站直播间 SC 记录板.
 - [Bilibili_live-assistant](https://github.com/isma123HH/bilibili_live-assistant) - 获取直播流，获取直播封面，直播切片...
 - [Bliveproxy](https://github.com/xfgryujk/bliveproxy) - B 站直播 websocket hook 框架.
-- [斗虫数据直播间可视化](https://greasyfork.org/zh-CN/scripts/416768) - 添加斗虫数据到直播间 (仅支持 VUP).
+- [斗虫数据直播间可视化](https://greasyfork.org/zh-CN/scripts/435942) - 高能榜显示总人数.
 - [高亮个别用户的弹幕](https://greasyfork.org/zh-CN/scripts/418195) - 高亮个别用户的弹幕，有时候找一些特殊人物 (其他直播主出现在直播房间) 用.
 
 ## 下载工具
 
 - [BBDown](https://github.com/nilaoda/BBDown) - 一款命令行式哔哩哔哩下载器.![C#](svg/csharp.svg?raw=true) ![Cli](svg/terminal.svg?raw=true)
-- [BiLiBiLi_DanMu_Crawling](https://github.com/HengXin666/BiLiBiLi_DanMu_Crawling) -  爬取 B 站历史弹幕 / 全弹幕，支持高级弹幕.![Python](svg/python.svg?raw=true) ![Windows](svg/windows.svg?raw=true)
+- [BiLiBiLi_DanMu_Crawling](https://github.com/HengXin666/BiLiBiLi_DanMu_Crawling) - 爬取 B 站历史弹幕 / 全弹幕，支持高级弹幕.![Python](svg/python.svg?raw=true) ![Windows](svg/windows.svg?raw=true)
 - [Bili-cli-rs](https://github.com/niuhuan/bili-cli-rs) - 一个 Rust 的 Bilibili 命令行视频下载器.![Rust](svg/rust.svg?raw=true) ![Cli](svg/terminal.svg?raw=true)
 - [Bili-dl](https://github.com/yu1745/bili-dl) - 下载 b 站视频.![Go](svg/go.svg?raw=true) ![Cli](svg/terminal.svg?raw=true)
 - [Bili-fav-sniffer](https://github.com/SummerLiu95/bili-fav-sniffer) - 哔哩哔哩收藏夹嗅探器，定时下载特定收藏夹的新视频到本地.![Shell](svg/shell.svg?raw=true) ![Docker](svg/docker.svg?raw=true)
 - [Bili-go](https://github.com/mouxiaohui/bili-go) - 一个 bilibili 视频命令行下载器.![Go](svg/go.svg?raw=true) ![Cli](svg/terminal.svg?raw=true)
-- [Bili-sync-yt-dlp](https://github.com/cap153/bili-sync-yt-dlp) -  使用 yt-dlp 结合 aria2 下载视频，仅下载收藏夹视频和海报.![Python](svg/python.svg?raw=true) ![Docker](svg/docker.svg?raw=true)
+- [Bili-sync-yt-dlp](https://github.com/cap153/bili-sync-yt-dlp) - 使用 yt-dlp 结合 aria2 下载视频，仅下载收藏夹视频和海报.![Python](svg/python.svg?raw=true) ![Docker](svg/docker.svg?raw=true)
 - [Bili-video-merger](https://github.com/ZiAzusa/bili-video-merger) - 此工具用于将 B 站缓存视频的 video.m4s 和 audio.m4s 整合为一个文件.![Python](svg/python.svg?raw=true)
 - [Bili23-Downloader-CLI](https://github.com/ScottSloan/Bili23-Downloader-CLI) - Bili23 Downloader CLI 命令行版本.![Python](svg/python.svg?raw=true)
 - [Bili23-Downloader](https://github.com/ScottSloan/Bili23-Downloader) - 下载 Bilibili 视频 / 番剧 / 电影 / 纪录片 等资源.![Python](svg/python.svg?raw=true) ![Windows](svg/windows.svg?raw=true)
@@ -255,17 +258,18 @@
 - [BiliBili-Manga-Downloader](https://github.com/Zeal-L/BiliBili-Manga-Downloader) - 一个好用的哔哩哔哩漫画下载器.![Python](svg/python.svg?raw=true) ![Windows](svg/windows.svg?raw=true)
 - [BiliBiliDecryptor](https://github.com/lc6464/BiliBiliDecryptor) - 哔哩哔哩 UWP 客户端下载的视频的解密工具.![C#](svg/csharp.svg?raw=true) ![Cli](svg/terminal.svg?raw=true)
 - [BiliBiliVideoDownload](https://github.com/IgnatiusGL/BiliBiliVideoDownload) - B 站视频下载工具 (Windows 版).![Java](svg/openjdk.svg?raw=true) ![Windows](svg/windows.svg?raw=true)
-- [BiliBiliVideoMerge](https://github.com/Server-WX/BiliBiliVideoMerge) -  B 站缓存视频合并.![Java](svg/openjdk.svg?raw=true) ![Windows](svg/windows.svg?raw=true)
+- [BiliBiliVideoMerge](https://github.com/Server-WX/BiliBiliVideoMerge) - B 站缓存视频合并.![Java](svg/openjdk.svg?raw=true) ![Windows](svg/windows.svg?raw=true)
 - [BiliCache2MP4](https://github.com/kaixinol/BiliCache2MP4) - 哔哩哔哩 Biliili 视频缓存的 *.m4s 文件批量转换为.mp4 文件工具.![Python](svg/python.svg?raw=true) ![Cli](svg/terminal.svg?raw=true)
 - [BiliDownload](https://github.com/KafuuNeko/BiliDownload) - Android Bilibili 视频下载器.![C](svg/c.svg?raw=true) ![C++](svg/cplusplus.svg?raw=true)
 - [BiliDownload](https://github.com/Naptie/BiliDownload) - B 站视频下载工具.![Java](svg/openjdk.svg?raw=true)
 - [BiliDownloader](https://github.com/Harlan-H/BiliDownloader) - 一款界面精简操作简单的 b 站视频下载工具.![C#](svg/csharp.svg?raw=true) ![Windows](svg/windows.svg?raw=true)
 - [BiliDownloader](https://github.com/Majjcom/BiliDownloader) - 超级好用的 GUI bilibili 视频下载器.![Python](svg/python.svg?raw=true) ![Windows](svg/windows.svg?raw=true)
 - [BiliFM](https://github.com/jingfelix/BiliFM) - 下载指定 up 主全部或指定数量的视频音频.![Python](svg/python.svg?raw=true)
-- [BiliTools](https://github.com/btjawa/BiliTools) - 基于 Tauri & Rust 实现的 bilibili 第三方轻量工具箱.![JavaScript](svg/javascript.svg?raw=true) ![Windows](svg/windows.svg?raw=true)
+- [BiliResourceDownloader](https://github.com/LightQuanta/BiliResourceDownloader) - 多功能 B 站资源下载器.![Vue](svg/vue.svg?raw=true) ![Windows](svg/windows.svg?raw=true)
+- [BiliTools](https://github.com/btjawa/BiliTools) - 哔哩哔哩工具箱.![TypeScript](svg/tsnode.svg?raw=true) ![Vue](svg/vue.svg?raw=true) ![Windows](svg/windows.svg?raw=true)
 - [Bili_novel_packer](https://github.com/Montaro2017/bili_novel_packer) - 速度更快的 Dart 语言版哔哩轻小说打包器.![Dart](svg/dart.svg?raw=true)
 - [Bilibili-Album-Download](https://github.com/littleplus/Bilibili-Album-Download) - 下载 Bilibili 用户相簿.![Python](svg/python.svg?raw=true)
-- [Bilibili-Video-Downloader](https://github.com/MrBZBZ/Bilibili-Video-Downloader) -  支持扫码登录的超简洁 B 站视频下载器.![Python](svg/python.svg?raw=true) ![Windows](svg/windows.svg?raw=true)
+- [Bilibili-Video-Downloader](https://github.com/MrBZBZ/Bilibili-Video-Downloader) - 支持扫码登录的超简洁 B 站视频下载器.![Python](svg/python.svg?raw=true) ![Windows](svg/windows.svg?raw=true)
 - [Bilibili-api-client](https://github.com/judgeou/bilibili-api-client) - 哔哩哔哩视频下载器，支持 8k，hevc.![TypeScript](svg/tsnode.svg?raw=true)
 - [Bilibili-app-cache-converter](https://github.com/BlueCitizens/bilibili-app-cache-converter) - 将哔哩哔哩手机客户端视频缓存文件批量合并成 mp4 视频和 ass 字幕.![Python](svg/python.svg?raw=true) ![Windows](svg/windows.svg?raw=true)
 - [Bilibili-bangumi-downloader](https://github.com/yaoxi-std/bilibili-bangumi-downloader) - Bilibili 番剧下载器.![Python](svg/python.svg?raw=true) ![Cli](svg/terminal.svg?raw=true)
@@ -275,8 +279,8 @@
 - [Bilibili-downloader](https://github.com/ZhelinCheng/bilibili-downloader) - B 站个人动态视频下载助手，支持下载 B 站个人动态更新的 4k 视频.![TypeScript](svg/tsnode.svg?raw=true)
 - [Bilibili-downloader](https://github.com/stevenjoezhang/bilibili-downloader) - 基于 Node.js 和 Electron 开发的哔哩哔哩视频、弹幕下载器.![NodeJs](svg/nodejs.svg?raw=true)
 - [Bilibili-downloader](https://github.com/tyokyo320/bilibili-downloader) - B 站视频下载，支持下载大会员清晰度 4K.![Python](svg/python.svg?raw=true)
-- [Bilibili-manga-downloader](https://github.com/lanyeeee/bilibili-manga-downloader) -  哔哩哔哩漫画下载器.![Rust](svg/rust.svg?raw=true) ![Windows](svg/windows.svg?raw=true)
-- [Bilibili-manga-watermark-remover](https://github.com/lanyeeee/bilibili-manga-watermark-remover) -  bilibili 漫画 哔哩哔哩漫画 B 漫 去水印工具，带图形界面，带下载功能，图形界面基于 Tauri.![Rust](svg/rust.svg?raw=true) ![Windows](svg/windows.svg?raw=true)
+- [Bilibili-manga-downloader](https://github.com/lanyeeee/bilibili-manga-downloader) - 哔哩哔哩漫画下载器.![Rust](svg/rust.svg?raw=true) ![Windows](svg/windows.svg?raw=true)
+- [Bilibili-manga-watermark-remover](https://github.com/lanyeeee/bilibili-manga-watermark-remover) - bilibili 漫画 哔哩哔哩漫画 B 漫 去水印工具，带图形界面，带下载功能，图形界面基于 Tauri.![Rust](svg/rust.svg?raw=true) ![Windows](svg/windows.svg?raw=true)
 - [Bilibili-save-nodejs](https://github.com/Youky1/bilibili-save-nodejs) - 下载 B 站视频 / 音频，提供命令行工具和 Nodejs 的 API.![NodeJs](svg/nodejs.svg?raw=true) ![Cli](svg/terminal.svg?raw=true)
 - [Bilibili-video2mp3](https://github.com/wxsms/bilibili-video2mp3) - 一个下载 B 站视频并转换为 MP3 的工具.![NodeJs](svg/nodejs.svg?raw=true)
 - [Bilibili-webhook](https://github.com/LJason77/bilibili-webhook) - 通过 webhook 自动下载 B 站 视频.![Rust](svg/rust.svg?raw=true) ![Docker](svg/docker.svg?raw=true)
@@ -286,10 +290,10 @@
 - [BilibiliDecode](https://github.com/VindenChen/BilibiliDecode) - 批量解密 UWP 哔哩哔哩下载的视频文件.![Python](svg/python.svg?raw=true) ![Cli](svg/terminal.svg?raw=true)
 - [BilibiliDown](https://github.com/nICEnnnnnnnLee/BilibiliDown) - (GUI - 多平台支持) 哔哩哔哩视频下载器，支持稍后再看、收藏夹、UP 主视频批量下载.![Java](svg/openjdk.svg?raw=true) ![Windows](svg/windows.svg?raw=true) ![Cli](svg/terminal.svg?raw=true)
 - [BilibiliMemory](https://github.com/YuSitong1999/BilibiliMemory) - 获取在 哔哩哔哩 收藏夹中收藏的视频，保存到本地磁盘.![Python](svg/python.svg?raw=true)
-- [BilibiliVideoDownloadFork](https://github.com/gxr404/BilibiliVideoDownloadFork) -  跨平台下载 bilibili 视频桌面端软件.![TypeScript](svg/tsnode.svg?raw=true) ![Windows](svg/windows.svg?raw=true)
+- [BilibiliVideoDownloadFork](https://github.com/gxr404/BilibiliVideoDownloadFork) - 跨平台下载 bilibili 视频桌面端软件.![TypeScript](svg/tsnode.svg?raw=true) ![Windows](svg/windows.svg?raw=true)
 - [BilibiliVideoDownload](https://github.com/BilibiliVideoDownload/BilibiliVideoDownload) - 跨平台下载哔哩哔哩视频桌面端软件，支持 windows、macOS、Linux.![Vue](svg/vue.svg?raw=true) ![Windows](svg/windows.svg?raw=true)
 - [BilibiliVideoDownload](https://github.com/MunMunMiao/BilibiliVideoDownload) - 哔哩哔哩视频下载.![TypeScript](svg/tsnode.svg?raw=true)
-- [Bilibili](https://github.com/misssonder/bilibili) - 使用 golang 编写的 bilibili 视频下载器.![Go](svg/go.svg?raw=true)
+- [Bilibili](https://github.com/0byteme/bilibili) - 使用 golang 编写的 bilibili 视频下载器.![Go](svg/go.svg?raw=true)
 - [Bilibili_Downloader_Cli](https://github.com/open17/Bilibili-Downloader-Cli) - 一个轻量的 b 站下载器，支持下载 B 站视频，番剧，电影，电视剧等.![Python](svg/python.svg?raw=true) ![Cli](svg/terminal.svg?raw=true) ![Windows](svg/windows.svg?raw=true)
 - [Bilibili_comics_downloader](https://github.com/lihe07/bilibili_comics_downloader) - Bilibili 漫画下载器.![Rust](svg/rust.svg?raw=true) ![Cli](svg/terminal.svg?raw=true)
 - [Bilibili_manga_downloader](https://github.com/MOMOYATW/bilibili_manga_downloader) - 基于现代 GUI 的哔哩哔哩漫画下载器.![Python](svg/python.svg?raw=true) ![Windows](svg/windows.svg?raw=true)
@@ -298,17 +302,18 @@
 - [Bilidown](https://github.com/iuroc/bilidown) -  Bilibili 视频解析工具模块.![Go](svg/go.svg?raw=true) ![Windows](svg/windows.svg?raw=true) ![Cli](svg/terminal.svg?raw=true)
 - [Bilili](https://github.com/clostou/Bilili) - 哔哩哔哩番剧与影视下载.![Python](svg/python.svg?raw=true) ![Cli](svg/terminal.svg?raw=true)
 - [Bilinovel-download](https://github.com/ShqWW/bilinovel-download) - 哔哩轻小说转 epub 下载器.![Python](svg/python.svg?raw=true) ![Windows](svg/windows.svg?raw=true)
-- [Bilivideo_down](https://github.com/kangpeiqin/bilivideo_down) -  一款基于 Flutter 开发的桌面端 B 站视频下载器.![Dart](svg/dart.svg?raw=true) ![Windows](svg/windows.svg?raw=true)
+- [Bilivideo_down](https://github.com/kangpeiqin/bilivideo_down) - 一款基于 Flutter 开发的桌面端 B 站视频下载器.![Dart](svg/dart.svg?raw=true) ![Windows](svg/windows.svg?raw=true)
 - [Bilix](https://github.com/HFrost0/bilix) - 快如闪电的 bilibili 下载工具.![Python](svg/python.svg?raw=true) ![Cli](svg/terminal.svg?raw=true)
 - [Decode_bilibili_uwp_download_video](https://github.com/DuckBurnIncense/decode_bilibili_uwp_download_video) - 解密 b 站 UWP 最新版下载的视频.![Python](svg/python.svg?raw=true) ![Cli](svg/terminal.svg?raw=true)
 - [Yutto](https://github.com/yutto-dev/yutto) - 一个可爱且任性的哔哩哔哩视频下载器.![Python](svg/python.svg?raw=true) ![Cli](svg/terminal.svg?raw=true) ![Docker](svg/docker.svg?raw=true)
 - [哔哩下载姬](https://github.com/leiurayer/downkyi) - 一个简单易用的哔哩哔哩视频下载工具.![C#](svg/csharp.svg?raw=true) ![Windows](svg/windows.svg?raw=true)
-- [哔哩下载姬](https://github.com/yaobiao131/downkyicore) -  哔哩下载姬 (跨平台版) downkyi，哔哩哔哩网站视频下载工具，支持批量下载，支持 8K、HDR、杜比视界，提供工具箱（音视频提取、去水印等）.![C#](svg/csharp.svg?raw=true) ![Windows](svg/windows.svg?raw=true)
-- [哔哩哔哩漫画下载工具](https://github.com/KayneWang/bilibili-manga-downloader) -  通过 cli 的形式，将在哔漫已经购买过的漫画下载到本地，未购买的漫画无法下载全部图片.![Rust](svg/rust.svg?raw=true) ![Cli](svg/terminal.svg?raw=true)
+- [哔哩下载姬](https://github.com/yaobiao131/downkyicore) - 哔哩下载姬 (跨平台版) downkyi，哔哩哔哩网站视频下载工具，支持批量下载，支持 8K、HDR、杜比视界，提供工具箱（音视频提取、去水印等）.![C#](svg/csharp.svg?raw=true) ![Windows](svg/windows.svg?raw=true)
+- [哔哩哔哩漫画下载工具](https://github.com/KayneWang/bilibili-manga-downloader) - 通过 cli 的形式，将在哔漫已经购买过的漫画下载到本地，未购买的漫画无法下载全部图片.![Rust](svg/rust.svg?raw=true) ![Cli](svg/terminal.svg?raw=true)
 
 ## 直播相关工具
 
 - [BILiveChat.js](https://github.com/XL8Z/BiliBili_BiLiveChat.js) - 基于 PlayWithMe_JS 二次开发的纯前端弹幕展示板.![JavaScript](svg/javascript.svg?raw=true)
+- [Bili-LiveLuckDraw](https://github.com/grtsinry43/Bili-LiveLuckDraw) - 一个 B 站直播抽奖工具，通过获取弹幕关键词进行抽奖.![TypeScript](svg/tsnode.svg?raw=true) ![Windows](svg/windows.svg?raw=true)
 - [Bili-bot](https://github.com/orangelckc/bili-bot) - 哔哩哔哩 - 直播间管家机器人.![TypeScript](svg/tsnode.svg?raw=true)
 - [Bili-live-machine](https://github.com/phy-lei/bili-live-machine) - bilibili 直播姬 - 弹幕姬.![TypeScript](svg/tsnode.svg?raw=true)
 - [Bili-recorder](https://github.com/chocotan/bili-recorder) - 这是一个 bilibili 直播录制工具.![Java](svg/openjdk.svg?raw=true)
@@ -391,6 +396,7 @@
 - [LiveAutoRecord](https://github.com/WhiteMinds/LiveAutoRecord) - 基于 Electron 的多平台直播自动录制软件.![TypeScript](svg/tsnode.svg?raw=true)
 - [Material-douden-tool](https://github.com/OToNaShiAKi/material-douden-tool) - 采用 Material 设计的向 bilibili 直播间发送 Vtuber 翻译、歌词的弹幕同传工具.![Vue](svg/vue.svg?raw=true) ![Windows](svg/windows.svg?raw=true)
 - [OlivaBiliLive](https://github.com/HsiangNianian/OlivaBiliLive) - 可插件化管理的 B 站直播间机器人 (插件基于 OlivOS).![Python](svg/python.svg?raw=true)
+- [Php-bilibili-danmu](https://github.com/zxc7563598/php-bilibili-danmu) - B 站机器人弹幕监控，礼物答谢、定时广告、关注感谢，自动回复等，PHP 版本弹幕姬，基于 workman.![PHP](svg/php.svg?raw=true) ![Cli](svg/terminal.svg?raw=true) ![Docker](svg/docker.svg?raw=true)
 - [StreamerHelper](https://github.com/ZhangMingZhao1/StreamerHelper) - 全平台主播录制工具 & 自动投稿 B 站.![TypeScript](svg/tsnode.svg?raw=true) ![Docker](svg/docker.svg?raw=true)
 - [Vue-bili-danmaku](https://github.com/Drelf2018/vue-bili-danmaku) - 基于 Vue3 的 b 站直播弹幕姬.![Vue](svg/vue.svg?raw=true)
 
@@ -454,7 +460,6 @@
 - [BilibiliAPI](https://github.com/jingyuexing/bilibiliAPI) - bilibiliAPI.![Python](svg/python.svg?raw=true)
 - [BilibiliAPI](https://github.com/zimoyin/BilibiliAPI) - 用 java 实现访问大部分的 Bilibili API，并提供部分对接口工具.![Java](svg/openjdk.svg?raw=true)
 - [Bilibili](https://github.com/CuteReimu/bilibili) - 哔哩哔哩 bilibili 的 API 的 Go SDK.![Go](svg/go.svg?raw=true)
-- [Bilibili_api](https://github.com/Nemo2011/bilibili-api) - 这是一个用 Python 写的调用 Bilibili 各种 API 的库.![Python](svg/python.svg?raw=true)
 - [Bilibili_danmaku](https://github.com/MerlynAllen/bilibili_danmaku) - 一个提供 Flask-style API 的 Bilibili 直播弹幕协议解析器.![Python](svg/python.svg?raw=true)
 - [Biligo-live](https://github.com/iyear/biligo-live) - 哔哩哔哩直播 WebSocket 协议的 Golang 封装.![Go](svg/go.svg?raw=true)
 - [Biligo](https://github.com/iyear/biligo) - BiliBili API SDK in Golang.![Go](svg/go.svg?raw=true)
@@ -464,7 +469,6 @@
 - [Bilive-danmaku](https://github.com/4t145/bilive-danmaku) - b 站直播 api，将 bilibili 直播间的 wss 连接转化成事件.![Rust](svg/rust.svg?raw=true)
 - [Blivedm-go](https://github.com/Akegarasu/blivedm-go) - bilibili 直播弹幕 golang 库.![Go](svg/go.svg?raw=true)
 - [Go-bili-chat](https://github.com/FishZe/go-bili-chat) - Bilibili 直播间弹幕处理库.![Go](svg/go.svg?raw=true)
-- [Go_bili_chat](https://github.com/FishZe/go-bili-chat) - golang 的 b 站信息流处理.![Go](svg/go.svg?raw=true)
 - [Imit_Bilibili](https://github.com/LanMeiX/Imit_Bilibili) - SpringBoot 2.x 实战仿 B 站高性能后端项目.![Java](svg/openjdk.svg?raw=true)
 - [MisakaBiliApi](https://github.com/Misaka-L/MisakaBiliApi) - 一个提供哔哩哔哩视频流解析的 Api 项目.![C#](svg/csharp.svg?raw=true)
 - [Olive](https://github.com/go-olive/olive) - 一个全自动直播录制直播上传工具.![Go](svg/go.svg?raw=true)
@@ -561,7 +565,6 @@
 - [Nonebot-plugin-bilibili-yuan](https://github.com/mengxinyuan638/nonebot-plugin-bilibili-yuan) - 一个支持 q 群登录哔哩哔哩的 nonebot 插件.![Python](svg/python.svg?raw=true)
 - [Nonebot-plugin-bilichat](https://github.com/Well2333/nonebot-plugin-bilichat) - 一个通过 OpenAI 来对 b 站视频进行总结的多功能 B 站解析插件.![Python](svg/python.svg?raw=true)
 - [Nonebot-plugin-bilicover](https://github.com/A-kirami/nonebot-plugin-bilicover) - nonebot2 的提取 B 站视频封面插件.![Python](svg/python.svg?raw=true)
-- [Nonebot_plugin_BiliMedalWall](https://github.com/Shadow403/nonebot_plugin_BiliMedalWall) - 查询 B 站用户粉丝牌等级信息.![Python](svg/python.svg?raw=true)
 - [Nonebot_plugin_BiliRequestAll](https://github.com/Shadow403/nonebot_plugin_BiliRequestAll) - 以 B 站 UID 审核入群（分群管理）.![Python](svg/python.svg?raw=true)
 - [Nonebot_plugin_analysis_bilibili](https://github.com/mengshouer/nonebot_plugin_analysis_bilibili) - NoneBot bilibili 视频、番剧解析插件.![Python](svg/python.svg?raw=true)
 - [Nonebot_plugin_biliav](https://github.com/knva/nonebot_plugin_biliav) - NoneBot biliav 小程序 查看插件.![Python](svg/python.svg?raw=true)
@@ -580,6 +583,7 @@
 
 - [BiliVido-For-Typecho](https://github.com/HaruhiYunona/BiliVido-For-Typecho) - 为 Typecho 开发专门用于 Bilibili 视频解析的插件.![JavaScript](svg/javascript.svg?raw=true)
 - [Bilibili-bangumi-component](https://github.com/yixiaojiu/bilibili-bangumi-component) - 展示 bilibili 与 Bangumi 追番列表的 WebComponent 组件.![TypeScript](svg/tsnode.svg?raw=true)
+- [Bilibili-plugin](https://github.com/muedsa/bilibili-plugin) - 一个 TvBox 插件，提供 bilibili 数据源.![Kotlin](svg/kotlin.svg?raw=true)
 - [BilibiliPotPlayer](https://github.com/chen310/BilibiliPotPlayer) - 适用于 PotPlayer 的 Bilibili 插件.![JavaScript](svg/javascript.svg?raw=true)
 - [Bilibili_live](https://github.com/Posartor/bilibili_live) - Bilibili Live 直播状态监控 Home Assistant 集成.![Python](svg/python.svg?raw=true)
 - [Gopeed-extension-bilibili](https://github.com/monkeyWie/gopeed-extension-bilibili) - Bilibili video download extension of gopeed.![JavaScript](svg/javascript.svg?raw=true)
@@ -618,7 +622,6 @@
 - [BiliRoaming](https://github.com/yujincheng08/BiliRoaming) - 解除 B 站客户端番剧区域限制的 Xposed 模块，并且提供其他小功能.![Kotlin](svg/kotlin.svg?raw=true)
 - [BiliSendCommAntifraud](https://github.com/freedom-introvert/biliSendCommAntifraud) - 哔哩发评反诈.![Java](svg/openjdk.svg?raw=true)
 - [BiliTickerBuy](https://github.com/mikumifa/biliTickerBuy) - 开源免费，简单易用，图形界面，速度极快的 B 站会员购辅助工具.![Python](svg/python.svg?raw=true) ![Windows](svg/windows.svg?raw=true) ![Docker](svg/docker.svg?raw=true)
-- [BiliTools](https://github.com/btjawa/BiliTools) - 哔哩哔哩工具箱.![TypeScript](svg/tsnode.svg?raw=true) ![Vue](svg/vue.svg?raw=true) ![Windows](svg/windows.svg?raw=true)
 - [BiliUniverse](https://github.com/BiliUniverse/Universe) - 哔哩哔哩流媒体平台功能增强系列模块.
 - [BiliUserInfo](https://github.com/Ghauster/BiliUserInfo) - Bilibili 用户精确数据爬虫.![Python](svg/python.svg?raw=true)
 - [Bili_Realtime_Data](https://github.com/CzJam/Bili_Realtime_Data) - Bilibili 粉丝与视频实时数据统计.![PHP](svg/php.svg?raw=true)
@@ -684,4 +687,4 @@
 
 请查看[贡献指南](https://github.com/HCLonely/awesome-bilibili-extra/blob/master/CONTRIBUTING.md).
 
-<!-- Sort Time: 2024-11-28 13:03:27 +00:00 -->
+<!-- Sort Time: 2024-12-31 06:44:51 +00:00 -->
