@@ -221,7 +221,6 @@
 - [Bilibili🎶音乐姬](https://github.com/Ocyss/bilibili-music) - 仅帮助用户从视频页下载音乐(封面,Tags,歌词,字幕 写入支持).
 - [Bilibili 动态批量删除工具](https://github.com/hatanokokosa/bilibili-dynamic-cleaner) - 一个用于清理 Bilibili 动态的用户脚本.
 - [Wider Bilibili](https://github.com/posthumz/wider-bilibili) - 哔哩哔哩宽屏体验.
-- [BiliWallpaper](https://github.com/HHsomeHand/BiliWallpaper) - 一个可以高度自定义的油猴脚本, 作用是美化B站, 支持用户自定义背景图片, 和管理背景图片, 以及设置背景图片的位置大小显示模式.
 
 ### 直播脚本
 
