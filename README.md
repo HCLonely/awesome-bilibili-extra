@@ -166,7 +166,6 @@
 - [BiliBili-EasyCopy](https://github.com/SynRGB/BiliBili-EasyCopy) - 去掉 B 站专栏中复制文本时的水印.
 - [BiliTimer](https://github.com/AntiO2/Bili-Timer) - 一个用于统计 Bilibili 多视频进度的 TamperMonkey 插件.
 - [BiliWallpaper](https://github.com/HHsomeHand/BiliWallpaper) - 一个可以高度自定义的油猴脚本，作用是美化 B 站，支持用户自定义背景图片，和管理背景图片，以及设置背景图片的位置大小显示模式.
-- [BiliWallpaper](https://github.com/HHsomeHand/BiliWallpaper) - 一个可以高度自定义的油猴脚本，作用是美化 B 站，支持用户自定义背景图片，和管理背景图片，以及设置背景图片的位置大小显示模式.
 - [Bili_Video_Speed_Controller](https://github.com/NicerWang/Bili_Video_Speed_Controller) - 适用于 Bilibili 新版网页播放器的速度控制插件.
 - [Bilibili Blocked Videos By Tags](https://github.com/tjxwork/bilibili_blocked_videos_by_tags) - 对 Bilibili.com 的视频卡片元素，以标签、标题、时长、UP 主名称、UP 主 UID 来判断匹配，添加屏蔽叠加层.
 - [Bilibili CC 字幕工具](https://greasyfork.org/zh-CN/scripts/378513) - 可以在 B 站加载外挂本地字幕、下载 B 站的 CC 字幕，旧版 B 站播放器可启用 CC 字幕.
@@ -687,4 +686,4 @@
 
 请查看[贡献指南](https://github.com/HCLonely/awesome-bilibili-extra/blob/master/CONTRIBUTING.md).
 
-<!-- Sort Time: 2024-12-31 06:44:51 +00:00 -->
+<!-- Sort Time: 2025-01-27 08:12:19 +00:00 -->
