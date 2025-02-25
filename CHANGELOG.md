@@ -1,24 +1,23 @@
 docs(main): update some items
 
 Added items:
-- [bilibili-markdown](https://github.com/rxliuli/bilibili-markdown)
-- [Bilibili-Trackpad-Scroll-Reverser](https://github.com/maxchang3/Bilibili-Trackpad-Scroll-Reverser)
-- [bilibili-music](https://github.com/Ocyss/bilibili-music)
-- [BLSPAM](https://github.com/ADJazzzz/BLSPAM)
-- [Bilibili_fetcher](https://github.com/Bbdolt/Bilibili_fetcher)
-- [bilibili_video_download_reburn](https://github.com/RyrieNorth/bilibili_video_download_reburn)
-- [bili-music-segmenter](https://github.com/lovegaoshi/bili-music-segmenter)
-- [BilibiliMonitor](https://github.com/Hellobaka/BilibiliMonitor)
-- [bilitool](https://github.com/timerring/bilitool)
-- [bili-fm](https://github.com/vst93/bili-fm)
-- [bilibili_checkin](https://github.com/Dangks/bilibili_checkin)
-- [Raycast-Bilibili](https://github.com/Fatpandac/Raycast-Bilibili)
-- [bilibili_senior_llm](https://github.com/JavaZeroo/bilibili_senior_llm)
+- [B站优质视频标记](https://github.com/clionertr/bilibili-video-High-quality-video-mark)
+- [Bilimit](https://github.com/ABitGinger/Bilimit)
+- [bilibili-newvideo-tracker](https://github.com/lililili-student/bilibili-newvideo-tracker)
+- [ClickEase-for-Bilibili](https://github.com/uncharity/ClickEase-for-Bilibili)
+- [BiliPala-Downloader](https://github.com/Kis2Show/BiliPala-Downloader)
+- [BiliBili-Live-Recorder](https://github.com/CNXiaozhiy/BiliBili-Live-Recorder)
+- [biliTicker_gt](https://github.com/Amorter/biliTicker_gt)
+- [BiliTerminal2](https://github.com/huanli233/BiliTerminal2)
+- [biliMessagePush](https://github.com/Siroine/biliMessagePush)
+- [QChatGPT_Plugin_Dynamic_Bilibili](https://github.com/zzseki/QChatGPT_Plugin_Dynamic_Bilibili)
+- [php-bilibili-danmu](https://github.com/zxc7563598/php-bilibili-danmu)
+- [Rbilibili.el](https://github.com/lorniu/bilibili.el)
+- [HomeAssistant-BililiveRecorder](https://github.com/mikephemera/HomeAssistant-BililiveRecorder)
+- [BiliMonitor](https://github.com/114514ns/BiliMonitor)
+- [bilibili-xml](https://github.com/ltzu929/bilibili-xml)
+- [BiliShareMall](https://github.com/mikumifa/BiliShareMall)
 
 Removed items:
-- [BiliBiliQ](https://github.com/MingxuanGame/BiliBiliQ)
-- [bilibili-tools](https://github.com/cwuom/bilibili-tools)
-
-Changed items:
-- [BiliBili-To-English](https://github.com/LazyScar/BiliBili-To-English)
-- [bililive-rs](https://github.com/LightQuantumArchive/bililive-rs)
+- [bilibili-music](https://github.com/Ocyss/bilibili-music)
+- [BilibiliMonitor](https://github.com/Hellobaka/BilibiliMonitor)
