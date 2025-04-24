@@ -127,6 +127,7 @@
 - [BilibiliSponsorBlock](https://github.com/hanydd/BilibiliSponsorBlock) - 跳过B站视频中恰饭片段的浏览器插件，移植自 SponsorBlock.
 - [Bilibili-blacklist](https://github.com/snowraincloud/Bilibili-blacklist) - bilibili首页视频过滤，支持黑名单、用户名、uid、播放量、点赞数等过滤，支持自定义过滤器.
 - [bilibili-markdown](https://github.com/rxliuli/bilibili-markdown) - 为 bilibili 专栏的新版编辑器增加粘贴 markdown 的功能，将 markdown 内容导入到专栏的编辑器中.
+- [VideoAdGuard](https://github.com/Warma10032/VideoAdGuard) - 使用大语言模型，对B站视频中的植入广告进行检测并跳过.
 
 ### 直播扩展
 
