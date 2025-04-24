@@ -126,6 +126,7 @@
 - [Edge-Bilibili](https://github.com/Missde/Edge-Bilibili) - 基于哔哩哔哩网站的 api 开发的 Edge 浏览器插件，界面简洁、下载视频、过滤视频、指定在副屏播放.
 - [Minimal Bilibili](https://github.com/reorx/minimal-bilibili) - 给你纯净的视频发现体验.
 - [Pakku](https://github.com/xmcp/pakku.js) - 哔哩哔哩弹幕过滤器.
+- [VideoAdGuard](https://github.com/Warma10032/VideoAdGuard) - 使用大语言模型，对 B 站视频中的植入广告进行检测并跳过.
 - [哔哩哔哩字幕列表](https://github.com/IndieKKY/bilibili-subtitle) - 哔哩哔哩字幕列表浏览器扩展，功能包括点击跳转，下载字幕，总结字幕，翻译字幕等.
 
 ### 直播扩展
@@ -726,4 +727,4 @@
 
 请查看[贡献指南](https://github.com/HCLonely/awesome-bilibili-extra/blob/master/CONTRIBUTING.md).
 
-<!-- Sort Time: 2025-03-26 04:33:45 +00:00 -->
+<!-- Sort Time: 2025-04-24 01:55:10 +00:00 -->
