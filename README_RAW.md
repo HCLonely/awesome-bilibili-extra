@@ -143,6 +143,7 @@
 
 ### 全站脚本
 
+- [Bilibili收藏夹自动分类](https://github.com/jqwgt/bilibili-favlist-classifier) - 自动分类B站收藏夹视，该脚本会根据视频的分区自动将视频分类到不同的收藏夹中，并在页面右侧显示读取视频的进度.
 - [Bilibili-Evolved](https://github.com/the1812/Bilibili-Evolved) - 强大的哔哩哔哩增强脚本: 下载视频, 音乐, 封面, 弹幕/简化直播间, 评论区, 首页/自定义顶栏, 删除广告, 夜间模式/触屏设备支持.
 - [B站封面获取](https://greasyfork.org/zh-CN/scripts/395575) - B站视频播放页、番剧播放页、直播间添加获取封面的按钮.
 - [B站共同关注快速查看](https://greasyfork.org/zh-CN/scripts/428453) - 快速查看与特定用户的共同关注.
