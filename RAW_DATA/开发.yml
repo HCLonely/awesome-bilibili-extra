@@ -1,0 +1,304 @@
+- name: Bilibili-API-collect
+  link: SocialSisterYi/bilibili-API-collect
+  from: github
+  description: 哔哩哔哩-API收集整理
+  icon: []
+- name: Bilibili-api
+  link: Vespa314/bilibili-api
+  from: github
+  description: B站API收集整理及开发，测试【开发中】
+  icon:
+    - py
+- name: Bilibili-Toolkit
+  link: Hsury/Bilibili-Toolkit
+  from: github
+  description: 哔哩哔哩辅助工具箱，支持Cookie/Token/Password融合持久化登录与多用户操作
+  icon:
+    - py
+    - docker
+- name: Bilibili-Live-API
+  link: lovelyyoshino/Bilibili-Live-API
+  from: github
+  description: 哔哩哔哩直播/番剧 API
+  icon: []
+- name: Bilibili-api
+  link: Nemo2011/bilibili-api
+  from: github
+  description: 哔哩哔哩常用API调用。支持视频、番剧、用户、频道、音频等功能
+  icon:
+    - py
+- name: Bilibili-user
+  link: airingursb/bilibili-user
+  from: github
+  description: Bilibili 用户爬虫
+  icon:
+    - py
+- name: Bili-api
+  link: simon300000/bili-api
+  from: github
+  description: Bilibili Node.js API
+  icon:
+    - node
+- name: Yabapi
+  link: SDLMoe/Yabapi
+  from: github
+  description: Bilibili API for Kotlin
+  icon:
+    - kotlin
+- name: BiliBiliRankingScripts
+  link: Neutralization/BiliBiliRankingScripts
+  from: github
+  description: 涉及周刊哔哩哔哩排行榜制作相关的脚本
+  icon:
+    - py
+    - shell
+- name: zuiho_bilibili
+  link: zuiho1595440844/zuiho_bilibili
+  from: github
+  description: 简易粉丝数播放量显示器（基于esp8266和Python）
+  icon:
+    - c++
+    - py
+- name: BiliPlayer
+  link: xuzhb24/BiliPlayer
+  from: github
+  description: 仿哔哩哔哩播放器
+  icon:
+    - kotlin
+- name: bilibili-live-ws
+  link: simon300000/bilibili-live-ws
+  from: github
+  description: Bilibili 直播 WebSocket/TCP API
+  icon:
+    - ts
+- name: Bilibili-Bangumi-JS
+  link: hans362/Bilibili-Bangumi-JS
+  from: github
+  description: 一个基于前端 + Serverless Function 的 Bilibili 追番进度展示页面
+  icon:
+    - js
+- name: bilibili-ws-client
+  link: varieget/bilibili-ws-client
+  from: github
+  description: 适用于b站直播的 Websocket 客户端
+  icon:
+    - js
+- name: bili-auth
+  link: icyux/bili-auth
+  from: github
+  description: 第三方哔哩哔哩 OAuth API，基于私信鉴权
+  icon:
+    - py
+- name: bilireq
+  link: SK-415/bilireq
+  from: github
+  description: 原 HarukaBot 的哔哩哔哩请求库
+  icon:
+    - py
+- name: biliapi
+  link: reveever/biliapi
+  from: github
+  description: 哔哩哔哩 bilibili API SDK written in Go
+  icon:
+    - go
+- name: bilibili_danmaku
+  link: MerlynAllen/bilibili_danmaku
+  from: github
+  description: 一个提供Flask-style API的Bilibili直播弹幕协议解析器
+  icon:
+    - py
+- name: bilirust
+  link: niuhuan/bilirust
+  from: github
+  description: RUST 哔哩哔哩客户端
+  icon:
+    - rust
+- name: BiliCenter
+  link: TiyaAnlite/BiliCenter
+  from: github
+  description: 新版番剧数据中心兼分布式数据挖掘框架
+  icon:
+    - py
+- name: bililive-rs
+  link: LightQuantumArchive/bililive-rs
+  from: github
+  description: Simple stream-based bilibili live client libraries
+  icon:
+    - rust
+- name: bilibili
+  link: CuteReimu/bilibili
+  from: github
+  description: 哔哩哔哩bilibili的API的Go SDK
+  icon:
+    - go
+- name: bilib
+  link: OlafZhang/bilib
+  from: github
+  description: 整合多个B站原生API，并结合爬取技术的Python爬取用lib
+  icon:
+    - py
+- name: bilibili-bullet
+  link: 79W/bilibili-bullet
+  from: github
+  description: bilibili 直播弹幕实时WebSocket爬取
+  icon:
+    - vue
+- name: biligo-live
+  link: iyear/biligo-live
+  from: github
+  description: 哔哩哔哩直播 WebSocket 协议的 Golang 封装
+  icon:
+    - go
+- name: Imit_Bilibili
+  link: LanMeiX/Imit_Bilibili
+  from: github
+  description: SpringBoot 2.x 实战仿B站高性能后端项目
+  icon:
+    - jar
+- name: Bilibili-Live-Message
+  link: GoldrenEggs/Bilibili-Live-Message
+  from: github
+  description: 爬取bilibili直播间接收到的几乎全部消息，并易于使用自定义的方法处理消息
+  icon:
+    - py
+- name: bilive-danmaku
+  link: 4t145/bilive-danmaku
+  from: github
+  description: b站直播api，将bilibili直播间的wss连接转化成事件
+  icon:
+    - rust
+- name: biligo
+  link: iyear/biligo
+  from: github
+  description: BiliBili API SDK in Golang
+  icon:
+    - go
+- name: olive
+  link: go-olive/olive
+  from: github
+  description: 一个全自动直播录制直播上传工具
+  icon:
+    - go
+- name: bilibiliAPI
+  link: jingyuexing/bilibiliAPI
+  from: github
+  description: bilibiliAPI
+  icon:
+    - py
+- name: biliSDK
+  link: yanyvpingsheng/biliSDK
+  from: github
+  description: 哔哩哔哩直播弹幕JAVA-SDK
+  icon:
+    - jar
+- name: BilibiliAPI
+  link: zimoyin/BilibiliAPI
+  from: github
+  description: 用java实现访问大部分的Bilibili API，并提供部分对接口工具
+  icon:
+    - jar
+- name: bilibili-api-ts
+  link: Nemo2011/bilibili-api-ts
+  from: github
+  description: 哔哩哔哩常用API调用
+  icon:
+    - ts
+- name: blivedm-go
+  link: Akegarasu/blivedm-go
+  from: github
+  description: bilibili 直播弹幕 golang 库
+  icon:
+    - go
+- name: tiny-bilibili-ws
+  link: starknt/tiny-bilibili-ws
+  from: github
+  description: Bilibili 直播 WebSocket API
+  icon:
+    - ts
+- name: bilibili-api
+  link: xlz122/bilibili-server
+  from: github
+  description: 提供B站web移动端api接口
+  icon:
+    - js
+- name: bili-live-listener
+  link: LU-JIEJIE/bili-live-listener
+  from: github
+  description: b站直播间信息监听库，包括但不限于弹幕、礼物、醒目留言、全站广播等
+  icon:
+    - ts
+- name: bilibili-live
+  link: pandaGao/bilibili-live
+  from: github
+  description: Bilibili直播相关工具包
+  icon:
+    - js
+- name: bilibili-captain
+  link: Ninzore/bilibili-captain
+  from: github
+  description: 简易B站API调用
+  icon:
+    - ts
+- name: go-bili-chat
+  link: FishZe/go-bili-chat
+  from: github
+  description: Bilibili直播间弹幕处理库
+  icon:
+    - go
+- name: BiliBiliApi
+  link: BiliBiliApi/BiliBiliApi
+  from: github
+  description: 哔哩哔哩 NodeJS 版 API Service
+  icon:
+    - js
+    - docker
+- name: BiLiveir
+  link: GoldrenEggs/BiLiveir
+  from: github
+  description: 异步bilibili直播信息流（弹幕、抽奖、礼物等）处理框架
+  icon:
+    - py
+- name: BiliAuth.py
+  link: Radekyspec/BiliAuth.py
+  from: github
+  description: 模拟B站登录，获取access_token，refresh_token和cookies
+  icon:
+    - py
+- name: MisakaBiliApi
+  link: Misaka-L/MisakaBiliApi
+  from: github
+  description: 一个提供哔哩哔哩视频流解析的 Api 项目
+  icon:
+    - c#
+- name: ordinaryroad-bilibili-live
+  link: OrdinaryRoad-Project/ordinaryroad-bilibili-live
+  from: github
+  description: 使用Netty来连接B站直播间的弹幕信息流Websocket接口
+  icon:
+    - jar
+- name: biliAPI
+  link: renmu123/biliAPI
+  from: github
+  description: 使用Netty来连接B站直播间的弹幕信息流Websocket接口
+  icon:
+    - ts
+- name: bianka
+  link: VTB-LINK/bianka
+  from: github
+  description: bilibili开放平台go-sdk
+  icon:
+    - go
+- name: bilitool
+  link: timerring/bilitool
+  from: github
+  description: 实现持久化登录、下载、查询、上传视频到 b 站等的 Python 工具库以及 cli
+  icon:
+    - py
+    - cli
+- name: biliTicker_gt
+  link: Amorter/biliTicker_gt
+  from: github
+  description: biliTicker的自动验证模块
+  icon:
+    - rust
+    - py

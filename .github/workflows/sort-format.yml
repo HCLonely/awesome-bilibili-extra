@@ -1,20 +1,20 @@
 name: Sort & Format
 on:
   workflow_dispatch:
-  push:
-    branches:
-      - main
-    paths:
-      - 'README_RAW.md'
-      - 'sort_format.js'
-  pull_request:
-    types:
-      - synchronize
-    branches:
-      - main
-    paths:
-      - 'README_RAW.md'
-      - 'sort_format.js'
+  # push:
+  #   branches:
+  #     - main
+  #   paths:
+  #     - 'README_RAW.md'
+  #     - 'sort_format.js'
+  # pull_request:
+  #   types:
+  #     - synchronize
+  #   branches:
+  #     - main
+  #   paths:
+  #     - 'README_RAW.md'
+  #     - 'sort_format.js'
 jobs:
   Start:
     runs-on: ubuntu-latest

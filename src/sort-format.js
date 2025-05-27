@@ -1,117 +1,78 @@
 const fs = require('fs');
+const path = require('path');
 const pangu = require('pangu');
 const dayjs = require('dayjs');
+const { parse } = require('yaml');
+const { addIcon } = require('./addIcon');
 
 const content = fs.readFileSync('README_RAW.md').toString();
 const time = dayjs().format('YYYY-MM-DD HH:mm:ss Z');
 
-// Add icon
-const addIcon = (text) => {
-  const icons = [];
-  const types = text.split('|');
-  for (const type of types) {
-    if (['py', 'python'].includes(type.toLowerCase())) {
-      icons.push('![Python](svg/python.svg?raw=true)');
-    }
-    if (['node', 'nodejs'].includes(type.toLowerCase())) {
-      icons.push('![NodeJs](svg/nodejs.svg?raw=true)');
-    }
-    if (['ts', 'typescript'].includes(type.toLowerCase())) {
-      icons.push('![TypeScript](svg/tsnode.svg?raw=true)');
-    }
-    if (['js', 'javascript'].includes(type.toLowerCase())) {
-      icons.push('![JavaScript](svg/javascript.svg?raw=true)');
-    }
-    if (['jar', 'java'].includes(type.toLowerCase())) {
-      icons.push('![Java](svg/openjdk.svg?raw=true)');
-    }
-    if (['springboot', 'spring-boot'].includes(type.toLowerCase())) {
-      icons.push('![Java](svg/springboot.svg?raw=true)');
-    }
-    if (['c#', 'csharp'].includes(type.toLowerCase())) {
-      icons.push('![C#](svg/csharp.svg?raw=true)');
-    }
-    if (['c'].includes(type.toLowerCase())) {
-      icons.push('![C](svg/c.svg?raw=true)');
-    }
-    if (['c++', 'cplusplus'].includes(type.toLowerCase())) {
-      icons.push('![C++](svg/cplusplus.svg?raw=true)');
-    }
-    if (['php'].includes(type.toLowerCase())) {
-      icons.push('![PHP](svg/php.svg?raw=true)');
-    }
-    if (['rust'].includes(type.toLowerCase())) {
-      icons.push('![Rust](svg/rust.svg?raw=true)');
-    }
-    if (['dart'].includes(type.toLowerCase())) {
-      icons.push('![Dart](svg/dart.svg?raw=true)');
-    }
-    if (['sh', 'shell'].includes(type.toLowerCase())) {
-      icons.push('![Shell](svg/shell.svg?raw=true)');
-    }
-    if (['kotlin'].includes(type.toLowerCase())) {
-      icons.push('![Kotlin](svg/kotlin.svg?raw=true)');
-    }
-    if (['vue'].includes(type.toLowerCase())) {
-      icons.push('![Vue](svg/vue.svg?raw=true)');
-    }
-    if (['svelte'].includes(type.toLowerCase())) {
-      icons.push('![Svelte](svg/svelte.svg?raw=true)');
-    }
-    if (['swift'].includes(type.toLowerCase())) {
-      icons.push('![Swift](svg/swift.svg?raw=true)');
-    }
-    /*
-    if (['flutter'].includes(type.toLowerCase())) {
-      icons.push('![Flutter](svg/flutter.svg?raw=true)');
-    }
-    */
-    if (['exe'].includes(type.toLowerCase())) {
-      icons.push('![Windows](svg/windows.svg?raw=true)');
-    }
-    if (['cli'].includes(type.toLowerCase())) {
-      icons.push('![Cli](svg/terminal.svg?raw=true)');
-    }
-    if (['docker'].includes(type.toLowerCase())) {
-      icons.push('![Docker](svg/docker.svg?raw=true)');
-    }
-    if (['go', 'golang'].includes(type.toLowerCase())) {
-      icons.push('![Go](svg/go.svg?raw=true)');
-    }
-    if (['web'].includes(type.toLowerCase())) {
-      icons.push('![Web](svg/edge.svg?raw=true)');
-    }
-    if (['android'].includes(type.toLowerCase())) {
-      icons.push('![Android](svg/android.svg?raw=true)');
-    }
-    if (['linux'].includes(type.toLowerCase())) {
-      icons.push('![Linux](svg/linux.svg?raw=true)');
-    }
-    if (['apple', 'mac', 'ios'].includes(type.toLowerCase())) {
-      icons.push('![MacOS](svg/apple.svg?raw=true)');
-    }
+function addStar(from, link) {
+  if (from === 'github') {
+    return `![Star](https://img.shields.io/github/stars/${link}?&label=)`;
   }
-  return icons.join(' ');
+  if (from === 'greasyfork') {
+    return `![总安装量](https://img.shields.io/badge/dynamic/regex?url=https%3A%2F%2Fgreasyfork.org%2Fen%2Fscripts%2F${link}&search=%3Cdd%20class%3D%22script-show-total-installs%22%3E%3Cspan%3E(.%2B%3F)%3C%2Fspan%3E%3C%2Fdd%3E&replace=%241&style=social&logo=greasyfork&label=%20)`;
+  }
+  return '';
 }
-const [header, toc, mainText] = content.split('---');
 
-// Sort & format
-const sortedMainText = mainText.split(/(\r?\n){2}/g).map(text => {
-  text = text.replace(/\r/g, '');
-  if (/^- /.test(text)) {
-    return text.split(/\n/g).map(e => {
-      const newText = e.replace(/^- \[(\S)/, s => s.toUpperCase()).replace(/[？！。，；?!,;]$/, '.');
-      const panguedText = pangu.spacing(`${newText}.`).replace(')- ', ') - ');
-      const textArr = panguedText.split('.');
-      textArr[textArr.length - 2] = addIcon(textArr[textArr.length - 2]);
-      return textArr.join('.').replace(/\.$/, '');
-    }).sort().join('\n');
+function addLastCommit(from, link) {
+  if (from === 'github') {
+    return `![最近更新](https://img.shields.io/github/last-commit/${link}?label=)`;
   }
-  if (/^\n$/.test(text)) {
-    return '';
+  if (from === 'greasyfork') {
+    return `![最近更新](https://img.shields.io/badge/dynamic/regex?url=https%3A%2F%2Fgreasyfork.org%2Fen%2Fscripts%2F${link}&search=%3Cdd%20class%3D%22script-(list%7Cshow)-updated-date%22%3E%3Cspan%3E%3Crelative-time.*%3F%3E(.*%3F)%3C%2Frelative-time%3E%3C%2Fspan%3E%3C%2Fdd%3E&replace=%242&style=flat&label=)`;
   }
-  return text;
-}).join('\n') + '\n<!-- Sort Time: ' + time + ' -->\n';
+  return '';
+}
 
-fs.writeFileSync('README.md', [header, toc, sortedMainText].join('---'));
-fs.writeFileSync('message.txt', 'Sort at ' + time + '\n\n' + fs.readFileSync('CHANGELOG.md').toString());
+function processDescription(text) {
+  return `${pangu.spacing(text.replace(/[？！。，；?!,;]$/, '.')).replace(/\|/g, '&#124;')}${text.endsWith('.') ? '' : '.'}`
+}
+
+function processTemplate(template) {
+  const regex = /\{\{\s*(RAW_DATA\/.*?\.yml)\s*\}\}/g;
+  let result = template;
+  let matches;
+
+  while ((matches = regex.exec(template)) !== null) {
+    const [fullMatch, yamlPath] = matches;
+
+    try {
+      const filePath = path.join(process.cwd(), yamlPath);
+      const yamlContent = fs.readFileSync(filePath, 'utf8');
+      const data = parse(yamlContent);
+      const generatedContent = generateTable(data);
+
+      result = result.replace(fullMatch, generatedContent);
+    } catch (err) {
+      console.error(`Error processing ${yamlPath}:`, err);
+      result = result.replace(fullMatch, `⚠️ Error loading ${yamlPath}`);
+    }
+  }
+
+  return result;
+}
+
+function generateMarkdown(name, link, description, icons, stars, lastCommit) {
+  return `| [${name}](${link}) | ${description} | ${icons} | ${stars} | ${lastCommit} |`;
+}
+
+function generateTable(info) {
+  const fromLink = {
+    github: 'https://github.com/',
+    greasyfork: 'https://greasyfork.org/zh-CN/scripts/'
+  }
+  const tbody = info.map(({name, link, from, description, icon}) => {
+    return generateMarkdown(name, `${fromLink[from] || ''}${link}`, processDescription(description), addStar(from, link), addLastCommit(from, link), addIcon(icon));
+  }).sort().join('\n');
+  return `| 项目名称&地址 | 项目描述 | Star/安装 | 最近更新 | 备注 |
+|:--- |:--- |:--- |:--- |:--- |
+${tbody}`;
+}
+
+fs.writeFileSync('README.md', processTemplate(content));
+
+// todo: user.js

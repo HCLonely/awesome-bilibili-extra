@@ -1,3 +1,5 @@
 .history/
 node_modules/
 message.txt
+
+test/

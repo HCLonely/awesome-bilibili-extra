@@ -1,0 +1,91 @@
+- name: Bilive_client
+  link: bilive/bilive_client
+  from: github
+  description: 基于Node.JS的哔哩哔哩账号活跃系统
+  icon:
+    - ts
+    - docker
+- name: BiliHelper-personal
+  link: lkeme/BiliHelper-personal
+  from: github
+  description: 哔哩哔哩助手 - PHP 版
+  icon:
+    - php
+- name: BiliBiliToolPro
+  link: RayWangQvQ/BiliBiliToolPro
+  from: github
+  description: B 站（bilibili）自动任务工具，支持docker、青龙、腾讯云函数等多种部署方式
+  icon:
+    - c#
+    - docker
+- name: BiliBili_Checkin
+  link: arcturus-script/bilibili
+  from: github
+  description: 腾讯云函数实现 BiliBili 每日观看视频、自动投币、分享、漫画签到、直播签到
+  icon:
+    - py
+- name: bilicoin
+  link: r3inbowari/bilicoin
+  from: github
+  description: B站自动投币工具 批量用户处理 Lv6经验补全 手机客户端二维码登录 支持docker
+  icon:
+    - go
+    - cli
+    - docker
+- name: oh-my-helper
+  link: mozhu811/oh-my-helper
+  from: github
+  description: Bilibili每日任务托管平台
+  icon:
+    - jar
+- name: BilibiliTask_3
+  link: chuiba/BilibiliTask_3
+  from: github
+  description: B站挂机用
+  icon:
+    - jar
+    - docker
+- name: fansMedalHelper
+  link: XiaoMiku01/fansMedalHelper
+  from: github
+  description: 每日获取B站直播间每日小心心及直播间自动打卡脚本
+  icon:
+    - py
+    - docker
+- name: BilibiliDailyUp
+  link: Wyatt1026/BilibiliDailyUp
+  from: github
+  description: 哔哩哔哩每日任务脚本
+  icon:
+    - py
+- name: bilibili-helper
+  link: RealBeBetter/bilibili-helper
+  from: github
+  description: bilibili 签到助手
+  icon:
+    - jar
+- name: BiliOutils
+  link: catlair/BiliOutils
+  from: github
+  description: 直播心跳，漫画每日阅读积分，漫读券兑换，赛事竞猜
+  icon:
+    - ts
+    - docker
+- name: bilibili_checkin
+  link: Dangks/bilibili_checkin
+  from: github
+  description: B站自动打卡程序，自动完成分享视频、观看视频、直播签到和漫画签到。通过使用GitHub Actions每日自动完成签到任务并获取相应的奖励
+  icon:
+    - py
+- name: bilibiliTask
+  link: JiaQiZJQ/bilibiliTask
+  from: github
+  description: B站签到利器
+  icon:
+    - java
+- name: BiliBili_Daily-tasks
+  link: wenshancheng/BiliBili_Daily-tasks
+  from: github
+  description: Python脚本自动完成B站每日经验任务、直播签到等
+  icon:
+    - py

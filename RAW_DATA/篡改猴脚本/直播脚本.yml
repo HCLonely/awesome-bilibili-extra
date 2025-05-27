@@ -1,0 +1,90 @@
+- name: 斗虫数据直播间可视化
+  link: "435942"
+  from: greasyfork
+  description: 高能榜显示总人数.
+  icon:
+    - js
+- name: Bilibili直播自定义皮肤背景
+  link: "387120"
+  from: greasyfork
+  description: 自定义哔哩哔哩直播的皮肤和背景，仅自己可见.
+  icon:
+    - js
+- name: B站直播间挂机助手
+  link: "406048"
+  from: greasyfork
+  description: 优化直播观看体验.
+  icon:
+    - js
+- name: Bilibili直播净化
+  link: "21416"
+  from: greasyfork
+  description: 屏蔽聊天室礼物以及关键字，净化聊天室环境.
+  icon:
+    - js
+- name: Bilibili勋章常亮
+  link: "429846"
+  from: greasyfork
+  description: 保持哔哩哔哩直播粉丝勋章常亮.
+  icon:
+    - js
+- name: Bliveproxy
+  link: xfgryujk/bliveproxy
+  from: github
+  description: B站直播websocket hook框架.
+  icon:
+    - js
+- name: 高亮个别用户的弹幕
+  link: "418195"
+  from: greasyfork
+  description: 高亮个别用户的弹幕，有时候找一些特殊人物(其他直播主出现在直播房间)用.
+  icon:
+    - js
+- name: B站直播自动抢红包
+  link: "439169"
+  from: greasyfork
+  description: 会在进房间以后的下一次发红包时开始生效.
+  icon:
+    - js
+- name: B站直播随看随录
+  link: "435623"
+  from: greasyfork
+  description: 无需打开弹幕姬，可即时录制flv的油猴脚本，快速切片.
+  icon:
+    - js
+- name: bilibili_live-assistant
+  link: isma123HH/bilibili_live-assistant
+  from: github
+  description: 获取直播流，获取直播封面，直播切片...
+  icon:
+    - js
+- name: Bilibili直播自动追帧
+  link: c-basalt/bilibili-live-seeker-script
+  from: github
+  description: Bilibili直播自动追帧.
+  icon:
+    - js
+- name: Bilibili-Remove-Live-Giftbar
+  link: OnlyCharacters/Bilibili-Remove-Live-Giftbar
+  from: github
+  description: 移除b站直播间礼物条.
+  icon:
+    - js
+- name: bilibili-sc-record
+  link: ltxlong/bilibili-sc-record
+  from: github
+  description: B站直播间SC记录板.
+  icon:
+    - js
+- name: B站直播间定时发随机弹幕
+  link: Gamyou/bilibili-live-random-send
+  from: github
+  description: 定时发送；凌晨打卡；设置随机弹幕；弹幕分组管理；各直播间弹幕互不干扰；无人值守参与、关闭天选时刻；直播间防休眠；隐藏模块简化直播间.
+  icon:
+    - js
+- name: BLSPAM
+  link: ADJazzzz/BLSPAM
+  from: github
+  description: Bilibili（B站，Bili）直播独轮车脚本.
+  icon:
+    - js

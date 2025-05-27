@@ -1,0 +1,144 @@
+- name: Pakku
+  link: xmcp/pakku.js
+  from: github
+  description: 哔哩哔哩弹幕过滤器.
+  icon:
+    - ts
+- name: bilidown_lite
+  link: MNTMDEV/bilidown_lite
+  from: github
+  description: b站源视频下载chrome拓展版，已兼容全新BV号标准，支持番剧，配合桌面客户端可以一键下载.
+  icon:
+    - js
+- name: audio-only-bilibili
+  link: cyio/audio-only-bilibili
+  from: github
+  description: Biliblili 网页端使用音频模式.
+  icon:
+    - ts
+- name: bili-guessYouLike
+  link: chitosai/bili-guessYouLike
+  from: github
+  description: 为PC版bilibili首页增加「猜你喜欢」.
+  icon:
+    - js
+- name: BiliMini
+  link: Taosky/BiliMini
+  from: github
+  description: Bilibili辅助扩展，用于提示并快速查看更新.
+  icon:
+    - vue
+- name: Edge-Bilibili
+  link: Missde/Edge-Bilibili
+  from: github
+  description: 基于哔哩哔哩网站的api开发的Edge浏览器插件，界面简洁、下载视频、过滤视频、指定在副屏播放.
+  icon:
+    - js
+- name: bilimap
+  link: nightstream/bilimap
+  from: github
+  description: 利用B站良好的弹幕生态系统，在B站页面生成弹幕图表，展示特定类型的弹幕在某一时刻的数量.
+  icon:
+    - js
+- name: 哔哩哔哩字幕列表
+  link: IndieKKY/bilibili-subtitle
+  from: github
+  description: 哔哩哔哩字幕列表浏览器扩展，功能包括点击跳转，下载字幕，总结字幕，翻译字幕等.
+  icon:
+    - ts
+- name: Bili-Insight
+  link: 2951121599/Bili-Insight
+  from: github
+  description: B站视频内容总结预览插件：通过使用这个插件来更快地了解视频的内容.
+  icon:
+    - js
+- name: BiliBiliTimer
+  link: Whimmey/BiliBiliTimer
+  from: github
+  description: 在Bilibili视频播放页面计算分集视频区间内总时长.
+  icon:
+    - js
+- name: B站快进快退脚本
+  link: GongT/bilibili-ff-script
+  from: github
+  description: B站快进快退脚本.
+  icon:
+    - js
+- name: BiliFilter
+  link: RSSYLY/BiliFilter
+  from: github
+  description: 过滤BiliBili上不顺眼的东西，支持按用户/内容/甚至是视频时长过滤内容.
+  icon:
+    - js
+- name: Bilibili弹幕查询发送者
+  link: qianjiachun/bilibili-danmaku-tracker
+  from: github
+  description: bilibili弹幕查询发送者插件.
+  icon:
+    - js
+- name: BiliVideoInfo
+  link: iceriny/BiliVideoInfo
+  from: github
+  description: B站显示视频详情卡片，视频详情的侧面可以格式化视频数据并分享.
+  icon:
+    - js
+- name: Minimal Bilibili
+  link: reorx/minimal-bilibili
+  from: github
+  description: 给你纯净的视频发现体验.
+  icon:
+    - ts
+- name: bilibili-bangumi
+  link: kaze-k/bilibili-bangumi
+  from: github
+  description: Bilibili Bangumi是一个bilibili追番时间表的浏览器插件.
+  icon:
+    - ts
+- name: biliplus
+  link: 0xlau/biliplus
+  from: github
+  description: A Chrome/Edge extension to feel better in bilibili.com.
+  icon:
+    - js
+- name: BewlyBewly
+  link: BewlyBewly/BewlyBewly
+  from: github
+  description: 只需对您的 Bilibili 主页进行一些小更改即可.
+  icon:
+    - vue
+- name: BilibiliSponsorBlock
+  link: hanydd/BilibiliSponsorBlock
+  from: github
+  description: 跳过B站视频中恰饭片段的浏览器插件，移植自 SponsorBlock.
+  icon:
+    - ts
+- name: Bilibili-blacklist
+  link: snowraincloud/Bilibili-blacklist
+  from: github
+  description: bilibili首页视频过滤，支持黑名单、用户名、uid、播放量、点赞数等过滤，支持自定义过滤器.
+  icon:
+    - vue
+- name: bilibili-markdown
+  link: rxliuli/bilibili-markdown
+  from: github
+  description: 为 bilibili 专栏的新版编辑器增加粘贴 markdown 的功能，将 markdown 内容导入到专栏的编辑器中.
+  icon:
+    - ts
+- name: VideoAdGuard
+  link: Warma10032/VideoAdGuard
+  from: github
+  description: 使用大语言模型，对B站视频中的植入广告进行检测并跳过.
+  icon:
+    - js
+- name: bilijump-ai
+  link: qingmeng1/bilijump-ai
+  from: github
+  description: 一个使用 AI 自动跳过 Bilibili 视频广告的 Chrome 扩展程序.
+  icon:
+    - js
+- name: BilibiliKeeper
+  link: xxcdd/BilibiliKeeper
+  from: github
+  description: 使用AI智能分析，打造你的个性化B站信息流.
+  icon:
+    - js

@@ -1,0 +1,72 @@
+- name: Bilibili-Evolved
+  link: the1812/Bilibili-Evolved
+  from: github
+  description: "强大的哔哩哔哩增强脚本: 下载视频，音乐，封面，弹幕/简化直播间，评论区，首页/自定义顶栏，删除广告，夜间模式/触屏设备支持."
+  icon:
+    - ts
+- name: B站封面获取
+  link: "395575"
+  from: greasyfork
+  description: B站视频播放页、番剧播放页、直播间添加获取封面的按钮.
+  icon:
+    - js
+- name: B站共同关注快速查看
+  link: "428453"
+  from: greasyfork
+  description: 快速查看与特定用户的共同关注.
+  icon:
+    - js
+- name: Bilibili 解锁杜比全景声...
+  link: "441403"
+  from: greasyfork
+  description: 为 B站 Windows 平台 解锁杜比全景声 & 8K & 开启 HDR & 直播画质PRO.
+  icon:
+    - js
+- name: Bilibili-Popups
+  link: sheep-realms/Bilibili-Popups
+  from: github
+  description: 在 Bilibili 中提供链接内容浮窗预览的油猴脚本.
+  icon:
+    - js
+- name: Bilibili【哔哩哔哩】 用户成分标签
+  link: lyzoris/Bilibili-UserComponentTag
+  from: github
+  description: 根据 Bilibili 用户近期动态、粉丝勋章内容检测成分添加自定义标签.
+  icon:
+    - ts
+- name: bili-senior-newbie-qa
+  link: HCLonely/bili-senior-newbie-qa
+  from: github
+  description: 哔哩哔哩硬核会员搜题脚本.
+  icon:
+    - js
+- name: bilibili-cleaner
+  link: festoney8/bilibili-cleaner
+  from: github
+  description: bilibili 页面净化大师.
+  icon:
+    - ts
+- name: BLTH
+  link: andywang425/BLTH
+  from: github
+  description: 哔哩哔哩油猴辅助脚本.
+  icon:
+    - ts
+- name: Bilibili-Trackpad-Scroll-Reverser
+  link: maxchang3/Bilibili-Trackpad-Scroll-Reverser
+  from: github
+  description: 优化 b 站视频音量调节在触控板上的体验.
+  icon:
+    - ts
+- name: BilibiliJS
+  link: ICONQUESTION/BilibiliJS
+  from: github
+  description: 哔哩哔哩 JavaScript 自动化脚本.
+  icon:
+    - js
+- name: Bilibili收藏夹自动分类
+  link: jqwgt/bilibili-favlist-classifier
+  from: github
+  description: 自动分类B站收藏夹视，该脚本会根据视频的分区自动将视频分类到不同的收藏夹中，并在页面右侧显示读取视频的进度.
+  icon:
+    - js

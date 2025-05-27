@@ -1,34 +1,52 @@
 const fs = require('fs');
+const path = require('path');
 const axios = require('axios');
+const { parse } = require('yaml');
+
+function readData(template) {
+  const regex = /\{\{\s*(RAW_DATA\/.*?\.yml)\s*\}\}/g;
+  let result = [];
+  let matches;
+  const fromLink = {
+    github: 'https://github.com/',
+    greasyfork: 'https://greasyfork.org/zh-CN/scripts/'
+  }
+  while ((matches = regex.exec(template)) !== null) {
+    const [fullMatch, yamlPath] = matches;
+
+    try {
+      const filePath = path.join(process.cwd(), yamlPath);
+      const type = yamlPath.replace('RAW_DATA/', '').replace('.yml', '');
+      const yamlContent = fs.readFileSync(filePath, 'utf8');
+      const data = parse(yamlContent).map((e) => {
+        e.type = type;
+        e.link = `${fromLink[e.from] || ''}${e.link}`
+        return e;
+      });
+      result = [...result, ...data];
+
+    } catch (err) {
+      console.error(`Error reading ${yamlPath}:`, err);
+    }
+  }
+
+  return result;
+}
 
 (async () => {
   const content = fs.readFileSync('README_RAW.md').toString();
+  const items = readData(content);
 
-  const mainText = content.split('---')[2];
-  const links = [];
-  mainText.split(/(\r?\n){2}/g).map(text => {
-    text = text.replace(/\r/g, '');
-    if (/^- /.test(text)) {
-      links.push(...text.split(/\n/g).map(e => e.match(/- \[(.*?)\]\((.*?)\)/)));
-    }
-    return;
-  });
   const errorLinks = [];
-  /*
-  await Promise.all(
-    links.map(link => axios.head(link).catch(error => {
-      console.log(link, error);
-      errorLinks.push(link);
-    }))
-  )
-  */
+
   const sleep = (time) => new Promise((resolve) => {
     setTimeout(() => {
       resolve(true);
     }, time * 5000);
   });
+
   let i = 1;
-  for (const [, name, link] of links) {
+  for (const { name, link, type } of items) {
     console.log('Checking link', link);
     await axios.head(link, {
       maxRedirects: 0,
@@ -38,7 +56,7 @@ const axios = require('axios');
     }).catch(error => {
       if (!error.response?.headers?.location?.includes(link)) {
         console.log(link, error);
-        errorLinks.push({ name, link });
+        errorLinks.push({ name, link, type });
       }
     });
     if (i % 10 === 0) {
@@ -51,16 +69,16 @@ const axios = require('axios');
     console.error(`\n${errorLinks.length} broken links were founded!\n`);
     console.table(errorLinks);
   }
-
-  const uniquedLinks = new Set(links.map(e => e[2]));
-  if (links.length > uniquedLinks.size) {
+  await sleep(1);
+  const uniquedLinks = new Set(items.map(e => e.link));
+  if (items.length > uniquedLinks.size) {
     console.error(`\nDouble links were founded!`);
-    console.table(links.map(e => {
-      if (uniquedLinks.has(e[2])) {
-        uniquedLinks.delete(e[2])
+    console.table(items.map(e => {
+      if (uniquedLinks.has(e.link)) {
+        uniquedLinks.delete(e.link)
         return null;
       }
-      return { name: e[1], link: e[2] };
+      return e;
     }).filter(e => e));
   }
 })();

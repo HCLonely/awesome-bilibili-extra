@@ -1,0 +1,394 @@
+- name: BiliRoaming
+  link: yujincheng08/BiliRoaming
+  from: github
+  description: 解除B站客户端番剧区域限制的 Xposed 模块，并且提供其他小功能
+  icon:
+    - kotlin
+- name: LotteryAutoScript
+  link: shanmiteko/LotteryAutoScript
+  from: github
+  description: Bilibili动态抽奖助手
+  icon:
+    - node
+    - exe
+    - docker
+- name: BiliRoaming-PHP-Server
+  link: david082321/BiliRoaming-PHP-Server
+  from: github
+  description: 自建哔哩漫游解析服务器
+  icon:
+    - php
+- name: BiliRoaming-Rust-Server
+  link: pchpub/BiliRoaming-Rust-Server
+  from: github
+  description: 自建哔哩漫游解析服务器
+  icon:
+    - rust
+- name: BiliEmoji
+  link: lrhtony/BiliEmoji
+  from: github
+  description: B站全表情收集，含付费表情
+  icon: []
+- name: biliup_record
+  link: 96bearli/biliup_record
+  from: github
+  description: 对bilibili的up动态留档
+  icon:
+    - py
+- name: bilibili-parse
+  link: injahow/bilibili-parse
+  from: github
+  description: bilibili 视频解析 API
+  icon:
+    - php
+- name: BiliMessengerElectron
+  link: Xinrea/BiliMessengerElectron
+  from: github
+  description: Bilibili 舰长私信群发助手
+  icon:
+    - vue
+- name: bilimini
+  link: chitosai/bilimini
+  from: github
+  description: 藏起来！哔哩哔哩
+  icon:
+    - node
+    - exe
+- name: bilibili-skin
+  link: Rovniced/bilibili-skin
+  from: github
+  description: 哔哩哔哩个性装扮主题
+  icon: []
+- name: BilibiliFork
+  link: gitofleonardo/BilibiliFork
+  from: github
+  description: 一款用于将他人的番剧列表导入自己的帐号的小工具
+  icon:
+    - kotlin
+- name: BiliBili-favorites-list-saver
+  link: Moemu/BiliBili-favorites-list-saver
+  from: github
+  description: B站收藏夹列表保存程序
+  icon:
+    - py
+- name: bilibili_unread
+  link: powersee/bilibili_unread
+  from: github
+  description: B站未读消息提示器
+  icon:
+    - py
+- name: bili-short-url
+  link: xlzy520/bili-short-url
+  from: github
+  description: 哔哩哔哩短链生成器，将B站站内链接转化为Bilibili短链
+  icon:
+    - js
+- name: BilibiliTranscoding
+  link: givemefivw/BilibiliTranscoding
+  from: github
+  description: Bilibili视频转码，无需登录即可观看高清画质
+  icon:
+    - py
+- name: bilibili_dynamic_lottery
+  link: hexie2108/bilibili_dynamic_lottery
+  from: github
+  description: B站动态转发抽奖小程序
+  icon:
+    - node
+- name: bilibili_draw
+  link: Ikaros-521/bilibili_draw
+  from: github
+  description: 为up主们提供的b站抽奖脚本，脚本由JS编写
+  icon:
+    - js
+- name: biliroaming-go-server
+  link: JasonKhew96/biliroaming-go-server
+  from: github
+  description: 自建哔哩漫游解析服务器
+  icon:
+    - go
+    - docker
+- name: puppeteer-bilibili-up-dynamic
+  link: uyoungco/puppeteer-bilibili-up-dynamic
+  from: github
+  description: bilibili UP主动态截图工具
+  icon:
+    - js
+    - docker
+- name: BiliRaffle
+  link: LeoChen98/BiliRaffle
+  from: github
+  description: B站动态抽奖组件
+  icon:
+    - c#
+    - exe
+- name: bilibili-danmaku-regex
+  link: Mark9804/bilibili-danmaku-regex
+  from: github
+  description: 结合pakku.js使用的自用B站弹幕屏蔽正则
+  icon: []
+- name: BiliCLOnline
+  link: InJeCTrL/BiliCLOnline
+  from: github
+  description: Bilibili评论区第三方抽奖工具
+  icon:
+    - c#
+    - docker
+- name: Tool-Asoul-Music
+  link: sudoskys/Tool-Asoul-Music
+  from: github
+  description: 哔哩哔哩收藏夹提取音频推送到TG频道且支持自动搜索筛选推送
+  icon:
+    - py
+- name: bili-fans-medal-box
+  link: XiaoMiku01/bili-fans-medal-box
+  from: github
+  description: 在 github gist 显示B站粉丝牌等级和进度
+  icon:
+    - py
+- name: bilibili_lottery_dynamic_del
+  link: sandboxdream/bilibili_lottery_dynamic_del
+  from: github
+  description: 将所有b站上转发的已开奖抽奖动态删除
+  icon:
+    - py
+- name: Bilibili-XMLSubtitle-to-ASS
+  link: NaiboWang/Bilibili-XMLSubtitle-to-ASS
+  from: github
+  description: 可视化Bilibili本地视频XML弹幕转换ASS字幕转换器
+  icon:
+    - py
+- name: BIli.Mac.MenuBar
+  link: Richasy/BIli.Mac.MenuBar
+  from: github
+  description: 用于在 Mac OS 的菜单栏显示登录用户的信息及订阅的视频动态
+  icon:
+    - swift
+- name: bilibiliLottery
+  link: silie666/bilibiliLottery
+  from: github
+  description: bilibili活动页抽奖，自动转发动态抽奖
+  icon:
+    - go
+- name: bilibili-stats-badges
+  link: lonelyion/bilibili-stats-badges
+  from: github
+  description: Bilibili状态徽章
+  icon:
+    - js
+- name: bilibiliNoteExport
+  link: fireworks99/bilibiliNoteExport
+  from: github
+  description: B站视频笔记一键导出（pdf）
+  icon:
+    - js
+- name: bilibili-comment2png
+  link: circle-hotaru/bilibili-comment2png
+  from: github
+  description: Bilibili 评论转图片神器
+  icon:
+    - vue
+- name: bili_app_splash
+  link: zjkwdy/bili_app_splash
+  from: github
+  description: B站壁纸娘和开屏图自动下载，每天使用Actions自动同步
+  icon:
+    - py
+- name: bilibili-emotes
+  link: ccmuyuu/bilibili-emotes
+  from: github
+  description: bilibili已发布的表情包
+  icon: []
+- name: bilibili-activity-theme
+  link: xiaofeiTM233/bilibili-newsfeed-theme
+  from: github
+  description: B站动态页主题
+  icon: []
+- name: biliroaming-ts-server-vercel
+  link: bili-vd-bak/biliroaming-ts-server-vercel
+  from: github
+  description: 为BiliRoaming、哔哩UWP 等提供支持。包括支持基本功能、搜索替换、黑白名单的哔哩漫游服务端
+  icon:
+    - ts
+- name: BilibiliFans
+  link: Bernankez/BilibiliFans
+  from: github
+  description: 制作你的粉丝装扮卡片
+  icon:
+    - vue
+- name: BiliLottery
+  link: cicidoll/BiliLottery
+  from: github
+  description: B站动态评论抽奖脚本
+  icon:
+    - py
+- name: bilibili_subscriber
+  link: BeiyanYunyi/bilibili_subscriber
+  from: github
+  description: bilibili 第三方关注系统
+  icon:
+    - dart
+- name: bilibiliplayer
+  link: MotooriKashin/bilibiliplayer
+  from: github
+  description: 旧版Bilibili播放器，使用typescript进行了重构
+  icon:
+    - ts
+- name: Bilibili_video_convert_pdf
+  link: lrzjbyx/Bilibili_video_convert_pdf
+  from: github
+  description: 视频转换成关键帧PDF
+  icon:
+    - py
+- name: bilibili-lottery
+  link: flamego-examples/bilibili-lottery
+  from: github
+  description: 一款支持对哔哩哔哩视频或动态评论进行抽奖的小程序
+  icon:
+    - go
+    - ts
+    - exe
+- name: BiliBili-Lucky-Draw
+  link: rongchenlin/BiliBili-Lucky-Draw
+  from: github
+  description: B站抽奖转发——薅羊毛脚本
+  icon:
+    - py
+- name: bilibili-stats
+  link: zmh-program/bilibili-stats
+  from: github
+  description: 动态生成B站用户简介SVG图像
+  icon:
+    - ts
+- name: bilibili-lucky
+  link: wojiangkuanglong/bilibili-lucky
+  from: github
+  description: B站抽奖脚本
+  icon:
+    - js
+- name: BiliBackup
+  link: Privilege-privacy/BiliBackup
+  from: github
+  description: 自动将 BiliBili (B站) 收藏夹内的视频备份到 OneDrive 或其他云存储
+  icon:
+    - go
+    - docker
+- name: BilibiliUnfollowingListener
+  link: cwuom/BilibiliUnfollowingListener
+  from: github
+  description: 一个由纯JAVA开发的全自动bilibil取关/关注检测程序
+  icon:
+    - jar
+- name: biliSendCommAntifraud
+  link: freedom-introvert/biliSendCommAntifraud
+  from: github
+  description: 哔哩发评反诈
+  icon:
+    - jar
+- name: BiliRecommBehaviorCorrection
+  link: cctyl/BiliRecommBehaviorCorrection
+  from: github
+  description: 纠正bilibili视频推荐倾向
+  icon:
+    - jar
+- name: GPTForBiliBiliLive
+  link: yxc0915/GPTForBiliBiliLive
+  from: github
+  description: GPTForBiliBiliLive是一个由ChatGPT驱动的虚拟主播，可以在Bilibili直播中与观众实时互动
+  icon:
+    - py
+- name: bili-blocklist-sync
+  link: jerryshell/bili-blocklist-sync
+  from: github
+  description: 哔哩哔哩黑名单同步工具
+  icon:
+    - rust
+- name: bilibilijson2srt
+  link: QwQIsHidden/bilibilijson2srt
+  from: github
+  description: 将Bilibili的CC字幕（JSON格式）文件转换为srt
+  icon:
+    - c++
+    - exe
+- name: qtmdBili
+  link: xvhuan/qtmdBili
+  from: github
+  description: 收集哔哩哔哩中的各种营销号，然后一键拉黑
+  icon:
+    - js
+- name: BiliUniverse
+  link: BiliUniverse/Universe
+  from: github
+  description: 哔哩哔哩流媒体平台功能增强系列模块
+  icon:
+    - js
+- name: biliTickerBuy
+  link: mikumifa/biliTickerBuy
+  from: github
+  description: 开源免费，简单易用，图形界面，速度极快的B站会员购辅助工具
+  icon:
+    - py
+    - exe
+    - docker
+- name: bilibili-comment-cleaning
+  link: Initsnow/bilibili-comment-cleaning
+  from: github
+  description: BiliBili 删除历史评论
+  icon:
+    - rust
+    - exe
+    - cli
+- name: Bili_Ticket_Monitor
+  link: TaiMiao/Bili_Ticket_Monitor
+  from: github
+  description: 实时监测B站Bilibili会员购各种漫展开票、放票、回流票状态脚本(无抢票功能)
+  icon:
+    - py
+    - cli
+- name: bilibili-backup
+  link: hzhilong/bilibili-backup
+  from: github
+  description: 一键对B站账号进行数据备份和还原，方便账号数据迁移/快速转生(哗哩哗哩 bilibili)
+  icon:
+    - jar
+    - cli
+- name: bilibili-quiz-slover
+  link: yuvenhol/bilibili-quiz-slover
+  from: github
+  description: bilibili 自动解答工具
+  icon:
+    - py
+    - cli
+- name: bilibili_senior_llm
+  link: JavaZeroo/bilibili_senior_llm
+  from: github
+  description: b站硬核会员考试llm自动答题
+  icon:
+    - py
+- name: BiliShareMall
+  link: mikumifa/BiliShareMall
+  from: github
+  description: 图形化 B站 会员购 魔力赏 市集 爬虫 搜索 脚本
+  icon:
+    - ts
+    - exe
+- name: bilibili-viewcount-booster
+  link: liqwang/bilibili-viewcount-booster
+  from: github
+  description: B站刷播放量脚本
+  icon:
+    - py
+    - exe
+- name: bili-hardcore
+  link: Karben233/bili-hardcore
+  from: github
+  description: B 站硬核会员自动答题工具，利用 LLM 实现智能答题功能
+  icon:
+    - py
+    - exe
+- name: BiliRaku
+  link: SkyBlue997/BiliRaku
+  from: github
+  description: 基于B站API和DeepSeek的硬核会员自动答题工具
+  icon:
+    - py

@@ -1,0 +1,210 @@
+- name: Bilibili-helper
+  link: cssxsh/bilibili-helper
+  from: github
+  description: 基于 Mirai Console 的 哔哩哔哩 订阅插件
+  icon:
+    - kotlin
+- name: HarukaBot
+  link: SK-415/HarukaBot
+  from: github
+  description: 将 B 站的动态和直播信息推送至 QQ，基于 NoneBot2 开发
+  icon:
+    - py
+- name: Nonebot_plugin_analysis_bilibili
+  link: mengshouer/nonebot_plugin_analysis_bilibili
+  from: github
+  description: NoneBot bilibili视频、番剧解析插件
+  icon:
+    - py
+- name: Bilibili-dynamic-mirai-plugin
+  link: Colter23/bilibili-dynamic-mirai-plugin
+  from: github
+  description: 低延迟检测B站动态/直播的mirai-console插件
+  icon:
+    - kotlin
+- name: nonebot_plugin_bilibilibot
+  link: TDK1969/nonebot_plugin_bilibilibot
+  from: github
+  description: 基于Nonebot2的bilibili通知插件，可将up主，主播以及番剧的更新/直播动态推送到QQ
+  icon:
+    - py
+- name: Bilibili-Notification
+  link: cnscj/Bilibili-Notification
+  from: github
+  description: 检测指定B站Up主动态，直播状态并进行推送
+  icon:
+    - py
+- name: bilibili_api
+  link: xiaokexiang/bilibili_api
+  from: github
+  description: 基于Python对B站UP发布的动态进行推送的小程序
+  icon:
+    - py
+- name: nonebot_plugin_biliav
+  link: knva/nonebot_plugin_biliav
+  from: github
+  description: NoneBot biliav小程序 查看插件
+  icon:
+    - py
+- name: mirai-plugins-bilibili
+  link: Nekoer/mirai-plugins-bilibili
+  from: github
+  description: BiliBili推送
+  icon:
+    - kotlin
+- name: SagumeAutomata
+  link: OhnkytaBlabdey/SagumeAutomata
+  from: github
+  description: OneBot based QQ bot 订阅B站视频，直播，动态
+  icon:
+    - ts
+- name: vup_monitors
+  link: eric2788/vup_monitors
+  from: github
+  description: 高亮个别用户弹幕+捕捉进入直播间 QQ 机器人版
+  icon:
+    - js
+    - exe
+    - docker
+- name: nonebot-plugin-bilicover
+  link: A-kirami/nonebot-plugin-bilicover
+  from: github
+  description: nonebot2的提取B站视频封面插件
+  icon:
+    - py
+- name: BotBiliBili
+  link: Coloryr/BotBiliBili
+  from: github
+  description: 一个基于 ColorMirai 的B站机器人
+  icon:
+    - c#
+    - exe
+- name: bilibili-live-push-qq
+  link: xuejianxianzun/bilibili-live-push-qq
+  from: github
+  description: 监控哔哩哔哩 bilibili 直播间状态，发送提醒到QQ（群）
+  icon:
+    - node
+- name: bili-notice-hoshino
+  link: kushidou/bili-notice-hoshino
+  from: github
+  description: 一个Hoshinobot插件，可以获得B站up主最新的动态并推送到QQ群中
+  icon:
+    - py
+- name: BilibiliBOT-1
+  link: catandA/BilibiliBOT-1
+  from: github
+  description: 哔哩视频推荐机器人
+  icon:
+    - jar
+- name: nonebot_plugin_bilibili_viode
+  link: ASTWY/nonebot_plugin_bilibili_viode
+  from: github
+  description: 将用户发送的B站视频ID转为(伪)分享卡片的形式
+  icon:
+    - py
+- name: bilivedioSnap
+  link: Arisuakip/bilivedioSnap
+  from: github
+  description: HoshinoBot插件,把群友的哔哩哔哩小程序转成预览图
+  icon:
+    - py
+- name: bili_dynamic_push
+  link: nfe-w/bili_dynamic_push
+  from: github
+  description: UP主动态、直播间开播检测与推送
+  icon:
+    - py
+- name: nonebot_plugin_searchBiliInfo
+  link: Ikaros-521/nonebot_plugin_searchBiliInfo
+  from: github
+  description: 适用于nonebot2 v11的b站用户粉丝、舰团信息查询插件
+  icon:
+    - py
+- name: nonebot_plugin_BiliRequestAll
+  link: Shadow403/nonebot_plugin_BiliRequestAll
+  from: github
+  description: 以B站UID审核入群（分群管理）
+  icon:
+    - py
+- name: telegram-bili-feed-helper
+  link: simonsmh/telegram-bili-feed-helper
+  from: github
+  description: Telegram bot for Bili Feed Helper
+  icon:
+    - py
+- name: discord-bilibili-embed
+  link: azusemst/discord-bilibili-embed
+  from: github
+  description: 功能完全的b站-discord机器人
+  icon:
+    - js
+- name: nonebot-plugin-bilichat
+  link: Well2333/nonebot-plugin-bilichat
+  from: github
+  description: 一个通过 OpenAI 来对b站视频进行总结的多功能B站解析插件
+  icon:
+    - py
+- name: nonebot_plugin_bilifan
+  link: Agnes4m/nonebot_plugin_bilifan
+  from: github
+  description: 基于nonebot2的插件，刷b站直播间牌子
+  icon:
+    - py
+- name: bilibili-live-dm-qq-bot
+  link: FEINIAO233/bilibili-live-dm-qq-bot
+  from: github
+  description: 哔哩哔哩直播弹幕获取（QQ频道机器人）
+  icon:
+    - py
+- name: Bilibili-QQ-BOT
+  link: keithfeng425/Bilibili-QQ-BOT
+  from: github
+  description: 自动转发B站用户的动态和直播开播下播提醒到QQ群
+  icon:
+    - jar
+- name: worker-bilibili-discord
+  link: UnluckyNinja/worker-bilibili-discord
+  from: github
+  description: 利用Cloudflare Worker监测B站用户动态并推送到Discord中
+  icon:
+    - ts
+- name: bilibili-live-notification
+  link: NateScarlet/bilibili-live-notification
+  from: github
+  description: B 站直播事件 webhook 和开播邮件提醒
+  icon:
+    - py
+    - docker
+- name: nonebot-plugin-bilibili-yuan
+  link: mengxinyuan638/nonebot-plugin-bilibili-yuan
+  from: github
+  description: 一个支持q群登录哔哩哔哩的nonebot插件
+  icon:
+    - py
+- name: BiliBili_Livestream_Reminder
+  link: hydrotho/BiliBili_Livestream_Reminder
+  from: github
+  description: 一款监控哔哩哔哩直播间并通过 Telegram 机器人发送通知的工具
+  icon:
+    - py
+    - docker
+- name: BiliRoamingX
+  link: BiliRoamingX/BiliRoamingX
+  from: github
+  description: 基于 ReVanced 实现的B站 Android 客户端增强模块
+  icon:
+    - jar
+- name: biliMessagePush
+  link: Siroine/biliMessagePush
+  from: github
+  description: 一款监控B站私信并推送消息提醒的软件
+  icon:
+    - py
+    - exe
+- name: QChatGPT_Plugin_Dynamic_Bilibili
+  link: zzseki/QChatGPT_Plugin_Dynamic_Bilibili
+  from: github
+  description: 一个QChatGPT的插件，获取up主动态和直播开播提示，bot会以图片的方式进行通知
+  icon:
+    - py

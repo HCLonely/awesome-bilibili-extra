@@ -1,0 +1,116 @@
+name: 推荐新项目
+description: 推荐一个新的项目
+title: "[New Item]: "
+labels: ["new"]
+body:
+  - type: markdown
+    attributes:
+      value: 感谢您的贡献！
+  - type: input
+    id: name
+    attributes:
+      label: 项目名称
+      description: 请输入项目名称
+    validations:
+      required: true
+  - type: dropdown
+    id: type
+    attributes:
+      label: 项目分类
+      description: 请选择项目类别
+      options:
+        - 浏览器扩展-全站扩展
+        - 浏览器扩展-主站扩展
+        - 浏览器扩展-直播扩展
+        - 篡改猴脚本-全站脚本
+        - 篡改猴脚本-主站脚本
+        - 篡改猴脚本-直播脚本
+        - 下载工具
+        - 直播相关工具
+        - UP 工具
+        - 开发
+        - 第三方客户端
+        - 每日任务
+        - 监控与推送
+        - 数据分析
+        - 相关插件
+        - 其他
+      default: 0
+    validations:
+      required: true
+  - type: input
+    id: link
+    attributes:
+      label: 项目地址
+      description: 请输入项目地址
+    validations:
+      required: true
+  - type: input
+    id: description
+    attributes:
+      label: 项目描述
+      description: 请输入项目描述
+    validations:
+      required: true
+  - type: dropdown
+    id: from
+    attributes:
+      label: 项目来源
+      description: 请选择项目来源
+      options:
+        - github
+        - greasyfork
+        - other
+      default: 0
+    validations:
+      required: false
+  - type: dropdown
+    id: language
+    attributes:
+      label: 主要语言
+      description: 请选择主要使用的编程语言/框架
+      options:
+        - label: None
+        - label: Python
+        - label: Vue
+        - label: TypeScript
+        - label: NodeJs
+        - label: JavaScript
+        - label: SpringBoot
+        - label: Java
+        - label: C#
+        - label: C++
+        - label: C
+        - label: PHP
+        - label: Rust
+        - label: Shell
+        - label: Kotlin
+        - label: Svelte
+        - label: Swift
+        - label: Kotlin
+        - label: Go
+      default: 0
+    validations:
+      required: false
+  - type: checkboxes
+    id: icons
+    attributes:
+      label: 其他标志
+      description: 请选择运行方式/平台
+      options:
+        - label: Web
+          required: false
+        - label: Windows
+          required: false
+        - label: Linux
+          required: false
+        - label: Android
+          required: false
+        - label: MacOS
+          required: false
+        - label: Cli
+          required: false
+        - label: Docker
+          required: false
+    validations:
+      required: false

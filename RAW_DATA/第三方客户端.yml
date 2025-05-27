@@ -1,0 +1,313 @@
+- name: react-bilibili
+  link: dxx/react-bilibili
+  from: github
+  description: 高仿B站web移动端
+  icon:
+    - node
+    - android
+- name: fake_bilibili
+  link: Mioayaya/fake_bilibili
+  from: github
+  description: kotlin仿哔哩哔哩动画app
+  icon:
+    - kotlin
+    - android
+- name: Bili.Uwp
+  link: Richasy/Bili.Uwp
+  from: github
+  description: 适用于新系统UI的第三方哔哩哔哩UWP客户端
+  icon:
+    - c#
+    - exe
+- name: biliuwp-lite
+  link: xiaoyaocz/biliuwp-lite
+  from: github
+  description: 第三方哔哩哔哩UWP客户端
+  icon:
+    - c#
+    - exe
+- name: BilibiliHD2
+  link: duzhaokun123/BilibiliHD2
+  from: github
+  description: 非官方哔哩哔哩客户端
+  icon:
+    - kotlin
+    - android
+- name: BilibiliLiveTV
+  link: MUedsa/BilibiliLiveTV
+  from: github
+  description: 哔哩哔哩直播 Android TV APP
+  icon:
+    - jar
+    - android
+- name: bilimiao2
+  link: 10miaomiao/bilimiao2
+  from: github
+  description: bilimiao，拓展b站客户端没有的功能
+  icon:
+    - kotlin
+    - android
+- name: BiliData
+  link: TANGhz17/BiliData
+  from: github
+  description: 一个获取哔哩哔哩 视频&up主&热门排行榜等信息的APP
+  icon:
+    - kotlin
+    - android
+- name: bilibili-linux
+  link: msojocs/bilibili-linux
+  from: github
+  description: 基于哔哩哔哩官方客户端修改的Linux版本
+  icon:
+    - node
+    - exe
+    - linux
+- name: bilibili-ports
+  link: reekystive/bilibili-ports
+  from: github
+  description: 哔哩哔哩官方客户端移植
+  icon:
+    - ts
+    - exe
+    - linux
+    - mac
+- name: vue3-vant4-bilibili
+  link: chunxiao01/vue3-vant4-bilibili
+  from: github
+  description: 基于Vue3.x和Vant4.x模仿bilibili小程序
+  icon:
+    - vue
+- name: bilibili
+  link: minured/bilibili
+  from: github
+  description: b站移动端
+  icon:
+    - vue
+    - web
+- name: bilibili
+  link: hdtls/bilibili
+  from: github
+  description: 基于Flutter的b站客户端
+  icon:
+    - flutter
+    - ios
+- name: bilibili
+  link: YeZC/bilibili
+  from: github
+  description: 高仿Bilibili
+  icon:
+    - kotlin
+    - android
+- name: BiliHub
+  link: LeonNOV/BiliHub
+  from: github
+  description: B站第三方客户端
+  icon:
+    - kotlin
+    - android
+- name: bilibili-console
+  link: 12345-mcpython/bilibili-console
+  from: github
+  description: Bilibili命令行客户端
+  icon:
+    - py
+    - cli
+- name: ATV-Bilibili-demo
+  link: yichengchen/ATV-Bilibili-demo
+  from: github
+  description: BiliBili tvOS 客户端 Demo
+  icon:
+    - swift
+    - android
+- name: wiliwili
+  link: xfangfang/wiliwili
+  from: github
+  description: 专为手柄控制设计的第三方跨平台B站客户端，目前可以运行在PC全平台和Nintendo Switch上
+  icon:
+    - c++
+    - exe
+    - linux
+    - mac
+- name: bv
+  link: aaa1115910/bv
+  from: github
+  description: 哔哩哔哩 的第三方 Android TV 应用
+  icon:
+    - kotlin
+    - android
+- name: BBLL
+  link: xiaye13579/BBLL
+  from: github
+  description: 一个第三方哔哩哔哩TV和Pad客户端
+  icon:
+    - android
+- name: bili_you
+  link: lucinhu/bili_you
+  from: github
+  description: 一个用flutter制作的第三方B站客户端
+  icon:
+    - dart
+    - android
+    - linux
+- name: BiliStart
+  link: BlameTwo/BiliStart
+  from: github
+  description: B站第三方客户端
+  icon:
+    - c#
+- name: BilibiliTv
+  link: peacefulprogram/BilibiliTv
+  from: github
+  description: B站第三方客户端
+  icon:
+    - kotlin
+    - android
+- name: bilibilitv1.6.6-repair
+  link: qidian55/bilibilitv1.6.6-repair
+  from: github
+  description: 尝试修复经典的 bilibili tv 1.6.6 版本
+  icon:
+    - kotlin
+    - android
+- name: WristBilibili
+  link: luern0313/WristBilibili
+  from: github
+  description: 腕上哔哩，在智能手表上集成一个有简单功能的b站客户端
+  icon:
+    - jar
+- name: biliuwp-lite
+  link: ywmoyue/biliuwp-lite
+  from: github
+  description: 哔哩哔哩UWP Lite
+  icon:
+    - c#
+    - exe
+- name: BiliSpirit
+  link: JamesBaiJun/BiliSpirit
+  from: github
+  description: WPF B站(Bilibili)工具，查看热门视频，动态，及历史记录等功能
+  icon:
+    - c#
+    - web
+- name: TikBili
+  link: todo-proj/TikBili
+  from: github
+  description: 用刷抖音的方法刷B站视频
+  icon:
+    - kotlin
+    - android
+- name: BiliMusic
+  link: zsakvo/BiliMusic
+  from: github
+  description: 一个基于 Flutter 实现，使用哔哩哔哩作为音频源的音乐播放器
+  icon:
+    - flutter
+    - exe
+    - mac
+- name: 哔哩助理
+  link: Richasy/Bili.Copilot
+  from: github
+  description: 哔哩哔哩用户的个人助理
+  icon:
+    - c#
+    - exe
+- name: Bibi-Release
+  link: cotaku/Bibi-Release
+  from: github
+  description: UWP版哔哩哔哩
+  icon:
+    - exe
+- name: bili-down-out
+  link: 10miaomiao/bili-down-out
+  from: github
+  description: 哔哩哔哩缓存导出工具
+  icon:
+    - kotlin
+    - android
+- name: pilipala
+  link: guozhigq/pilipala
+  from: github
+  description: PiliPala 是使用Flutter开发的BiliBili第三方客户端
+  icon:
+    - flutter
+    - android
+- name: Re-WearBili
+  link: SpaceXC/Re-WearBili
+  from: github
+  description: 一个手表上的第三方Bilibili客户端
+  icon:
+    - kotlin
+- name: Darock-Bili
+  link: Darock-Studio/Darock-Bili
+  from: github
+  description: Apple Watch 上的B站客户端
+  icon:
+    - swift
+- name: BiliNeo
+  link: Predidit/BiliNeo
+  from: github
+  description: 又一个第三方 Bilibili 客户端，支持 Android 和 Windows
+  icon:
+    - flutter
+    - exe
+    - android
+- name: azusa-player-mobile
+  link: lovegaoshi/azusa-player-mobile
+  from: github
+  description: 移动端的第三方b站音乐播放器
+  icon:
+    - ts
+    - android
+- name: BiliClient
+  link: huanli233/BiliClient
+  from: github
+  description: 一个简单的、具有基本功能的第三方B站客户端，可用于安卓手表或其它低配置的安卓设备，支持安卓4.2以上
+  icon:
+    - jar
+    - android
+- name: BiliStart.WinUI3
+  link: BlameTwo/BiliStart.WinUI3-Preview
+  from: github
+  description: BiliStart的衍生版本，为 BiliBili 网站的第三方Windows本地客户端
+  icon:
+    - c#
+    - exe
+- name: HyperBilibili
+  link: Searchstars/HyperBilibili
+  from: github
+  description: 在Vela嵌入式设备上基于QuickApp实现的第三方B站客户端
+  icon:
+    - ts
+    - android
+- name: bilibilitv
+  link: zackaryhuang/bilibilitv
+  from: github
+  description: bilibili for Apple TV
+  icon:
+    - swift
+- name: bili-fm
+  link: vst93/bili-fm
+  from: github
+  description: 通过音频来听B站节目，你可以把它作为一个音乐播放器，也可以用来作为知识学习的工具
+  icon:
+    - ts
+    - exe
+- name: BiliTerminal2
+  link: Re-BiliTerminal/BiliTerminal2
+  from: github
+  description: 轻量的安卓第三方B站客户端，哔哩终端的Fork
+  icon:
+    - jar
+- name: Bilibili
+  link: keluokeda/Bilibili
+  from: github
+  description: Bilibili第三方客户端，支持手机和tv
+  icon:
+    - kotlin
+    - android
+- name: MeowBili-For-Zepp-OS
+  link: tiqwq/MeowBili-For-Zepp-OS
+  from: github
+  description: A BiliBili jsapp for Amazfit Zepp OS
+  icon:
+    - js

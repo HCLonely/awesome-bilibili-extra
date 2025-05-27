@@ -1,0 +1,42 @@
+- name: 哔哩哔哩助手
+  link: bilibili-helper/bilibili-helper-o
+  from: github
+  description: 哔哩哔哩弹幕网辅助扩展，拥有视频区和直播区的人性化功能.
+  icon:
+    - js
+- name: bilibili-img-uploader
+  link: xlzy520/bilibili-img-uploader
+  from: github
+  description: 哔哩哔哩图床上传、短链转换插件.
+  icon:
+    - vue
+- name: tun-bili-tool
+  link: tuntun0609/tun-bili-tool
+  from: github
+  description: bilibili网页优化插件.
+  icon:
+    - ts
+- name: bilibili-dark-mode
+  link: flanker/bilibili-dark-mode
+  from: github
+  description: 一个浏览器插件，可以让 bilibili.com 进入夜间模式.
+  icon:
+    - ts
+- name: biliscope
+  link: gaogaotiantian/biliscope
+  from: github
+  description: 在B站的任何网页轻松查询任何出现的UP的详细信息.
+  icon:
+    - js
+- name: BiliChrome
+  link: EZ118/BiliChrome
+  from: github
+  description: 第三方哔哩哔哩客户端Chrome插件.
+  icon:
+    - js
+- name: BiliBili-To-English
+  link: LazyScar/BiliBili-To-English
+  from: github
+  description: Translate BiliBili To English.
+  icon:
+    - js

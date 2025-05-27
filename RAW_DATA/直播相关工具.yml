@@ -1,0 +1,578 @@
+- name: Bilibili-live-tools
+  link: Dawnnnnnn/bilibili-live-tools
+  from: github
+  description: python实现的哔哩哔哩直播助手
+  icon:
+    - py
+    - exe
+    - docker
+- name: BililiveRecorder
+  link: BililiveRecorder/BililiveRecorder
+  from: github
+  description: 哔哩哔哩直播录制工具
+  icon:
+    - c#
+    - cli
+- name: DD_Monitor
+  link: zhimingshenjun/DD_Monitor
+  from: github
+  description: DD监控室
+  icon:
+    - py
+    - exe
+- name: DD_Monitor-android-kotlin
+  link: congHu/DD_Monitor-android-kotlin
+  from: github
+  description: DD监控室安卓版
+  icon:
+    - kotlin
+- name: Blivechat
+  link: xfgryujk/blivechat
+  from: github
+  description: 用于OBS的仿YouTube风格的哔哩哔哩直播评论栏
+  icon:
+    - node
+    - py
+    - exe
+    - docker
+- name: Comen
+  link: 3Shain/Comen
+  from: github
+  description: 直播用弹幕栏
+  icon:
+    - ts
+- name: Bilibili-MagicalDanmaku
+  link: iwxyi/Bilibili-MagicalDanmaku
+  from: github
+  description: 哔哩哔哩直播万能机器人，弹幕姬+答谢姬+回复姬+点歌姬+...
+  icon:
+    - c#
+    - exe
+- name: Bilibili_Danmuji
+  link: BanqiJane/Bilibili_Danmuji
+  from: github
+  description: B 站直播礼物答谢、定时广告、关注感谢，自动回复工具，房管工具，自动打卡
+  icon:
+    - jar
+    - exe
+- name: BilibiliLiveRecordDownLoader
+  link: HMBSbige/BilibiliLiveRecordDownLoader
+  from: github
+  description: 哔哩哔哩直播录制与回放下载
+  icon:
+    - c#
+    - exe
+- name: DDTV
+  link: CHKZL/DDTV
+  from: github
+  description: 可进行哔哩哔哩直播开播提醒、自动录制、在线播放、合并、转码、上传的跨平台部署工具
+  icon:
+    - c#
+    - exe
+- name: StreamerHelper
+  link: ZhangMingZhao1/StreamerHelper
+  from: github
+  description: 全平台主播录制工具 & 自动投稿B站
+  icon:
+    - ts
+    - docker
+- name: Bili2.0
+  link: yjqiang/bili2.0
+  from: github
+  description: Python3 实现的 Bilibili 直播助手
+  icon:
+    - py
+    - docker
+- name: Bilibili-dd-monitor
+  link: dd-center/bilibili-dd-monitor
+  from: github
+  description: 专为DD设计的多屏直播观看工具
+  icon:
+    - vue
+    - exe
+- name: Blrec
+  link: acgnhiki/blrec
+  from: github
+  description: 哔哩哔哩直播录制工具
+  icon:
+    - py
+    - exe
+    - cli
+    - docker
+- name: Bilive-danmaku
+  link: Beats0/bilive-danmaku
+  from: github
+  description: 哔哩哔哩直播弹幕姬(非官方)，支持win和mac
+  icon:
+    - ts
+    - exe
+- name: Bililive-go
+  link: hr3lxphr6j/bililive-go
+  from: github
+  description: Bililive-go 是一个支持多种直播平台的直播录制工具
+  icon:
+    - go
+    - cli
+    - docker
+- name: DDRecorder
+  link: AsaChiri/DDRecorder
+  from: github
+  description: Headless全自动B站直播录播、切片、上传一体工具
+  icon:
+    - py
+    - exe
+    - docker
+- name: Bilibili-live-helper
+  link: LiangYuxuan/bilibili-live-helper
+  from: github
+  description: Bilibili直播相关自动化脚本
+  icon:
+    - ts
+- name: BiliBiliSongHime
+  link: SoingSaika/BiliBiliSongHime
+  from: github
+  description: 哔哩哔哩直播点歌姬
+  icon:
+    - jar
+- name: Bilibili-live
+  link: filwsx/Bilibili-live
+  from: github
+  description: 哔哩哔哩直播下载与监听
+  icon:
+    - py
+- name: bilibili-live-chat
+  link: Tsuk1ko/bilibili-live-chat
+  from: github
+  description: 无后端的仿 YouTube Live Chat 风格的简易 Bilibili 弹幕姬
+  icon:
+    - vue
+- name: biliroku
+  link: zyzsdy/biliroku
+  from: github
+  description: bilibili 生放送（直播）录制
+  icon:
+    - c#
+    - exe
+- name: bilibili-live-helper
+  link: pandaGao/bilibili-live-helper
+  from: github
+  description: Bilibili直播弹幕库 for Mac / Windows / Linux
+  icon:
+    - vue
+    - exe
+- name: bili_danmu
+  link: qydysky/bili_danmu
+  from: github
+  description: bili直播弹幕机
+  icon:
+    - go
+    - cli
+- name: BiliBiliLiveAutoRec
+  link: qiaoshouzi/BiliBiliLiveAutoRec
+  from: github
+  description: 自动录播脚本
+  icon:
+    - py
+- name: biligo-live-ws
+  link: eric2788/biligo-live-ws
+  from: github
+  description: B站直播 WebSocket 监控服务器
+  icon:
+    - go
+    - docker
+- name: bilibili_danmaku
+  link: windowsair/bilibili_danmaku
+  from: github
+  description: 直播弹幕渲染工具
+  icon:
+    - c++
+    - cli
+- name: BilibiliLiveTools
+  link: withsalt/BilibiliLiveTools
+  from: github
+  description: Bilibili直播工具，自动登录并获取推流地址
+  icon:
+    - c#
+    - cli
+- name: BilibiliDanMu
+  link: Kurris/BilibiliDanMu
+  from: github
+  description: bilibili 弹幕工具
+  icon:
+    - c#
+    - docker
+- name: BililiveAutoDanmaku
+  link: lxfly2000/BililiveAutoDanmaku
+  from: github
+  description: B站直播自动弹幕机
+  icon:
+    - jar
+- name: BliveCharts
+  link: Seyyu0015/BliveCharts
+  from: github
+  description: OBS用直播插件，直播观众贡献排行榜
+  icon:
+    - py
+- name: bilibili-live-stream
+  link: ikexing-cn/bilibili-live-stream
+  from: github
+  description: 一个很简单的获取bilibili直播流的小工具
+  icon:
+    - go
+    - cli
+- name: BiliLiveChat
+  link: BanqiJane/BiliLiveChat
+  from: github
+  description: 纯前端网页简易B站弹幕姬，并带语音读弹幕
+  icon:
+    - js
+- name: BILiveChat.js
+  link: XL8Z/BiliBili_BiLiveChat.js
+  from: github
+  description: 基于PlayWithMe_JS二次开发的纯前端弹幕展示板
+  icon:
+    - js
+- name: bililive_dm
+  link: copyliu/bililive_dm
+  from: github
+  description: B站直播弹幕工具
+  icon:
+    - c#
+    - exe
+- name: bilibili-recording-go
+  link: DarrenIce/bilibili-recording-go
+  from: github
+  description: 哔哩哔哩录播机
+  icon:
+    - go
+- name: bili-recorder
+  link: chocotan/bili-recorder
+  from: github
+  description: 这是一个bilibili直播录制工具
+  icon:
+    - jar
+- name: BililiveRecorder-WebUI
+  link: BililiveRecorder/BililiveRecorder-WebUI
+  from: github
+  description: B站录播姬的管理网页
+  icon:
+    - vue
+- name: bilistream
+  link: limitcool/bilistream
+  from: github
+  description: B站直播转播工具,一键转播Youtube,Twitch,Mildom等直播
+  icon:
+    - rust
+- name: blive-ws
+  link: champkeh/blive-ws
+  from: github
+  description: B站直播间实时弹幕采集
+  icon:
+    - node
+- name: biliVTS
+  link: TenyaChannel/biliVTS
+  from: github
+  description: 在bilibili直播间使用弹幕控制l2d模型
+  icon:
+    - py
+- name: BiliRec
+  link: REV-Unit/BiliRec
+  from: github
+  description: 一个能够录制B站直播的工具
+  icon:
+    - kotlin
+- name: BiliLive
+  link: See-Night/BiliLive
+  from: github
+  description: bilibili直播录播工具
+  icon:
+    - py
+- name: Bilibili_GetReceivedGiftStream
+  link: boxie123/Bilibili_GetReceivedGiftStream
+  from: github
+  description: 登录并获取bilibili礼物流水统计表格
+  icon:
+    - py
+- name: bilibili-ordersong-plugin
+  link: xiaoan-1/bilibili-ordersong-plugin
+  from: github
+  description: b站直播姬点歌插件
+  icon:
+    - js
+- name: bilibili-live-danmu-rs
+  link: JmPotato/bilibili-live-danmu-rs
+  from: github
+  description: Bilibili 直播间弹幕命令行工具
+  icon:
+    - rust
+    - cli
+- name: bilibili_live_tui
+  link: yaocccc/bilibili_live_tui
+  from: github
+  description: 终端下使用的bilibili弹幕获取和弹幕发送服务
+  icon:
+    - go
+    - xli
+- name: bili_live_tui
+  link: shr-go/bili_live_tui
+  from: github
+  description: 一个用于黑听bilibili的tui客户端，支持跨平台
+  icon:
+    - go
+- name: biliRecorder
+  link: summerkirakira/biliRecorder
+  from: github
+  description: 全自动监听、录制、投稿B站直播，并为录制文件添加ass弹幕
+  icon:
+    - py
+    - docker
+- name: bilicli
+  link: ddiu8081/bilicli
+  from: github
+  description: 终端里的 Bilibili 弹幕仪表盘
+  icon:
+    - vue
+    - cli
+- name: BiliDown
+  link: Nemo2011/BiliDown
+  from: github
+  description: 哔哩哔哩命令行下载器
+  icon:
+    - py
+    - cli
+- name: Bilibili-Live-Danmaku-vscode
+  link: Discreater/Bilibili-Live-Danmaku-vscode
+  from: github
+  description: VSCode 的 B站弹幕机
+  icon:
+    - ts
+- name: Bilibili_Song_Player
+  link: mk-ling/Bilibili_Song_Player
+  from: github
+  description: 利用Selenium操控Chrome的直播点歌软件
+  icon:
+    - py
+- name: Bililiveauto
+  link: Moraxyc/Bililiveauto
+  from: github
+  description: 兼容哔哩哔哩录播姬的自动转封装、自动上传、弹幕转码脚本
+  icon:
+    - js
+- name: material-douden-tool
+  link: OToNaShiAKi/material-douden-tool
+  from: github
+  description: 采用 Material 设计的向 bilibili 直播间发送 Vtuber 翻译、歌词的弹幕同传工具
+  icon:
+    - vue
+    - exe
+- name: bililive-uploader
+  link: Gliese129/bililive-uploader
+  from: github
+  description: 采自动将B站录播姬录播上传到B站
+  icon:
+    - py
+    - docker
+- name: bili_live_shield_words
+  link: FHChen0420/bili_live_shield_words
+  from: github
+  description: B站直播间弹幕屏蔽字处理
+  icon:
+    - py
+- name: biliLiveNotification
+  link: yunhuanyx/biliLiveNotification
+  from: github
+  description: b站直播开播提醒
+  icon:
+    - py
+    - exe
+- name: OlivaBiliLive
+  link: HsiangNianian/OlivaBiliLive
+  from: github
+  description: 可插件化管理的B站直播间机器人(插件基于OlivOS)
+  icon:
+    - py
+- name: vue-bili-danmaku
+  link: Drelf2018/vue-bili-danmaku
+  from: github
+  description: 基于 Vue3 的b站直播弹幕姬
+  icon:
+    - vue
+- name: bili-bot
+  link: orangelckc/bili-bot
+  from: github
+  description: 哔哩哔哩-直播间管家机器人
+  icon:
+    - ts
+- name: bilive
+  link: Nauxscript/bilive
+  from: github
+  description: 命令行 bilibili 弹幕姬
+  icon:
+    - ts
+- name: BilibiliLiveNotifier_WPF
+  link: ciiim/BilibiliLiveNotifier_WPF
+  from: github
+  description: Bilibili直播通知小工具
+  icon:
+    - c#
+- name: bilibili-live-stream
+  link: Beats0/bilibili-live-stream
+  from: github
+  description: bilibili直播代理转发 + flv.js 拉流播放
+  icon:
+    - js
+- name: BililiveNotification
+  link: Executor-Cheng/BililiveNotification
+  from: github
+  description: 哔哩哔哩直播提醒
+  icon:
+    - c#
+    - exe
+- name: BililiveRecorder.cli-ds
+  link: jkfujr/BililiveRecorder.cli-ds
+  from: github
+  description: 一个用python简单实现的录播姬命令行的信息展示
+  icon:
+    - py
+- name: bilive24h
+  link: x-dr/bilive24h
+  from: github
+  description: b站7 * 24小时的直播
+  icon:
+    - shell
+- name: BiliLive-Auto-Streaming
+  link: KimmyXYC/BiliLive-Auto-Streaming
+  from: github
+  description: 哔哩哔哩自动直播
+  icon:
+    - py
+- name: bili-shadowreplay
+  link: Xinrea/bili-shadowreplay
+  from: github
+  description: bilibili 直播实时切片工具
+  icon:
+    - rust
+- name: bili-live-machine
+  link: phy-lei/bili-live-machine
+  from: github
+  description: bilibili直播姬-弹幕姬
+  icon:
+    - ts
+- name: BililiveRecorder-webhook-docker
+  link: puzzlemoondev/BililiveRecorder-webhook-docker
+  from: github
+  description: docker + webhook 懒人部署B站录播姬并自动化B站投稿、百度云与阿里云上传
+  icon:
+    - py
+    - docker
+- name: BilibiliDanmuRobot
+  link: xbclub/BilibiliDanmuRobot
+  from: github
+  description: bilibili直播弹幕机器人
+  icon:
+    - go
+    - exe
+- name: bilibili-danmu
+  link: jonssonyan/bilibili-danmu
+  from: github
+  description: B站直播弹幕实时显示工具
+  icon:
+    - py
+    - exe
+- name: bilive-oauth2
+  link: shynome/bilive-oauth2
+  from: github
+  description: bilibili直播间弹幕验证
+  icon:
+    - go
+- name: bilibili-live-recorder
+  link: NetherXiaoYu/bilibili-live-recorder
+  from: github
+  description: B站直播间录屏，录制完成后自动打包上传到 OSS
+  icon:
+    - py
+- name: biliLive-tools
+  link: renmu123/biliLive-tools
+  from: github
+  description: B 站录播一站式工具，支持录播姬webhook自动上传
+  icon:
+    - vue
+    - exe
+- name: bilibili_gift_screenshot
+  link: Ikaros-521/bilibili_gift_screenshot
+  from: github
+  description: 用于哔哩哔哩直播时，用户送礼物时触发截图，可自定义截图区域
+  icon:
+    - py
+- name: iceborne
+  link: liuxian496/iceborne
+  from: github
+  description: Iceborne 弹幕播报，是一个简易版的，支持 mac os 系统的弹幕播报应用
+  icon:
+    - ts
+- name: LiveAutoRecord
+  link: WhiteMinds/LiveAutoRecord
+  from: github
+  description: 基于 Electron 的多平台直播自动录制软件
+  icon:
+    - ts
+- name: bilibili-mac
+  link: yielde/bilibili-mac
+  from: github
+  description: bilibili直播mac桌面小软件，手机扫码登录，获取推流码开播下播
+  icon:
+    - c++
+- name: BilibiliLiveMonitorDocker
+  link: LambdaExpression/BilibiliLiveMonitorDocker
+  from: github
+  description: bilibili 直播监控统计
+  icon:
+    - java
+    - docker
+- name: Bilibili-Live-Record
+  link: chandou-code/Bilibili-Live-Record
+  from: github
+  description: HTML+Flask 自动爬取up主的《直播回放》 一键实现已看、撤回、更新、多up录播等功能
+  icon: []
+- name: biliupforjava
+  link: mwxmmy/biliupforjava
+  from: github
+  description: 用于b站录播姬，mikufans录播姬，blrec的， 基于WebHook的全自动上传投稿工具,web页面配置
+  icon:
+    - jar
+    - docker
+- name: BiliLine_GUI
+  link: RemKeeper/BiliLine_GUI
+  from: github
+  description: 哔哩哔哩排队姬GUI版本
+  icon:
+    - go
+    - exe
+- name: bilive
+  link: timerring/bilive
+  from: github
+  description: 7 x 24 小时无人监守录制、渲染弹幕、自动上传，启动项目，人人都是录播员
+  icon:
+    - py
+    - cli
+- name: php-bilibili-danmu
+  link: zxc7563598/php-bilibili-danmu
+  from: github
+  description: B站机器人弹幕监控，礼物答谢、定时广告、关注感谢，自动回复等，PHP版本弹幕姬，基于workman
+  icon:
+    - php
+    - cli
+    - docker
+- name: Bili-LiveLuckDraw
+  link: grtsinry43/Bili-LiveLuckDraw
+  from: github
+  description: 一个 B 站直播抽奖工具，通过获取弹幕关键词进行抽奖
+  icon:
+    - ts
+    - exe
+- name: BiliBili-Live-Recorder
+  link: CNXiaozhiy/BiliBili-Live-Recorder
+  from: github
+  description: 哔哩哔哩全自动直播录制器，支持对接适配器（OneBot协议的QQ机器人）
+  icon:
+    - ts

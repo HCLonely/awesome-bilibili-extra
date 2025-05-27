@@ -1,0 +1,212 @@
+- name: bilibili_master
+  link: dzxmxd/bilibili_master
+  from: github
+  description: 哔哩哔哩排行榜数据分析与可视化
+  icon:
+    - py
+- name: bilibili_Data_Analysis-Clout_Prediction
+  link: RubyRose-TAT/bilibili_Data_Analysis-Clout_Prediction
+  from: github
+  description: B站视频热度预测与分析
+  icon:
+    - py
+- name: Bilibili-monitoring-system-server
+  link: ashaowena/Bilibili-monitoring-system-server
+  from: github
+  description: 仿飞瓜数据监控平台（B站版）
+  icon:
+    - jar
+- name: crawling-bilibili-personal-collect
+  link: cangkongman/crawling-bilibili-personal-collect
+  from: github
+  description: 爬取bilibili的自己账号的收藏夹信息，并转excel储存
+  icon:
+    - py
+- name: BilibiliComments
+  link: Magi2B0y/BilibiliComments
+  from: github
+  description: 基于fasttext对B站评论进行分析
+  icon:
+    - py
+    - js
+- name: BiliBili_Private_Msg
+  link: hd80606b/BiliBili_Private_Msg
+  from: github
+  description: 哔哩哔哩私信导出，同时支持导出已经被撤回的/无法查看的消息
+  icon:
+    - c#
+    - exe
+- name: bilibiliLearningToolCLI
+  link: freysu/bilibiliLearningToolCLI
+  from: github
+  description: B站分 P 视频信息助手
+  icon:
+    - node
+    - cli
+- name: BiliGet
+  link: OtomadWiki/mediawiki-extension-BilibiliInfo
+  from: github
+  description: 用于获取 bilibili 视频信息的 MediaWiki 插件
+  icon:
+    - php
+- name: Bili_Realtime_Data
+  link: CzJam/Bili_Realtime_Data
+  from: github
+  description: Bilibili粉丝与视频实时数据统计
+  icon:
+    - php
+- name: VisualBilibili
+  link: Nomination-NRB/VisualBilibili
+  from: github
+  description: 爬取B站up视频详细信息，并进行可视化
+  icon:
+    - py
+    - js
+- name: BilibiliDanmuCrawler
+  link: vinouno/BilibiliDanmuCrawler
+  from: github
+  description: 弹幕词云生成器
+  icon:
+    - py
+- name: bilibili-barrage-analysis
+  link: moyuweiqing/bilibili-barrage-analysis
+  from: github
+  description: bilibili弹幕分析，包含爬虫、词云分析、词频分析、情感分析、构建衍生指标，可视化
+  icon:
+    - py
+- name: chatBilibili
+  link: jiran214/chatBilibili
+  from: github
+  description: 基于Fastapi 和ChatGPT Embedding，实时生成视频概要，检索上下文视频提问/聊天
+  icon:
+    - py
+- name: bilibiliWordCloud
+  link: MGMCN/bilibiliWordCloud
+  from: github
+  description: 爬取b站番剧短评，利用jieba分词，wordcloud展示
+  icon:
+    - py
+    - docker
+- name: BilibiliCommentScraper
+  link: Ghauster/BilibiliCommentScraper
+  from: github
+  description: B站视频评论爬虫 Bilibili完整爬取评论数据
+  icon:
+    - py
+- name: bilibili-catcher
+  link: ImMappyJ/bilibili-catcher
+  from: github
+  description: B站投稿实时生成图像、根据B站用户生成用户画像、获取视频下载地址的网站
+  icon:
+    - php
+- name: GetBilibiliUserInfo
+  link: cwuom/GetBilibiliUserInfo
+  from: github
+  description: 一个通过Python编写的全自动哔哩哔哩个人信息爬取工具
+  icon:
+    - py
+- name: Bilivideoinfo
+  link: Ghauster/Bilivideoinfo
+  from: github
+  description: Bilibili 视频数据爬虫，能批量爬取指定视频的信息
+  icon:
+    - py
+- name: BiliUserInfo
+  link: Ghauster/BiliUserInfo
+  from: github
+  description: Bilibili 用户精确数据爬虫
+  icon:
+    - py
+- name: bilibili-ctl-web
+  link: ZeroDream-CN/bilibili-ctl-web
+  from: github
+  description: Bilibili 评论管理工具，帮助你自动清理不想要的评论内容，支持关键字、黑名单以及正则表达式匹配
+  icon:
+    - php
+    - exe
+- name: bili2text
+  link: lanbinleo/bili2text
+  from: github
+  description: Bilibili视频转文字，一步到位，输入链接即可使用
+  icon:
+    - py
+    - cli
+- name: BiliMonitor
+  link: 114514ns/BiliMonitor
+  from: github
+  description: b站主播数据监测工具
+  icon:
+    - go
+- name: bilibili-xml
+  link: ltzu929/bilibili-xml
+  from: github
+  description: 弹幕数量可视化，方便切片man知道录播时弹幕热点（路灯）
+  icon:
+    - py
+    - exe
+- name: BiliHistoryFrontend
+  link: 2977094657/BiliHistoryFrontend
+  from: github
+  description: 获取b站历史记录，保存到本地数据库，可下载对应视频及时存档，生成详细的年度总结，自动化任务部署到服务器实现自动同步，以及自动发送日志邮件（前端）
+  icon:
+    - vue
+    - exe
+- name: bilibili-gist-py
+  link: luyanci/bilibili-gist-py
+  from: github
+  description: 将你的b站信息和近期投稿视频更新到你的pinned Gist
+  icon:
+    - py
+- name: bilibili-Recommender
+  link: tLLWtG/bilibili-Recommender
+  from: github
+  description: 一个基于 bilibili 用户行为数据和深度学习的个性化视频推荐系统
+  icon:
+    - py
+- name: biliVideo2article
+  link: w0fv1/biliVideo2article
+  from: github
+  description: 利用哔哩哔哩的 API 获取视频信息和评论，通过 OpenAI 的 API 生成文章，并将生成的文章保存为 Markdown 格式
+  icon:
+    - py
+- name: BiliSpeech2Text
+  link: Frewen/BiliSpeech2Text
+  from: github
+  description: 通过下载视频、提取音频、分割音频，并使用 OpenAI 的 Whisper 模型将语音转换为文本
+  icon:
+    - py
+- name: bilibili-archiver
+  link: XiaoMiku01/bilibili-archiver
+  from: github
+  description: 自动同步B站收藏夹投稿、弹幕、元数据至本地
+  icon:
+    - go
+    - cli
+    - docker
+- name: BilibiliHistoryFetcher
+  link: 2977094657/BilibiliHistoryFetcher
+  from: github
+  description: 该项目用于获取、处理、分析和可视化哔哩哔哩用户的观看历史数据
+  icon:
+    - py
+    - cli
+    - exe
+    - docker
+- name: bilibiliCrawle
+  link: reisen7/bilibiliCrawle
+  from: github
+  description: 这个项目是一个爬虫应用，旨在从B站提取弹幕数据，评论数据
+  icon:
+    - py
+- name: bili2text
+  link: lanbinleo/bili2text
+  from: github
+  description: Bilibili视频转文字，一步到位，输入链接即可使用
+  icon:
+    - py
+- name: bilibili-comment-crawler
+  link: 1dyer/bilibili-comment-crawler
+  from: github
+  description: 用于爬取Bilibili（B站）视频评论的爬虫，支持爬取一级评论及二级回复，并将数据导出为CSV文件
+  icon:
+    - py

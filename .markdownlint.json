@@ -17,9 +17,7 @@
   "MD010": true,
   "MD011": true,
   "MD012": true,
-  "MD013": {
-    "line_length": 250
-  },
+  "MD013": false,
   "MD014": true,
   "MD018": true,
   "MD019": true,

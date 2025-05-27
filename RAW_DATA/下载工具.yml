@@ -1,0 +1,476 @@
+- name: BilibiliDown
+  link: nICEnnnnnnnLee/BilibiliDown
+  from: github
+  description: (GUI-多平台支持)哔哩哔哩视频下载器，支持稍后再看、收藏夹、UP主视频批量下载
+  icon:
+    - jar
+    - exe
+    - cli
+- name: BilibiliVideoDownload
+  link: BilibiliVideoDownload/BilibiliVideoDownload
+  from: github
+  description: 跨平台下载哔哩哔哩视频桌面端软件，支持windows、macOS、Linux
+  icon:
+    - vue
+    - exe
+- name: BBDown
+  link: nilaoda/BBDown
+  from: github
+  description: 一款命令行式哔哩哔哩下载器
+  icon:
+    - c#
+    - cli
+- name: Bilibili-downloader
+  link: stevenjoezhang/bilibili-downloader
+  from: github
+  description: 基于 Node.js 和 Electron 开发的哔哩哔哩视频、弹幕下载器
+  icon:
+    - node
+- name: Yutto
+  link: yutto-dev/yutto
+  from: github
+  description: 一个可爱且任性的哔哩哔哩视频下载器
+  icon:
+    - py
+    - cli
+    - docker
+- name: 哔哩下载姬
+  link: leiurayer/downkyi
+  from: github
+  description: 一个简单易用的哔哩哔哩视频下载工具
+  icon:
+    - c#
+    - exe
+- name: Bilibili_manga_downloader
+  link: MOMOYATW/bilibili_manga_downloader
+  from: github
+  description: 基于现代GUI的哔哩哔哩漫画下载器
+  icon:
+    - py
+    - exe
+- name: Bili23-Downloader
+  link: ScottSloan/Bili23-Downloader
+  from: github
+  description: 下载 Bilibili 视频/番剧/电影/纪录片 等资源
+  icon:
+    - py
+    - exe
+- name: Bilibili-downloader
+  link: ZhelinCheng/bilibili-downloader
+  from: github
+  description: B 站个人动态视频下载助手，支持下载 B 站个人动态更新的 4k 视频
+  icon:
+    - ts
+- name: Bili-cli-rs
+  link: niuhuan/bili-cli-rs
+  from: github
+  description: 一个Rust的Bilibili命令行视频下载器
+  icon:
+    - rust
+    - cli
+- name: BiliBangumiDownloader
+  link: sgpublic/BiliBangumiDownloader
+  from: github
+  description: 哔哩番剧，一个开源的哔哩下载工具
+  icon:
+    - kotlin
+- name: bilibili-video2mp3
+  link: wxsms/bilibili-video2mp3
+  from: github
+  description: 一个下载B站视频并转换为MP3的工具
+  icon:
+    - node
+- name: bilibili-download
+  link: imzusheng/bilibili-download
+  from: github
+  description: bilibili视频下载Web平台，免登录，支持下载720p、480p、360p
+  icon:
+    - node
+- name: bili-go
+  link: mouxiaohui/bili-go
+  from: github
+  description: 一个 bilibili视频命令行下载器
+  icon:
+    - go
+    - cli
+- name: BiliDownload
+  link: Naptie/BiliDownload
+  from: github
+  description: B站视频下载工具
+  icon:
+    - jar
+- name: bilix
+  link: HFrost0/bilix
+  from: github
+  description: 快如闪电的bilibili下载工具
+  icon:
+    - py
+    - cli
+- name: decode_bilibili_uwp_download_video
+  link: DuckBurnIncense/decode_bilibili_uwp_download_video
+  from: github
+  description: 解密b站UWP最新版下载的视频
+  icon:
+    - py
+    - cli
+- name: Bilili
+  link: clostou/Bilili
+  from: github
+  description: 哔哩哔哩番剧与影视下载
+  icon:
+    - py
+    - cli
+- name: bilibili-webhook
+  link: LJason77/bilibili-webhook
+  from: github
+  description: 通过 webhook 自动下载 B站 视频
+  icon:
+    - rust
+    - docker
+- name: BiliDownload
+  link: KafuuNeko/BiliDownload
+  from: github
+  description: Android Bilibili视频下载器
+  icon:
+    - c
+    - c++
+- name: bilibili-save-nodejs
+  link: Youky1/bilibili-save-nodejs
+  from: github
+  description: 下载B站视频/音频，提供命令行工具和Nodejs的API
+  icon:
+    - node
+    - cli
+- name: bilibili-bangumi-downloader
+  link: yaoxi-std/bilibili-bangumi-downloader
+  from: github
+  description: Bilibili 番剧下载器
+  icon:
+    - py
+    - cli
+- name: BiliBiliVideoDownload
+  link: IgnatiusGL/BiliBiliVideoDownload
+  from: github
+  description: B站视频下载工具(Windows版)
+  icon:
+    - jar
+    - exe
+- name: bilibili-download
+  link: lecepin/bilibili-download
+  from: github
+  description: 超简单 B 站视频下载工具，安装即可使用
+  icon:
+    - node
+    - exe
+- name: BiliBiliDecryptor
+  link: lc6464/BiliBiliDecryptor
+  from: github
+  description: 哔哩哔哩 UWP 客户端下载的视频的解密工具
+  icon:
+    - c#
+    - cli
+- name: bilibili_comics_downloader
+  link: lihe07/bilibili_comics_downloader
+  from: github
+  description: Bilibili漫画下载器
+  icon:
+    - rust
+    - cli
+- name: bilibili-api-client
+  link: judgeou/bilibili-api-client
+  from: github
+  description: 哔哩哔哩视频下载器，支持 8k，hevc
+  icon:
+    - ts
+- name: BilibiliDecode
+  link: VindenChen/BilibiliDecode
+  from: github
+  description: 批量解密UWP哔哩哔哩下载的视频文件
+  icon:
+    - py
+    - cli
+- name: BilibiliMemory
+  link: YuSitong1999/BilibiliMemory
+  from: github
+  description: 获取在 哔哩哔哩 收藏夹中收藏的视频，保存到本地磁盘
+  icon:
+    - py
+- name: BiliDownloader
+  link: Harlan-H/BiliDownloader
+  from: github
+  description: 一款界面精简操作简单的b站视频下载工具
+  icon:
+    - c#
+    - exe
+- name: BiliDownloader
+  link: Majjcom/BiliDownloader
+  from: github
+  description: 超级好用的 GUI bilibili视频下载器
+  icon:
+    - py
+    - exe
+- name: bilibilias
+  link: 1250422131/bilibilias
+  from: github
+  description: 哔哩哔哩视频缓存的辅助工具，一键解析缓存
+  icon:
+    - jar
+- name: Bili23-Downloader-CLI
+  link: ScottSloan/Bili23-Downloader-CLI
+  from: github
+  description: Bili23 Downloader CLI 命令行版本
+  icon:
+    - py
+- name: BilibiliVideoDownload
+  link: MunMunMiao/BilibiliVideoDownload
+  from: github
+  description: 哔哩哔哩视频下载
+  icon:
+    - ts
+- name: Bilibili-Album-Download
+  link: littleplus/Bilibili-Album-Download
+  from: github
+  description: 下载Bilibili用户相簿
+  icon:
+    - py
+- name: bilibili-downloader
+  link: tyokyo320/bilibili-downloader
+  from: github
+  description: B站视频下载，支持下载大会员清晰度4K
+  icon:
+    - py
+- name: BilibiliCacheVideoMerge
+  link: molihuan/BilibiliCacheVideoMerge
+  from: github
+  description: Android上将bilibili缓存视频合并导出为mp4，支持安卓5.0 ~ 13，视频挂载弹幕播放
+  icon:
+    - jar
+- name: bilibili
+  link: 0byteme/bilibili
+  from: github
+  description: 使用golang编写的bilibili视频下载器
+  icon:
+    - go
+- name: BilibiliAudioDownloader-rebuild
+  link: Quandong-Zhang/BilibiliAudioDownloader-rebuild
+  from: github
+  description: b站视频音轨下载器（支持多P）
+  icon:
+    - py
+    - exe
+- name: bili-fav-sniffer
+  link: SummerLiu95/bili-fav-sniffer
+  from: github
+  description: 哔哩哔哩收藏夹嗅探器，定时下载特定收藏夹的新视频到本地
+  icon:
+    - shell
+    - docker
+- name: BiliFM
+  link: jingfelix/BiliFM
+  from: github
+  description: 下载指定up主全部或指定数量的视频音频
+  icon:
+    - py
+- name: BiliBili-Manga-Downloader
+  link: Zeal-L/BiliBili-Manga-Downloader
+  from: github
+  description: 一个好用的哔哩哔哩漫画下载器
+  icon:
+    - py
+    - exe
+- name: bili-dl
+  link: yu1745/bili-dl
+  from: github
+  description: 下载b站视频
+  icon:
+    - go
+    - cli
+- name: bili-video-merger
+  link: ZiAzusa/bili-video-merger
+  from: github
+  description: 此工具用于将B站缓存视频的video.m4s和audio.m4s整合为一个文件
+  icon:
+    - py
+- name: BiliAuDown
+  link: Mikachu2333/BiliAuDown
+  from: github
+  description: 利用BBDown以及FFmpeg下载哔哩哔哩的音频/视频并将其转换为MP3或者flac格式
+  icon:
+    - exe
+- name: BiliCache2MP4
+  link: kaixinol/BiliCache2MP4
+  from: github
+  description: 哔哩哔哩Biliili视频缓存的*.m4s文件批量转换为.mp4文件工具
+  icon:
+    - py
+    - cli
+- name: bilibili_music
+  link: rat857/bilibili_music
+  from: github
+  description: bilibili的视频的音频下载及播放，TUI
+  icon:
+    - go
+- name: Bilibili_Downloader_Cli
+  link: open17/Bilibili-Downloader-Cli
+  from: github
+  description: 一个轻量的b站下载器,支持下载B站视频,番剧,电影,电视剧等
+  icon:
+    - py
+    - cli
+    - exe
+- name: BilibiliCacheVideoMergePython
+  link: molihuan/BilibiliCacheVideoMergePython
+  from: github
+  description: 将Bilibili缓存文件合并导出为MP4
+  icon:
+    - py
+    - exe
+- name: BiliTools
+  link: btjawa/BiliTools
+  from: github
+  description: 哔哩哔哩工具箱
+  icon:
+    - ts
+    - vue
+    - exe
+- name: bilibili-app-cache-converter
+  link: BlueCitizens/bilibili-app-cache-converter
+  from: github
+  description: 将哔哩哔哩手机客户端视频缓存文件批量合并成mp4视频和ass字幕
+  icon:
+    - py
+    - exe
+- name: 哔哩下载姬
+  link: yaobiao131/downkyicore
+  from: github
+  description: 哔哩下载姬(跨平台版)downkyi，哔哩哔哩网站视频下载工具，支持批量下载，支持8K、HDR、杜比视界，提供工具箱（音视频提取、去水印等）
+  icon:
+    - c#
+    - exe
+- name: bilivideo_down
+  link: kangpeiqin/bilivideo_down
+  from: github
+  description: 一款基于 Flutter 开发的桌面端 B 站视频下载器
+  icon:
+    - dart
+    - exe
+- name: 哔哩哔哩漫画下载工具
+  link: KayneWang/bilibili-manga-downloader
+  from: github
+  description: 通过 cli 的形式，将在哔漫已经购买过的漫画下载到本地，未购买的漫画无法下载全部图片
+  icon:
+    - rust
+    - cli
+- name: bilibili-manga-watermark-remover
+  link: lanyeeee/bilibili-manga-watermark-remover
+  from: github
+  description: bilibili漫画 哔哩哔哩漫画 B漫 去水印工具，带图形界面，带下载功能，图形界面基于Tauri
+  icon:
+    - rust
+    - exe
+- name: bili-sync-yt-dlp
+  link: cap153/bili-sync-yt-dlp
+  from: github
+  description: 使用yt-dlp结合aria2下载视频，仅下载收藏夹视频和海报
+  icon:
+    - py
+    - docker
+- name: BiliBiliVideoMerge
+  link: Server-WX/BiliBiliVideoMerge
+  from: github
+  description: B站缓存视频合并
+  icon:
+    - java
+    - exe
+- name: BilibiliVideoDownloadFork
+  link: gxr404/BilibiliVideoDownloadFork
+  from: github
+  description: 跨平台下载bilibili视频桌面端软件
+  icon:
+    - ts
+    - exe
+- name: Bilibili-Video-Downloader
+  link: MrBZBZ/Bilibili-Video-Downloader
+  from: github
+  description: 支持扫码登录的超简洁B站视频下载器
+  icon:
+    - py
+    - exe
+- name: bilidown
+  link: iuroc/bilidown
+  from: github
+  description: Bilibili 视频解析工具模块
+  icon:
+    - go
+    - exe
+    - cli
+- name: bilibili-dl
+  link: Youguang-Zhou/bilibili-dl
+  from: github
+  description: Bilibili 视频解析工具模块
+  icon:
+    - py
+    - cli
+- name: BiLiBiLi_DanMu_Crawling
+  link: HengXin666/BiLiBiLi_DanMu_Crawling
+  from: github
+  description: 爬取B站历史弹幕/全弹幕，支持高级弹幕
+  icon:
+    - py
+    - exe
+- name: bilibili-manga-downloader
+  link: lanyeeee/bilibili-manga-downloader
+  from: github
+  description: 哔哩哔哩漫画下载器
+  icon:
+    - rust
+    - exe
+- name: BiliResourceDownloader
+  link: LightQuanta/BiliResourceDownloader
+  from: github
+  description: 多功能B站资源下载器
+  icon:
+    - vue
+    - exe
+- name: Bilibili_fetcher
+  link: Bbdolt/Bilibili_fetcher
+  from: github
+  description: B站资源免费获取、提供在线播放音乐、本地播放音乐，提供GUI界面
+  icon:
+    - py
+    - exe
+- name: bilibili_video_download_reburn
+  link: RyrieNorth/bilibili_video_download_reburn
+  from: github
+  description: 一个简单的命令行交互式bilibili视频下载工具
+  icon:
+    - py
+    - cli
+- name: BiliPala-Downloader
+  link: Kis2Show/BiliPala-Downloader
+  from: github
+  description: 背靠 Bilibili 视频资源，只需要一个播放链接，即可自动化提取该播放列表下所有有声书资源至本地，自动截取封面，直接可用
+  icon:
+    - py
+    - docker
+- name: bili-sync
+  link: amtoaer/bili-sync
+  from: github
+  description: 基于 python asyncio 编写的 bilibili 收藏夹同步下载工具
+  icon:
+    - py
+    - docker
+- name: bilibili-cheese-downloader
+  link: Misaka10571/bilibili-cheese-downloader
+  from: github
+  description: bilibili课程下载器，下载你已购买的或免费的 bilibili 课程
+  icon:
+    - py
+    - exe
+- name: BiliDown-GUI
+  link: WatererQuan/BiliDown-GUI
+  from: github
+  description: 一个有简洁操作界面的哔哩哔哩视频下载器
+  icon:
+    - py
+    - exe

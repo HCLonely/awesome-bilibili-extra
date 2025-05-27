@@ -1,0 +1,120 @@
+- name: Biliup-rs
+  link: biliup/biliup-rs
+  from: github
+  description: 哔哩哔哩命令行投稿工具，支持多p、线路选择
+  icon:
+    - rust
+    - cli
+- name: Bili_upload_tool
+  link: googidaddy/bili_upload_tool
+  from: github
+  description: 这是一个用 Python 写的搬运视频并上传到Bilibili(Web)的工具
+  icon:
+    - py
+    - docker
+- name: Bili-trash-bin
+  link: googidaddy/bili-trash-bin
+  from: github
+  description: 自动搬运工具
+  icon:
+    - py
+- name: Bilibili 自动打轴助手
+  link: AS042971/bili-auto-note
+  from: github
+  description: 通过本工具可以将统一的时间轴自动转换到不同的录播笔记
+  icon:
+    - py
+- name: biliup-app
+  link: biliup/biliup-app
+  from: github
+  description: b站全平台投稿客户端，支持多p投稿
+  icon:
+    - svelte
+    - exe
+- name: Biliup
+  link: biliup/biliup
+  from: github
+  description: 支持自动录制各大直播平台实时流，上传到哔哩哔哩
+  icon:
+    - py
+    - cli
+    - docker
+- name: YoutubeToBilibili
+  link: HarukaKinen/YoutubeToBilibili
+  from: github
+  description: 一个自动搬运视频到 bilibili 的 python 脚本
+  icon:
+    - py
+- name: u2bili
+  link: ame-yu/u2bili
+  from: github
+  description: youtube->bilibili 搬运脚本
+  icon:
+    - node
+    - py
+    - cli
+- name: auto-bilibili-recorder
+  link: valkjsaaa/auto-bilibili-recorder
+  from: github
+  description: Bilibili 全自动录播上传脚本
+  icon:
+    - py
+    - docker
+- name: lucky_bilibili_web
+  link: nasawz/lucky_bilibili_web
+  from: github
+  description: 一款帮助B站UP主恰饭视频做抽奖活动的工具
+  icon:
+    - js
+- name: biliup-go
+  link: XiaoMiku01/biliup-go
+  from: github
+  description: B 站命令行投稿工具 Golang 实现
+  icon:
+    - go
+    - cli
+- name: TubeToBili
+  link: Gingmzmzx/TubeToBili
+  from: github
+  description: YouTube视频自动一键转载到Bilibili，带GUI界面
+  icon:
+    - py
+    - exe
+- name: youlive2bili
+  link: LucasLee99/youlive2bili
+  from: github
+  description: 油管直播监控自动发哔哩哔哩
+  icon:
+    - shell
+- name: Youtube2Bili
+  link: INSIinc/Youtube2Bili
+  from: github
+  description: 一个能够从任何你想要的YouTuber那里下载视频并上传到Bilibili的Python脚本
+  icon:
+    - py
+- name: YoutubeToBilibiliHelp
+  link: gaoxiaoduan/YoutubeToBilibiliHelp
+  from: github
+  description: 将油管视频自动上传到b站
+  icon:
+    - ts
+- name: Bili-to-Youtube
+  link: BlueSkyXN/Bili-to-Youtube
+  from: github
+  description: 简化从哔哩哔哩视频下载到上传到Youtube的快速操作
+  icon:
+    - py
+- name: bili-music-segmenter
+  link: lovegaoshi/bili-music-segmenter
+  from: github
+  description: b站自动录播+歌切+上传脚本，支持docker部署
+  icon:
+    - py
+    - cli
+    - docker
+- name: youtube2bilibili
+  link: assassinliujie/youtube2bilibili
+  from: github
+  description: 油管视频/频道 一键搬运到b站脚本
+  icon:
+    - py

@@ -1,0 +1,432 @@
+- name: 解除B站区域限制
+  link: "25718"
+  from: greasyfork
+  description: 通过替换获取视频地址接口的方式，实现解除B站区域限制; 只对HTML5播放器生效.
+  icon:
+    - js
+- name: B站网页端添加APP首页推荐
+  link: "368446"
+  from: greasyfork
+  description: 网页端首页添加APP首页推荐、全站排行、可选提交不喜欢的视频.
+  icon:
+    - js
+- name: Bilibili CC字幕工具
+  link: "378513"
+  from: greasyfork
+  description: 可以在B站加载外挂本地字幕、下载B站的CC字幕，旧版B站播放器可启用CC字幕.
+  icon:
+    - js
+- name: 解锁b站vip视频+弹幕字幕移植
+  link: "428746"
+  from: greasyfork
+  description: 解除B站大会员观影限制，理论支持番剧和放映厅.
+  icon:
+    - js
+- name: Bilibili 一键已读
+  link: "429152"
+  from: greasyfork
+  description: 一键设置所有会话已读.
+  icon:
+    - js
+- name: Bilibili Vesiter
+  link: "425696"
+  from: greasyfork
+  description: 哔哩哔哩移除主站广告、移除播放页广告、自动宽屏、自动全屏、自动播放、逐帧播放.
+  icon:
+    - js
+- name: 哔哩哔哩深色模式
+  link: "428222"
+  from: greasyfork
+  description: 熬夜必备|呵护眼睛|沉浸体验|优化布局|适用于网页端|深色/夜间/黑色/暗色模式.
+  icon:
+    - js
+- name: BILIBILI MoeUseHelper
+  link: "408526"
+  from: greasyfork
+  description: 一键开关弹幕|播放暂停|调整倍速|开关全屏|能让你用哔哩哔哩更加愉快的助手.
+  icon:
+    - js
+- name: BilibiliTimer
+  link: "30367"
+  from: greasyfork
+  description: B站H5播放器全屏下实时显示当前系统时间和播放进度.
+  icon:
+    - js
+- name: 哔哩哔哩站内链接信息显示
+  link: "398500"
+  from: greasyfork
+  description: 替换哔哩哔哩页面的视频链接为视频名，专栏链接为专栏文章名,音频链接为音频名.
+  icon:
+    - js
+- name: Bilibili-Old
+  link: MotooriKashin/Bilibili-Old
+  from: github
+  description: 通过重写网页框架的方式切换到Bilibili旧版页面.
+  icon:
+    - ts
+- name: userscript-enhance-bilibili-player
+  link: fython/userscript-enhance-bilibili-player
+  from: github
+  description: 增强哔哩哔哩播放器的使用体验.
+  icon:
+    - js
+- name: Bili_Video_Speed_Controller
+  link: NicerWang/Bili_Video_Speed_Controller
+  from: github
+  description: 适用于Bilibili新版网页播放器的速度控制插件.
+  icon:
+    - js
+- name: bilibili-simple-home
+  link: hakadao/bilibili-simple-home
+  from: github
+  description: 适b站仿搜索引擎样式首页风格.
+  icon:
+    - css
+- name: Bili-Recommended-List-Blocker
+  link: kuzen/Bili-Recommended-List-Blocker
+  from: github
+  description: 屏蔽b站首页推荐中的up主.
+  icon:
+    - js
+- name: 更好的 Bilibili
+  link: jerryshell/better-bilibili
+  from: github
+  description: 更好的 Bilibili.
+  icon:
+    - js
+- name: bilibili视频下载
+  link: "413228"
+  from: greasyfork
+  description: 支持Web、RPC、Blob、Aria等下载方式；支持flv、dash、mp4视频格式.
+  icon:
+    - js
+- name: B站动态首页展示所有正在直播列表
+  link: "438461"
+  from: greasyfork
+  description: 直接在动态首页展示所有的正在直播名单，而不是默认10个.
+  icon:
+    - js
+- name: 哔哩哔哩自动增强
+  link: "437941"
+  from: greasyfork
+  description: 功能快捷键，视频智能解析，每日任务等.
+  icon:
+    - js
+- name: bilibili首页增加[关注]列表
+  link: "384723"
+  from: greasyfork
+  description: 在bilibili网页端上方菜单添加[关注]的列表，快速进入你关注的up主空间.
+  icon:
+    - js
+- name: 哔哩哔哩查看原图
+  link: "372289"
+  from: greasyfork
+  description: 方便在B站内查看各种图片的原图，支持动态、专栏.
+  icon:
+    - js
+- name: B站搜索页面、个人主页已看视频标记
+  link: "374894"
+  from: greasyfork
+  description: 在B站搜索结果页面、个人主页标记哪些视频是已经看过的.
+  icon:
+    - js
+- name: B站防剧透进度条
+  link: "411092"
+  from: greasyfork
+  description: 看比赛、看番总是被进度条剧透？装上这个脚本再也不用担心这些问题了.
+  icon:
+    - js
+- name: bilibili时间线筛选
+  link: "396032"
+  from: greasyfork
+  description: 这个脚本能帮你通过关注分组筛选b站时间线上的动态.
+  icon:
+    - js
+- name: 关注管理器
+  link: "428895"
+  from: greasyfork
+  description: 快速排序和筛选你的关注列表，一键取关不再关注的UP等.
+  icon:
+    - js
+- name: B站动态自定义过滤
+  link: "422227"
+  from: greasyfork
+  description: B站动态自定义过滤，可过滤转发类型.
+  icon:
+    - js
+- name: Bilibili 自动切P
+  link: "432283"
+  from: greasyfork
+  description: 为什么要单独写个脚本呢？因为自动连播就是个**.
+  icon:
+    - js
+- name: 哔哩哔哩番剧出差助手
+  link: "429205"
+  from: greasyfork
+  description: 为动态页面增加显示哔哩哔哩番剧出差动态功能.
+  icon:
+    - js
+- name: b站首页黑名单
+  link: "437528"
+  from: greasyfork
+  description: 屏蔽b站首页推荐中的指定up.
+  icon:
+    - js
+- name: 哔哩哔哩视频页面常驻显示AV/BV号
+  link: "398655"
+  from: greasyfork
+  description: 完全自定义你的视频标题下方信息栏，排序，增加，删除.
+  icon:
+    - js
+- name: B站稍后再看功能增强
+  link: "395456"
+  from: greasyfork
+  description: 完全自定义你的视频标题下方信息栏，排序，增加，删除！.
+  icon:
+    - js
+- name: bilibili-dynamic-del
+  link: monSteRhhe/bilibili-dynamic-del
+  from: github
+  description: 自动删除B站转发抽奖动态.
+  icon:
+    - js
+- name: bilibili-follow
+  link: lilei2603/bilibili-follow
+  from: github
+  description: B站首页展示UP专区.
+  icon:
+    - js
+- name: bilibili-block-plus
+  link: Cansiny0320/bilibili-block-plus
+  from: github
+  description: b 站黑名单，可屏蔽指定用户作品、评论等.
+  icon:
+    - ts
+- name: bilibili海外区域搜索
+  link: gamekingv/bilibili-oversea-search
+  from: github
+  description: bilibili海外区域搜索.
+  icon:
+    - js
+- name: bilibili-joybook
+  link: PC6live/bilibili-joybook-tampermonkey
+  from: github
+  description: Bilibili共享大会员.
+  icon:
+    - ts
+- name: bilibili-area-limit
+  link: kghost/bilibili-area-limit
+  from: github
+  description: Bilibili 港澳台，解除区域限制.
+  icon:
+    - js
+- name: bilitwin
+  link: liqi0816/bilitwin
+  from: github
+  description: 超清FLV下载，FLV合并，原生MP4下载，弹幕ASS下载，MKV打包，播放体验增强...
+  icon:
+    - ts
+- name: Bilibili-Markdown
+  link: LuckyPuppy514/Bilibili-Markdown
+  from: github
+  description: B站专栏 Markdown 编辑器.
+  icon:
+    - js
+- name: bilibili-comment-checker
+  link: trychen/bilibili-comment-checker
+  from: github
+  description: B站评论区自动标注成分油猴脚本.
+  icon:
+    - js
+- name: bilibili-subtitle-tweaks
+  link: Kr328/bilibili-subtitle-tweaks
+  from: github
+  description: 增强 Bilibili 番剧的 CC 字幕，包含自动翻译及自动断行功能.
+  icon:
+    - ts
+- name: BilibiliProgressBar
+  link: zweix123/BilibiliProgressBar
+  from: github
+  description: Total progress bar of Bilibili collective video.
+  icon:
+    - js
+- name: tampermonkey-removePrefix-bilibili
+  link: SoonIter/tampermonkey-removePrefix-bilibili
+  from: github
+  description: 一个脚本解决bilibili视频选集中标题过长的问题.
+  icon:
+    - js
+- name: Bilibili-Minus-Minus
+  link: insorker/Bilibili-Minus-Minus
+  from: github
+  description: 简化网页版B站视频界面.
+  icon:
+    - js
+- name: bili-msg-read
+  link: monSteRhhe/bili-msg-read
+  from: github
+  description: 用于简单设置B站消息已读的油猴脚本.
+  icon:
+    - js
+- name: Download-Pictures-from-Bilibili-Timeline
+  link: owendswang/Download-Pictures-from-Bilibili-Timeline
+  from: github
+  description: 从“Bilibili动态”页面下载图片.
+  icon:
+    - js
+- name: BiliBili-EasyCopy
+  link: SynRGB/BiliBili-EasyCopy
+  from: github
+  description: 去掉B站专栏中复制文本时的水印.
+  icon:
+    - js
+- name: Bilibili-Web-Show-IP-Address
+  link: maxchang3/Bilibili-Web-Show-IP-Location
+  from: github
+  description: 展示哔哩哔哩 Web 端的 IP 属地.
+  icon:
+    - ts
+- name: bilibili-subtitle-to-text
+  link: Fros1er/bilibili-subtitle-to-text
+  from: github
+  description: 把b站字幕一次性全部显示或下载.
+  icon:
+    - js
+- name: bilibili-downloader
+  link: foamzou/bilibili-downloader
+  from: github
+  description: 哔哩哔哩（b站）音视频下载脚本.
+  icon:
+    - js
+- name: userscript-bilibili-comment-search
+  link: pacexy/userscript-bilibili-comment-search
+  from: github
+  description: 让 Bilibili 支持评论搜索.
+  icon:
+    - ts
+- name: B站笔记快捷键
+  link: "454784"
+  from: greasyfork
+  description: 极大提高笔记效率，哔哩哔哩大学必备.
+  icon:
+    - js
+- name: Bilibili Blocked Videos By Tags
+  link: tjxwork/bilibili_blocked_videos_by_tags
+  from: github
+  description: 对Bilibili.com的视频卡片元素，以标签、标题、时长、UP主名称、UP主UID 来判断匹配，添加屏蔽叠加层.
+  icon:
+    - js
+- name: bilibili-subtitle-download-plugin
+  link: AdvMaple/bilibili-subtitle-download-plugin
+  from: github
+  description: 从bilibili下载字幕、视频、音频.
+  icon:
+    - js
+- name: bili-screenshot-helper
+  link: zsakvo/bili-screenshot-helper
+  from: github
+  description: 适合小白的，图形化的B站会员购抢票软件，自带图形界面，纯接口抢票.
+  icon:
+    - ts
+- name: Bilibili-Auto-Quality
+  link: AHCorn/Bilibili-Auto-Quality
+  from: github
+  description: 自动解锁并更改哔哩哔哩视频的画质和音质，实现自动选择最高画质、无损音频及杜比全景声.
+  icon:
+    - js
+- name: Bilibili-Favlist-Export
+  link: AHCorn/Bilibili-Favlist-Export
+  from: github
+  description: 导出哔哩哔哩收藏夹为 CSV 或 HTML 文件.
+  icon:
+    - js
+- name: Bilibili专注模式
+  link: cndiandian/bilibili-focus
+  from: github
+  description: 消除视频播放页面可能会吸引注意的元素，如右上角的消息未读数、右侧的广告、相关推荐、直播推荐等元素.
+  icon:
+    - js
+- name: bilibili-favorites-fix-cerenkov-mod
+  link: crnkv/bilibili-favorites-fix-cerenkov-mod
+  from: github
+  description: 修复哔哩哔哩失效的收藏。（可查看av号、简介、标题、封面）.
+  icon:
+    - js
+- name: Bilibili-Batch-Unsubscribe
+  link: AHCorn/Bilibili-Batch-Unsubscribe
+  from: github
+  description: 批量管理哔哩哔哩订阅，可实现一键取消所有订阅.
+  icon:
+    - js
+- name: bilibili-comment-checker
+  link: hmjz100/bilibili-comment-checker
+  from: github
+  description: B站评论区自动标注成分，支持动态和关注识别以及手动输入 UID 识别.
+  icon:
+    - js
+- name: BiliTimer
+  link: AntiO2/Bili-Timer
+  from: github
+  description: 一个用于统计Bilibili多视频进度的TamperMonkey插件.
+  icon:
+    - js
+- name: Bilibili-Gate
+  link: magicdawn/Bilibili-Gate
+  from: github
+  description: Bilibili 自定义首页.
+  icon:
+    - ts
+- name: BiliWallpaper
+  link: HHsomeHand/BiliWallpaper
+  from: github
+  description: 一个可以高度自定义的油猴脚本，作用是美化B站，支持用户自定义背景图片，和管理背景图片，以及设置背景图片的位置大小显示模式.
+  icon:
+    - js
+- name: Bilibili🎶音乐姬
+  link: Ocyss/bilibili-music
+  from: github
+  description: 仅帮助用户从视频页下载音乐(封面,Tags,歌词,字幕 写入支持).
+  icon:
+    - vue
+- name: Bilibili 动态批量删除工具
+  link: hatanokokosa/bilibili-dynamic-cleaner
+  from: github
+  description: 一个用于清理 Bilibili 动态的用户脚本.
+  icon:
+    - js
+- name: Wider Bilibili
+  link: posthumz/wider-bilibili
+  from: github
+  description: 哔哩哔哩宽屏体验.
+  icon:
+    - ts
+- name: B站优质视频标记
+  link: clionertr/bilibili-video-High-quality-video-mark
+  from: github
+  description: 在主页和视频界面计算 点赞数/视频播放量>=0.042 标记为优质，过滤播放量小于1000的新视频.
+  icon:
+    - js
+- name: Bilimit
+  link: ABitGinger/Bilimit
+  from: github
+  description: 这是一个油猴脚本，旨在通过自主限制，减少在B站无用内容上浪费的时间.
+  icon:
+    - js
+- name: bilibili-newvideo-tracker
+  link: lililili-student/bilibili-newvideo-tracker
+  from: github
+  description: 当你手比脑子快，点到了换一换但是想看换一换之前的视频.
+  icon:
+    - js
+- name: ClickEase-for-Bilibili
+  link: uncharity/ClickEase-for-Bilibili
+  from: github
+  description: 为哔哩哔哩设计的键盘操作方案.
+  icon:
+    - js
+- name: Bilibili-Memo
+  link: Jayvin-Leung/Bilibili-Memo
+  from: github
+  description: 站收藏视频备注+视频笔记下载+列表随机播放功能三合一，自动备份数据，跨浏览器使用.
+  icon:
+    - js
