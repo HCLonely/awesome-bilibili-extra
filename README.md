@@ -147,6 +147,7 @@
 - [B 站封面获取](https://greasyfork.org/zh-CN/scripts/395575) - B 站视频播放页、番剧播放页、直播间添加获取封面的按钮.
 - [BLTH](https://github.com/andywang425/BLTH) - 哔哩哔哩油猴辅助脚本.
 - [Bili-senior-newbie-qa](https://github.com/HCLonely/bili-senior-newbie-qa) - 哔哩哔哩硬核会员搜题脚本.
+- [Bilibili 收藏夹自动分类](https://github.com/jqwgt/bilibili-favlist-classifier) - 自动分类 B 站收藏夹视，该脚本会根据视频的分区自动将视频分类到不同的收藏夹中，并在页面右侧显示读取视频的进度.
 - [Bilibili 解锁杜比全景声...](https://greasyfork.org/zh-CN/scripts/441403) - 为 B 站 Windows 平台 解锁杜比全景声 & 8K & 开启 HDR & 直播画质 PRO.
 - [Bilibili-Evolved](https://github.com/the1812/Bilibili-Evolved) - 强大的哔哩哔哩增强脚本：下载视频，音乐，封面，弹幕 / 简化直播间，评论区，首页 / 自定义顶栏，删除广告，夜间模式 / 触屏设备支持.
 - [Bilibili-Popups](https://github.com/sheep-realms/Bilibili-Popups) - 在 Bilibili 中提供链接内容浮窗预览的油猴脚本.
@@ -745,4 +746,4 @@
 
 请查看[贡献指南](https://github.com/HCLonely/awesome-bilibili-extra/blob/master/CONTRIBUTING.md).
 
-<!-- Sort Time: 2025-04-24 02:37:59 +00:00 -->
+<!-- Sort Time: 2025-05-27 00:57:52 +00:00 -->
