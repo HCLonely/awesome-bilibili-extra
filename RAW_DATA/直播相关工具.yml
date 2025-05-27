@@ -576,3 +576,15 @@
   description: 哔哩哔哩全自动直播录制器，支持对接适配器（OneBot协议的QQ机器人）
   icon:
     - ts
+- name: BiliLive-Utility
+  link: GamerNoTitle/BiliLive-Utility
+  from: github
+  description: 开启 B 站直播并获得推流链接与推流密钥，一键修改标题、标签和直播分区（给不满足 B 站新规定 5k 粉丝要求的用户使用的）
+  icon:
+    - py
+- name: 哔哩哔哩推流码获取工具
+  link: ChaceQC/bilibili_live_stream_code
+  from: github
+  description: 用于在准备直播时获取第三方推流码，以便可以绕开哔哩哔哩直播姬，直接在如OBS等软件中进行直播，软件同时提供定义直播分区和标题功能
+  icon:
+    - py

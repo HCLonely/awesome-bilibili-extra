@@ -392,3 +392,23 @@
   description: 基于B站API和DeepSeek的硬核会员自动答题工具
   icon:
     - py
+- name: nbetdda
+  link: XiaoTong6666/NodeJS-Bilibili-EPID-To-DPlayer-Danmaku-API
+  from: github
+  description: 通过b站番剧的ep号获取并转换为DPlayer可以解析的弹幕JSON数据
+  icon:
+    - node
+- name: BiliTicketRush
+  link: biliticket/bili_ticket_rush
+  from: github
+  description: 超级简单易用的哔哩哔哩会员购自动抢票工具，基于Rust开发的异步多线程高性能抢票软件。
+  icon:
+    - rust
+    - exe
+- name: bilibili 游戏中心 脚本
+  link: findmio/bilibili-game-signin
+  from: github
+  description: bilibili 游戏中心签到
+  icon:
+    - node
+    - cli

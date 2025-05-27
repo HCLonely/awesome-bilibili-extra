@@ -474,3 +474,25 @@
   icon:
     - py
     - exe
+- name: Bilix
+  link: Koril33/bilix
+  from: github
+  description: 一个简单的 Bilibili 命令行视频下载器
+  icon:
+    - py
+    - cli
+- name: B站缓存工具箱
+  link: CN-GuoXiaoYao/BiliBili_Export
+  from: github
+  description: 强大的B站缓存工具，包括视频下载、视频重载、视频合并
+  icon:
+    - py
+    - exe
+- name: bilifavdown
+  link: kevinlinvk/bilifavdown
+  from: github
+  description: bilifavdown 是一个用于下载哔哩哔哩收藏夹内容的工具。支持自动下载、多收藏夹管理、最高画质下载等功能。
+  icon:
+    - py
+    - cli
+    - docker

@@ -198,15 +198,34 @@
   description: 这个项目是一个爬虫应用，旨在从B站提取弹幕数据，评论数据
   icon:
     - py
-- name: bili2text
-  link: lanbinleo/bili2text
-  from: github
-  description: Bilibili视频转文字，一步到位，输入链接即可使用
-  icon:
-    - py
+    - cli
 - name: bilibili-comment-crawler
   link: 1dyer/bilibili-comment-crawler
   from: github
   description: 用于爬取Bilibili（B站）视频评论的爬虫，支持爬取一级评论及二级回复，并将数据导出为CSV文件
   icon:
     - py
+    - cli
+- name: 🎯 B站评论爬虫
+  link: Roinflam/bilibili_spider
+  from: github
+  description: 基于 PyQt6 开发的 B 站评论爬虫桌面应用，支持评论批量采集、智能管理和数据分析，采用现代化暗色界面设计，提供流畅的用户体验。
+  icon:
+    - py
+    - cli
+- name: 基于数据挖掘的 B 站博主数据预测平台
+  link: bilibini/biliData
+  from: github
+  description: 基于数据挖掘的B站UP主数据预测平台
+  icon:
+    - vue
+    - py
+- name: Bilibili Watcher
+  link: krisxia0506/bilibili-watcher
+  from: github
+  description: Bilibili Watcher 是一个开源的 Bilibili 视频观看时长追踪与分析工具
+  icon:
+    - go
+    - node
+    - docker
+    - cli

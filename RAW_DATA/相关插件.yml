@@ -147,3 +147,9 @@
   description: "PowerToys Run: 哔哩哔哩解析插件"
   icon:
     - c#
+- name: koishi-plugin-bili-parser
+  link: SummonHIM/koishi-plugin-bili-parser
+  from: github
+  description: 一个能够解析 BiliBili 链接的 Koishi 插件.
+  icon:
+    - ts

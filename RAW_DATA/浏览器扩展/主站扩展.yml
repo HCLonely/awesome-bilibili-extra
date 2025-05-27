@@ -142,3 +142,21 @@
   description: 使用AI智能分析，打造你的个性化B站信息流.
   icon:
     - js
+- name: 🚀 B站空降广告跳转助手
+  link: dangxingyu/bilibili_ad_jumper
+  from: github
+  description: 智能识别弹幕时间戳，一键跳过广告片段
+  icon:
+    - js
+- name: 🎵 媒体播放检测扩展
+  link: pldz1/Browser_BiliBili_Playing_Monitor_Plugin
+  from: github
+  description: 一个浏览器扩展，自动检测和恢复网页中的音视频播放，只支持 Chrome
+  icon:
+    - js
+- name: BilibiliBlock 哔哩哔哩一键拉黑扩展
+  link: yanstu/BilibiliBlock
+  from: github
+  description: BilibiliBlock 是一个浏览器扩展，为哔哩哔哩用户提供一键拉黑UP主的功能。
+  icon:
+    - js

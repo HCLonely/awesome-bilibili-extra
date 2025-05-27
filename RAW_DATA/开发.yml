@@ -302,3 +302,9 @@
   icon:
     - rust
     - py
+- name: bilicon
+  link: gweesin/bilicon
+  from: github
+  description: 在任何地方使用 biilibili 表情包！
+  icon:
+    - ts

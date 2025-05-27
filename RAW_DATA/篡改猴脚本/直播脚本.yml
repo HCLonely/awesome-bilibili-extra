@@ -88,3 +88,9 @@
   description: Bilibili（B站，Bili）直播独轮车脚本.
   icon:
     - js
+- name: bili_live_average_bitrate_display
+  link: Raven-tu/bili_live_bitrate_ug
+  from: github
+  description: 猴油脚本，用于在哔哩哔哩直播页面上显示直播流的平均码率
+  icon:
+    - js

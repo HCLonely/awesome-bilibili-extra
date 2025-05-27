@@ -1,13 +1,14 @@
 {
   "name": "awesome-bilibili-extra",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "> 收集一些让我们在浏览B站时更加方便的浏览器扩展/脚本.",
-  "main": "sort.js",
+  "main": "README.md",
   "scripts": {
     "test": "node test/md2yml.js",
     "link-checker": "node src/link-checker.js",
+    "double-link-checker": "node src/double-link-checker.js",
     "sort-format": "node src/sort-format.js",
-    "push": "node src/commit.js && node src/updateUser.js && git add . && git commit -F CHANGELOG.md && git push"
+    "push": "node src/double-link-checker.js && node src/sort-format.js && node src/commit.js && node src/updateUser.js && git add . && git commit -F CHANGELOG.md && git push"
   },
   "repository": {
     "type": "git",
