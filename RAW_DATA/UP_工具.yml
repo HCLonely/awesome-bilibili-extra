@@ -118,3 +118,10 @@
   description: 油管视频/频道 一键搬运到b站脚本
   icon:
     - py
+- name: BiliIns
+  link: ZeroMi-Studio/BiliIns
+  from: github
+  description: 单稿/多稿视频数据对比，可接入本地AI分析
+  icon:
+    - py
+    - exe
