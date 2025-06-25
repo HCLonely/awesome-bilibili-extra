@@ -40,3 +40,9 @@
   description: Translate BiliBili To English.
   icon:
     - js
+- name: Bilibili 无限历史记录
+  link: mundane799699/bilibili-history-wxt
+  from: github
+  description: 你的专属B站时光机，永久珍藏每一段观看记忆，不再错过任何精彩瞬间。
+  icon:
+    - ts
