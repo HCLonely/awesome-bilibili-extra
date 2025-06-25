@@ -412,3 +412,29 @@
   icon:
     - node
     - cli
+- name: Bilink
+  link: Kaguya233qwq/Bilink
+  from: github
+  description: 原生的哔哩哔哩 消息自动回复工具/bot开发框架
+  icon:
+    - py
+- name: bilibili-danmu-block-list
+  link: Snoopy1866/bilibili-danmu-block-list
+  from: github
+  description: 哔哩哔哩弹幕屏蔽规则列表
+  icon:
+    - py
+- name: 🚀 BilibiliSuitRushBuy
+  link: SkyBlue997/BiliThemeRush
+  from: github
+  description: 高效跨平台的 B 站装扮自动抢购工具 · 双模式（特定序号 / 定时）· Go CLI | Fast Bilibili suit auto-buyer with target & timed modes (Go)
+  icon:
+    - go
+    - cli
+- name: BiliHardcore_AI
+  link: Cassianvale/bilihardcore_ai
+  from: github
+  description: B 站硬核会员试炼 AI 自动答题跨平台应用，支持 MacOS/Windows/Linux
+  icon:
+    - py
+    - exe

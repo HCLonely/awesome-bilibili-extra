@@ -5,10 +5,11 @@
   "main": "README.md",
   "scripts": {
     "test": "node test/md2yml.js",
+    "build": "node src/double-link-checker.js && node src/commit.js && node src/sort-format.js && node src/updateUser.js",
     "link-checker": "node src/link-checker.js",
     "double-link-checker": "node src/double-link-checker.js",
     "sort-format": "node src/sort-format.js",
-    "push": "node src/double-link-checker.js && node src/sort-format.js && node src/commit.js && node src/updateUser.js && git add . && git commit -F CHANGELOG.md && git push"
+    "push": "git add . && git commit -F CHANGELOG.md && git push"
   },
   "repository": {
     "type": "git",

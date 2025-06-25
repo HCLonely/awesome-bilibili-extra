@@ -430,3 +430,9 @@
   description: 站收藏视频备注+视频笔记下载+列表随机播放功能三合一，自动备份数据，跨浏览器使用.
   icon:
     - js
+- name: BiliHealth Scan (一键三连健康探针)
+  link: xiangye277/BiliHealth-Scan
+  from: github
+  description: 显示哔哩哔哩 点赞率、投币率、收藏率、转发率及Steam综合评级（包括各个B站网页分区）
+  icon:
+    - js

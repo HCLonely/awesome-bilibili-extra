@@ -160,3 +160,9 @@
   description: BilibiliBlock 是一个浏览器扩展，为哔哩哔哩用户提供一键拉黑UP主的功能。
   icon:
     - js
+- name: Bilibili 收藏夹管理助手
+  link: RadiumAg/bilibili-favorites
+  from: github
+  description: 快速对b站默认收藏夹进行分类
+  icon:
+    - ts

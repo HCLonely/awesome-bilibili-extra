@@ -588,3 +588,11 @@
   description: 用于在准备直播时获取第三方推流码，以便可以绕开哔哩哔哩直播姬，直接在如OBS等软件中进行直播，软件同时提供定义直播分区和标题功能
   icon:
     - py
+- name: Bililive-go
+  link: bililive-go/bililive-go
+  from: github
+  description: 一个直播录制工具
+  icon:
+    - go
+    - exe
+    - docker

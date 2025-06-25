@@ -229,3 +229,24 @@
     - node
     - docker
     - cli
+- name: 哔哩哔哩关注列表批量管理工具
+  link: YZz-S/Bilibili-batch-operation-tool
+  from: github
+  description: 用于批量分析和处理哔哩哔哩关注列表的工具
+  icon:
+    - py
+    - cli
+- name: 哔哩哔哩评论观察者
+  link: sansan0/bilibili-comment-analyzer
+  from: github
+  description: 🎯 哔哩哔哩(bilibili)评论下载器兼数据可视化桌面软件
+  icon:
+    - py
+    - exe
+- name: B站TOP排行榜爬虫项目
+  link: HaoFan-Fy/bilibili-tops-API
+  from: github
+  description: bilibiliAPI使用描述以及一个用于获取哔哩哔哩（Bilibili）各分类TOP排行榜数据的Python爬虫工具。
+  icon:
+    - py
+    - cli
