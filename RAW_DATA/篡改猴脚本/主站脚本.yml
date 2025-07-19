@@ -280,10 +280,10 @@
   description: 去掉B站专栏中复制文本时的水印.
   icon:
     - js
-- name: Bilibili-Web-Show-IP-Address
-  link: maxchang3/Bilibili-Web-Show-IP-Location
+- name: BiliReveal
+  link: maxchang3/BiliReveal
   from: github
-  description: 展示哔哩哔哩 Web 端的 IP 属地.
+  description: 在哔哩哔哩网页版显示 IP 属地。
   icon:
     - ts
 - name: bilibili-subtitle-to-text
