@@ -153,3 +153,9 @@
   description: 一个能够解析 BiliBili 链接的 Koishi 插件.
   icon:
     - ts
+- name: nonebot-plugin-bilibili-notifier
+  link: Variante/nonebot-plugin-bilibili-notifier
+  from: github
+  description: Nonebot2插件，推送B站UP的动态更新和开播消息。
+  icon:
+    - py

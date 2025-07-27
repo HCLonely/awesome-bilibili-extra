@@ -83,8 +83,8 @@
   description: B站签到利器
   icon:
     - java
-- name: BiliBili_Daily-tasks
-  link: wenshancheng/BiliBili_Daily-tasks
+- name: BiliBili-tasks
+  link: wenshancheng/BiliBili-tasks
   from: github
   description: Python脚本自动完成B站每日经验任务、直播签到等
   icon:

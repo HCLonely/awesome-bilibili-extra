@@ -250,3 +250,11 @@
   icon:
     - py
     - cli
+- name: Bilibili评论爬取与分析系统
+  link: persist-1/bilibili_CommentHunter
+  from: github
+  description: 基于FastAPI和Vue3的Bilibili视频评论爬取、展示和分析系统。支持评论数据爬取、可视化分析、用户管理等功能，提供性别分布、时间分析、词云图表等多维度数据洞察。
+  icon:
+    - py
+    - vue
+    - cli

@@ -438,3 +438,18 @@
   icon:
     - py
     - exe
+- name: B站追番日历
+  link: Silentely/bili-calendar
+  from: github
+  description: 将B站追番列表一键转换为日历订阅，支持 Apple/Google/Outlook 等主流日历应用！
+  icon:
+    - js
+    - docker
+- name: Bilibili 多功能工具集
+  link: naaammme/bilibili-tools
+  from: github
+  description: Bilibili多功能工具集 - 评论清理、私信管理、批量取关
+  icon:
+    - py
+    - cli
+    - exe

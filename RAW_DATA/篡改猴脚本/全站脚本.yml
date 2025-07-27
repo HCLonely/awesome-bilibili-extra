@@ -70,3 +70,9 @@
   description: 自动分类B站收藏夹视，该脚本会根据视频的分区自动将视频分类到不同的收藏夹中，并在页面右侧显示读取视频的进度.
   icon:
     - js
+- name: 📺 Bilibili 免登录与高分辨率视频
+  link: vruses/bili-api-interceptor
+  from: github
+  description: 通过拦截一些特定 Bilibili 接口请求或响应，让你的体验能够像登录用户一样丝滑
+  icon:
+    - js

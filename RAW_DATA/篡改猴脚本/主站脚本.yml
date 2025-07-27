@@ -4,12 +4,6 @@
   description: 通过替换获取视频地址接口的方式，实现解除B站区域限制; 只对HTML5播放器生效.
   icon:
     - js
-- name: B站网页端添加APP首页推荐
-  link: "368446"
-  from: greasyfork
-  description: 网页端首页添加APP首页推荐、全站排行、可选提交不喜欢的视频.
-  icon:
-    - js
 - name: Bilibili CC字幕工具
   link: "378513"
   from: greasyfork
@@ -434,5 +428,17 @@
   link: xiangye277/BiliHealth-Scan
   from: github
   description: 显示哔哩哔哩 点赞率、投币率、收藏率、转发率及Steam综合评级（包括各个B站网页分区）
+  icon:
+    - js
+- name: Bili-DynamicImage
+  link: JustKanade/Bili-DynamicImage
+  from: github
+  description: 最强大的多功能批量下载B站动态图片原图浏览器插件
+  icon:
+    - js
+- name: Bilibili 自定义倍速控制器
+  link: chenty2333/bilibili-speed-controller
+  from: github
+  description: 一款为 Bilibili 设计, 高度可定制的视频倍速控制脚本, 提供了可拖动的悬浮控件, 增强原生倍速功能.
   icon:
     - js

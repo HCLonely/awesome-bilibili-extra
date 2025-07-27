@@ -291,12 +291,6 @@
   description: 此工具用于将B站缓存视频的video.m4s和audio.m4s整合为一个文件
   icon:
     - py
-- name: BiliAuDown
-  link: Mikachu2333/BiliAuDown
-  from: github
-  description: 利用BBDown以及FFmpeg下载哔哩哔哩的音频/视频并将其转换为MP3或者flac格式
-  icon:
-    - exe
 - name: BiliCache2MP4
   link: kaixinol/BiliCache2MP4
   from: github
@@ -376,7 +370,7 @@
     - py
     - docker
 - name: BiliBiliVideoMerge
-  link: Server-WX/BiliBiliVideoMerge
+  link: df7x/BiliBiliVideoMerge
   from: github
   description: B站缓存视频合并
   icon:
@@ -496,3 +490,10 @@
     - py
     - cli
     - docker
+- name: bilibili-video-downloader
+  link: lanyeeee/bilibili-video-downloader
+  from: github
+  description: 哔哩哔哩 bilibili B站 视频 下载器，图形界面 + nfo刮削 + 字幕下载 + 弹幕下载 + 批量下载，轻松将视频加入emby等媒体库
+  icon:
+    - rust
+    - exe

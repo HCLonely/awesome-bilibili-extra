@@ -279,12 +279,6 @@
   icon:
     - ts
     - android
-- name: bilibilitv
-  link: zackaryhuang/bilibilitv
-  from: github
-  description: bilibili for Apple TV
-  icon:
-    - swift
 - name: bili-fm
   link: vst93/bili-fm
   from: github
@@ -292,10 +286,10 @@
   icon:
     - ts
     - exe
-- name: BiliTerminal2
-  link: Re-BiliTerminal/BiliTerminal2
+- name: BiliZepam
+  link: Re-BiliTerminal/BiliZepam
   from: github
-  description: 轻量的安卓第三方B站客户端，哔哩终端的Fork
+  description: 轻量的安卓第三方B站客户端
   icon:
     - jar
 - name: Bilibili
@@ -311,3 +305,9 @@
   description: A BiliBili jsapp for Amazfit Zepp OS
   icon:
     - js
+- name: bilibili
+  link: xlz122/bilibili
+  from: github
+  description: 基于React + Next.js服务端渲染开发的哔哩哔哩H5移动端
+  icon:
+    - ts

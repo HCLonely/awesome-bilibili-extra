@@ -106,14 +106,6 @@
   icon:
     - ts
     - exe
-- name: Bililive-go
-  link: hr3lxphr6j/bililive-go
-  from: github
-  description: Bililive-go 是一个支持多种直播平台的直播录制工具
-  icon:
-    - go
-    - cli
-    - docker
 - name: DDRecorder
   link: AsaChiri/DDRecorder
   from: github
@@ -596,3 +588,18 @@
     - go
     - exe
     - docker
+- name: Bili Live Stream
+  link: TNXG/bilibili_live_stream
+  from: github
+  description: 一个可以通过扫码登录获取哔哩哔哩直播的推流码信息的全平台Rust命令行工具
+  icon:
+    - rust
+    - exe
+- name: bilibili_live_tool
+  link: chenxi-Eumenides/bilibili_live_tool
+  from: github
+  description: 用于B站直播的获取推流码及开播工具
+  icon:
+    - py
+    - cli
+    - exe

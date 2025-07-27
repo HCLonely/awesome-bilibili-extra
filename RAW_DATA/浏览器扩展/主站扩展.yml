@@ -149,7 +149,7 @@
   icon:
     - js
 - name: 🎵 媒体播放检测扩展
-  link: pldz1/Browser_BiliBili_Playing_Monitor_Plugin
+  link: pldz1/browser-bilibili-monitor-plugin
   from: github
   description: 一个浏览器扩展，自动检测和恢复网页中的音视频播放，只支持 Chrome
   icon:
@@ -166,3 +166,9 @@
   description: 快速对b站默认收藏夹进行分类
   icon:
     - ts
+- name: bilibili-enhancer 🎬
+  link: yang-shuohao/bilibili-enhancer
+  from: github
+  description: 一个轻量级的 Bilibili 视频增强插件，提供播放速度调节、AB 区间循环播放、画中画、截图保存等实用功能，助你更高效地学习和娱乐！
+  icon:
+    - js
