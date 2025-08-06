@@ -442,3 +442,9 @@
   description: 一款为 Bilibili 设计, 高度可定制的视频倍速控制脚本, 提供了可拖动的悬浮控件, 增强原生倍速功能.
   icon:
     - js
+- name: Bilibili 账号已注销修正
+  link: "528706"
+  from: greasyfork
+  description: 修正Bilibili 账户已注销的主页链接（评论区和收藏夹内的），修改为 https://www.bilibili.com/list/$UID
+  icon:
+    - js
