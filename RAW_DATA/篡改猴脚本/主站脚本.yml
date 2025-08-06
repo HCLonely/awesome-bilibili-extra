@@ -442,3 +442,9 @@
   description: 一款为 Bilibili 设计, 高度可定制的视频倍速控制脚本, 提供了可拖动的悬浮控件, 增强原生倍速功能.
   icon:
     - js
+- name: Bilibili动态预览图片下载
+  link: "524897"
+  from: greasyfork
+  description: 在B站个人空间的投稿 - 图文界面，提供右键直接下载动态中的图片，并记录已下载的动态ID，改变背景颜色来区别。（新支持新旧动态页面以及旧版专栏内图片）
+  icon:
+    - js
