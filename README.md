@@ -1,3 +1,5 @@
+[![MSeeP.ai Security Assessment Badge](https://mseep.net/pr/hclonely-awesome-bilibili-extra-badge.png)](https://mseep.ai/app/hclonely-awesome-bilibili-extra)
+
 # Awesome Bilibili Extra [![Awesome](https://awesome.re/badge.svg)](https://github.com/HCLonely/awesome-bilibili-extra)
 
 > 收集一些让我们在使用B站时更加方便的浏览器扩展/脚本/程序.
