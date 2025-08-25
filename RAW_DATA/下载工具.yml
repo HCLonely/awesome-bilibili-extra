@@ -294,10 +294,11 @@
 - name: BiliCache2MP4
   link: kaixinol/BiliCache2MP4
   from: github
-  description: 哔哩哔哩Biliili视频缓存的*.m4s文件批量转换为.mp4文件工具
+  description: 哔哩哔哩BiliBili视频缓存文件批量转换为mp4文件工具。支持弹幕转换/每视频组一个文件夹/旧BLV视频。支持跨平台。
   icon:
     - py
     - cli
+    - exe
 - name: bilibili_music
   link: rat857/bilibili_music
   from: github
