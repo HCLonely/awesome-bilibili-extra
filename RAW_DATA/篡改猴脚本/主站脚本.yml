@@ -448,3 +448,9 @@
   description: 在B站个人空间的投稿 - 图文界面，提供右键直接下载动态中的图片，并记录已下载的动态ID，改变背景颜色来区别。（新支持新旧动态页面以及旧版专栏内图片）
   icon:
     - js
+- name: Bilibili评论区图片批量下载
+  link: "530702"
+  from: greasyfork
+  description: 批量下载B站评论区中的图片（暂仅支持动态和视频评论区）
+  icon:
+    - js
