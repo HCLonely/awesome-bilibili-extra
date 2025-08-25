@@ -172,3 +172,33 @@
   description: 一个轻量级的 Bilibili 视频增强插件，提供播放速度调节、AB 区间循环播放、画中画、截图保存等实用功能，助你更高效地学习和娱乐！
   icon:
     - js
+- name: Bilibili feed history
+  link: qiweiii/bili-feed-history
+  from: github
+  description: 查看不小心错过的bilibili首页“换一换”推荐视频
+  icon:
+    - ts
+- name: Bilibili 广告跳过助手
+  link: wzy403/BiliSmartSkip
+  from: github
+  description: 一款智能的Chrome浏览器插件，通过分析弹幕内容自动识别B站视频中的嵌入式广告段，并提供自动或手动的跳过功能
+  icon:
+    - js
+- name: B站兴趣画像与推荐算法控制插件
+  link: fept-2024/Bilibili-Preference-Plugin
+  from: github
+  description: 这是一个强大的浏览器扩展插件，不仅可以收集和分析你的B站浏览行为，更重要的是能够直接更改B站的推荐算法，让你摆脱信息茧房，体验不同时期的推荐内容。
+  icon:
+    - js
+- name: YouTube 同步显示 Bilibili 弹幕
+  link: ahaduoduoduo/bilibili-youtube-danmaku
+  from: github
+  description: 自动将Bilibili的弹幕同步显示在YouTube视频上
+  icon:
+    - js
+- name: BewlyCat
+  link: keleus/BewlyCat
+  from: github
+  description: BewlyCat——基于BewlyBewly开发的Bilibili拓展
+  icon:
+    - vue

@@ -208,3 +208,10 @@
   description: 一个QChatGPT的插件，获取up主动态和直播开播提示，bot会以图片的方式进行通知
   icon:
     - py
+- name: B站评论区监控器 (增强版？)
+  link: wy3057/bilibili-comment
+  from: github
+  description: 这是一个用于监控 Bilibili 视频评论的 Python 脚本。它可以帮助您实时追踪您关注的 Bilibili 视频下的新评论和回复。脚本支持自定义检查频率，并允许用户随时手动触发评论检查，极大地提高了使用的灵活性和便利性。
+  icon:
+    - py
+    - cli

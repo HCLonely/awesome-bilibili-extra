@@ -603,3 +603,17 @@
     - py
     - cli
     - exe
+- name: OBS Bilibili 直播插件
+  link: Zarosmm/obs-bilibili-stream
+  from: github
+  description: 这是一个为 OBS Studio 开发的插件，用于简化在 Bilibili 平台上的直播流程。插件支持通过手动输入 Cookie 或扫码登录 Bilibili，更新直播间信息，并获取 RTMP 推流地址和推流码。
+  icon:
+    - c++
+    - exe
+- name: 直播处理服务
+  link: Stubborn-one/bilibili-live-processor
+  from: github
+  description: bilibili直播ai自动分析归档工具。自动监控直播状态并处理录播文件的服务系统。支持自动监控模式和手动处理模式。
+  icon:
+    - py
+    - docker

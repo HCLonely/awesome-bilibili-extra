@@ -258,3 +258,15 @@
     - py
     - vue
     - cli
+- name: bilibili评论爬取
+  link: lemonmindyes/bilibili_comment_crawl
+  from: github
+  description: 爬取bilibili视频下的评论，最新出品！！！⚠本代码只适用于学习，做其他事情概不负责！！！
+  icon:
+    - py
+- name: B站信息获取 MCP 服务器
+  link: aqiuX17/bilibili_MCP_Stdio
+  from: github
+  description: bilibili第三方mcp工具，支持查询热门视频，用户信息，视频评论等。
+  icon:
+    - py

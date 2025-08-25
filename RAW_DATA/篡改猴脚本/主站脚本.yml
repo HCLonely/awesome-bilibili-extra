@@ -460,3 +460,21 @@
   description: 批量下载B站评论区中的图片（暂仅支持动态和视频评论区）
   icon:
     - js
+- name: BiliAnalysis
+  link: mmyo456/BiliAnalysis
+  from: github
+  description: 用于获取哔哩哔哩视频直链的tampermonkey脚本
+  icon:
+    - js
+- name: Bilibili-Upload-Filter
+  link: Jayvin-Leung/Bilibili-Upload-Filter
+  from: github
+  description: 恢复B站个人空间投稿页分区筛选功能
+  icon:
+    - vue
+- name: Bilibili-Search-Filter
+  link: Jayvin-Leung/Bilibili-Search-Filter
+  from: github
+  description: 恢复B站搜索页视频分区筛选功能
+  icon:
+    - vue

@@ -308,3 +308,9 @@
   description: 在任何地方使用 biilibili 表情包！
   icon:
     - ts
+- name: 哔哩内核
+  link: Richasy/bili-kernel
+  from: github
+  description: 快速轻松地将 BiliBili API 内容集成到你的应用之中
+  icon:
+    - c#

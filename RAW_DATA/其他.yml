@@ -453,3 +453,10 @@
     - py
     - cli
     - exe
+- name: bili-follow-cleaner
+  link: wuko233/bili-follow-cleaner
+  from: github
+  description: 哔哩哔哩自动清理关注的不活跃用户，批量取关，支持配置过滤白名单和自定义阈值
+  icon:
+    - py
+    - cli

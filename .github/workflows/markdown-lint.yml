@@ -19,7 +19,7 @@ jobs:
       - name: Use Node.js
         uses: actions/setup-node@v1
         with:
-          node-version: '16.x'
+          node-version: '22.x'
       - run: npm install -g markdownlint-cli
       - uses: xt0rted/markdownlint-problem-matcher@v1
       - run: |
