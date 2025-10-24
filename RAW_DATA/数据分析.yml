@@ -270,3 +270,11 @@
   description: bilibili第三方mcp工具，支持查询热门视频，用户信息，视频评论等。
   icon:
     - py
+- name: BiliNote v1.8.1
+  link: JefferyHcool/BiliNote
+  from: github
+  description: AI 视频笔记生成工具 让 AI 为你的视频做笔记
+  icon:
+    - py
+    - exe
+    - docker

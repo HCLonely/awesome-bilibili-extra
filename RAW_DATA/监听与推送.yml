@@ -215,3 +215,17 @@
   icon:
     - py
     - cli
+- name: Bilibili PrivateMessage Bot
+  link: 7Hello80/Bilibili_PrivateMessage_Bot
+  from: github
+  description: 一款哔哩哔哩私信自动回复机器人，可实现关键词自动回复，自动关注，扫码登陆，自动艾特对方等等，搭配WEB控制面板更好管理系统
+  icon:
+    - py
+    - cli
+- name: bilipy_bot
+  link: GEYUANwuqi/bilipy_bot
+  from: github
+  description: 推送b站动态和直播的通知到QQ/QQNT的无接口/框架解决方案
+  icon:
+    - py
+    - cli

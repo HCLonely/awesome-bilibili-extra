@@ -125,3 +125,9 @@
   icon:
     - py
     - exe
+- name: bilibiliVideoProcessor
+  link: RichardILMARE/bilibiliVideoProcessor
+  from: github
+  description: 针对哔哩哔哩审核的电影资源一键处理工具（烧录字幕，分割视频，拼接尾巴）
+  icon:
+    - py

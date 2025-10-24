@@ -352,12 +352,6 @@
   description: 批量管理哔哩哔哩订阅，可实现一键取消所有订阅.
   icon:
     - js
-- name: bilibili-comment-checker
-  link: hmjz100/bilibili-comment-checker
-  from: github
-  description: B站评论区自动标注成分，支持动态和关注识别以及手动输入 UID 识别.
-  icon:
-    - js
 - name: BiliTimer
   link: AntiO2/Bili-Timer
   from: github
@@ -478,3 +472,9 @@
   description: 恢复B站搜索页视频分区筛选功能
   icon:
     - vue
+- name: 读弹幕 - B站弹幕语音阅读
+  link: zoubenjia/bilibili-danmu-reader
+  from: github
+  description: B站弹幕语音阅读脚本 - 自动朗读弹幕，支持无障碍访问
+  icon:
+    - js

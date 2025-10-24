@@ -46,3 +46,9 @@
   description: 你的专属B站时光机，永久珍藏每一段观看记忆，不再错过任何精彩瞬间。
   icon:
     - ts
+- name: Ding-Prize
+  link: ItsTimeTooSleep/Ding-Prize---Your-Bilibili-Lottery-Notifier
+  from: github
+  description: 这款浏览器扩展程序会自动监控您的哔哩哔哩私信，一旦检测到UP主发布的获奖通知，立即为您推送提醒。从此不再错过中奖好消息！
+  icon:
+    - js

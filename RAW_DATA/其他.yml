@@ -432,7 +432,7 @@
     - go
     - cli
 - name: BiliHardcore_AI
-  link: Cassianvale/bilihardcore_ai
+  link: ZyphrZero/bilihardcore_ai
   from: github
   description: B 站硬核会员试炼 AI 自动答题跨平台应用，支持 MacOS/Windows/Linux
   icon:

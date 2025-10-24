@@ -311,3 +311,10 @@
   description: 基于React + Next.js服务端渲染开发的哔哩哔哩H5移动端
   icon:
     - ts
+- name: BiliMusic - 哔哩音乐🎵
+  link: DrearyIce/BiliMusic
+  from: github
+  description: 哔哩音乐🎵 - 简洁的第三方哔哩哔哩音乐客户端
+  icon:
+    - c#
+    - exe

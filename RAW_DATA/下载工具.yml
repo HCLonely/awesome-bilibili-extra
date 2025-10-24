@@ -505,3 +505,10 @@
   icon:
     - py
     - cli
+- name: BiliDownloader
+  link: Rpeng666/bili_downloader
+  from: github
+  description: 基于Rust编写的简易 B 站视频下载命令行工具，支持 Windows、Linux、macOS 三平台，下载 B 站视频/番剧/电影/纪录片等资源。梦想成为最简洁好用的下载器（画饼中）
+  icon:
+    - rust
+    - cli
