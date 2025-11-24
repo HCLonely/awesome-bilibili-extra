@@ -617,3 +617,16 @@
   icon:
     - py
     - docker
+- name: 💻 Bilibili Super Chat Monitor Desktop
+  link: lmdy-Official/Bilibili-SC-Monitor-Desktop
+  from: github
+  description: B站直播醒目留言（Super Chat, SC）实时监控桌面应用。
+  icon:
+    - js
+- name: Bili_travail | B站加班姬
+  link: Nya-WSL/bili_travail
+  from: github
+  description: 基于blivedm和NiceGUI的B站直播加班姬
+  icon:
+    - py
+    - exe

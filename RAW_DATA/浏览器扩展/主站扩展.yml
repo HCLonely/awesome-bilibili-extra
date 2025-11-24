@@ -202,3 +202,15 @@
   description: BewlyCat——基于BewlyBewly开发的Bilibili拓展
   icon:
     - vue
+- name: Bilibili 快速拉黑助手 - Chrome 浏览器扩展
+  link: Nothing1024/bilibili-block-extension
+  from: github
+  description: 🚫 Bilibili 批量拉黑助手 - 快速拉黑神人号、擦边号、广告号。Chrome 扩展,完全本地运行。
+  icon:
+    - js
+- name: BiliSpeedUp
+  link: timerring/BiliSpeedUp
+  from: github
+  description: 提供B站倍速播放功能，支持鼠标滚轮调节、触控板调节、自定义记忆播放速度。Provides customize playback speed options for Bilibili.
+  icon:
+    - js

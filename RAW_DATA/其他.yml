@@ -460,3 +460,9 @@
   icon:
     - py
     - cli
+- name: Bilibili-Comment-Manage
+  link: KagurazakaPaimon/bilibili-comment-manage
+  from: github
+  description: 一个基于Python Selenium库的B站自动化评论检测和处理工具
+  icon:
+    - py

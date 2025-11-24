@@ -318,3 +318,39 @@
   icon:
     - c#
     - exe
+- name: 哔哩哔哩TV
+  link: kkkunny/bilitv
+  from: github
+  description: 由flutter实现的TV版哔哩哔哩，类似于bbll和bilibilitv。
+  icon:
+    - dart
+- name: MiniBili
+  link: ResistanceTo/MiniBili-WEB
+  from: github
+  description: MiniBili官网仓库
+  icon:
+    - ts
+- name: B站直播间 × LX Music 点歌系统
+  link: fssdyql/bili-lx
+  from: github
+  description: B站直播间点歌机器人，支持弹幕控制LX Music
+  icon:
+    - js
+- name: BiliZepam
+  link: Re-BiliTerminal/BiliZepam-Compose
+  from: github
+  description: 轻量的安卓第三方手表B站客户端，哔哩终端的重写版。
+  icon:
+    - kotlin
+- name: Bili You
+  link: Mooeantoal/bili_own
+  from: github
+  description: 一个用flutter制作的第三方B站客户端
+  icon:
+    - dart
+- name: BiliCompose
+  link: suzhelan/BiliCompose
+  from: github
+  description: 由ComposeMultiplatform构建的跨平台的BiliBili客户端
+  icon:
+    -

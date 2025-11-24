@@ -252,7 +252,7 @@
   icon:
     - go
 - name: BilibiliAudioDownloader-rebuild
-  link: Quandong-Zhang/BilibiliAudioDownloader-rebuild
+  link: FlorenceZh/BilibiliAudioDownloader-rebuild
   from: github
   description: b站视频音轨下载器（支持多P）
   icon:
@@ -512,3 +512,9 @@
   icon:
     - rust
     - cli
+- name: 哔哩哔哩字幕下载工具 (BiliSub)
+  link: lvusyy/biliSub
+  from: github
+  description: 哔哩哔哩字幕下载,画面解析,总结视频内容
+  icon:
+    - py

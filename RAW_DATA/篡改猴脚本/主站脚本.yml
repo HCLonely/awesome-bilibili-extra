@@ -76,12 +76,6 @@
   description: 适b站仿搜索引擎样式首页风格.
   icon:
     - css
-- name: Bili-Recommended-List-Blocker
-  link: kuzen/Bili-Recommended-List-Blocker
-  from: github
-  description: 屏蔽b站首页推荐中的up主.
-  icon:
-    - js
 - name: 更好的 Bilibili
   link: jerryshell/better-bilibili
   from: github
@@ -476,5 +470,11 @@
   link: zoubenjia/bilibili-danmu-reader
   from: github
   description: B站弹幕语音阅读脚本 - 自动朗读弹幕，支持无障碍访问
+  icon:
+    - js
+- name: Bilibili Purify / Bilibili 纯粹化
+  link: RevenLiu/BilibiliPurify
+  from: github
+  description: 一个用于Bilibili平台的篡改猴脚本。以一种直接的方式抵抗商业化平台对人类大脑的利用。包含重定向首页、隐藏广告、隐藏推荐视频、评论区反成瘾/情绪控制锁等功能，削弱平台/媒体对你心理的操控，恢复你对自己注意力和思考的主导权。
   icon:
     - js
