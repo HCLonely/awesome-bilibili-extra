@@ -354,3 +354,12 @@
   description: 由ComposeMultiplatform构建的跨平台的BiliBili客户端
   icon:
     -
+- name: 【WIP】Bilibili音乐播放器(Biu)
+  link: wood3n/biu
+  from: github
+  description: 基于 Bilibili API 的跨平台桌面音乐播放器 🎧🎶
+  icon:
+    - ts
+    - exe
+    - mac
+    - linux
