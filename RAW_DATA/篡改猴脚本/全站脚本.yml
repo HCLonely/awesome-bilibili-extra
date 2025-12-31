@@ -53,13 +53,13 @@
   icon:
     - ts
 - name: Bilibili-Trackpad-Scroll-Reverser
-  link: maxchang3/Bilibili-Trackpad-Scroll-Reverser
+  link: maxchang3/BiliScrollReverser
   from: github
   description: 优化 b 站视频音量调节在触控板上的体验.
   icon:
     - ts
 - name: BilibiliJS
-  link: ICONQUESTION/BilibiliJS
+  link: iconquestion/bilibili-js
   from: github
   description: 哔哩哔哩 JavaScript 自动化脚本.
   icon:

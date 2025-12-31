@@ -392,12 +392,6 @@
   description: 基于B站API和DeepSeek的硬核会员自动答题工具
   icon:
     - py
-- name: nbetdda
-  link: XiaoTong6666/NodeJS-Bilibili-EPID-To-DPlayer-Danmaku-API
-  from: github
-  description: 通过b站番剧的ep号获取并转换为DPlayer可以解析的弹幕JSON数据
-  icon:
-    - node
 - name: BiliTicketRush
   link: biliticket/bili_ticket_rush
   from: github
@@ -466,3 +460,10 @@
   description: 一个基于Python Selenium库的B站自动化评论检测和处理工具
   icon:
     - py
+- name: Bili-Calendar (B站追番日历)
+  link: Silentely/Bili-Calendar
+  from: github
+  description: 将B站追番列表一键转换为日历订阅，支持 Apple/Google/Outlook 等主流日历应用！
+  icon:
+    - js
+    - docker

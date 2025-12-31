@@ -418,12 +418,6 @@
   description: 显示哔哩哔哩 点赞率、投币率、收藏率、转发率及Steam综合评级（包括各个B站网页分区）
   icon:
     - js
-- name: Bili-DynamicImage
-  link: JustKanade/Bili-DynamicImage
-  from: github
-  description: 最强大的多功能批量下载B站动态图片原图浏览器插件
-  icon:
-    - js
 - name: Bilibili 自定义倍速控制器
   link: chenty2333/bilibili-speed-controller
   from: github
@@ -476,5 +470,29 @@
   link: RevenLiu/BilibiliPurify
   from: github
   description: 一个用于Bilibili平台的篡改猴脚本。以一种直接的方式抵抗商业化平台对人类大脑的利用。包含重定向首页、隐藏广告、隐藏推荐视频、评论区反成瘾/情绪控制锁等功能，削弱平台/媒体对你心理的操控，恢复你对自己注意力和思考的主导权。
+  icon:
+    - js
+- name: B站治好了我的颈椎病
+  link: heyManNice/bili-cured-my-neck-pain
+  from: github
+  description: 给B站PC网页版添加视频旋转和缩放功能，喜欢的话点点小星星哟😘
+  icon:
+    - ts
+- name: Bilibili全能护盾
+  link: Sakurairinaqwq/Bilibili-Shield
+  from: github
+  description: Bilibili全能护盾 - 您贴身的B站API净化大师
+  icon:
+    - js
+- name: BilibiliNarrowLayout
+  link: EugeneXXXie/BilibiliNarrowLayout
+  from: github
+  description: B站窄屏适配辅助脚本：自动重组评论区布局，极简精简顶栏图标，专为分屏与小窗看视频优化。
+  icon:
+    - js
+- name: BiliTouch
+  link: RevenLiu/BiliTouch
+  from: github
+  description: 一个为移动端打造的Web端B站网页播放器交互重构的篡改猴脚本。支持两侧滑动调节亮度与音量、横向滑动调节时间进度、单击显隐工具栏、双击播放/暂停。让网页版拥有原生 App 般的使用体验。
   icon:
     - js

@@ -518,3 +518,17 @@
   description: 哔哩哔哩字幕下载,画面解析,总结视频内容
   icon:
     - py
+- name: Batch-download-Bilibili-playlists
+  link: xiaokanla/Batch-download-Bilibili-playlists
+  from: github
+  description: 这是一个用于批量下载b站收藏夹视频的程序 / This is a program for bulk downloading videos from Bilibili favorites.
+  icon:
+    - py
+    - cli
+- name: BiliBili 缓存视频合并工具
+  link: WinfXK/BiliBiliVideoMerger
+  from: github
+  description: B站视频合并工具
+  icon:
+    - c#
+    - exe

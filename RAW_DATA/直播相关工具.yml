@@ -630,3 +630,10 @@
   icon:
     - py
     - exe
+- name: B站弹幕阅读器 (bilihud)
+  link: locez/bilihud
+  from: github
+  description: B站弹幕阅读器 - 一个可以在游戏全屏时显示弹幕的Qt应用程序
+  icon:
+    - py
+    - cli

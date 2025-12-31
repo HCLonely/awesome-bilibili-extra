@@ -336,12 +336,6 @@
   description: B站直播间点歌机器人，支持弹幕控制LX Music
   icon:
     - js
-- name: BiliZepam
-  link: Re-BiliTerminal/BiliZepam-Compose
-  from: github
-  description: 轻量的安卓第三方手表B站客户端，哔哩终端的重写版。
-  icon:
-    - kotlin
 - name: Bili You
   link: Mooeantoal/bili_own
   from: github
@@ -353,7 +347,7 @@
   from: github
   description: 由ComposeMultiplatform构建的跨平台的BiliBili客户端
   icon:
-    -
+    - kotlin
 - name: 【WIP】Bilibili音乐播放器(Biu)
   link: wood3n/biu
   from: github
@@ -363,3 +357,17 @@
     - exe
     - mac
     - linux
+- name: BiliBiliMApp
+  link: TouchFriend/BiliBiliMApp
+  from: github
+  description: 一个通过 iOS 逆向分析 实现的 无广告版哔哩哔哩 客户端，在保留原有功能的基础上，专注于 广告移除与体验优化。
+  icon:
+    - C
+    - mac
+- name: BiliPai ( ゜- ゜)つロ 干杯~
+  link: jay3-yy/BiliPai
+  from: github
+  description: 第三方B站客户端，BiliBili KanPai "( ゜- ゜)つロ 干杯~"）!
+  icon:
+    - kotlin
+    - android

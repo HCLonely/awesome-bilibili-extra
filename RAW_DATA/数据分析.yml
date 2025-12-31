@@ -163,12 +163,6 @@
   description: 一个基于 bilibili 用户行为数据和深度学习的个性化视频推荐系统
   icon:
     - py
-- name: biliVideo2article
-  link: w0fv1/biliVideo2article
-  from: github
-  description: 利用哔哩哔哩的 API 获取视频信息和评论，通过 OpenAI 的 API 生成文章，并将生成的文章保存为 Markdown 格式
-  icon:
-    - py
 - name: BiliSpeech2Text
   link: Frewen/BiliSpeech2Text
   from: github
@@ -282,5 +276,38 @@
   link: thedonalddon/Bili-Insights
   from: github
   description: Bili-Insights 是一个用于抓取、统计并可视化 B 站 UP 主数据的轻量级工具。 特点是：本地部署、每日快照、可视化看板、支持视频数据与账号数据分析。
+  icon:
+    - py
+- name: 爬取B站动态关键词并绘制词云图
+  link: FangHean/bilibili-dynamic-wordcloud
+  from: github
+  description: 通过访问B站动态的api获得某个用户的动态文本内容，过滤无关内容，通过jieba分词，输出词云图。
+  icon:
+    - py
+    - cli
+- name: B站数据分析与全能下载工具箱
+  link: whte97284-hue/Bilispeed
+  from: github
+  description: 使用Python Gemini辅助开发的哔哩哔哩视频番剧（包含港澳台）数据分析、下载、监测爬虫
+  icon:
+    - py
+    - exe
+- name: B站视频评论爬虫工具
+  link: Yi-luo-hua/BilibiliCommentsCrawler
+  from: github
+  description: B站评论区爬虫工具 - 支持爬取视频、动态、文章等评论，具有现代化GUI界面
+  icon:
+    - py
+- name: Bilibili AI Summary
+  link: fan3838abd/BilibiliAISummary
+  from: github
+  description: 让AI帮你快速总结B站视频
+  icon:
+    - py
+    - cli
+- name: BiliBili Summarize | AI 视频深度分析助手
+  link: Xuuuuu04/BiliBiliSummary
+  from: github
+  description: 一键提取 B 站视频字幕、弹幕、评论及关键帧画面，通过 AI 多模态大模型生成深度总结、思维导图及舆情分析报告。
   icon:
     - py

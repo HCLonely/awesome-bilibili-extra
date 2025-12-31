@@ -136,4 +136,5 @@
   from: github
   description: 一个功能完整的视频自动化处理系统，支持从 YouTube 等平台下载视频，自动生成字幕、翻译内容、生成元数据，并定时上传到 Bilibili。
   icon:
-    -
+    - go
+    - exe

@@ -159,12 +159,6 @@
   description: Nonebot2插件，推送B站UP的动态更新和开播消息。
   icon:
     - py
-- name: astrbot_plugin_bili_at_notifier
-  link: timetetng/astrbot_plugin_bili_at_notifier
-  from: github
-  description: Astrbot插件——定时检查多个 Bilibili 账号的 @ 消息，并将相关视频推送到指定群聊。让群友陪你享受那个喜欢 @ 拉屎给你的朋友吧
-  icon:
-    - py
 - name: Bilibili Adapter For AstrBot
   link: Hina-Chat/astrbot_plugin_bilibili_adapter
   from: github
@@ -177,3 +171,15 @@
   description: TS3AudioBot的插件，畅听B站视频伴音，支持分P合集批量播放、HiRes播放、登录状态查看、队列管理
   icon:
     - c#
+- name: AnalysisBilibiliPlugin 配置说明
+  link: FlanChanXwO/shiro-analysis-bilibili-plugin
+  from: github
+  description: AnalysisBilibiliPlugin 是一个基于 Spring Boot 3 和 Shiro 针对 B 站内容的插件，支持视频、动态、专栏和直播分析。
+  icon:
+    - jar
+- name: koishi-plugin-bili-link-previewer
+  link: etnAtker/koishi-plugin-bili-link-previewer
+  from: github
+  description: B 站视频信息预览插件：渲染预览图，不用点开也能知道视频内容。
+  icon:
+    - ts
